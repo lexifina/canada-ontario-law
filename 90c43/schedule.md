@@ -196,7 +196,13 @@ Judicial Salaries
 
 Date | Formula
 
-April 1, 1991 April 1, 1992 April 1, 1993 April 1, 1994 | $124,250 0% AIW* AIW*
+April 1, 1991 | $124,250
+
+April 1, 1992 | 0%
+
+April 1, 1993 | AIW*
+
+April 1, 1994 | AIW*
 
 *Note: See paragraph 46 of Appendix “A”.
 
