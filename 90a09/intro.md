@@ -1,3 +1,3 @@
 # Agricultural and Horticultural Organizations Act
 
-R.S.O. 1990, Chapter A.9
+R.S.O. 1990, CHAPTER A.9
