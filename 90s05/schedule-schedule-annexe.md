@@ -1,4 +1,4 @@
-## Schedule/Annexe
+## SCHEDULE/ANNEXE
 
 #### PART A/PARTIE A
 
