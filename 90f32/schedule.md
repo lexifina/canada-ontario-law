@@ -12,6 +12,12 @@ City of Toronto | All
 
 Regional Municipality of Niagara | Cities of: Port Colborne and Welland
 
+Note: Effective January 1, 2007, the Schedule is amended by Ontario Regulation 407/94, section 2 (as remade by Ontario Regulation 405/04, section 1) by adding the following area:
+
+Regional Municipality of Peel | City of Brampton
+
+See: O. Reg. 407/94, s. 2 (as remade by O. Reg. 405/04, ss. 1, 2).
+
 Regional Municipality of Peel | City of Mississauga
 
 County of Dundas | Township of Winchester
@@ -52,6 +58,12 @@ District of Kenora | Township of Ignace
 
 District of Nippissing | All
 
+Note: Effective January 1, 2007, the Schedule is amended by Ontario Regulation 407/94, section 2 (as remade by Ontario Regulation 405/04, section 1) by adding the following area:
+
+District of Parry Sound | Municipality of Callander
+
+See: O. Reg. 407/94, s. 2 (as remade by O. Reg. 405/04, ss. 1, 2).
+
 District of Sudbury | All
 
 District of Thunder Bay | Towns of: Geraldton, Longlac and Marathon
@@ -60,4 +72,4 @@ Townships of: Manitouwadge, Beardmore, Nakina and Terrace Bay
 
 District of Timiskaming | All
 
-R.S.O. 1990, c. F.32, Sched.; O. Reg. 407/94; 1997, c. 26, Sched.; 1999, c. 14, Sched. F, s. 4; 2000, c. 5, s. 12.
+R.S.O. 1990, c. F.32, Sched.; O. Reg. 407/94, s. 1; 1997, c. 26, Sched.; 1999, c. 14, Sched. F, s. 4; 2000, c. 5, s. 12.
