@@ -40,7 +40,9 @@ R.S.O. 1990, CHAPTER C.43
 
 1.1(1)A reference in an Act, rule or regulation to a court or official by the former name of that court or the former title of that official set out in Column 1 of the following table or by a shortened version of that name or title shall be deemed, unless a contrary intention appears, to be a reference to the new name of that court or the new title of that official set out in Column 2.
 
-Column 1 / Colonne 1 Former names and titles Anciennes appellations et anciens titres | Column 2 / Colonne 2 New names and titles Nouvelles appellations et nouveaux titres
+Column 1 / Colonne 1 | Column 2 / Colonne 2
+
+Former names and titles / Anciennes appellations et anciens titres | New names and titles / Nouvelles appellations et nouveaux titres
 
 Ontario Court of Justice | Court of Ontario
 
