@@ -1,0 +1,19 @@
+# Administration of Justice Act
+
+R.S.O. 1990, CHAPTER A.6
+
+##### Definition
+
+1.In this Act,
+
+“administration of justice” means the provision, maintenance and operation of,
+
+(a) the courts of justice of the Province of Ontario,
+
+(b) land registry offices,
+
+(c) jails, and
+
+(d) the offices of coroners and Crown Attorneys,
+
+for the performance of their functions, including any functions delegated to such courts, institutions or offices or any official thereof by or under any Act. R.S.O. 1990, c. A.6, s. 1.
