@@ -1,0 +1,1089 @@
+# Succession Law Reform Act
+
+R.S.O. 1990, CHAPTER S.26
+
+##### Interpretation
+
+##### Definitions
+
+1.(1)In this Act,
+
+“child” includes a child conceived before and born alive after the parent’s death; (“enfant”)
+
+“grandchild” means the child of a child; (“petit-fils”, “petite-fille”)
+
+“issue” includes a descendant conceived before and born alive after the person’s death; (“descendance”)
+
+“parent” means the father or mother of a child; (“père ou mère”)
+
+“personal representative” means an executor, an administrator or an administrator with will annexed; (“représentant successoral”)
+
+“spouse” means either of a man and woman who,
+
+(a) are married to each other, or
+
+(b) have together entered into a marriage that is voidable or void, in good faith on the part of the person asserting a right under this Act; (“conjoint”)
+
+“will” includes,
+
+(a) a testament,
+
+(b) a codicil,
+
+(c) an appointment by will or by writing in the nature of a will in exercise of a power, and
+
+(d) any other testamentary disposition. (“testament”)
+
+##### Polygamous marriages
+
+(2)In the definition of “spouse”, a reference to marriage includes a marriage that is actually or potentially polygamous, if it was celebrated in a jurisdiction whose system of law recognizes it as valid.
+
+##### Relationship of persons born outside marriage
+
+(3)In this Act, and in any will unless a contrary intention is shown in the will, a reference to a person in terms of a relationship to another person determined by blood or marriage shall be deemed to include a person who comes within the description despite the fact that he or she or any other person through whom the relationship is traced was born outside marriage.
+
+##### Application of subs. (3)
+
+(4)Subsection (3) applies in respect of wills made on or after the 31st day of March, 1978. R.S.O. 1990, c. S.26, s. 1.
+
+## PART I TESTATE SUCCESSION
+
+### General
+
+##### Power to dispose of property by will
+
+2.A person may by will devise, bequeath or dispose of all property (whether acquired before or after making his or her will) to which at the time of his or her death he or she is entitled either at law or in equity, including,
+
+(a) estates for another’s life, whether there is or is not a special occupant and whether they are corporeal or incorporeal hereditaments;
+
+(b) contingent, executory or other future interests in property, whether the testator is or is not ascertained as the person or one of the persons in whom those interests may respectively become vested, and whether he or she is entitled to them under the instrument by which they were respectively created or under a disposition of them by deed or will; and
+
+(c) rights of entry, whether for conditions broken or otherwise. R.S.O. 1990, c. S.26, s. 2.
+
+##### Will to be in writing
+
+3.A will is valid only when it is in writing. R.S.O. 1990, c. S.26, s. 3.
+
+##### Execution
+
+4.(1)Subject to sections 5 and 6, a will is not valid unless,
+
+(a) at its end it is signed by the testator or by some other person in his or her presence and by his or her direction;
+
+(b) the testator makes or acknowledges the signature in the presence of two or more attesting witnesses present at the same time; and
+
+(c) two or more of the attesting witnesses subscribe the will in the presence of the testator.
+
+##### Idem
+
+(2)Where witnesses are required by this section, no form of attestation is necessary. R.S.O. 1990, c. S.26, s. 4.
+
+##### Will of member of forces on active service
+
+5.(1)A person who is,
+
+(a) a member of the Canadian Forces placed on active service under the National Defence Act (Canada);
+
+(b) a member of any other naval, land or air force while on active service; or
+
+(c) a sailor when at sea or in the course of a voyage,
+
+may make a will by a writing signed by him or her or by some other person in his or her presence and by his or her direction without any further formality or any requirement of the presence of or attestation or signature by a witness.
+
+##### Certificate of active service
+
+(2)For the purposes of this section, a certificate purporting to be signed by or on behalf of an officer having custody of the records certifying that he or she has custody of the records of the force in which a person was serving at the time the will was made, setting out that the person was on active service at that time, is proof, in the absence of evidence to the contrary, of that fact.
+
+##### Where certificate not available
+
+(3)For the purposes of this section, if a certificate under subsection (2) is not available, a member of a naval, land or air force is deemed to be on active service after he or she has taken steps under the orders of a superior officer preparatory to serving with or being attached to or seconded to a component of such a force that has been placed on active service. R.S.O. 1990, c. S.26, s. 5.
+
+##### Holograph wills
+
+6.A testator may make a valid will wholly by his or her own handwriting and signature, without formality, and without the presence, attestation or signature of a witness. R.S.O. 1990, c. S.26, s. 6.
+
+##### Position of signature
+
+7.(1)In so far as the position of the signature is concerned, a will, whether holograph or not, is valid if the signature of the testator made either by him or her or the person signing for him or her is placed at, after, following, under or beside or opposite to the end of the will so that it is apparent on the face of the will that the testator intended to give effect by the signature to the writing signed as his or her will.
+
+##### Idem
+
+(2)A will is not rendered invalid by the circumstance that,
+
+(a) the signature does not follow or is not immediately after the end of the will;
+
+(b) a blank space intervenes between the concluding words of the will and the signature;
+
+(c) the signature,
+
+(i) is placed among the words of a testimonium clause or of a clause of attestation,
+
+(ii) follows or is after or under a clause of attestation either with or without a blank space intervening, or
+
+(iii) follows or is after, under or beside the name of a subscribing witness;
+
+(d) the signature is on a side, page or other portion of the paper or papers containing the will on which no clause, paragraph or disposing part of the will is written above the signature; or
+
+(e) there appears to be sufficient space on or at the bottom of the preceding side, page or other portion of the same paper on which the will is written to contain the signature.
+
+##### Idem
+
+(3)The generality of subsection (1) is not restricted by the enumeration of circumstances set out in subsection (2), but a signature in conformity with section 4, 5 or 6 or this section does not give effect to,
+
+(a) a disposition or direction that is underneath the signature or that follows the signature; or
+
+(b) a disposition or direction inserted after the signature was made. R.S.O. 1990, c. S.26, s. 7.
+
+##### Wills by minors
+
+8.(1)A will made by a person who is under the age of eighteen years is not valid unless at the time of making the will the person,
+
+(a) is or has been married;
+
+(b) is contemplating marriage and the will states that it is made in contemplation of marriage to a named person except that such a will is not valid unless and until the marriage to the named person takes place;
+
+(c) is a member of a component of the Canadian Forces,
+
+(i) that is referred to in the National Defence Act (Canada) as a regular force, or
+
+(ii) while placed on active service under the National Defence Act (Canada); or
+
+(d) is a sailor and at sea or in the course of a voyage.
+
+##### Certificate of active service
+
+(2)A certificate purporting to be signed by or on behalf of an officer having custody of the records certifying that he or she has custody of the records of the force in which a person was serving at the time the will was made, setting out that the person was at that time a member of a regular force or was on active service within clause (1) (c), is proof, in the absence of evidence to the contrary, of that fact.
+
+##### Revocation
+
+(3)A person who has made a will under subsection (1) may, while under the age of eighteen years, revoke the will. R.S.O. 1990, c. S.26, s. 8.
+
+##### Exercise of appointments by will
+
+9.No appointment made by will in exercise of any power is valid unless the appointment is executed in the manner hereinbefore required, and every will executed in the manner hereinbefore required is, so far as respects the execution and attestation thereof, a valid execution of a power of appointment by will, despite the fact that it has been expressly required that a will made in exercise of such power shall be executed with some additional or other form of execution or solemnity. R.S.O. 1990, c. S.26, s. 9.
+
+##### Publication unnecessary
+
+10.A will made in accordance with this Part is valid without other publication. R.S.O. 1990, c. S.26, s. 10.
+
+##### Effect of incompetency of witness
+
+11.Where a person who attested a will was at the time of its execution or afterward has become incompetent as a witness to prove its execution, the will is not on that account invalid. R.S.O. 1990, c. S.26, s. 11.
+
+##### Witness etc., beneficiary from will
+
+##### Bequests to witness void
+
+12.(1)Where a will is attested by a person to whom or to whose then spouse a beneficial devise, bequest or other disposition or appointment of or affecting property, except charges and directions for payment of debts, is thereby given or made, the devise, bequest or other disposition or appointment is void so far only as it concerns,
+
+(a) the person so attesting;
+
+(b) the spouse; or
+
+(c) a person claiming under either of them,
+
+but the person so attesting is a competent witness to prove the execution of the will or its validity or invalidity.
+
+##### Where will signed for testator by another person
+
+(2)Where a will is signed for the testator by another person in accordance with section 4, to whom or to whose then spouse a beneficial devise, bequest or other disposition or appointment of or affecting property, except charges and directions for payment of debts, is thereby given or made, the devise, bequest, or other disposition is void so far only as it concerns,
+
+(a) the person so signing;
+
+(b) the spouse; or
+
+(c) a person claiming under either of them,
+
+but the will is not invalid for that reason.
+
+##### Where no undue influence
+
+(3)Despite anything in this section, where the Ontario Court (General Division) is satisfied that neither the person so attesting or signing for the testator nor the spouse exercised any improper or undue influence upon the testator, the devise, bequest or other disposition or appointment is not void.
+
+##### Exception
+
+(4)Where a will is attested by at least two persons who are not within subsection (1) or where no attestation is necessary, the devise, bequest or other disposition or appointment is not void under that subsection. R.S.O. 1990, c. S.26, s. 12.
+
+##### Creditor as witness
+
+13.Where property is charged by a will with a debt and a creditor or the spouse of a creditor whose debt is so charged attests a will, the person so attesting, despite the charge, is a competent witness to prove the execution of the will or its validity or invalidity. R.S.O. 1990, c. S.26, s. 13.
+
+##### Executor as witness
+
+14.A person is not incompetent as a witness to prove the execution of a will or its validity or invalidity solely because he or she is an executor. R.S.O. 1990, c. S.26, s. 14.
+
+##### Revocation generally
+
+15.A will or part of a will is revoked only by,
+
+(a) marriage, subject to section 16;
+
+(b) another will made in accordance with the provisions of this Part;
+
+(c) a writing,
+
+(i) declaring an intention to revoke, and
+
+(ii) made in accordance with the provisions of this Part governing making of a will; or
+
+(d) burning, tearing or otherwise destroying it by the testator or by some person in his or her presence and by his or her direction with the intention of revoking it. R.S.O. 1990, c. S.26, s. 15.
+
+##### Revocation by marriage
+
+16.A will is revoked by the marriage of the testator except where,
+
+(a) there is a declaration in the will that it is made in contemplation of the marriage;
+
+(b) the spouse of the testator elects to take under the will, by an instrument in writing signed by the spouse and filed within one year after the testator’s death in the office of the Estate Registrar for Ontario; or
+
+(c) the will is made in exercise of a power of appointment of property which would not in default of the appointment pass to the heir, executor or administrator of the testator or to the persons entitled to the estate of the testator if he or she died intestate. R.S.O. 1990, c. S.26, s. 16.
+
+##### Revocation, change in circumstances
+
+17.(1)Subject to subsection (2), a will is not revoked by presumption of an intention to revoke it on the ground of a change in circumstances.
+
+##### Exception on termination of marriage
+
+(2)Except when a contrary intention appears by the will, where, after the testator makes a will, his or her marriage is terminated by a judgment absolute of divorce or is declared a nullity,
+
+(a) a devise or bequest of a beneficial interest in property to his or her former spouse;
+
+(b) an appointment of his or her former spouse as executor or trustee; and
+
+(c) the conferring of a general or special power of appointment on his or her former spouse,
+
+are revoked and the will shall be construed as if the former spouse had predeceased the testator. R.S.O. 1990, c. S.26, s. 17.
+
+##### Alterations in will
+
+18.(1)Subject to subsection (2), unless an alteration that is made in a will after the will has been made is made in accordance with the provisions of this Part governing making of the will, the alteration has no effect except to invalidate words or the effect of the will that it renders no longer apparent.
+
+##### How validly made
+
+(2)An alteration that is made in a will after the will has been made is validly made when the signature of the testator and subscription of witnesses to the signature of the testator to the alteration, or, in the case of a will that was made under section 5 or 6, the signature of the testator, are or is made,
+
+(a) in the margin or in some other part of the will opposite or near to the alteration; or
+
+(b) at the end of or opposite to a memorandum referring to the alteration and written in some part of the will. R.S.O. 1990, c. S.26, s. 18.
+
+##### Revival
+
+19.(1)A will or part of a will that has been in any manner revoked is revived only,
+
+(a) by a will made in accordance with the provisions of this Part; or
+
+(b) by a codicil that has been made in accordance with the provisions of this Part,
+
+that shows an intention to give effect to the will or part that was revoked, or,
+
+(c) by re-execution thereof with the required formalities, if any.
+
+##### As to part formerly revoked
+
+(2)Except when a contrary intention is shown, when a will which has been partly revoked and afterward wholly revoked is revived, the revival does not extend to the part that was revoked before the revocation of the whole. R.S.O. 1990, c. S.26, s. 19.
+
+##### Operation of will as to interest left in testator
+
+20.(1)A conveyance of or other act relating to property that is the subject of a devise, bequest or other disposition, made or done after the making of a will, does not prevent operation of the will with respect to any estate or interest in the property that the testator had power to dispose of by will at the time of his or her death.
+
+##### Rights in place of property devised
+
+(2)Except when a contrary intention appears by the will, where a testator at the time of his or her death,
+
+(a) has a right, chose in action or equitable estate or interest that was created by a contract respecting a conveyance of, or other act relating to, property that was the subject of a devise or bequest, made before or after the making of a will;
+
+(b) has a right to receive the proceeds of a policy of insurance covering loss of or damage to property that was the subject of a devise or bequest, whether the loss or damage occurred before or after the making of the will;
+
+(c) has a right to receive compensation for the expropriation of property that was the subject of a devise or bequest, whether the expropriation occurred before or after the making of the will; or
+
+(d) has a mortgage, charge or other security interest in property that was the subject of a devise or bequest, taken by the testator on the sale of such property, whether such mortgage, charge or other security interest was taken before or after the making of the will,
+
+the devisee or donee of that property takes the right, chose in action, equitable estate or interest, right to insurance proceeds or compensation, or mortgage, charge or other security interest of the testator. R.S.O. 1990, c. S.26, s. 20.
+
+##### When revived will deemed made
+
+21.When a will has been revived in the manner described in section 19, the will shall be deemed to have been made at the time at which it was so revived. R.S.O. 1990, c. S.26, s. 21.
+
+##### Will to speak from death
+
+22.Except when a contrary intention appears by the will, a will speaks and takes effect as if it had been made immediately before the death of the testator with respect to,
+
+(a) the property of the testator; and
+
+(b) the right, chose in action, equitable estate or interest, right to insurance proceeds or compensation, or mortgage, charge or other security interest of the testator under subsection 20 (2). R.S.O. 1990, c. S.26, s. 22.
+
+##### Disposition of property in void devise
+
+23.Except when a contrary intention appears by the will, property or an interest therein that is comprised or intended to be comprised in a devise or bequest that fails or becomes void by reason of,
+
+(a) the death of the devisee or donee in the lifetime of the testator; or
+
+(b) the devise or bequest being disclaimed or being contrary to law or otherwise incapable of taking effect,
+
+is included in the residuary devise or bequest, if any, contained in the will. R.S.O. 1990, c. S.26, s. 23.
+
+##### Leasehold estates under devise of real property
+
+24.Except when a contrary intention appears by the will, where a testator devises,
+
+(a) his or her real property;
+
+(b) his or her real property in a place mentioned in the will, or in the occupation of a person mentioned in the will;
+
+(c) real property described in a general manner; or
+
+(d) real property described in a manner that would include a leasehold estate if the testator had no freehold estate which could be described in the manner used,
+
+the devise includes the leasehold estates of the testator or any of them to which the description extends, as well as freehold estates. R.S.O. 1990, c. S.26, s. 24.
+
+##### Disposition of property over which testator has power to appoint
+
+##### Real property
+
+25.(1)Except when a contrary intention appears by the will, a general devise of,
+
+(a) the real property of the testator;
+
+(b) the real property of the testator,
+
+(i) in a place mentioned in the will, or
+
+(ii) in the occupation of a person mentioned in the will; or
+
+(c) real property described in a general manner,
+
+includes any real property, or any real property to which the description extends, which he or she has power to appoint in any manner he or she thinks proper and operates as an execution of the power.
+
+##### Personal property
+
+(2)Except when a contrary intention appears by the will, a bequest of,
+
+(a) the personal property of the testator; or
+
+(b) personal property described in a general manner,
+
+includes any personal property, or any personal property to which the description extends, which he or she has power to appoint in any manner he or she thinks proper and operates as an execution of the power. R.S.O. 1990, c. S.26, s. 25.
+
+##### Real property passing under devise without words of limitation
+
+26.Except when a contrary intention appears by the will, where real property is devised to a person without words of limitation, the devise passes the fee simple or the whole of any other estate or interest that the testator had power to dispose of by will in the real property. R.S.O. 1990, c. S.26, s. 26.
+
+##### Meaning of “heir” in devise of property
+
+27.Except when a contrary intention appears by the will, where property is devised or bequeathed to the “heir” or “heirs” of the testator or of another person, the words “heir” or “heirs” mean the person to whom the beneficial interest in the property would have gone under the law of Ontario if the testator or the other person died intestate. R.S.O. 1990, c. S.26, s. 27.
+
+##### Import of words “die without issue”, etc.
+
+28.(1)Subject to subsection (2), in a devise or bequest of property,
+
+(a) the words,
+
+(i) “die without issue”,
+
+(ii) “die without leaving issue”, or
+
+(iii) “have no issue”; or
+
+(b) other words importing either a want or failure of issue of a person in his or her lifetime or at the time of his or her death or an indefinite failure of his or her issue,
+
+mean a want or failure of issue in the lifetime or at the time of death of that person, and do not mean an indefinite failure of his or her issue unless a contrary intention appears by the will.
+
+##### Cases to which Part not to extend
+
+(2)This Part does not extend to cases where the words defined in subsection (1) import,
+
+(a) if no issue described in a preceding gift be born; or
+
+(b) if there be no issue who live to attain the age or otherwise answer the description required for obtaining a vested estate by a preceding gift to that issue. R.S.O. 1990, c. S.26, s. 28.
+
+##### Devise to trustee or executor
+
+29.Except when there is devised to a trustee expressly or by implication an estate for a definite term of years absolute or determinable or an estate of freehold, a devise of real property to a trustee or executor passes the fee simple or the whole of any other estate or interest that the testator had power to dispose of by will in the real property. R.S.O. 1990, c. S.26, s. 29.
+
+##### When devise to trustee to pass whole estate beyond what is requisite for trust
+
+30.Where real property is devised to a trustee without express limitation of the estate to be taken by the trustee and the beneficial interest in the real property or in the surplus rents and profits,
+
+(a) is not given to a person for life; or
+
+(b) is given to a person for life but the purpose of the trust may continue beyond his or her life,
+
+the devise vests in the trustee the fee simple or the whole of any other legal estate that the testator had power to dispose of by will in the real property and not an estate determinable when the purposes of the trust are satisfied. R.S.O. 1990, c. S.26, s. 30.
+
+##### Substitutional gifts
+
+31.Except when a contrary intention appears by the will, where a devise or bequest is made to a child, grandchild, brother or sister of the testator who dies before the testator, either before or after the testator makes his or her will, and leaves a spouse or issue surviving the testator, the devise or bequest does not lapse but takes effect as if it had been made directly to the persons among whom and in the shares in which the estate of that person would have been divisible,
+
+(a) if that person had died immediately after the death of the testator;
+
+(b) if that person had died intestate;
+
+(c) if that person had died without debts; and
+
+(d) if section 45 had not been passed. R.S.O. 1990, c. S.26, s. 31.
+
+##### Primary liability of real property to satisfy mortgage
+
+32.(1)Where a person dies possessed of, or entitled to, or under a general power of appointment by his or her will disposes of, an interest in freehold or leasehold property which, at the time of his or her death, is subject to a mortgage, and the deceased has not, by will, deed or other document, signified a contrary or other intention,
+
+(a) the interest is, as between the different persons claiming through the deceased, primarily liable for the payment or satisfaction of the mortgage debt; and
+
+(b) every part of the interest, according to its value, bears a proportionate part of the mortgage debt on the whole interest.
+
+##### Consequence of general direction to pay debts out of personalty or residue
+
+(2)A testator does not signify a contrary or other intention within subsection (1) by,
+
+(a) a general direction for the payment of debts or of all the debts of the testator out of his or her personal estate, his or her residuary real or personal estate or his or her residuary real estate; or
+
+(b) a charge of debts upon that estate,
+
+unless he or she further signifies that intention by words expressly or by necessary implication referring to all or some part of the mortgage debt.
+
+##### Saving of mortgagee’s rights
+
+(3)Nothing in this section affects a right of a person entitled to the mortgage debt to obtain payment or satisfaction either out of the other assets of the deceased or otherwise.
+
+##### Definitions
+
+(4)In this section,
+
+“mortgage” includes an equitable mortgage, and any charge whatsoever, whether equitable, statutory or of other nature, including a lien or claim upon freehold or leasehold property for unpaid purchase money, and “mortgage debt” has a meaning similarly extended. R.S.O. 1990, c. S.26, s. 32.
+
+##### Undisposed of residue
+
+33.(1)Where a person dies having by will appointed a person executor, the executor is a trustee of any residue not expressly disposed of, for the person or persons, if any, who would be entitled to that residue in the event of intestacy in respect of it, unless it appears by the will that the person so appointed executor was intended to take the residue beneficially.
+
+##### Where no person entitled to residue
+
+(2)Nothing in this section prejudices any right in respect of any residue not expressly disposed of to which, if this Part had not been passed, an executor would have been entitled where there is not any person who would be entitled to the testator’s estate under Part II in case of an intestacy. R.S.O. 1990, c. S.26, s. 33.
+
+### Conflict of Laws
+
+##### Interpretation, ss. 36 to 41
+
+34.In sections 36 to 41,
+
+(a) an interest in land includes a leasehold estate as well as a freehold estate in land, and any other estate or interest in land whether the estate or interest is real property or is personal property;
+
+(b) an interest in movables includes an interest in a tangible or intangible thing other than land, and includes personal property other than an estate or interest in land;
+
+(c) “internal law” in relation to any place excludes the choice of law rules of that place. R.S.O. 1990, c. S.26, s. 34.
+
+##### Wills made in or out of Ontario, ss. 36 to 41
+
+35.Sections 36 to 41 apply to a will made either in or out of Ontario. R.S.O. 1990, c. S.26, s. 35.
+
+##### Application of law, land and movables
+
+##### re interests in land
+
+36.(1)The manner and formalities of making a will, and its essential validity and effect, so far as it relates to an interest in land, are governed by the internal law of the place where the land is situated.
+
+##### re interests in movables
+
+(2)Subject to other provisions of this Part, the manner and formalities of making a will, and its essential validity and effect, so far as it relates to an interest in movables, are governed by the internal law of the place where the testator was domiciled at the time of his or her death. R.S.O. 1990, c. S.26, s. 36.
+
+##### Application of law, time of making will
+
+37.(1)As regards the manner and formalities of making a will of an interest in movables or in land, a will is valid and admissible to probate if at the time of its making it complied with the internal law of the place where,
+
+(a) the will was made;
+
+(b) the testator was then domiciled;
+
+(c) the testator then had his or her habitual residence; or
+
+(d) the testator then was a national if there was in that place one body of law governing the wills of nationals.
+
+##### Idem
+
+(2)As regards the manner and formalities of making a will of an interest in movables or in land, the following are properly made,
+
+(a) a will made on board a vessel or aircraft of any description, if the making of the will conformed to the internal law in force in the place with which, having regard to its registration, if any, and other relevant circumstances, the vessel or aircraft may be taken to have been most closely connected;
+
+(b) a will so far as it revokes a will which under sections 34 to 42 would be treated as properly made or revokes a provision which under those sections would be treated as comprised in a properly made will, if the making of the later will conformed to any law by reference to which the revoked will or provision would be treated as properly made; and
+
+(c) a will so far as it exercises a power of appointment, if the making of the will conforms to the law governing the essential validity of the power. R.S.O. 1990, c. S.26, s. 37.
+
+##### Change of domicile
+
+38.A change of domicile of the testator occurring after a will is made does not render it invalid as regards the manner and formalities of its making or alter its construction. R.S.O. 1990, c. S.26, s. 38.
+
+##### Construction of will, law of testator’s domicile when will made
+
+39.Nothing in sections 34 to 42 precludes resort to the law of the place where the testator was domiciled at the time of making a will in aid of its construction as regards an interest in land or an interest in movables. R.S.O. 1990, c. S.26, s. 39.
+
+##### Movables used in relation to land
+
+40.Where the value of a thing that is movable consists mainly or entirely in its use in connection with a particular parcel of land by the owner or occupier of the land, succession to an interest in the thing under a will is governed by the law that governs succession to the interest in the land. R.S.O. 1990, c. S.26, s. 40.
+
+##### Application of law, general
+
+##### Formalities
+
+41.(1)Where, whether under sections 34 to 42 or not, a law in force outside Ontario is to be applied in relation to a will, any requirement of that law that,
+
+(a) special formalities are to be observed by testators answering a particular description; or
+
+(b) witnesses to the making of a will are to possess certain qualifications,
+
+shall be treated, despite any rule of that law to the contrary, as a formal requirement only.
+
+##### Effect of alteration of law
+
+(2)In determining for the purposes of sections 34 to 40 whether or not the making of a will conforms to a particular law, regard shall be had to the formal requirements of that law at the time the will was made, but account shall be taken of an alteration of law affecting wills made at that time if the alteration enables the will to be treated as properly made. R.S.O. 1990, c. S.26, s. 41.
+
+### International Wills
+
+##### Convention on form of international will
+
+42.(1)In this section,
+
+“convention” means the convention providing a uniform law on the form of international will, a copy of which is set out in the Schedule to this section.
+
+##### Effective date
+
+(2)The convention is in force in Ontario and applies to wills as law of Ontario and the rules regarding an international will set out in the Annex to the convention are law in Ontario.
+
+##### Persons authorized under convention
+
+(3)All members of the Law Society of Upper Canada, other than student members, are designated as persons authorized to act in connection with international wills.
+
+##### Validity of wills under other laws
+
+(4)Nothing in this section detracts from or affects the validity of a will that is valid under the laws in force in Ontario other than this section.
+
+#### SCHEDULE
+
+#### Convention Providing a Uniform Law on The Form of an International Will
+
+The States signatory to the present Convention,
+
+Desiring to provide to a greater extent for the respecting of last wills by establishing an additional form of will hereinafter to be called an “international will” which, if employed, would dispense to some extent with the search for the applicable law;
+
+Have resolved to conclude a Convention for this purpose and have agreed upon the following provisions:
+
+#### Article I
+
+1.Each Contracting Party undertakes that not later than six months after the date of entry into force of this Convention in respect of that Party it shall introduce into its law the rules regarding an international will set out in the Annex to this Convention.
+
+2.Each Contracting Party may introduce the provisions of the Annex into its law either by reproducing the actual text, or by translating it into its official language or languages.
+
+3.Each Contracting Party may introduce into its law such further provisions as are necessary to give the provisions of the Annex full effect in its territory.
+
+4.Each Contracting Party shall submit to the Depositary Government the text of the rules introduced into its national law in order to implement the provisions of this Convention.
+
+#### Article II
+
+1.Each Contracting Party shall implement the provisions of the Annex in its law, within the period provided for in the preceding article, by designating the persons who, in its territory, shall be authorized to act in connection with international wills. It may also designate as a person authorized to act with regard to its nationals its diplomatic or consular agents abroad in so far as the local law does not prohibit it.
+
+2.The Party shall notify such designation, as well as any modifications thereof, to the Depositary Government.
+
+#### Article III
+
+The capacity of the authorized person to act in connection with an international will, if conferred in accordance with the law of a Contracting Party, shall be recognized in the territory of the other Contracting Parties.
+
+#### Article IV
+
+The effectiveness of the certificate provided for in Article 10 of the Annex shall be recognized in the territories of all Contracting Parties.
+
+#### Article V
+
+1.The conditions requisite to acting as a witness of an international will shall be governed by the law under which the authorized person was designated. The same rule shall apply as regards an interpreter who is called upon to act.
+
+2.Nonetheless no one shall be disqualified to act as a witness of an international will solely because he is an alien.
+
+#### Article VI
+
+1.The signature of the testator, of the authorized person, and of the witnesses to an international will, whether on the will or on the certificate, shall be exempt from any legalization or like formality.
+
+2.Nonetheless, the competent authorities of any Contracting Party may, if necessary, satisfy themselves as to the authenticity of the signature of the authorized person.
+
+#### Article VII
+
+The safekeeping of an international will shall be governed by the law under which the authorized person was designated.
+
+#### Article VIII
+
+No reservation shall be admitted to this Convention or to its Annex.
+
+#### Article IX
+
+1.The present Convention shall be open for signature at Washington from October 26, 1973, until December 31, 1974.
+
+2.The Convention shall be subject to ratification.
+
+3.Instruments of ratification shall be deposited with the Government of the United States of America, which shall be the Depositary Government.
+
+#### Article X
+
+1.The Convention shall be open indefinitely for accession.
+
+2.Instruments of accession shall be deposited with the Depositary Government.
+
+#### Article XI
+
+1.The present Convention shall enter into force six months after the date of deposit of the fifth instrument of ratification or accession with the Depositary Government.
+
+2.In the case of each State which ratifies this Convention or accedes to it after the fifth instrument of ratification or accession has been deposited, this Convention shall enter into force six months after the deposit of its own instrument of ratification or accession.
+
+#### Article XII
+
+1.Any Contracting Party may denounce this Convention by written notification to the Depositary Government.
+
+2.Such denunciation shall take effect twelve months from the date on which the Depositary Government has received the notification, but such denunciation shall not affect the validity of any will made during the period that the Convention was in effect for the denouncing State.
+
+#### Article XIII
+
+1.Any State may, when it deposits its instrument of ratification or accession or at any time thereafter, declare, by a notice addressed to the Depositary Government, that this Convention shall apply to all or part of the territories for the international relations of which it is responsible.
+
+2.Such declaration shall have effect six months after the date on which the Depositary Government shall have received notice thereof or, if at the end of such period the Convention has not yet come into force, from the date of its entry into force.
+
+3.Each Contracting Party which has made a declaration in accordance with paragraph 1 of this Article may, in accordance with Article XII, denounce this Convention in relation to all or part of the territories concerned.
+
+#### Article XIV
+
+1.If a State has two or more territorial units in which different systems of law apply in relation to matters respecting the form of wills, it may at the time of signature, ratification, or accession, declare that this Convention shall extend to all its territorial units or only to one or more of them, and may modify its declaration by submitting another declaration at any time.
+
+2.These declarations shall be notified to the Depositary Government and shall state expressly the territorial units to which the Convention applies.
+
+#### Article XV
+
+If a Contracting Party has two or more territorial units in which different systems of law apply in relation to matters respecting the form of wills, any reference to the internal law of the place where the will is made or to the law under which the authorized person has been appointed to act in connection with international wills shall be construed in accordance with the constitutional system of the Party concerned.
+
+#### Article XVI
+
+1.The original of the present Convention, in the English, French, Russian and Spanish languages, each version being equally authentic, shall be deposited with the Government of the United States of America, which shall transmit certified copies thereof to each of the signatory and acceding States and to the International Institute for the Unification of Private Law.
+
+2.The Depositary Government shall give notice to the signatory and acceding States, and to the International Institute for the Unification of Private Law, of:
+
+(a) any signature;
+
+(b) the deposit of any instrument of ratification or accession;
+
+(c) any date on which this Convention enters into force in accordance with Article XI;
+
+(d) any communication received in accordance with Article I, paragraph 4;
+
+(e) any notice received in accordance with Article II, paragraph 2;
+
+(f) any declaration received in accordance with Article XIII, paragraph 2, and the date on which such declaration takes effect;
+
+(g) any denunciation received in accordance with Article XII, paragraph 1, or Article XIII, paragraph 3, and the date on which the denunciation takes effect;
+
+(h) any declaration received in accordance with Article XIV, paragraph 2, and the date on which the declaration takes effect.
+
+In Witness Whereof, the undersigned Plenipotentiaries, being duly authorized to that effect, have signed the present Convention.
+
+Done at Washington this twenty-sixth day of October, one thousand nine hundred and seventy-three.
+
+### ANNEX
+
+#### Uniform Law on the Form of an International Will
+
+#### Article 1
+
+1.A will shall be valid as regards form, irrespective particularly of the place where it is made, of the location of the assets and of the nationality, domicile or residence of the testator, if it is made in the form of an international will complying with the provisions set out in Articles 2 to 5 hereinafter.
+
+2.The invalidity of the will as an international will shall not affect its formal validity as a will of another kind.
+
+#### Article 2
+
+This law shall not apply to the form of testamentary dispositions made by two or more persons in one instrument.
+
+#### Article 3
+
+1.The will shall be made in writing.
+
+2.It need not be written by the testator himself.
+
+3.It may be written in any language, by hand or by any other means.
+
+#### Article 4
+
+1.The testator shall declare in the presence of two witnesses and of a person authorized to act in connection with international wills that the document is his will and that he knows the contents thereof.
+
+2.The testator need not inform the witnesses, or the authorized person, of the contents of the will.
+
+#### Article 5
+
+1.In the presence of the witnesses and of the authorized person, the testator shall sign the will or, if he has previously signed it, shall acknowledge his signature.
+
+2.When the testator is unable to sign, he shall indicate the reason therefor to the authorized person who shall make note of this on the will. Moreover, the testator may be authorized by the law under which the authorized person was designated to direct another person to sign on his behalf.
+
+3.The witnesses and the authorized person shall there and then attest the will by signing in the presence of the testator.
+
+#### Article 6
+
+1.The signatures shall be placed at the end of the will.
+
+2.If the will consists of several sheets, each sheet shall be signed by the testator or, if he is unable to sign, by the person signing on his behalf or, if there is no such person, by the authorized person. In addition, each sheet shall be numbered.
+
+#### Article 7
+
+1.The date of the will shall be the date of its signature by the authorized person.
+
+2.This date shall be noted at the end of the will by the authorized person.
+
+#### Article 8
+
+In the absence of any mandatory rule pertaining to the safekeeping of the will, the authorized person shall ask the testator whether he wishes to make a declaration concerning the safekeeping of his will. If so and at the express request of the testator the place where he intends to have his will kept shall be mentioned in the certificate provided for in Article 9.
+
+#### Article 9
+
+The authorized person shall attach to the will a certificate in the form prescribed in Article 10 establishing that the obligations of this law have been complied with.
+
+#### Article 10
+
+The certificate drawn up by the authorized person shall be in the following form or in a substantially similar form:
+
+### CERTIFICATE
+
+#### (Convention of October 26, 1973)
+
+1.I, ..............................., (name, address and capacity), a person authorized to act in connection with international wills
+
+2.Certify that on ................................................. (date)
+
+at ............................. (place)
+
+3.(testator) ................................... (name, address, date and place of birth)
+
+in my presence and that of the witnesses
+
+4. (a) ............................................ (name, address, date and place of birth)
+
+(b) ............................................ (name, address, date and place of birth)
+
+has declared that the attached document is his will and that he knows the contents thereof.
+
+5.I furthermore certify that:
+
+6. (a) in my presence and in that of the witnesses
+
+(1) the testator has signed the will or has acknowledged his signature previously affixed.
+
+*(2) following a declaration of the testator stating that he was unable to sign his will for the following reason .....................................
+
+— I have mentioned this declaration on the will
+
+*— the signature has been affixed by ............................................ (name, address)
+
+7. (b) the witnesses and I have signed the will;
+
+8. *(c) each page of the will has been signed by .......................... and numbered;
+
+9. (d) I have satisfied myself as to the identity of the testator and of the witnesses as designated above;
+
+10. (e) the witnesses met the conditions requisite to act as such according to the law under which I am acting;
+
+11. *(f) the testator has requested me to include the following statement concerning the safekeeping of his will:
+
+12. PLACE
+
+13. DATE
+
+14. SIGNATURE and, if
+
+necessary, SEAL
+
+*To be completed if appropriate.
+
+#### Article 11
+
+The authorized person shall keep a copy of the certificate and deliver another to the testator.
+
+#### Article 12
+
+In the absence of evidence to the contrary, the certificate of the authorized person shall be conclusive of the formal validity of the instrument as a will under this Law.
+
+#### Article 13
+
+The absence or irregularity of a certificate shall not affect the formal validity of a will under this Law.
+
+#### Article 14
+
+The international will shall be subject to the ordinary rules of revocation of wills.
+
+#### Article 15
+
+In interpreting and applying the provisions of this law, regard shall be had to its international origin and to the need for uniformity in its interpretation.
+
+R.S.O. 1990, c. S.26, s. 42.
+
+##### Application of Part
+
+43.This Part applies to wills made before, on or after the 31st day of March, 1978 where the testator has not died before that date. R.S.O. 1990, c. S.26, s. 43.
+
+## PART II INTESTATE SUCCESSION
+
+##### Intestacy where spouse and no issue
+
+44.Where a person dies intestate in respect of property and is survived by a spouse and not survived by issue, the spouse is entitled to the property absolutely. R.S.O. 1990, c. S.26, s. 44.
+
+##### Preferential share of spouse
+
+45.(1)Subject to subsection (3), where a person dies intestate in respect of property having a net value of not more than the preferential share and is survived by a spouse and issue, the spouse is entitled to the property absolutely.
+
+##### Same
+
+(2)Subject to subsection (3), where a person dies intestate in respect of property having a net value of more than the preferential share and is survived by a spouse and issue, the spouse is entitled to the preferential share absolutely.
+
+##### Same
+
+(3)Despite subsection (1), where a person dies testate as to some property and intestate as to other property and is survived by a spouse and issue, and,
+
+(a) where the spouse is entitled under the will to nothing or to property having a net value of less than the preferential share, the spouse is entitled out of the intestate property to the amount by which the preferential share exceeds the net value of the property, if any, to which the spouse is entitled under the will;
+
+(b) where the spouse is entitled under the will to property having a net value of more than the preferential share, subsections (1) and (2) do not apply. 1994, c. 27, s. 63 (1).
+
+##### Definition
+
+(4)In this section,
+
+“net value” means the value of the property after payment of the charges thereon and the debts, funeral expenses and expenses of administration, including succession duty. R.S.O. 1990, c. S.26, s. 45 (4).
+
+##### Preferential share
+
+(5)The preferential share is the amount prescribed by a regulation made under subsection (6).
+
+##### Regulation
+
+(6)The Lieutenant Governor in Council may, by regulation, prescribe the amount of the preferential share. 1994, c. 27, s. 63 (2).
+
+##### Residue: spouse and children
+
+##### Same: spouse and one child
+
+46.(1)Where a person dies intestate in respect of property and leaves a spouse and one child, the spouse is entitled to one-half of the residue of the property after payment under section 45, if any.
+
+##### Same: spouse and two or more children
+
+(2)Where a person dies intestate in respect of property and leaves a spouse and more than one child, the spouse is entitled to one-third of the residue of the property after payment under section 45, if any.
+
+##### Same: issue of predeceased children
+
+(3)Where a child has died leaving issue living at the date of the intestate’s death, the spouse’s share shall be the same as if the child had been living at that date. R.S.O. 1990, c. S.26, s. 46.
+
+##### Distribution of kin
+
+##### Issue
+
+47.(1)Subject to subsection (2), where a person dies intestate in respect of property and leaves issue surviving him or her, the property shall be distributed, subject to the rights of the spouse, if any, equally among his or her issue who are of the nearest degree in which there are issue surviving him or her.
+
+##### Share of predeceasing issue
+
+(2)Where any issue of the degree entitled under subsection (1) has predeceased the intestate, the share of such issue shall be distributed among his or her issue in the manner set out in subsection (1) and the share devolving upon any issue of that and subsequent degrees who predecease the intestate shall be similarly distributed.
+
+##### Parents
+
+(3)Where a person dies intestate in respect of property and leaves no spouse or issue, the property shall be distributed between the parents of the deceased equally or, where there is only one parent surviving the deceased, to that parent absolutely.
+
+##### Brothers and sisters
+
+(4)Where a person dies intestate in respect of property and there is no surviving spouse, issue or parent, the property shall be distributed among the surviving brothers and sisters of the intestate equally, and if any brother or sister predeceases the intestate, the share of the deceased brother or sister shall be distributed among his or her children equally.
+
+##### Nephews and nieces
+
+(5)Where a person dies intestate in respect of property and there is no surviving spouse, issue, parent, brother or sister, the property shall be distributed among the nephews and nieces of the intestate equally without representation.
+
+##### Next of kin
+
+(6)Where a person dies intestate in respect of property and there is no surviving spouse, issue, parent, brother, sister, nephew or niece, the property shall be distributed among the next of kin of equal degree of consanguinity to the intestate equally without representation.
+
+##### Escheat
+
+(7)Where a person dies intestate in respect of property and there is no surviving spouse, issue, parent, brother, sister, nephew, niece or next of kin, the property becomes the property of the Crown, and the Escheats Act applies.
+
+##### Degrees of kindred
+
+(8)For the purposes of subsection (6), degrees of kindred shall be computed by counting upward from the deceased to the nearest common ancestor and then downward to the relative, and the kindred of the half-blood shall inherit equally with those of the whole-blood in the same degree.
+
+##### Descendants conceived but unborn
+
+(9)For the purposes of this section, descendants and relatives of the deceased conceived before and born alive after the death of the deceased shall inherit as if they had been born in the lifetime of the deceased and had survived him or her. R.S.O. 1990, c. S.26, s. 47.
+
+##### Abolition of curtesy
+
+48.The common law right of a widower to curtesy is abolished. R.S.O. 1990, c. S.26, s. 48.
+
+##### Application of Part
+
+49.This Part applies to an intestacy upon a death occurring on or after the 31st day of March, 1978. R.S.O. 1990, c. S.26, s. 49.
+
+## PART III DESIGNATION OF BENEFICIARIES OF INTEREST IN FUNDS OR PLANS
+
+##### Definitions, Part III
+
+50.In this Part,
+
+“participant” means a person who is entitled to designate another person to receive a benefit payable under a plan on the participant’s death; (“participant”)
+
+“plan” means,
+
+(a) a pension, retirement, welfare or profit-sharing fund, trust, scheme, contract or arrangement or a fund, trust, scheme, contract or arrangement for other benefits for employees, former employees, directors, former directors, agents or former agents of an employer or their dependants or beneficiaries,
+
+(b) a fund, trust, scheme, contract or arrangement for the payment of a periodic sum for life or for a fixed or variable term, or
+
+(c) a fund, trust, scheme, contract or arrangement of a class that is prescribed for the purposes of this Part by a regulation made under section 53.1,
+
+and includes a retirement savings plan, a retirement income fund and a home ownership savings plan as defined in the Income Tax Act (Canada) and an Ontario home ownership savings plan under the Ontario Home Ownership Savings Plan Act. (“régime”) R.S.O. 1990, c. S.26, s. 50; 1994, c. 27, s. 63 (4).
+
+##### Designation of beneficiaries
+
+51.(1)A participant may designate a person to receive a benefit payable under a plan on the participant’s death,
+
+(a) by an instrument signed by him or her or signed on his or her behalf by another person in his or her presence and by his or her direction; or
+
+(b) by will,
+
+and may revoke the designation by either of those methods.
+
+##### Idem
+
+(2)A designation in a will is effective only if it relates expressly to a plan, either generally or specifically. R.S.O. 1990, c. S.26, s. 51.
+
+##### Revocation and validity of designation
+
+##### Revocation of designation
+
+52.(1)A revocation in a will is effective to revoke a designation made by instrument only if the revocation relates expressly to the designation, either generally or specifically.
+
+##### Idem
+
+(2)Despite section 15, a later designation revokes an earlier designation, to the extent of any inconsistency.
+
+##### Idem
+
+(3)Revocation of a will revokes a designation in the will.
+
+##### Where will invalid
+
+(4)A designation or revocation contained in an instrument purporting to be a will is not invalid by reason only of the fact that the instrument is invalid as a will.
+
+##### Idem
+
+(5)A designation in an instrument that purports to be but is not a valid will is revoked by an event that would have the effect of revoking the instrument if it had been a valid will.
+
+##### Earlier designations not revived
+
+(6)Revocation of a designation does not revive an earlier designation.
+
+##### Effective date
+
+(7)Despite section 22, a designation or revocation in a will is effective from the time when the will is signed. R.S.O. 1990, c. S.26, s. 52.
+
+##### Payment and enforcement
+
+53.Where a participant in a plan has designated a person to receive a benefit under the plan on the death of the participant,
+
+(a) the person administering the plan is discharged on paying the benefit to the person designated under the latest designation made in accordance with the terms of the plan, in the absence of actual notice of a subsequent designation or revocation made under section 51 but not in accordance with the terms of the plan; and
+
+(b) the person designated may enforce payment of the benefit payable to him under the plan but the person administering the plan may set up any defence that he could have set up against the participant or his or her personal representative. R.S.O. 1990, c. S.26, s. 53.
+
+##### Regulations, Part III
+
+53.1The Lieutenant Governor in Council may make regulations prescribing classes of funds, trusts, schemes, contracts or arrangements for the purposes of this Part. 1994, c. 27, s. 63 (5).
+
+##### Application of Part to plan
+
+54.(1)Where this Part is inconsistent with a plan, this Part applies, unless the inconsistency relates to a designation made or proposed to be made after the making of a benefit payment where the benefit payment would have been different if the designation had been made before the benefit payment, in which case the plan applies.
+
+##### Exception
+
+(2)This Part does not apply to a contract or to a designation of a beneficiary to which the Insurance Act applies. R.S.O. 1990, c. S.26, s. 54.
+
+##### Application to retirement income funds
+
+54.1(1)This Part applies to the designation of a beneficiary of a retirement income fund, whether the designation was made before or after the effective date, and even if the participant who made the designation died before the effective date.
+
+##### Exception
+
+(2)Despite subsection (1), this Part as it read immediately before the effective date continues to apply in a particular case if applying the Part as it read after the effective date would,
+
+(a) change the result in a proceeding in which a judgment or final order was made before the effective date, even if the judgment or order is subject to appeal; or
+
+(b) make a person liable to repay or account for retirement income fund proceeds received or paid by the person before the effective date.
+
+##### Definition
+
+(3)In this section,
+
+“effective date” means the date on which the Statute Law Amendment Act (Government Management and Services), 1994 received Royal Assent. 1994, c. 27, s. 63 (5).
+
+## PART IV SURVIVORSHIP
+
+##### Survivorship
+
+##### Succession
+
+55.(1)Where two or more persons die at the same time or in circumstances rendering it uncertain which of them survived the other or others, the property of each person, or any property of which he or she is competent to dispose, shall be disposed of as if he or she had survived the other or others.
+
+##### Simultaneous death of joint tenants
+
+(2)Unless a contrary intention appears, where two or more persons hold legal or equitable title to property as joint tenants, or with respect to a joint account, with each other, and all of them die at the same time or in circumstances rendering it uncertain which of them survived the other or others, each person shall be deemed, for the purposes of subsection (1), to have held as tenant in common with the other or with each of the others in that property.
+
+##### Provision in will for substitute representative
+
+(3)Where a will contains a provision for a substitute personal representative operative if an executor designated in the will,
+
+(a) dies before the testator;
+
+(b) dies at the same time as the testator; or
+
+(c) dies in circumstances rendering it uncertain which of them survived the other,
+
+and the designated executor dies at the same time as the testator or in circumstances rendering it uncertain which of them survived the other, then, for the purpose of probate, the case for which the will provides shall be deemed to have occurred.
+
+##### Proceeds of insurance
+
+(4)The proceeds of a policy of insurance shall be paid in accordance with sections 215 and 319 of the Insurance Act and thereafter this Part applies to their disposition. R.S.O. 1990, c. S.26, s. 55.
+
+##### Application of Part
+
+56.This Part applies in respect of deaths occurring on or after the 31st day of March, 1978. R.S.O. 1990, c. S.26, s. 56.
+
+## PART V SUPPORT OF DEPENDANTS
+
+##### Definitions, Part V
+
+57.In this Part,
+
+“child” means a child as defined in subsection 1 (1) and includes a grandchild and a person whom the deceased has demonstrated a settled intention to treat as a child of his or her family, except under an arrangement where the child is placed for valuable consideration in a foster home by a person having lawful custody; (“enfant”)
+
+“cohabit” means to live together in a conjugal relationship, whether within or outside marriage; (“cohabiter”)
+
+“court” means the Ontario Court (General Division); (“tribunal”)
+
+“dependant” means,
+
+(a) the spouse or same-sex partner of the deceased,
+
+(b) a parent of the deceased,
+
+(c) a child of the deceased, or
+
+(d) a brother or sister of the deceased,
+
+to whom the deceased was providing support or was under a legal obligation to provide support immediately before his or her death; (“personne à charge”)
+
+“letters probate” and “letters of administration” include letters probate, letters of administration or other legal documents purporting to be of the same legal nature granted by a court in another jurisdiction and resealed in this province; (“lettres d’homologation”, “lettres d’administration”)
+
+“parent” includes a grandparent and a person who has demonstrated a settled intention to treat the deceased as a child of his or her family, except under an arrangement where the deceased was placed for valuable consideration in a foster home by a person having lawful custody; (“père ou mère”)
+
+“same-sex partner” means either of two persons of the same sex who have cohabited,
+
+(a) continuously for a period of not less than three years, or
+
+(b) in a relationship of some permanence, if they are the natural or adoptive parents of a child. (“partenaire de même sexe”)
+
+“spouse” means a spouse as defined in subsection 1 (1) and in addition includes either of a man and woman who,
+
+(a) were married to each other by a marriage that was terminated or declared a nullity, or
+
+(b) are not married to each other and have cohabited,
+
+(i) continuously for a period of not less than three years, or
+
+(ii) in a relationship of some permanence, if they are the natural or adoptive parents of a child. (“conjoint”) R.S.O. 1990, c. S.26, s. 57; 1999, c. 6, s. 61 (1, 2).
