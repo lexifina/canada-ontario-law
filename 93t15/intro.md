@@ -390,9 +390,9 @@ If you intend to dispute the applicant’s claim, you must attend before the loc
 
 (11)The board shall appoint one or more auditors licensed under the Public Accountancy Act to audit the books, records, accounts and transactions of the Trust and to prepare an annual financial statement. 1993, c. 15, s. 12 (11).
 
-##### Provincial Auditor
+##### Auditor General
 
-(12)The report of the auditor and the books, records, accounts and transactions of the Trust shall be made available to the Minister and the Provincial Auditor. 1993, c. 15, s. 12 (12).
+(12)The report of the auditor and the books, records, accounts and transactions of the Trust shall be made available to the Minister and the Auditor General. 1993, c. 15, s. 12 (12); 2004, c. 17, s. 32.
 
 ##### Annual report
 
