@@ -16,7 +16,7 @@ the Judges of the Ontario Court (Provincial Division) and the former Provincial 
 
 These are the terms to which the Minister and the Judges agree:
 
-### Definitions
+Definitions
 
 1.In this agreement,
 
@@ -28,7 +28,7 @@ These are the terms to which the Minister and the Judges agree:
 
 “parties” means the Crown and the judges’ associations. (“parties”)
 
-### Introduction
+Introduction
 
 2.The purpose of this agreement is to establish a framework for the regulation of certain aspects of the relationship between the executive branch of the government and the Judges, including a binding process for the determination of Judges’ compensation. It is intended that both the process of decision-making and the decisions made by the Commission shall contribute to securing and maintaining the independence of the Provincial Judges. Further, the agreement is intended to promote co-operation between the executive branch of the government and the judiciary and the efforts of both to develop a justice system which is both efficient and effective, while ensuring the dispensation of independent and impartial justice.
 
@@ -36,7 +36,7 @@ These are the terms to which the Minister and the Judges agree:
 
 4.The Minister or the Judges may designate one or more persons to act on their behalf under this agreement.
 
-### Commission and Appointments
+Commission and Appointments
 
 5.The parties agree that the Provincial Judges Remuneration Commission is continued.
 
@@ -60,7 +60,7 @@ These are the terms to which the Minister and the Judges agree:
 
 12.The parties agree that the members of the Commission shall be paid the remuneration fixed by the Management Board of Cabinet and, subject to Management Board’s approval, the reasonable expenses actually incurred in carrying out their duties.
 
-### Scope
+Scope
 
 13.The parties agree that in 1995, and in every third year after 1995, the Commission shall conduct an inquiry respecting:
 
@@ -76,7 +76,7 @@ These are the terms to which the Minister and the Judges agree:
 
 16.The parties agree that the Commission shall make an annual report of its activities to the Chair of Management Board and the Chair shall table the report in the Legislature.
 
-### Powers and Procedures
+Powers and Procedures
 
 17.The parties agree that the Commission may retain support services and professional services, including the services of counsel, as it considers necessary, subject to the approval of the Management Board.
 
@@ -104,7 +104,7 @@ These are the terms to which the Minister and the Judges agree:
 
 24.In connection with, and for the purposes of, any inquiry, the Commission or any member thereof has the powers of a commission under the Public Inquiries Act.
 
-### Criteria
+Criteria
 
 25.The parties agree that the Commission in making its recommendation on provincial judges’ compensation shall give every consideration to, but not limited to, the following criteria, recognizing the purposes of this agreement as set out in paragraph 2:
 
@@ -120,11 +120,11 @@ These are the terms to which the Minister and the Judges agree:
 
 (f) any other factor which it considers relevant to the matters in issue.
 
-### Report
+Report
 
 26.The parties agree that they may jointly submit a letter to the Commission requesting that it attempt, in the course of its deliberations under paragraph 13, to produce a unanimous report, but in the event that the Commission cannot deliver a majority report, the Report of the Chair shall be the Report of the Commission for the purpose of paragraphs 13 and 14.
 
-### Binding and Implementation
+Binding and Implementation
 
 27.The recommendations of the Commission under paragraph 13, except those related to pensions, shall come into effect on the first day of April in the year following the year the Commission began its inquiry, except in the case of salary recommendations which shall come into effect on the first of April in the year in which the Commission began its inquiry and shall have the same force and effect as if enacted by the Legislature and are in substitution for the provisions of any schedule made pursuant to this Agreement and shall be implemented by the Lieutenant Governor in Council by order-in-council within sixty days of the delivery of the Commission’s report pursuant to paragraph 15.
 
@@ -140,7 +140,7 @@ These are the terms to which the Minister and the Judges agree:
 
 33.The parties agree that if the Management Board of Cabinet endorses recommendations referenced in paragraph 30 or 31, or some variation of those recommendations, the Chair of Management Board shall make every effort to implement them at the earliest possible date, following subsequent approval from Cabinet.
 
-### Disputes
+Disputes
 
 34.The parties agree that if disputes arise as to whether a recommendation is properly the subject of an inquiry referenced in paragraph 13, or whether the recommendation falls within the parameters of paragraph 27 or 30, or with respect to the process, either party may require the Commission to consider the matter further.
 
@@ -156,19 +156,19 @@ These are the terms to which the Minister and the Judges agree:
 
 40.The parties agree that in the event that an item(s) is referred to the Commission under paragraph 34, the Minister will proceed to implement the other recommendations of the Commission as set out in paragraphs 27, 28 and 33, except where the matter in dispute under paragraph 34 directly impacts the remaining items.
 
-### Review
+Review
 
 41.The parties agree that either party may, at any time, request the other party to meet and discuss improvements to the process.
 
 42.The parties agree that any amendments agreed to by the parties in paragraph 41 shall have the same force and effect as if enacted by the Legislature and are in substitution for the provisions of this Act or any schedule made pursuant to this Act.
 
-### Communication
+Communication
 
 43.The parties agree that all provincial judges should be made aware of any changes to their compensation package as a result of recommendations of the Commission.
 
 44.The parties agree that all provincial judges should receive updated copies of legislation, regulations or schedules as necessary, related to compensation changes.
 
-### Salaries and Indexing
+Salaries and Indexing
 
 45.The parties agree that effective on the first day of April in every year after 1995, the annual salaries for full-time provincial judges shall be adjusted as follows:
 
@@ -186,7 +186,7 @@ These are the terms to which the Minister and the Judges agree:
 
 47.The salaries, allowances and benefits of provincial judges shall be paid out of the Consolidated Revenue Fund.
 
-### Additional Provisions
+Additional Provisions
 
 48.This agreement shall be binding upon and enure to the benefit of the parties hereto and their respective successors and assigns.
 
