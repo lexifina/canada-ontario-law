@@ -76,7 +76,7 @@ R.S.O. 1990, CHAPTER N.5
 
 ##### Audit
 
-8.The accounts and financial transactions of the Corporation shall be audited annually by the Provincial Auditor. R.S.O. 1990, c. N.5, s. 8.
+8.The accounts and financial transactions of the Corporation shall be audited annually by the Auditor General. R.S.O. 1990, c. N.5, s. 8; 2004, c. 17, s. 32.
 
 ##### Annual report
 
