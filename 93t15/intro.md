@@ -360,43 +360,43 @@ If you intend to dispute the applicant’s claim, you must attend before the loc
 
 ##### Appointment of board
 
-(4)The members of the board shall be appointed by the Lieutenant Governor in Council.
+(4)The members of the board shall be appointed by the Lieutenant Governor in Council. 1993, c. 15, s. 12 (4).
 
 ##### Terms of office
 
-(5)The terms of office of the members of the board shall be as determined by the Lieutenant Governor in Council.
+(5)The terms of office of the members of the board shall be as determined by the Lieutenant Governor in Council. 1993, c. 15, s. 12 (5).
 
 ##### Quorum
 
-(6)At any meeting of the board a majority of its members constitutes a quorum.
+(6)At any meeting of the board a majority of its members constitutes a quorum. 1993, c. 15, s. 12 (6).
 
 ##### Chair
 
-(7)The board shall appoint a chair and a vice-chair from among its members.
+(7)The board shall appoint a chair and a vice-chair from among its members. 1993, c. 15, s. 12 (7).
 
 ##### Same
 
-(8)The chair shall preside at all meetings of the board and if he or she is unable to act as chair, the vice-chair shall act in the chair’s place.
+(8)The chair shall preside at all meetings of the board and if he or she is unable to act as chair, the vice-chair shall act in the chair’s place. 1993, c. 15, s. 12 (8).
 
 ##### By-laws
 
-(9)The board may pass by-laws regulating its proceedings, including setting conflict of interest guidelines, and regarding such matters as are necessary to manage the affairs and carry out the objects of the Trust.
+(9)The board may pass by-laws regulating its proceedings, including setting conflict of interest guidelines, and regarding such matters as are necessary to manage the affairs and carry out the objects of the Trust. 1993, c. 15, s. 12 (9).
 
 ##### Head office, etc.
 
-(10)The location of the Trust’s head office, the use of a corporate seal and the Trust’s fiscal year shall be as provided in the Trust’s by-laws.
+(10)The location of the Trust’s head office, the use of a corporate seal and the Trust’s fiscal year shall be as provided in the Trust’s by-laws. 1993, c. 15, s. 12 (10).
 
 ##### Audit
 
-(11)The board shall appoint one or more auditors licensed under the Public Accountancy Act to audit the books, records, accounts and transactions of the Trust and to prepare an annual financial statement.
+(11)The board shall appoint one or more auditors licensed under the Public Accountancy Act to audit the books, records, accounts and transactions of the Trust and to prepare an annual financial statement. 1993, c. 15, s. 12 (11).
 
 ##### Provincial Auditor
 
-(12)The report of the auditor and the books, records, accounts and transactions of the Trust shall be made available to the Minister and the Provincial Auditor.
+(12)The report of the auditor and the books, records, accounts and transactions of the Trust shall be made available to the Minister and the Provincial Auditor. 1993, c. 15, s. 12 (12).
 
 ##### Annual report
 
-(13)The board shall prepare an annual report of the business and affairs of the Trust and shall deliver the report to the Minister within 120 days after the end of the Trust’s fiscal year. 1993, c. 15, s. 12 (4-13).
+(13)The board shall prepare an annual report of the business and affairs of the Trust and shall deliver the report to the Minister within 120 days after the end of the Trust’s fiscal year. 1993, c. 15, s. 12 (13).
 
 ##### Trust’s powers
 
