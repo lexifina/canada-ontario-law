@@ -200,6 +200,8 @@ Quality Assurance Committee
 
 83. | Confidentiality of information
 
+83.1 | Quality assurance and other information
+
 Patient Relations Program
 
 84. | Patient relations program
@@ -1744,19 +1746,19 @@ v. encouragement of the patient by the member to masturbate in the presence of t
 
 (a) was given by the member; or
 
-(b) relates to the member and was obtained under section 82.
+(b) relates to the member and was obtained under section 82. 1991, c. 18, Sched. 2, s. 83 (1).
 
 ##### Exception if member gave false information
 
-(2) Information described in subsection (1) may be disclosed for the purpose of showing that the member knowingly gave false information to the Quality Assurance Committee or an assessor.
+(2) Information described in subsection (1) may be disclosed for the purpose of showing that the member knowingly gave false information to the Quality Assurance Committee or an assessor. 1991, c. 18, Sched. 2, s. 83 (2).
 
 ##### Referrals to Executive Committee
 
-(3) If the Quality Assurance Committee is of the opinion, based on an assessment, that a member may have committed an act of professional misconduct or may be incompetent or incapacitated, the Committee may disclose the name of the member and allegations against the member to the Executive Committee.
+(3) If the Quality Assurance Committee is of the opinion, based on an assessment, that a member may have committed an act of professional misconduct or may be incompetent or incapacitated, the Committee may disclose the name of the member and allegations against the member to the Executive Committee. 1991, c. 18, Sched. 2, s. 83 (3).
 
 ##### Use in other Committees
 
-(4) Information that was disclosed contrary to subsection (1) shall not be used against the member to whom it relates in a proceeding before the Discipline or Fitness to Practise Committees. 1991, c. 18, Sched. 2, s. 83.
+(4) Information that was disclosed contrary to subsection (1) shall not be used against the member to whom it relates in a proceeding before the Discipline or Fitness to Practise Committees. 1991, c. 18, Sched. 2, s. 83 (4).
 
 ##### Evidence in proceedings
 
@@ -2240,11 +2242,13 @@ v. encouragement of the patient by the member to masturbate in the presence of t
 
 (r) prescribing a quality assurance program;
 
+(r.1) specifying information for the purposes of clause (g) of the definition of “quality assurance information” in subsection 83.1 (1);
+
 (s) respecting the giving of notice of meetings and hearings that are to be open to the public;
 
 (t) providing for the exemption of any member from the regulations made by the Council;
 
-(u) prescribing anything that is referred to in the health profession Act or this Code as being prescribed. 1998, c. 18, Sched. G, s. 23 (1).
+(u) prescribing anything that is referred to in the health profession Act or this Code as being prescribed. 1998, c. 18, Sched. G, s. 23 (1); 2004, c. 3, Sched. B, s. 11 (3).
 
 ##### Standards of practice
 
