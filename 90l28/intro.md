@@ -424,19 +424,19 @@ provided that no fee shall be charged and no levy shall be imposed in respect of
 
 ##### Fiscal year
 
-(2) The fiscal year of a Board is the year commencing on the 1st day of October and expiring with the 30th day of September next following.
+(2) The fiscal year of a Board is the year commencing on the 1st day of October and expiring with the 30th day of September next following. R.S.O. 1990, c. L.28, s. 29 (2).
 
 ##### Copy of report to Minister
 
-(3) The secretary shall send a copy of the annual audit report by registered mail to the Minister.
+(3) The secretary shall send a copy of the annual audit report by registered mail to the Minister. R.S.O. 1990, c. L.28, s. 29 (3).
 
 ##### Examination of report
 
-(4) The secretary shall permit any inhabitant at any reasonable time to examine and copy the audit report.
+(4) The secretary shall permit any inhabitant at any reasonable time to examine and copy the audit report. R.S.O. 1990, c. L.28, s. 29 (4).
 
 ##### Audit required by Minister
 
-(5) The Minister may at any time cause the accounts and transactions of a Board to be audited. R.S.O. 1990, c. L.28, s. 29 (2-5).
+(5) The Minister may at any time cause the accounts and transactions of a Board to be audited. R.S.O. 1990, c. L.28, s. 29 (5).
 
 ##### Minister may dissolve Board
 
