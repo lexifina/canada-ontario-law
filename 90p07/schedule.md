@@ -16,7 +16,7 @@
 
 (g) every board of health under the Health Protection and Promotion Act, and every board of health under an Act of the Legislature that establishes or continues a regional municipality;
 
-(h) the Office of the Lieutenant Governor of Ontario, the Office of the Assembly, members of the Assembly, the Office of the Ombudsman and the Provincial Auditor; and
+(h) the Office of the Lieutenant Governor of Ontario, the Office of the Assembly, members of the Assembly, the Office of the Ombudsman and the Auditor General; and
 
 (i) any authority, board, commission, corporation, office, person or organization of persons, or any class of authorities, boards, commissions, corporations, offices, persons or organizations of persons, set out in the Appendix to this Schedule or added to the Appendix by the regulations made under this Act.
 
@@ -86,7 +86,7 @@
 
 (q) provides services for young offenders under Part IV of the Child and Family Services Act (R.S.O. 1990, c. C.11) or under an agreement with the Ministry of Community and Social Services under the Ministry of Community and Social Services Act (R.S.O. 1990, c. M.20);
 
-(r) provides children’s services funded and purchased by the Ministry of Community and Social Services under the Child and Family Services Act (R.S.O. 1990, c. C.11).
+(r) provides children’s services funded and purchased by the Ministry of Community and Social Services under the Child and Family Services Act (R.S.O. 1990, c. C.11);
 
 (s) operates a childcare resource centre, being an employer providing services to persons providing care to young children and receiving funding under the Ministry of Community and Social Services Act (R.S.O. 1990, c. M.20);
 
@@ -279,5 +279,3 @@
 ### Office Responsible for Women’s Issues
 
 1. Any corporation or organization of persons, other than one that has no employees other than employees who directly or indirectly control it, that receives funding from the program administered by the Office Responsible for Women’s Issues and known as Women’s Centres Program: Investing in Women’s Futures and that provides counselling, referral or information services for women.
-
-R.S.O. 1990, c. P.7, Sched.; O. Reg. 395/93; 1998, c. 18, Sched. G, s. 67; O. Reg. 81/99; 2001, c. 13, s. 23; O. Reg. 37/02; 2002, c. 17, Sched. C, s. 21.
