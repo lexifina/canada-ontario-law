@@ -1,4 +1,4 @@
-## SCHEDULE (Section 19)
+## Schedule (Section 19)
 
 Act | Provision
 
@@ -76,7 +76,7 @@ Reciprocal Enforcement of Judgments (U.K.) Act | paragraph 1 of article iii of t
 
 Remedies for Organized Crime and Other Unlawful Activities Act, 2001 | subsections 3 (5) and 13 (7)
 
-Securities Act | section 129.1, subsection 136 (5) and section 138
+Securities Act | section 129.1, subsection 136 (5) and sections 138 and 138.14
 
 Succession Law Reform Act | section 61
 
@@ -86,4 +86,4 @@ Tobacco Tax Act | subsections 6 (10) and 24 (5)
 
 Trustee Act | subsection 38 (3)
 
-2002, c. 24, Sched. B, Sched.; 2002, c. 24, Sched. B, s. 50; 2004, c. 16, Sched. D, Table.
+2002, c. 24, Sched. B, Sched.; 2002, c. 24, Sched. B, s. 50; 2004, c. 16, Sched. D, Table; 2004, c. 31, Sched. 22, s. 1.
