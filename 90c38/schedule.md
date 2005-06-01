@@ -144,8 +144,8 @@ be deemed to have been purchased by the company, and, for the purposes of this p
 
 22. In this Schedule,
 
-“Minister” means the member of the Executive Council charged for the time being by the Lieutenant Governor in Council with the administration of the Insurance Act;
+“Minister” means the member of the Executive Council charged for the time being by the Lieutenant Governor in Council with the administration of the Insurance Act; (“ministre”);
 
-“Superintendent” means the Superintendent of Financial Services.
+“Superintendent” means the Superintendent of Financial Services. (“surintendant”)
 
 R.S.O. 1990, c. C.38, Sched.; 1997, c. 28, s. 51.
