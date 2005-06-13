@@ -20,7 +20,7 @@ Fox, Red (all colour phases) | Vulpes vulpes
 
 Lynx | Lynx canadensis
 
-Marten | Martes americana
+Marten | Martes Americana
 
 Mink | Mustela vison
 
