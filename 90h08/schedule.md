@@ -1,3 +1,3 @@
-## SCHEDULE Certificate of Justice
+## SCHEDULE CERTIFICATE OF JUSTICE
 
 R.S.O. 1990, c. H.8, Sched.
