@@ -104,7 +104,7 @@ In The Matter of the First Trade in Securities Acquired Pursuant to Certain Exem
 
 In The Matter of Trading in Securities of Labour Sponsored Investment Fund Corporations (Blanket Order/ordonnance générale) | 10/11/94
 
-PART B/PARTIE B
+#### PART B/PARTIE B
 
 Blanket Ruling and Related Policy Statements/Décision générale et politiques connexes | Date Issued/Date
 
