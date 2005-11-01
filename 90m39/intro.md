@@ -154,8 +154,6 @@ R.S.O. 1990, CHAPTER M.39
 
 (9)Even though a registrant appeals from an order of the Tribunal under section 30.1, the order takes effect immediately but the Tribunal may grant a stay until disposition of the appeal. 1997, c. 28, s. 176 (2).
 
-TABLE
-
 Column 1 | Column 2
 
 A bank | Bank Act (Canada)

@@ -123,31 +123,3 @@ and includes such other lottery schemes as may be prescribed; (“jeu de hasard�
 ##### No personal liability
 
 8.No action or other proceeding may be instituted against any member of the Corporation or person appointed to the service of the Corporation for any act done in good faith in the execution or intended execution of the person’s duty or for any alleged neglect or default in the execution in good faith of the person’s duty. 1999, c. 12, Sched. L, s. 8.
-
-##### Accounting system
-
-9.(1)The Corporation shall establish and maintain an accounting system satisfactory to the Minister of Finance. 1999, c. 12, Sched. L, s. 9 (1).
-
-##### Auditor
-
-(2)The board shall appoint one or more auditors licensed under the Public Accountancy Act to audit the accounts and financial transactions of the Corporation annually. 1999, c. 12, Sched. L, s. 9 (2).
-
-##### Same
-
-(3)The Minister may at any time require that any aspect of the affairs of the Corporation be audited by an auditor appointed by the Minister. 1999, c. 12, Sched. L, s. 9 (3).
-
-##### Annual report
-
-10.(1)Every year, the Corporation shall give the Minister a report on the affairs of the Corporation for the preceding fiscal year and shall include in the report such information as the Minister may specify. 1999, c. 12, Sched. L, s. 10 (1).
-
-##### Same
-
-(2)The Minister shall submit the Corporation’s annual report to the Lieutenant Governor in Council and shall then lay the report before the Assembly if it is in session or, if not, at the next session. 1999, c. 12, Sched. L, s. 10 (2).
-
-##### Auditor’s report
-
-(3)The board shall give the Minister a copy of every auditor’s report. 1999, c. 12, Sched. L, s. 10 (3).
-
-##### Other reports, etc.
-
-(4)The board shall give the Minister such additional information and reports as the Minister may request. 1999, c. 12, Sched. L, s. 10 (4).
