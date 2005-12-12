@@ -230,13 +230,15 @@ Health Profession Corporations
 
 85.8 | Professional corporations
 
+85.8 | Professional corporations
+
 85.9 | Notice of change of shareholder
 
 85.10 | Application of Act, etc.
 
 85.11 | Professional, fiduciary and ethical obligations to patients
 
-85.12 | Duty to patient prevails
+85.12 | Conflict in duties
 
 85.13 | Restrictions apply to corporation’s certificate
 
@@ -256,7 +258,7 @@ Miscellaneous
 
 91. | Service by mail
 
-92. | Obtaining certificates by false pretences
+92. | Making false representations to obtain certificates
 
 92.1 | Protection for reporters from reprisals
 
