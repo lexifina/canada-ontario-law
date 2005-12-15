@@ -168,6 +168,24 @@ A credit union | Credit Unions and Caisses Populaires Act, 1994
 
 Another mortgage broker | This Act
 
+Column 1 | Column 2
+
+A bank | Bank Act (Canada)
+
+A retail association as defined under the Cooperative Credit Associations Act (Canada) | Cooperative Credit Associations Act (Canada)
+
+A credit union | Credit Unions and Caisses Populaires Act, 1994
+
+An insurance company | Insurance Act
+
+An insurance company | Insurance Companies Act (Canada)
+
+A trust corporation | Trust and Loan Companies Act (Canada)
+
+A loan corporation | Trust and Loan Companies Act (Canada)
+
+Another mortgage broker | This Act
+
 ##### Resident requirements re individuals
 
 8.(1)Subject to subsection (2), no individual shall carry on business in Ontario as a mortgage broker unless,
