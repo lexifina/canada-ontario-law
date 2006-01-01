@@ -230,8 +230,6 @@ Health Profession Corporations
 
 85.8 | Professional corporations
 
-85.8 | Professional corporations
-
 85.9 | Notice of change of shareholder
 
 85.10 | Application of Act, etc.
@@ -2010,7 +2008,11 @@ but does not include,
 
 ##### Professional corporations
 
-85.8 Subject to the regulations made under subsection 43 (1) of the Regulated Health Professions Act, 1991 and the by-laws, one or more members of the same health profession may establish a health profession corporation for the purpose of practising their health profession, and the provisions of the Business Corporations Act that apply to professional corporations within the meaning of that Act apply to such a corporation. 2000, c. 42, Sched., s. 37; 2001, c. 8, s. 219.
+85.8 (1) Subject to the regulations made under subsection 43 (1) of the Regulated Health Professions Act, 1991 and the by-laws, one or more members of the same health profession may establish a health profession corporation for the purposes of practising their health profession. 2005, c. 28, Sched. B, s. 2 (1).
+
+##### Same
+
+(2) The provisions of the Business Corporations Act, including the regulations made under that Act, that apply with respect to professional corporations apply with respect to a health profession corporation established under subsection (1). 2005, c. 28, Sched. B, s. 2 (1).
 
 ##### Notice of change of shareholder
 
@@ -2082,7 +2084,7 @@ but does not include,
 
 ##### Prohibition, corporate matters
 
-(3) A health profession corporation shall not practise a health profession when it does not satisfy the requirements for a professional corporation under subsection 3.2 (2) of the Business Corporations Act. 2001, c. 8, s. 223.
+(3) A health profession corporation shall not practise a health profession when it does not satisfy the requirements for a professional corporation under subsection 3.2 (2) of the Business Corporations Act or a requirement established under subsection 3.2 (6) of that Act. 2005, c. 28, Sched. B, s. 2 (2).
 
 ### Miscellaneous
 
