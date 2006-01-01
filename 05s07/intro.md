@@ -1,3 +1,3 @@
 # Sabrina’s Law, 2005
 
-S.O. 2005, CHAPTER 7
+S.o. 2005, chapter 7
