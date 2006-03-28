@@ -184,7 +184,7 @@
 
 (c) a laboratory or a specimen collection centre, under the authority of a licence issued under the Laboratory and Specimen Collection Centre Licensing Act (R.S.O. 1990, c. L.1);
 
-(d) a psychiatric facility within the meaning of the Mental Health Act (R.S.O. 1990, c. M.7), the operation of which is funded in whole or in part by the Ministry of Health;
+(d) a psychiatric facility within the meaning of the Mental Health Act (R.S.O. 1990, c. M.7), the operation of which is funded in whole or in part by the Ministry of Health or a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006;
 
 (e) a home for special care established, approved or licensed under the Homes for Special Care Act (R.S.O. 1990, c. H.2);
 
@@ -196,15 +196,15 @@
 
 (g) a rehabilitation centre or a crippled children’s centre listed in the relevant Schedule to the General Regulation made under the Health Insurance Act (R.S.O. 1990, c. H.6);
 
-(h) a detoxification centre that receives funding from the Ministry of Health;
+(h) a detoxification centre that receives funding from the Ministry of Health or a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006;
 
-(h.1) services relating to addiction if the provider of the services receives funding from the Ministry of Health;
+(h.1) services relating to addiction if the provider of the services receives funding from the Ministry of Health or a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006;
 
-(i) an adult community mental health service the operation of which is, pursuant to an agreement in writing, funded in whole or in part by the Ministry of Health;
+(i) an adult community mental health service the operation of which is, pursuant to an agreement in writing, funded in whole or in part by the Ministry of Health or a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006;
 
-(j) a placement service the operation of which is, pursuant to a “Placement Co-ordination Service Agreement” or other agreement in writing, funded in whole or in part by the Ministry of Health.
+(j) a placement service the operation of which is, pursuant to a “Placement Co-ordination Service Agreement” or other agreement in writing, funded in whole or in part by the Ministry of Health or a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006.
 
-2. A district health council appointed under the Ministry of Health Act (R.S.O. 1990, c. M.26).
+2. Repealed: 2006, c. 4, s. 50 (3).
 
 3. A laundry that is operated exclusively for one or more than one hospital.
 
@@ -236,13 +236,13 @@
 
 (ii) a group or groups of individuals who, because of age, sex, socio-economic factors or environmental factors, are more likely to be in need of some or all of those services than other individuals; and
 
-(b) who receives funding from the Ministry of Health in accordance with the number or type of services provided.
+(b) who receives funding from the Ministry of Health and Long-Term Care or a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006 in accordance with the number or type of services provided.
 
 15. A comprehensive health organization, being a not-for-profit corporation that,
 
 (a) provides or arranges for the provision of comprehensive health care services for individuals who are enrolled as members of the patient roster of the corporation; and
 
-(b) receives funding from the Ministry of Health in accordance with the number of individuals on the roster.
+(b) receives funding from the Ministry of Health and Long-Term Care or a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006 in accordance with the number of individuals on the roster.
 
 ### Ministry of Labour
 
