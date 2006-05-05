@@ -16,7 +16,7 @@ Note: Effective January 1, 2007, the Schedule is amended by Ontario Regulation 4
 
 Regional Municipality of Peel | City of Brampton
 
-See: O. Reg. 407/94, s. 2 (as remade by O. Reg. 405/04, ss. 1, 2).
+See: O. Reg. 407/94, s. 2 (as remade by O. Reg. 405/04, ss. 1, 2.)
 
 Regional Municipality of Peel | City of Mississauga
 
@@ -27,6 +27,12 @@ County of Essex | City of Windsor
 Towns of: Belle River and Tecumseh
 
 Townships of: Anderdon, Colchester North, Maidstone, Sandwich South, Sandwich West, Tilbury North, Tilbury West and Rochester
+
+Note: Effective May 1, 2009, the Schedule is amended by Ontario Regulation 407/94, section 3 (as made by Ontario Regulation 184/06, section 1) by adding the following area:
+
+County of Frontenac | City of Kingston
+
+See: O. Reg. 407/94, s. 3 (as made by O. Reg. 184/06, ss. 1, 2).
 
 County of Glengarry | All
 
@@ -62,7 +68,7 @@ Note: Effective January 1, 2007, the Schedule is amended by Ontario Regulation 4
 
 District of Parry Sound | Municipality of Callander
 
-See: O. Reg. 407/94, s. 2 (as remade by O. Reg. 405/04, ss. 1, 2).
+See: O. Reg. 407/94, s. 2 (as remade by O. Reg. 405/04, ss. 1, 2.)
 
 District of Sudbury | All
 
