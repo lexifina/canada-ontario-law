@@ -1,3 +1,3 @@
 # Disorderly Houses Act
 
-R.S.O. 1990, CHAPTER D.13
+R.S.O. 1990, Chapter D.13
