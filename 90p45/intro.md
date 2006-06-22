@@ -1,3 +1,3 @@
 # Public Officers Act
 
-R.S.O. 1990, CHAPTER P.45
+R.S.O. 1990, Chapter P.45
