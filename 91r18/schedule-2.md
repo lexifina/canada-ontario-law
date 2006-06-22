@@ -290,7 +290,7 @@ Miscellaneous
 
 “member” means a member of the College; (“membre”)
 
-“Minister” means the Minister of Health; (“ministre”)
+“Minister” means the Minister of Health and Long-Term Care; (“ministre”)
 
 “patient relations program” means a program to enhance relations between members and patients; (“programme de relations avec les patients”)
 
@@ -300,7 +300,7 @@ Miscellaneous
 
 “Registrar” means the Registrar of the College; (“registrateur”)
 
-“registration” means the issuance of a certificate of registration. (“inscription”) 1991, c. 18, Sched. 2, s. 1 (1); 1998, c. 18, Sched. G, s. 10; 2000, c. 42, Sched., s. 34.
+“registration” means the issuance of a certificate of registration. (“inscription”) 1991, c. 18, Sched. 2, s. 1 (1); 1998, c. 18, Sched. G, s. 10; 2000, c. 42, Sched., s. 34; 2006, c. 19, Sched. L, s. 11 (2).
 
 ##### Hearing not required unless referred to
 
@@ -408,7 +408,7 @@ Miscellaneous
 
 ##### Remuneration and expenses
 
-8. Council members appointed by the Lieutenant Governor in Council shall be paid, by the Minister of Health, the expenses and remuneration the Lieutenant Governor in Council determines. 1991, c. 18, Sched. 2, s. 8.
+8. Council members appointed by the Lieutenant Governor in Council shall be paid, by the Minister, the expenses and remuneration the Lieutenant Governor in Council determines. 1991, c. 18, Sched. 2, s. 8; 2006, c. 19, Sched. L, s. 10 (1).
 
 ##### Employees
 
@@ -2108,7 +2108,7 @@ but does not include,
 
 ##### Court orders
 
-87. The College may apply to the Ontario Court (General Division) for an order directing a person to comply with a provision of the health profession Act, this Code, the Regulated Health Professions Act, 1991, the regulations under those Acts or the by-laws made under clause 94 (1) (l.2), (l.3) (s), (t), (t.1), (t.2), (v), (w) or (y). 1991, c. 18, Sched. 2, s. 87; 1998, c. 18, Sched. G, s. 20; 2000, c. 42, Sched., s. 38; 2001, c. 8, s. 224.
+87. The College may apply to the Superior Court of Justice for an order directing a person to comply with a provision of the health profession Act, this Code, the Regulated Health Professions Act, 1991, the regulations under those Acts or the by-laws made under clause 94 (1) (l.2), (l.3) (s), (t), (t.1), (t.2), (v), (w) or (y). 1991, c. 18, Sched. 2, s. 87; 1998, c. 18, Sched. G, s. 20; 2000, c. 42, Sched., s. 38; 2001, c. 8, s. 224; 2006, c. 19, Sched. C, s. 1 (1).
 
 ##### Evidence of Registrar
 
@@ -2360,7 +2360,7 @@ but does not include,
 
 (c) authorize the Quality Assurance Committee to direct the Registrar to remove terms, conditions or limitations imposed under a regulation made under clause (b) before the end of the specified period, if the Committee is satisfied that the member’s knowledge, skills and judgment are now satisfactory;
 
-(d) authorize the Quality Assurance Committee to require a member to undergo a psychological or other assessment if a matter respecting the member is referred to the Committee under subsection 26 (3) or section 79.1;
+(d) authorize the Quality Assurance Committee to require a member to undergo a psychological or other assessment if a matter respecting the member is referred to the Committee under subsection 26 (2) or section 79.1;
 
 (e) authorize the Quality Assurance Committee, after receiving a report of an assessment required under a regulation made under clause (d), to require the member to undertake specified measures, such as receiving education, therapy or counselling;
 
@@ -2372,7 +2372,7 @@ but does not include,
 
 (iii) the member refuses to undertake the specified measures;
 
-(g) authorize the Quality Assurance Committee to direct the Registrar to remove terms, conditions or limitations imposed under a regulation made under clause (f) before the end of the specified period, if the Committee is satisfied that the terms, conditions or limitations are no longer needed. 1993, c. 37, s. 27 (2); 2000, c. 26, Sched. H, s. 3 (3).
+(g) authorize the Quality Assurance Committee to direct the Registrar to remove terms, conditions or limitations imposed under a regulation made under clause (f) before the end of the specified period, if the Committee is satisfied that the terms, conditions or limitations are no longer needed. 1993, c. 37, s. 27 (2); 2000, c. 26, Sched. H, s. 3 (3); 2006, c. 19, Sched. L, s. 10 (2).
 
 ##### Same
 

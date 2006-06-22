@@ -30,7 +30,7 @@ Ministry of Community and Social Services Act
 
 Ministry of Correctional Services Act
 
-Ministry of Health Act
+Ministry of Health and Long-Term Care Act
 
 Nursing Homes Act
 
@@ -40,4 +40,4 @@ Private Hospitals Act
 
 Public Hospitals Act
 
-1992, c. 30, Sched.; 2001, c. 13, s. 30.
+1992, c. 30, Sched.; 2001, c. 13, s. 30; 2006, c. 19, Sched. B, s. 22 (11).
