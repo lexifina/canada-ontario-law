@@ -1,3 +1,3 @@
 # Warehouse Receipts Act
 
-R.S.O. 1990, CHAPTER W.3
+R.S.O. 1990, Chapter W.3
