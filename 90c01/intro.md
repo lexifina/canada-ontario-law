@@ -1,3 +1,3 @@
 # Cancer Act
 
-R.S.O. 1990, CHAPTER C.1
+R.S.O. 1990, Chapter C.1
