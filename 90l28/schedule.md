@@ -88,12 +88,10 @@ and may, subject to the Public Libraries Act, charge fees in respect of such ser
 
 The Board may, by by-law, contract for the establishment, operation and maintenance of an emergency telecommunications service that communicates with fire, police and ambulance communications services, and may charge a fee for the cost of such service.
 
-R.S.O. 1990, c. L.28, Sched.; 1998, c. 15, Sched. E, s. 15; 1998, c. 16, s. 11; 2002, c. 17, Sched. F, Table; O. Reg. 99/04.
-
 FORM 1 NOTICE OF MEETING
 
 R.S.O. 1990, c. L.28, Form 1.
 
 FORM 2 AFFIDAVIT OF ELIGIBILITY TO VOTE
 
-R.S.O. 1990, c. L.28, Form 2.
+R.S.O. 1990, c. L.28, Form 2; 2006, c. 19, Sched. Q, s. 1.

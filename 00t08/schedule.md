@@ -1,6 +1,6 @@
 ## SCHEDULE
 
-#### DESCRIPTION OF THE TARTAN OF THE PROVINCE OF ONTARIO
+#### Description of the tartan of the Province of Ontario
 
 The tartan of the Province of Ontario consists of four blocks of colour.
 
@@ -12,7 +12,7 @@ Twenty dark green;
 
 Two red;
 
-Twenty dark green;
+Twenty mid green;
 
 Four red;
 
@@ -30,7 +30,7 @@ Four red;
 
 Twenty mid green;
 
-Two red
+Two red;
 
 Twenty dark green; and
 
@@ -122,4 +122,4 @@ The pattern of the four blocks repeats across the entire width and length of the
 
 In the tartan, the shades of green represent the forests and fields of Ontario, the red represents the First Nations of Ontario, the shades of blue represent the waters of Ontario and the white represents the sky over Ontario.
 
-2000, c. 8, Sched.
+2000, c. 8, Sched.; 2006, c. 19, Sched. H, s. 2.
