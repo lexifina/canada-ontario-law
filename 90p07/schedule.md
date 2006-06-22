@@ -8,7 +8,7 @@
 
 (c) every board as defined in the Education Act, and every college, university or post-secondary school educational institution in Ontario the majority of the capital or annual operating funds of which are received from the Crown;
 
-(d) every hospital referred to in the list of hospitals and their grades and classifications maintained by the Minister of Health under the Public Hospitals Act, every private hospital operated under the authority of a licence issued under the Private Hospitals Act and every hospital established or approved by the Lieutenant Governor in Council as a community psychiatric hospital under the Community Psychiatric Hospitals Act;
+(d) every hospital referred to in the list of hospitals and their grades and classifications maintained by the Minister of Health and Long-Term Care under the Public Hospitals Act, every private hospital operated under the authority of a licence issued under the Private Hospitals Act and every hospital established or approved by the Lieutenant Governor in Council as a community psychiatric hospital under the Community Psychiatric Hospitals Act;
 
 (e) every corporation with share capital, at least 90 per cent of the issued shares of which are beneficially held by or for an employer or employers described in clauses (a) to (d), and every wholly-owned subsidiary thereof;
 
@@ -84,7 +84,7 @@
 
 (p) operates an elderly persons centre funded under the Elderly Persons Centres Act (R.S.O. 1990, c. E.4);
 
-(q) provides services for young offenders under Part IV of the Child and Family Services Act (R.S.O. 1990, c. C.11) or under an agreement with the Ministry of Community and Social Services under the Ministry of Community and Social Services Act (R.S.O. 1990, c. M.20);
+(q) provides services for young persons under Part IV of the Child and Family Services Act (R.S.O. 1990, c. C.11) or under an agreement with the Ministry of Community and Social Services under the Ministry of Community and Social Services Act (R.S.O. 1990, c. M.20);
 
 (r) provides children’s services funded and purchased by the Ministry of Community and Social Services under the Child and Family Services Act (R.S.O. 1990, c. C.11);
 
@@ -174,7 +174,7 @@
 
 32. Youth employment centres providing community-based vocational planning and counselling that receive funding from the Ministry of Education and Training.
 
-### Ministry of Health
+### Ministry of Health and Long-Term Care
 
 1. Any corporation or organization of persons, other than one that has no employees other than employees who directly or indirectly control it, that operates or provides,
 
@@ -184,7 +184,7 @@
 
 (c) a laboratory or a specimen collection centre, under the authority of a licence issued under the Laboratory and Specimen Collection Centre Licensing Act (R.S.O. 1990, c. L.1);
 
-(d) a psychiatric facility within the meaning of the Mental Health Act (R.S.O. 1990, c. M.7), the operation of which is funded in whole or in part by the Ministry of Health or a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006;
+(d) a psychiatric facility within the meaning of the Mental Health Act (R.S.O. 1990, c. M.7), the operation of which is funded in whole or in part by the Ministry of Health and Long-Term Care or a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006;
 
 (e) a home for special care established, approved or licensed under the Homes for Special Care Act (R.S.O. 1990, c. H.2);
 
@@ -196,13 +196,13 @@
 
 (g) a rehabilitation centre or a crippled children’s centre listed in the relevant Schedule to the General Regulation made under the Health Insurance Act (R.S.O. 1990, c. H.6);
 
-(h) a detoxification centre that receives funding from the Ministry of Health or a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006;
+(h) a detoxification centre that receives funding from the Ministry of Health and Long-Term Care or a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006;
 
-(h.1) services relating to addiction if the provider of the services receives funding from the Ministry of Health or a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006;
+(h.1) services relating to addiction if the provider of the services receives funding from the Ministry of Health and Long-Term Care or a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006;
 
-(i) an adult community mental health service the operation of which is, pursuant to an agreement in writing, funded in whole or in part by the Ministry of Health or a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006;
+(i) an adult community mental health service the operation of which is, pursuant to an agreement in writing, funded in whole or in part by the Ministry of Health and Long-Term Care or a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006;
 
-(j) a placement service the operation of which is, pursuant to a “Placement Co-ordination Service Agreement” or other agreement in writing, funded in whole or in part by the Ministry of Health or a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006.
+(j) a placement service the operation of which is, pursuant to a “Placement Co-ordination Service Agreement” or other agreement in writing, funded in whole or in part by the Ministry of Health and Long-Term Care or a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006.
 
 2. Repealed: 2006, c. 4, s. 50 (3).
 
