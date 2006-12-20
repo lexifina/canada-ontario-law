@@ -16,7 +16,7 @@ Note: Effective January 1, 2007, the Schedule is amended by Ontario Regulation 4
 
 Regional Municipality of Peel | City of Brampton
 
-See: O. Reg. 407/94, s. 2 (as remade by O. Reg. 405/04, ss. 1, 2.)
+See: O. Reg. 407/94, s. 2 (as remade by O. Reg. 405/04, ss. 1, 2).
 
 Regional Municipality of Peel | City of Mississauga
 
@@ -64,11 +64,11 @@ District of Kenora | Township of Ignace
 
 District of Nippissing | All
 
-Note: Effective January 1, 2007, the Schedule is amended by Ontario Regulation 407/94, section 2 (as remade by Ontario Regulation 405/04, section 1) by adding the following area:
+Note: Effective January 1, 2007, the Schedule is amended by Ontario Regulation 407/94, section 2 (as remade by Ontario Regulation 405/04, section 1 by adding the following area:
 
 District of Parry Sound | Municipality of Callander
 
-See: O. Reg. 407/94, s. 2 (as remade by O. Reg. 405/04, ss. 1, 2.)
+See: O. Reg. 407/94, s. 2 (as remade by O. Reg. 405/04, ss. 1, 2).
 
 District of Sudbury | All
 
