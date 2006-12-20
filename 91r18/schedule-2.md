@@ -54,6 +54,34 @@ Registration
 
 22. | Registration hearings or reviews
 
+22.1 | Definitions
+
+22.2 | Fair registration practices: general duty
+
+22.3 | Information
+
+22.4 | Qualifications
+
+22.5 | Functions
+
+22.6 | Review of practices
+
+22.7 | Fair registration practices reports
+
+22.8 | Audits
+
+22.9 | Filing of reports by College
+
+22.10 | Form of reports
+
+22.11 | Certification of report
+
+22.12 | Offences
+
+22.13 | Immunity
+
+22.14 | Limitation on powers
+
 23. | Register
 
 24. | Suspension for non-payment of fees
@@ -328,7 +356,7 @@ Miscellaneous
 
 1.1 The purpose of the provisions of this Code with respect to sexual abuse of patients by members is to encourage the reporting of such abuse, to provide funding for therapy and counselling for patients who have been sexually abused by members and, ultimately, to eradicate the sexual abuse of patients by members. 1993, c. 37, s. 5.
 
-### College
+College
 
 ##### College is body corporate
 
@@ -482,7 +510,7 @@ Miscellaneous
 
 (2) A person whose certificate of registration is suspended continues to be subject to the jurisdiction of the College for incapacity and for professional misconduct or incompetence referable to the time when the person was a member or to the period of the suspension. 1991, c. 18, Sched. 2, s. 14.
 
-### Registration
+Registration
 
 ##### Registration
 
@@ -634,7 +662,7 @@ Miscellaneous
 
 ##### Registration hearings or reviews
 
-22. (1) This section applies to a hearing or review by the Board required by an applicant under subsection 21 (1).
+22. (1) This section applies to a hearing or review by the Board required by an applicant under subsection 21 (1). 1991, c. 18, Sched. 2, s. 22 (1).
 
 ##### Procedural provisions
 
@@ -648,7 +676,7 @@ Miscellaneous
 
 4. Section 50 (members of panel who participate).
 
-5. Section 55 (release of evidence).
+5. Section 55 (release of evidence). 1991, c. 18, Sched. 2, s. 22 (2).
 
 ##### Idem
 
@@ -658,7 +686,7 @@ Miscellaneous
 
 2. Section 47 (sexual misconduct witnesses).
 
-3. Section 48 (transcript of hearings). 1991, c. 18, Sched. 2, s. 22 (1-3).
+3. Section 48 (transcript of hearings). 1991, c. 18, Sched. 2, s. 22 (3).
 
 ##### Same
 
@@ -670,11 +698,11 @@ Miscellaneous
 
 ##### Findings of fact
 
-(4) The findings of fact in a hearing shall be based exclusively on evidence admissible or matters that may be noticed under sections 15 and 16 of the Statutory Powers Procedure Act.
+(4) The findings of fact in a hearing shall be based exclusively on evidence admissible or matters that may be noticed under sections 15 and 16 of the Statutory Powers Procedure Act. 1991, c. 18, Sched. 2, s. 22 (4).
 
 ##### Idem
 
-(5) The findings of fact in a review shall be based exclusively on the application and documentary evidence admissible or matters that may be noticed under sections 15 and 16 of the Statutory Powers Procedure Act.
+(5) The findings of fact in a review shall be based exclusively on the application and documentary evidence admissible or matters that may be noticed under sections 15 and 16 of the Statutory Powers Procedure Act. 1991, c. 18, Sched. 2, s. 22 (5).
 
 ##### Disposal by Board
 
@@ -686,19 +714,19 @@ Miscellaneous
 
 3. Requiring the Registration Committee to make an order directing the Registrar to issue a certificate of registration to the applicant and to impose any terms, conditions and limitations the Board considers appropriate.
 
-4. Referring the matter back to the Registration Committee for further consideration by a panel, together with any recommendations the Board considers appropriate.
+4. Referring the matter back to the Registration Committee for further consideration by a panel, together with any recommendations the Board considers appropriate. 1991, c. 18, Sched. 2, s. 22 (6).
 
 ##### Idem
 
-(7) The Board may make an order under paragraph 3 of subsection (6) only if the Board finds that the applicant substantially qualifies for registration and that the panel has exercised its powers improperly.
+(7) The Board may make an order under paragraph 3 of subsection (6) only if the Board finds that the applicant substantially qualifies for registration and that the panel has exercised its powers improperly. 1991, c. 18, Sched. 2, s. 22 (7).
 
 ##### Limitation on order
 
-(8) The Board, in making an order under subsection (6), shall not require the Registration Committee to direct the Registrar to issue a certificate of registration to an applicant who does not meet a registration requirement that is prescribed as a non-exemptible requirement.
+(8) The Board, in making an order under subsection (6), shall not require the Registration Committee to direct the Registrar to issue a certificate of registration to an applicant who does not meet a registration requirement that is prescribed as a non-exemptible requirement. 1991, c. 18, Sched. 2, s. 22 (8).
 
 ##### Parties
 
-(9) The College and the applicant are parties to a hearing or review. 1991, c. 18, Sched. 2, s. 22 (4-9).
+(9) The College and the applicant are parties to a hearing or review. 1991, c. 18, Sched. 2, s. 22 (9).
 
 ##### Register
 
@@ -782,7 +810,7 @@ ii. in which a member was required to pay a fine or attend to be reprimanded or 
 
 24. If a member fails to pay a fee that he or she is required to pay in accordance with the by-laws, the Registrar shall give the member notice of default and of intention to suspend the member and may suspend the member’s certificate of registration for failure to pay the fee two months after notice is given. 1998, c. 18, Sched. G, s. 14.
 
-### Complaints
+Complaints
 
 ##### Panel for investigation of complaints
 
@@ -996,7 +1024,7 @@ ii. in which a member was required to pay a fine or attend to be reprimanded or 
 
 (2) The Board shall give its decision and reasons in writing to the parties and the Complaints Committee. 1991, c. 18, Sched. 2, s. 35.
 
-### Discipline
+Discipline
 
 ##### Executive Committee referral
 
@@ -1316,7 +1344,7 @@ v. encouragement of the patient by the member to masturbate in the presence of t
 
 (3) The College shall not publish the member’s name unless it is required to do so under subsection (2). 1991, c. 18, Sched. 2, s. 56.
 
-### Incapacity
+Incapacity
 
 ##### Registrar’s inquiry
 
@@ -1470,7 +1498,7 @@ v. encouragement of the patient by the member to masturbate in the presence of t
 
 (2) In making an order under subsection (1), a panel may specify criteria to be satisfied for the removal of a suspension or the removal of terms, conditions and limitations imposed on a member’s certificate of registration. 1991, c. 18, Sched. 2, s. 69.
 
-### Appeals to Court
+Appeals to Court
 
 ##### Appeals from decisions
 
@@ -1492,7 +1520,7 @@ v. encouragement of the patient by the member to masturbate in the presence of t
 
 71.1 Section 71 also applies to an order made by a panel of the Discipline Committee because of a finding that a member has committed sexual abuse of the kind described in subparagraph i, ii, iii or iv of paragraph 2 of subsection 51 (5). 1993, c. 37, s. 17.
 
-### Reinstatement
+Reinstatement
 
 ##### Applications for reinstatement
 
@@ -1608,7 +1636,7 @@ v. encouragement of the patient by the member to masturbate in the presence of t
 
 (2) This section does not apply with respect to a revocation for sexual abuse of a patient. 1993, c. 37, s. 20.
 
-### Registrar’s Powers of Investigation
+Registrar’s Powers of Investigation
 
 ##### Investigators
 
@@ -1696,7 +1724,7 @@ v. encouragement of the patient by the member to masturbate in the presence of t
 
 (c) the Board if the investigator was appointed under clause 75 (c) by the Board exercising the Registrar’s powers under subsection 28 (4). 1991, c. 18, Sched. 2, s. 79.
 
-### Quality Assurance Committee
+Quality Assurance Committee
 
 ##### Reference to Quality Assurance Committee
 
@@ -1832,7 +1860,7 @@ but does not include,
 
 (8) No action or other proceeding may be instituted against a person who in good faith discloses information to a Quality Assurance Committee at the request of the Committee or for the purposes of assisting the Committee in carrying out its functions. 2004, c. 3, Sched. B, s. 11 (2).
 
-### Patient Relations Program
+Patient Relations Program
 
 ##### Patient relations program
 
@@ -1862,7 +1890,7 @@ but does not include,
 
 85. The Patient Relations Committee shall advise the Council with respect to the patient relations program. 1991, c. 18, Sched. 2, s. 85.
 
-### Reporting of Health Professionals
+Reporting of Health Professionals
 
 ##### Reporting by members
 
@@ -1940,7 +1968,7 @@ but does not include,
 
 85.6 No action or other proceeding shall be instituted against a person for filing a report in good faith under section 85.1, 85.2, 85.4 or 85.5. 1993, c. 37, s. 23.
 
-### Funding for Therapy and Counselling
+Funding for Therapy and Counselling
 
 ##### Funding provided by College
 
@@ -2004,7 +2032,7 @@ but does not include,
 
 (13) The eligible person shall not be required to appear or testify in the proceeding. 1993, c. 37, s. 23.
 
-### Health Profession Corporations
+Health Profession Corporations
 
 ##### Professional corporations
 
@@ -2086,7 +2114,7 @@ but does not include,
 
 (3) A health profession corporation shall not practise a health profession when it does not satisfy the requirements for a professional corporation under subsection 3.2 (2) of the Business Corporations Act or a requirement established under subsection 3.2 (6) of that Act. 2005, c. 28, Sched. B, s. 2 (2).
 
-### Miscellaneous
+Miscellaneous
 
 ##### Right to use French
 

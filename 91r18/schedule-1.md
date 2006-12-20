@@ -44,4 +44,10 @@ Psychology Act, 1991 | Psychology
 
 Respiratory Therapy Act, 1991 | Respiratory Therapy
 
+Note: On a day to be named by proclamation of the Lieutenant Governor, Schedule 1 is amended by the Statutes of Ontario, 2006, chapter 27, subsection 18 (2) by adding the following:
+
+Traditional Chinese Medicine Act, 2006 | Traditional Chinese Medicine
+
+See: 2006, c. 27, ss. 18 (2), 20 (2).
+
 1991, c. 18, Sched. 1; 1998, c. 18, Sched. G, s. 9.
