@@ -24,13 +24,13 @@
 
 #### APPENDIX
 
-### Ministry of the Attorney General
+Ministry of the Attorney General
 
 1. Community legal clinics that receive funding from the legal aid plan established under the Legal Aid Act.
 
 2. Supervised access centres that receive funding from the Ministry of the Attorney General.
 
-### Ministry of Citizenship, Culture and Recreation
+Ministry of Citizenship, Culture and Recreation
 
 1. Organizations providing services for immigrants and refugees that receive funding through the Newcomer Settlement Program of the Ministry of Citizenship, Culture and Recreation.
 
@@ -48,7 +48,7 @@
 
 8. The Southern Ontario Library Service Board.
 
-### Ministry of Community and Social Services
+Ministry of Community and Social Services
 
 1. Any corporation or organization of persons, other than one that has no employees other than employees who directly or indirectly control it, that,
 
@@ -100,13 +100,13 @@
 
 5. District Welfare Administration Boards operating under the District Welfare Administration Boards Act (R.S.O. 1990, c. D.15).
 
-### Ministry of Economic Development, Trade and Tourism
+Ministry of Economic Development, Trade and Tourism
 
 1. Metropolitan Toronto Convention Centre.
 
 2. The St. Clair Parkway Commission.
 
-### Ministry of Education and Training
+Ministry of Education and Training
 
 1. Algoma College.
 
@@ -174,7 +174,7 @@
 
 32. Youth employment centres providing community-based vocational planning and counselling that receive funding from the Ministry of Education and Training.
 
-### Ministry of Health and Long-Term Care
+Ministry of Health and Long-Term Care
 
 1. Any corporation or organization of persons, other than one that has no employees other than employees who directly or indirectly control it, that operates or provides,
 
@@ -244,13 +244,13 @@
 
 (b) receives funding from the Ministry of Health and Long-Term Care or a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006 in accordance with the number of individuals on the roster.
 
-### Ministry of Labour
+Ministry of Labour
 
 1. Pay Equity Advocacy and Legal Services.
 
 2. A help centre, being an employer providing employment and vocational counselling services to adults that receives funding from the Ontario Help Centre Program of the Ministry of Labour.
 
-### Ministry of Municipal Affairs and Housing
+Ministry of Municipal Affairs and Housing
 
 1. Any authority, board, commission, corporation, office, person or organization of persons which operates or provides,
 
@@ -262,11 +262,11 @@
 
 3. Toronto District Heating Corporation.
 
-### Ministry of Natural Resources
+Ministry of Natural Resources
 
 1. Conservation Authorities established under the Conservation Authorities Act (R.S.O. 1990, c. C.27).
 
-### Ministry of the Solicitor General and Correctional Services
+Ministry of the Solicitor General and Correctional Services
 
 1. Any agency, corporation or organization of persons, other than one that has no employees other than employees who directly or indirectly control it, that, under funding from the Ministry of the Solicitor General and Correctional Services,
 
@@ -276,6 +276,6 @@
 
 2. Sexual assault centres.
 
-### Office Responsible for Women’s Issues
+Office Responsible for Women’s Issues
 
 1. Any corporation or organization of persons, other than one that has no employees other than employees who directly or indirectly control it, that receives funding from the program administered by the Office Responsible for Women’s Issues and known as Women’s Centres Program: Investing in Women’s Futures and that provides counselling, referral or information services for women.
