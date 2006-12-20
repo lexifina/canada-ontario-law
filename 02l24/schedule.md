@@ -10,6 +10,12 @@ Business Corporations Act | subsections 157 (2), 185 (18) and (19), 188 (9), (13
 
 Business Practices Act | subsection 4 (5)
 
+Note: On a day to be named by proclamation of the Lieutenant Governor, the Schedule is amended by the Statutes of Ontario, 2006, chapter 32, Schedule C, section 29 by adding the following:
+
+City of Toronto Act, 2006 | subsections 214 (4), 250 (2) and 351 (4)
+
+See: 2006, c. 32, Sched. C, ss. 29, 71 (3).
+
 Commodity Futures Act | section 60.4
 
 Community Small Business Investment Funds Act | subsections 40 (8) and (9)
