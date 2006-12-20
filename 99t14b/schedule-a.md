@@ -1,12 +1,10 @@
-## SCHEDULE A
-
-#### THE MUNICIPAL AREA
+## SCHEDULE A THE MUNICIPAL AREA
 
 #### (Definition of “municipal area” in section 1)
 
 All of that part of the City of Nanticoke as it exists on December 31, 2000, that lies to the east of a line described as follows:
 
-### Description:
+Description:
 
 BEGINNING at the intersection of the centreline of Regional Road 74 with the southwesterly limit of the County of Brant;
 
