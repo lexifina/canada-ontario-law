@@ -1,3 +1,3 @@
 # MPPs Pension Act, 1996
 
-S.O. 1996, CHAPTER 6 Schedule A
+S.O. 1996, Chapter 6 Schedule A
