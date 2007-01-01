@@ -1,3 +1,3 @@
 # Pounds Act
 
-R.S.O. 1990, CHAPTER P.17
+R.S.O. 1990, Chapter P.17
