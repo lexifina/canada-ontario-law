@@ -728,6 +728,268 @@ Registration
 
 (9) The College and the applicant are parties to a hearing or review. 1991, c. 18, Sched. 2, s. 22 (9).
 
+##### Definitions
+
+22.1 In this section and sections 22.2 to 22.14,
+
+“audit” means an audit required under section 22.8; (“vérification”)
+
+“auditor” means an auditor appointed under section 22.8; (“vérificateur”)
+
+“Fairness Commissioner” means the Fairness Commissioner appointed under the Fair Access to Regulated Professions Act, 2006; (“commissaire à l’équité”)
+
+“fair registration practices report” means a report required under section 22.7; (“rapport sur les pratiques d’inscription équitables”)
+
+“internationally trained individual” means an individual who has been trained in a country other than Canada to practise a health profession and who has applied for, or who intends to apply for, registration by a College; (“particulier formé à l’étranger”)
+
+“personal information” has the same meaning as in the Freedom of Information and Protection of Privacy Act; (“renseignements personnels”)
+
+“record” means a record as defined in the Freedom of Information and Protection of Privacy Act; (“document”)
+
+“regulations” means the regulations made under clauses 43 (1) (h) to (k) of the Regulated Health Professions Act, 1991. (“règlements”) 2006, c. 31, s. 35 (3).
+
+##### Fair registration practices: general duty
+
+22.2 The College has a duty to provide registration practices that are transparent, objective, impartial and fair. 2006, c. 31, s. 35 (3).
+
+##### Information
+
+22.3 The College shall provide information to individuals who are applicants for registration with respect to the requirements for registration, the procedures for applying and the amount of time that the registration process usually takes. 2006, c. 31, s. 35 (3).
+
+##### Qualifications
+
+22.4 (1) The College shall make information publicly available on what documentation of qualifications must accompany an application and what alternatives may be acceptable to the College if an applicant cannot obtain the required documentation for reasons beyond his or her control. 2006, c. 31, s. 35 (3).
+
+##### Same
+
+(2) If the College makes its own assessment of qualifications, it shall do so in a way that is transparent, objective, impartial and fair and, if it relies on a third party to assess qualifications, it shall take reasonable measures to ensure that the third party makes the assessment in a way that is transparent, objective, impartial and fair. 2006, c. 31, s. 35 (3).
+
+##### Same
+
+(3) The College shall ensure that individuals assessing qualifications and making registration decisions or reviewing decisions have received training that includes, where appropriate,
+
+(a) training on how to assess such qualifications and make such decisions;
+
+(b) training in any special considerations that may apply in the assessment of applications and the process for applying those considerations. 2006, c. 31, s. 35 (3).
+
+##### Functions
+
+22.5 (1) It is the function of the Fairness Commissioner to,
+
+(a) assess the registration practices of a College based on its obligations under this Code and the regulations;
+
+(b) specify audit standards, the scope of audits, times when fair registration practices reports and auditors’ reports shall be filed, the form of all required reports and certificates and the information that they must contain;
+
+(c) establish eligibility requirements that a person must meet to be qualified to conduct audits;
+
+(d) establish a roster of persons who in the opinion of the Fairness Commissioner have satisfied the eligibility requirements established under clause (c);
+
+(e) consult with Colleges on the cost, scope and timing of audits;
+
+(f) monitor third parties relied on by a College to assess the qualifications of individuals applying for registration by the College to help ensure that assessments are based on the obligations of the College under this Code and the regulations;
+
+(g) advise a College or third parties relied on by a College to assess qualifications with respect to matters related to registration practices under this Code and the regulations;
+
+(h) provide advice and recommendations to the Minister, including advice and recommendations that a College do or refrain from doing any action respecting a contravention by a College if the Fairness Commissioner determines that the College has failed to comply with any requirement imposed on it by sections 22.2 to 22.11; and
+
+(i) perform such other functions as may be assigned by the Lieutenant Governor in Council. 2006, c. 31, s. 35 (3).
+
+##### Scope
+
+(2) A matter specified under clause (1) (b) or established under clause (1) (c) or (d) may be general or specific in its application and may be limited as to time and place. 2006, c. 31, s. 35 (3).
+
+##### Same
+
+(3) The Fairness Commissioner shall give notice to the College of all matters specified under clause (1) (b) and established under clauses (1) (c) and (d) and the notice may be given in the manner he or she considers appropriate. 2006, c. 31, s. 35 (3).
+
+##### Review of practices
+
+22.6 (1) The College shall undertake reviews of its registration practices at such times as the Fairness Commissioner may specify to ensure that the registration practices are transparent, objective, impartial and fair. 2006, c. 31, s. 35 (3).
+
+##### Same
+
+(2) The review shall include an analysis of,
+
+(a) the extent to which the requirements for registration are necessary for or relevant to the practice of the profession;
+
+(b) the efficiency and timeliness of decision-making; and
+
+(c) the reasonableness of the fees charged by the College in respect of applications. 2006, c. 31, s. 35 (3).
+
+##### Reports
+
+(3) The College shall file a copy of the results of the review with the Fairness Commissioner within 30 days after the completion of the review. 2006, c. 31, s. 35 (3).
+
+##### Fair registration practices reports
+
+22.7 (1) The College shall prepare a fair registration practices report annually or at such other times as the Fairness Commissioner may specify. 2006, c. 31, s. 35 (3).
+
+##### Same
+
+(2) The College may combine its fair registration practices report with such other report of the College as the Fairness Commissioner may permit and in such case an audit shall be confined to those parts of the report that relate to registration practices. 2006, c. 31, s. 35 (3).
+
+##### Other reports
+
+(3) The Fairness Commissioner may require that the College provide the Fairness Commissioner with reports or information relating to the College’s compliance with sections 15 to 22.11 and the regulations and the College shall prepare and file the reports with, or provide the information to, the Fairness Commissioner. 2006, c. 31, s. 35 (3).
+
+##### Same
+
+(4) Reports and information required under subsection (3) are in addition to the reports required under subsection (1) and section 22.8. 2006, c. 31, s. 35 (3).
+
+##### Audits
+
+22.8 (1) Every three years or at such other times as the Fairness Commissioner may specify, the Fairness Commissioner shall give notice to the College that an audit must be conducted in respect of its registration practices and of its compliance with this Code and the regulations. 2006, c. 31, s. 35 (3).
+
+##### Notice of audit
+
+(2) The Fairness Commissioner shall give the notice required by subsection (1) at least 90 days before the audit is to begin and the notice shall state,
+
+(a) that the College must choose and appoint an auditor from the roster established by the Fairness Commissioner by the date specified in the notice;
+
+(b) that if the College fails to choose and appoint an auditor by the date specified in the notice that the Fairness Commissioner will choose the auditor;
+
+(c) the scope of the audit and the standards that will apply;
+
+(d) the date by which the audit must be completed; and
+
+(e) that the College is responsible for the payment of the auditor’s fees and expenses. 2006, c. 31, s. 35 (3).
+
+##### Choice of auditor
+
+(3) The College shall, by the date specified in the notice, choose and appoint an auditor from the roster established by the Fairness Commissioner and notify the Fairness Commissioner of its choice. 2006, c. 31, s. 35 (3).
+
+##### Failure to choose
+
+(4) If the College fails to notify the Fairness Commissioner of the name of the auditor it has chosen and appointed by the date specified in the notice, the Fairness Commissioner shall choose the auditor and notify the College of his or her choice and the auditor shall be deemed to have been appointed by the College. 2006, c. 31, s. 35 (3).
+
+##### Auditor’s duties
+
+(5) The auditor chosen and appointed under subsection (3) or (4) shall begin the audit promptly, shall conduct it in accordance with the scope of the audit and the audit standards set out in the notice under subsection (2) and shall complete it by the date set out in the notice. 2006, c. 31, s. 35 (3).
+
+##### Collection of personal information
+
+(6) An auditor may collect personal information, directly or indirectly, only for the purpose of an audit required under this section, but an auditor shall not retain any personal information after completing the audit and shall not include any personal information in any draft report or final report submitted in accordance with this section. 2006, c. 31, s. 35 (3).
+
+##### Duty to furnish information
+
+(7) A College shall co-operate with the auditor and shall,
+
+(a) produce such records for, and provide such other information to, the auditor regarding its registration practices and any other matters related to compliance by the College with its obligations under sections 15 to 22.11 and the regulations as are reasonably necessary for the auditor to perform his or her duties under this Code, including any reports required from the College under section 22.6, 22.7 or 22.9 or the regulations; and
+
+(b) provide the auditor with any assistance that is reasonably necessary, including assistance in using any data storage, processing or retrieval device or system, to produce a record in readable form. 2006, c. 31, s. 35 (3).
+
+##### Limitation
+
+(8) Despite subsection (7), a College may refuse access to a record if,
+
+(a) the record or any information in the record is subject to a legal privilege that restricts disclosure of the record or the information; or
+
+(b) an Act of Ontario or of Canada or a court order prohibits disclosure of the record or any information in the record in the circumstances. 2006, c. 31, s. 35 (3).
+
+##### Draft report
+
+(9) The auditor shall prepare a draft report on the audit and provide a copy of it to the College, together with a notice that the College may, within 30 days, make submissions to the auditor on the draft report. 2006, c. 31, s. 35 (3).
+
+##### Same
+
+(10) The auditor shall consider the submissions, if any, made by the College and may make any changes the auditor considers appropriate before finalizing the report. 2006, c. 31, s. 35 (3).
+
+##### Auditor’s reports
+
+(11) The auditor shall make a final report on the audit and shall file it with the Fairness Commissioner and provide a copy to the College to which the audit relates. 2006, c. 31, s. 35 (3).
+
+##### Auditor’s certificate
+
+(12) The auditor shall file a certificate with the Fairness Commissioner certifying that the auditor made the audit in accordance with this Act and the regulations and that he or she has provided a copy of the auditor’s report to the College. 2006, c. 31, s. 35 (3).
+
+##### When audit is complete
+
+(13) An audit is complete when the auditor has provided a copy of the final report to the College to which the audit relates and has filed with the Fairness Commissioner the final report and the certificate referred to in subsection (12) and, if the College made submissions to the auditor on the draft report, a copy of the submissions made by the College. 2006, c. 31, s. 35 (3).
+
+##### Filing with Minister
+
+(14) The Fairness Commissioner shall provide the Minister of Health and Long-Term Care with a copy of all auditors’ reports within a reasonable time after receiving them. 2006, c. 31, s. 35 (3).
+
+##### Auditor’s fees and expenses
+
+(15) The College shall pay the auditor’s fees and expenses. 2006, c. 31, s. 35 (3).
+
+##### Filing of reports by College
+
+22.9 (1) The College shall file its fair registration practices reports with the Fairness Commissioner by the dates specified by the Fairness Commissioner. 2006, c. 31, s. 35 (3).
+
+##### Report available to public
+
+(2) The College shall make reports filed under subsection (1) available to the public. 2006, c. 31, s. 35 (3).
+
+##### Form of reports
+
+22.10 (1) Reports and certificates required by sections 22.7 and 22.8 and under the regulations shall be in the form and contain the information specified by the Fairness Commissioner or as may be specified in the regulations. 2006, c. 31, s. 35 (3).
+
+##### Restriction on personal information
+
+(2) Despite subsection (1), no report prepared by the College, the Fairness Commissioner or an auditor under sections 22.6 to 22.8 shall contain personal information. 2006, c. 31, s. 35 (3).
+
+##### Certification of report
+
+22.11 (1) A fair practices registration report shall include a statement certifying that all the information required to be provided in the report has been provided and that the information is accurate. 2006, c. 31, s. 35 (3).
+
+##### Signature
+
+(2) A person with authority to sign on behalf of the College shall sign the statement required by subsection (1). 2006, c. 31, s. 35 (3).
+
+##### Offences
+
+22.12 (1) A person is guilty of an offence who,
+
+(a) furnishes false or misleading information in a fair registration practices report or other report or record filed with the Fairness Commissioner under this Code or otherwise provides false or misleading information to the Fairness Commissioner or to a person employed by the Fairness Commissioner or providing services under an agreement referred to in subsection 16 (3) of the Fair Access to Regulated Professions Act, 2006;
+
+(b) obstructs the Fairness Commissioner or a person employed by the Fairness Commissioner or providing services under an agreement referred to in subsection 16 (3) of the Fair Access to Regulated Professions Act, 2006 in exercising powers or performing duties under this Code;
+
+(c) furnishes false or misleading information to an auditor;
+
+(d) obstructs, fails to co-operate with or assist an auditor; or
+
+(e) contravenes subsection (2). 2006, c. 31, s. 35 (3).
+
+##### Same, intimidation
+
+(2) No person shall intimidate, coerce, penalize or discriminate against another person because that person,
+
+(a) has co-operated or may co-operate with the Fairness Commissioner, an auditor or a person employed by the Fairness Commissioner or providing services under an agreement referred to in subsection 16 (3) of the Fair Access to Regulated Professions Act, 2006 in exercising powers or performing duties under this Code; or
+
+(b) has provided, or may provide, records or other information in the course of an audit or other activity or proceeding under this Code in respect of fair registration practices. 2006, c. 31, s. 35 (3).
+
+##### Penalties
+
+(3) Every person who is guilty of an offence under this Code is liable on conviction,
+
+(a) to a fine of not more than $50,000; or
+
+(b) if the person is a corporation, to a fine of not more than $100,000. 2006, c. 31, s. 35 (3).
+
+##### Consent to prosecution
+
+(4) No prosecution for an offence under this Act shall be instituted except with the consent in writing of the Attorney General. 2006, c. 31, s. 35 (3).
+
+##### Immunity
+
+22.13 (1) No proceeding shall be commenced against the Fairness Commissioner or anyone employed by the Fairness Commissioner or providing services under an agreement referred to in subsection 16 (3) of the Fair Access to Regulated Professions Act, 2006 for any act done or omitted in good faith in the execution or intended execution of his or her duties under this Code. 2006, c. 31, s. 35 (3).
+
+##### Testimony
+
+(2) Neither the Fairness Commissioner nor anyone employed by the Fairness Commissioner or providing services under an agreement referred to in subsection 16 (3) of the Fair Access to Regulated Professions Act, 2006 is a competent or compellable witness in a civil proceeding outside this Code in connection with anything done under this Code. 2006, c. 31, s. 35 (3).
+
+##### Limitation on powers
+
+22.14 Neither the Fairness Commissioner nor anyone employed by the Fairness Commissioner or providing services under an agreement referred to in subsection 16 (3) of the Fair Access to Regulated Professions Act, 2006,
+
+(a) has power to influence a registration decision by the College or Registration Committee, to provide representation or advice to an applicant or potential applicant for registration in respect of a registration decision or to otherwise involve himself or herself in a registration decision or any review decision on behalf of an applicant or potential applicant for registration;
+
+(b) has status at any proceeding of a College, the Registration Committee, the Board, a court or other tribunal in relation to any matter arising from an application for registration; or
+
+(c) has the power to act as legal counsel or agent for any person in a proceeding described in clause (b) or in preparing for the proceeding. 2006, c. 31, s. 35 (3).
+
 ##### Register
 
 23. (1) The Registrar shall maintain a register. 1991, c. 18, Sched. 2, s. 23 (1).
