@@ -1,3 +1,3 @@
 # Drugless Practitioners Act
 
-R.S.O. 1990, CHAPTER D.18
+R.S.O. 1990, Chapter D.18
