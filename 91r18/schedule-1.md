@@ -18,6 +18,18 @@ Denturism Act, 1991 | Denturism
 
 Dietetics Act, 1991 | Dietetics
 
+Note: On a day to be named by proclamation of the Lieutenant Governor, Schedule 1 is amended by the Statutes of Ontario, 2007, chapter 10, Schedule Q, section 14 by adding the following:
+
+Homeopathy Act, 2007 | Homeopathy
+
+See: 2007, c. 10, Sched. Q, ss. 14, 15 (2).
+
+Note: On a day to be named by proclamation of the Lieutenant Governor, Schedule 1 is amended by the Statutes of Ontario, 2007, chapter 10, Schedule O, section 14 by adding the following:
+
+Kinesiology Act, 2007 | Kinesiology
+
+See: 2007, c. 10, Sched. O, ss. 14, 15 (2).
+
 Massage Therapy Act, 1991 | Massage Therapy
 
 Medical Laboratory Technology Act, 1991 | Medical Laboratory Technology
@@ -27,6 +39,12 @@ Medical Radiation Technology Act, 1991 | Medical Radiation Technology
 Medicine Act, 1991 | Medicine
 
 Midwifery Act, 1991 | Midwifery
+
+Note: On a day to be named by proclamation of the Lieutenant Governor, Schedule 1 is amended by the Statutes of Ontario, 2007, chapter 10, Schedule P, subsection 20 (3) by adding the following:
+
+Naturopathy Act, 2007 | Naturopathy
+
+See: 2007, c. 10, Sched. P, ss. 20 (3), 21 (2).
 
 Nursing Act, 1991 | Nursing
 
@@ -41,6 +59,12 @@ Pharmacy Act, 1991 | Pharmacy
 Physiotherapy Act, 1991 | Physiotherapy
 
 Psychology Act, 1991 | Psychology
+
+Note: On a day to be named by proclamation of the Lieutenant Governor, Schedule 1 is amended by the Statutes of Ontario, 2007, chapter 10, Schedule R, subsection 19 (3) by adding the following:
+
+Psychotherapy Act, 2007 | Psychotherapy
+
+See: 2007, c. 10, Sched. R, ss. 19 (3), 20 (2).
 
 Respiratory Therapy Act, 1991 | Respiratory Therapy
 
