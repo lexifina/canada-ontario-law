@@ -28,7 +28,7 @@ Note: Effective May 1, 2009, the Schedule is amended by Ontario Regulation 407/9
 
 County of Frontenac | City of Kingston
 
-See: O. Reg. 407/94, s. 3 (as made by O. Reg. 184/06, ss. 1, 2).
+See: See: O. Reg. 407/94, s. 3 (as made by O. Reg. 184/06, ss. 1, 2).
 
 County of Glengarry | All
 
