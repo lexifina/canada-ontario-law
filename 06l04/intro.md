@@ -1,6 +1,6 @@
 # Local Health System Integration Act, 2006
 
-S.o. 2006, chapter 4
+S.O. 2006, CHAPTER 4
 
 ##### Preamble
 
