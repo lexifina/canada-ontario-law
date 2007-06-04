@@ -12,6 +12,8 @@ Business Practices Act | subsection 4 (5)
 
 City of Toronto Act, 2006 | subsections 214 (4), 250 (2) and 351 (4)
 
+Civil Remedies Act, 2001 | subsections 3 (5) and 13 (7)
+
 Commodity Futures Act | section 60.4
 
 Community Small Business Investment Funds Act | subsections 40 (8) and (9)
@@ -75,8 +77,6 @@ Public Lands Act | subsection 34 (3)
 Reciprocal Enforcement of Judgments Act | subsection 2 (1)
 
 Reciprocal Enforcement of Judgments (U.K.) Act | paragraph 1 of article iii of the Schedule
-
-Remedies for Organized Crime and Other Unlawful Activities Act, 2001 | subsections 3 (5) and 13 (7)
 
 Securities Act | section 129.1, subsection 136 (5) and sections 138 and 138.14
 
