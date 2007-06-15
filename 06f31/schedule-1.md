@@ -12,6 +12,8 @@
 
 4. The Certified General Accountants Association of Ontario.
 
+4.1 The College of Early Childhood Educators.
+
 5. The College of Veterinarians of Ontario.
 
 6. The Institute of Chartered Accountants of Ontario.
@@ -34,4 +36,4 @@
 
 2. This Act first applies to the regulated professions named in paragraphs 1 to 13 of section 1 on the day section 5 of this Act comes into force.
 
-2006, c. 31, Sched. 1.
+2006, c. 31, Sched. 1; 2007, c. 7, Sched. 8, s. 69.
