@@ -2,6 +2,8 @@
 
 City of Toronto Act, 2006
 
+Clean Water Act, 2006
+
 Environmental Assessment Act
 
 Environmental Protection Act
