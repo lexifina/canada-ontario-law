@@ -1,4 +1,4 @@
-## SCHEDULE
+## schedule
 
 The land in the City of Toronto, formerly in The Municipality of Metropolitan Toronto, being composed of:
 
