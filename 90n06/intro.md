@@ -1,3 +1,3 @@
 # Notaries Act
 
-R.S.O. 1990, CHAPTER N.6
+R.S.O. 1990, Chapter N.6
