@@ -1,3 +1,3 @@
 # Ombudsman Act
 
-R.S.O. 1990, CHAPTER O.6
+R.S.O. 1990, Chapter O.6
