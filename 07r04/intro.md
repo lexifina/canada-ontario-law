@@ -1,3 +1,3 @@
 # Regulatory Modernization Act, 2007
 
-S.O. 2007, CHAPTER 4
+S.o. 2007, chapter 4
