@@ -88,6 +88,10 @@ and includes such other lottery schemes as may be prescribed; (â€œjeu de hasardâ
 
 (3)The Corporation is not authorized to borrow money on its credit or give security against property except with the approval of the Minister and the Minister of Finance. 1999, c. 12, Sched. L, s. 4 (3).
 
+##### Borrowing, approval
+
+(3.1) An approval under subsection (3) may be subject to such terms and conditions as the Minister and the Minister of Finance consider advisable. 2008, c. 7, Sched. Q, s. 1.
+
 ##### Guarantee of loan
 
 (4)Subject to the approval of the Lieutenant Governor in Council, the Minister of Finance may, upon such conditions as he or she considers proper, guarantee, on behalf of Ontario, the repayment of any loan made to the Corporation, together with interest on the loan. 1999, c. 12, Sched. L, s. 4 (4).
