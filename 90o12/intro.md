@@ -1,3 +1,3 @@
 # Ontario Educational Communications Authority Act
 
-R.S.O. 1990, CHAPTER O.12
+R.S.O. 1990, Chapter O.12
