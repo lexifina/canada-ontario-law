@@ -16,6 +16,8 @@ Community Psychiatric Hospitals Act
 
 Developmental Services Act
 
+Note: On a day to be named by proclamation of the Lieutenant Governor, the Schedule is amended by the Statutes of Ontario, 2008, chapter 14, subsection 59 (2) by striking out “Developmental Services Act”. See: 2008, c. 14, ss. 59 (2), 64.
+
 General Welfare Assistance Act
 
 Homes for Special Care Act
