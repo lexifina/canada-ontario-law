@@ -82,6 +82,12 @@ Securities Act | section 129.1, subsection 136 (5) and sections 138 and 138.14
 
 Succession Law Reform Act | section 61
 
+Note: Effective January 1, 2009, the Schedule is amended by the Statutes of Ontario, 2008, chapter 19, Schedule V, section 4 by adding the following item:
+
+Taxation Act, 2007 | section 139
+
+See: 2008, c. 19, Sched. V, ss. 4, 12.
+
 Tile Drainage Act | subsection 2 (3)
 
 Tobacco Tax Act | subsections 6 (10) and 24 (5)

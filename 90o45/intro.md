@@ -1,3 +1,3 @@
-# Ottawa Congress Centre Act
+# Ottawa Convention Centre Corporation Act
 
-R.S.O. 1990, CHAPTER O.45
+R.S.O. 1990, Chapter O.45
