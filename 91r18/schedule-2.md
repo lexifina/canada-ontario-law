@@ -12,6 +12,8 @@ College
 
 2. | College is body corporate
 
+2.1 | Duty of College
+
 3. | Objects of College
 
 3.1 | College website
@@ -415,6 +417,10 @@ College
 ##### Corporations Act
 
 (2) The Corporations Act does not apply in respect to the College. 1991, c. 18, Sched. 2, s. 2.
+
+##### Duty of College
+
+2.1 It is the duty of the College to work in consultation with the Minister to ensure, as a matter of public interest, that the people of Ontario have access to adequate numbers of qualified, skilled and competent regulated health professionals. 2008, c. 18, s. 1.
 
 ##### Objects of College
 
