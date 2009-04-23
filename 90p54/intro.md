@@ -1,3 +1,3 @@
 # Public Vehicles Act
 
-R.S.O. 1990, CHAPTER P.54
+R.S.O. 1990, Chapter P.54
