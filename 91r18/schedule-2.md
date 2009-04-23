@@ -1970,6 +1970,10 @@ Registrar’s Powers of Investigation
 
 76. (1) An investigator may inquire into and examine the practice of the member to be investigated and has, for the purposes of the investigation, all the powers of a commission under Part II of the Public Inquiries Act. 1991, c. 18, Sched. 2, s. 76 (1).
 
+##### Reasonable inquiries
+
+(1.1) An investigator may make reasonable inquiries of any person, including the member who is the subject of the investigation, on matters relevant to the investigation. 2009, c. 6, s. 1.
+
 ##### Idem
 
 (2) An investigator may, on the production of his or her appointment, enter at any reasonable time the place of practice of the member and may examine anything found there that is relevant to the investigation. 1991, c. 18, Sched. 2, s. 76 (2); 2007, c. 10, Sched. M, s. 54.
@@ -1977,6 +1981,10 @@ Registrar’s Powers of Investigation
 ##### Obstruction prohibited
 
 (3) No person shall obstruct an investigator or withhold or conceal from him or her or destroy anything that is relevant to the investigation. 1991, c. 18, Sched. 2, s. 76 (3).
+
+##### Member to co-operate
+
+(3.1) A member shall co-operate fully with an investigator. 2009, c. 6, s. 1.
 
 ##### Conflicts
 
@@ -2642,6 +2650,8 @@ Miscellaneous
 
 (h) requiring and providing for the inspection and examination of premises used in connection with the practice of the profession and of equipment, books, accounts, reports and records of members relating to their practices;
 
+(h.1) providing for the direct observation of a member in his or her practice, including the direct observation by inspectors of procedures, during the course of an inspection or examination provided for under clause (h);
+
 (i) prescribing what constitutes a conflict of interest in the practice of the profession and regulating or prohibiting the practice of the profession in cases in which there is a conflict of interest;
 
 (j) defining professional misconduct for the purposes of clause 51 (1) (c);
@@ -2668,7 +2678,7 @@ Miscellaneous
 
 (t) providing for the exemption of any member from the regulations made by the Council;
 
-(u) prescribing anything that is referred to in the health profession Act or this Code as being prescribed. 1998, c. 18, Sched. G, s. 23 (1); 2004, c. 3, Sched. B, s. 11 (3).
+(u) prescribing anything that is referred to in the health profession Act or this Code as being prescribed. 1998, c. 18, Sched. G, s. 23 (1); 2004, c. 3, Sched. B, s. 11 (3); 2009, c. 6, s. 2.
 
 ##### Standards of practice
 
