@@ -24,11 +24,7 @@ Towns of: Belle River and Tecumseh
 
 Townships of: Anderdon, Colchester North, Maidstone, Sandwich South, Sandwich West, Tilbury North, Tilbury West and Rochester
 
-Note: Effective May 1, 2009, the Schedule is amended by Ontario Regulation 407/94, section 3 (as made by Ontario Regulation 184/06, section 1) by adding the following area:
-
 County of Frontenac | City of Kingston
-
-See: See: O. Reg. 407/94, s. 3 (as made by O. Reg. 184/06, ss. 1, 2).
 
 County of Glengarry | All
 
