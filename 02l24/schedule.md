@@ -86,6 +86,8 @@ Taxation Act, 2007 | section 139
 
 Tile Drainage Act | subsection 2 (3)
 
+Tobacco Damages and Health Care Costs Recovery Act, 2009 | subsection 6 (1)
+
 Tobacco Tax Act | subsections 6 (10) and 24 (5)
 
 Trustee Act | subsection 38 (3)
