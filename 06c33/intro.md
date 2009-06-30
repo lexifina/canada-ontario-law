@@ -1,3 +1,3 @@
 # Canadian Public Accountability Board Act (Ontario), 2006
 
-S.O. 2006, CHAPTER 33 Schedule D
+S.o. 2006, chapter 33 Schedule D
