@@ -1,3 +1,3 @@
 # Algonquin Forestry Authority Act
 
-R.S.O. 1990, CHAPTER A.17
+R.S.O. 1990, Chapter A.17
