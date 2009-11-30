@@ -1,3 +1,3 @@
 # Public Sector Expenses Review Act, 2009
 
-S.O. 2009, CHAPTER 20
+S.o. 2009, chapter 20
