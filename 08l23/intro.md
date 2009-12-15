@@ -1,6 +1,6 @@
 # Lake Simcoe Protection Act, 2008
 
-S.O. 2008, CHAPTER 23
+S.o. 2008, chapter 23
 
 ##### Preamble
 
