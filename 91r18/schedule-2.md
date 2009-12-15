@@ -86,6 +86,24 @@ Registration
 
 22.14 | Limitation on powers
 
+22.15 | Definitions
+
+22.16 | Purposes
+
+22.17 | Ontario residency cannot be required
+
+22.18 | When applicant holds out-of-province certificate
+
+22.19 | Transition
+
+22.20 | Occupational standards
+
+22.21 | Notice of proposed occupational standards
+
+22.22 | Conflict
+
+22.23 | Regulations and by-laws to conform
+
 23. | Register
 
 24. | Suspension for non-payment of fees
@@ -300,7 +318,7 @@ Miscellaneous
 
 92.1 | Protection for reporters from reprisals
 
-93. | Offence
+93. | Offences
 
 93.1 | Forms
 
@@ -314,7 +332,7 @@ Miscellaneous
 
 “alternative dispute resolution process” means mediation, conciliation, negotiation, or any other means of facilitating the resolution of issues in dispute; (“processus de règlement extrajudiciaire des différends”)
 
-“Board” means the Health Professions Appeal and Review Board under the Ministry of Health Appeal and Review Boards Act, 1998; (“Commission”)
+“Board” means the Health Professions Appeal and Review Board under the Ministry of Health and Long-Term Care Appeal and Review Boards Act, 1998; (“Commission”)
 
 “by-laws” means by-laws made by the Council; (“règlements administratifs”)
 
@@ -328,7 +346,7 @@ Miscellaneous
 
 “health profession corporation” means a corporation incorporated under the Business Corporations Act that holds a valid certificate of authorization issued under the Regulated Health Professions Act, 1991 or this Code; (“société professionnelle de la santé”)
 
-“incapacitated” means, in relation to a member, that the member is suffering from a physical or mental condition or disorder that makes it desirable in the interest of the public that the member’s practice be subject to terms, conditions or limitations, or that the member no longer be permitted to practise; (“frappé d’incapacité”)
+“incapacitated” means, in relation to a member, that the member is suffering from a physical or mental condition or disorder that makes it desirable in the interest of the public that the member’s certificate of registration be subject to terms, conditions or limitations, or that the member no longer be permitted to practise; (“frappé d’incapacité”)
 
 “member” means a member of the College; (“membre”)
 
@@ -342,7 +360,7 @@ Miscellaneous
 
 “Registrar” means the Registrar of the College; (“registrateur”)
 
-“registration” means the issuance of a certificate of registration. (“inscription”) 1991, c. 18, Sched. 2, s. 1 (1); 1998, c. 18, Sched. G, s. 10; 2000, c. 42, Sched., s. 34; 2006, c. 19, Sched. L, s. 11 (2); 2007, c. 10, Sched. M, s. 17.
+“registration” means the issuance of a certificate of registration. (“inscription”) 1991, c. 18, Sched. 2, s. 1 (1); 1998, c. 18, Sched. G, s. 10; 2000, c. 42, Sched., s. 34; 2006, c. 19, Sched. L, s. 11 (2); 2007, c. 10, Sched. M, s. 17; 2009, c. 26, s. 24 (10).
 
 ##### Hearing not required unless referred to
 
@@ -396,6 +414,8 @@ College
 
 4. To develop, establish and maintain standards of knowledge and skill and programs to promote continuing evaluation, competence and improvement among the members.
 
+4.1 To develop, in collaboration and consultation with other Colleges, standards of knowledge, skill and judgment relating to the performance of controlled acts common among health professions to enhance interprofessional collaboration, while respecting the unique character of individual health professions and their members.
+
 5. To develop, establish and maintain standards of professional ethics for the members.
 
 6. To develop, establish and maintain programs to assist individuals to exercise their rights under this Code and the Regulated Health Professions Act, 1991.
@@ -408,7 +428,7 @@ College
 
 10. To develop, establish, and maintain standards and programs to promote the ability of members to respond to changes in practice environments, advances in technology and other emerging issues.
 
-11. Any other objects relating to human health care that the Council considers desirable. 1991, c. 18, Sched. 2, s. 3 (1); 2007, c. 10, Sched. M, s. 18.
+11. Any other objects relating to human health care that the Council considers desirable. 1991, c. 18, Sched. 2, s. 3 (1); 2007, c. 10, Sched. M, s. 18; 2009, c. 26, s. 24 (11).
 
 ##### Duty
 
@@ -500,6 +520,10 @@ College
 
 (1.1) For greater certainty, where, at the time subsection 21 (1) of Schedule M to the Health System Improvements Act, 2007 comes into force, any matter that is before the Board based on anything done by the Committee formerly known as the Complaints Committee shall proceed as if the Board had the authority to do anything it could have done before the coming into force of sections 30 to 32 of that Schedule. 2007, c. 10, Sched. M, s. 21 (2).
 
+##### Same
+
+(1.2) Where a regulation made under the Regulated Health Professions Act, 1991 or a health profession Act that was made before the coming into force of subsection 21 (1) of Schedule M to the Health System Improvements Act, 2007 refers to the Complaints Committee, the reference shall be deemed to be to the Inquiries, Complaints and Reports Committee. 2009, c. 26, s. 24 (12).
+
 ##### Appointment
 
 (2) The Council shall appoint the members of the committees. 1991, c. 18, Sched. 2, s. 10 (2).
@@ -562,21 +586,23 @@ Registration
 
 (a) has doubts, on reasonable grounds, about whether the applicant fulfils the registration requirements;
 
+(a.1) is of the opinion that terms, conditions or limitations should be imposed on a certificate of registration of the applicant and the applicant is an individual described in subsection 22.18 (1);
+
 (b) is of the opinion that terms, conditions or limitations should be imposed on a certificate of registration of the applicant and the applicant does not consent to the imposition; or
 
-(c) proposes to refuse the application. 1991, c. 18, Sched. 2, s. 15 (2); 1993, c. 37, s. 6.
+(c) proposes to refuse the application. 1991, c. 18, Sched. 2, s. 15 (2); 1993, c. 37, s. 6; 2009, c. 24, s. 33 (3).
 
 ##### Notice to applicant
 
-(3) If the Registrar refers an application to the Registration Committee, he or she shall give the applicant notice of the statutory grounds for the referral and of the applicant’s right to make written submissions under subsection 18 (1).
+(3) If the Registrar refers an application to the Registration Committee, he or she shall give the applicant notice of the statutory grounds for the referral and of the applicant’s right to make written submissions under subsection 18 (1). 1991, c. 18, Sched. 2, s. 15 (3).
 
 ##### Terms, etc., attached on consent
 
-(4) If the Registrar is of the opinion that a certificate of registration should be issued to an applicant with terms, conditions or limitations imposed and the applicant consents to the imposition, the Registrar may do so with the approval of a panel of the Registration Committee selected by the chair for the purpose.
+(4) If the Registrar is of the opinion that a certificate of registration should be issued to an applicant with terms, conditions or limitations imposed and the applicant consents to the imposition, the Registrar may do so with the approval of a panel of the Registration Committee selected by the chair for the purpose. 1991, c. 18, Sched. 2, s. 15 (4).
 
 ##### Panels for consent
 
-(5) Subsections 17 (2) and (3) apply with respect to the panel mentioned in subsection (4). 1991, c. 18, Sched. 2, s. 15 (3-5).
+(5) Subsections 17 (2) and (3) apply with respect to the panel mentioned in subsection (4). 1991, c. 18, Sched. 2, s. 15 (5).
 
 ##### Disclosure of application file
 
@@ -794,7 +820,7 @@ Registration
 
 ##### Information
 
-22.3 The College shall provide information to individuals who are applicants for registration with respect to the requirements for registration, the procedures for applying and the amount of time that the registration process usually takes. 2006, c. 31, s. 35 (3).
+22.3 The College shall provide information on its website with respect to the requirements for registration, the procedures for applying for registration and the amount of time that the registration process usually takes. 2009, c. 24, s. 33 (4).
 
 ##### Qualifications
 
@@ -1002,15 +1028,15 @@ Registration
 
 ##### Penalties
 
-(3) Every person who is guilty of an offence under this Code is liable on conviction,
+(3) Every person who is guilty of an offence under subsection (1) is liable on conviction,
 
 (a) to a fine of not more than $50,000; or
 
-(b) if the person is a corporation, to a fine of not more than $100,000. 2006, c. 31, s. 35 (3).
+(b) if the person is a corporation, to a fine of not more than $100,000. 2006, c. 31, s. 35 (3); 2009, c. 33, Sched. 18, s. 29 (1).
 
 ##### Consent to prosecution
 
-(4) No prosecution for an offence under this Act shall be instituted except with the consent in writing of the Attorney General. 2006, c. 31, s. 35 (3).
+(4) No prosecution for an offence under subsection (1) shall be instituted except with the consent in writing of the Attorney General. 2006, c. 31, s. 35 (3); 2009, c. 33, Sched. 18, s. 29 (2).
 
 ##### Immunity
 
@@ -1029,6 +1055,166 @@ Registration
 (b) has status at any proceeding of a College, the Registration Committee, the Board, a court or other tribunal in relation to any matter arising from an application for registration; or
 
 (c) has the power to act as legal counsel or agent for any person in a proceeding described in clause (b) or in preparing for the proceeding. 2006, c. 31, s. 35 (3).
+
+##### Definitions
+
+22.15 (1) In this section and in sections 22.16 to 22.23,
+
+“Agreement on Internal Trade” means the Agreement on Internal Trade signed in 1994 by the governments of Canada, the provinces of Canada, the Northwest Territories and the Yukon Territory, as amended from time to time; (“Accord sur le commerce intérieur”)
+
+“occupational standards”, in relation to a certificate of registration, means the knowledge, skills and judgment that an individual must possess in order to be issued the certificate of registration, as established by the College, and against which the College measures the qualifications of an applicant for registration when assessing whether the applicant is qualified to practise the profession to the extent permitted by the certificate of registration; (“normes professionnelles”)
+
+“out-of-province certificate” means a certificate, licence, registration, or other form of official recognition that,
+
+(a) attests to an individual being qualified to practise the profession and authorizes the individual to practise the profession, use a title or designation relating to the profession, or both, and
+
+(b) is granted to the individual by a body or individual that is authorized under an Act of Canada or of a province or territory of Canada that is a party to the Agreement on Internal Trade, other than Ontario, to grant such certificate, licence, registration, or other form of official recognition. (“certificat extraprovincial”) 2009, c. 24, s. 33 (5).
+
+##### Federal Act
+
+(2) For greater certainty, the reference in clause (b) of the definition of “out-of-province certificate” in subsection (1), to an Act of Canada that authorizes a body or individual to grant a certificate, licence, registration, or other form of official recognition, does not include the Trade-marks Act (Canada). 2009, c. 24, s. 33 (5).
+
+##### Purposes
+
+22.16 The purposes of sections 22.15 to 22.23 are,
+
+(a) to eliminate or reduce measures established or implemented by the College that restrict or impair the ability of an individual to obtain a certificate of registration when the individual holds an equivalent out-of-province certificate; and
+
+(b) to support the Government of Ontario in fulfilling its obligations under Chapter Seven of the Agreement on Internal Trade. 2009, c. 24, s. 33 (5).
+
+##### Ontario residency cannot be required
+
+22.17 The College shall not make it a registration requirement that an applicant reside in Ontario, if the applicant resides in another province or territory of Canada that is a party to the Agreement on Internal Trade. 2009, c. 24, s. 33 (5).
+
+##### When applicant holds out-of-province certificate
+
+22.18 (1) This section applies if an individual applying to the College for registration already holds an out-of-province certificate that is equivalent to the certificate of registration being applied for. 2009, c. 24, s. 33 (5).
+
+##### Material additional training, etc., cannot be required
+
+(2) The College shall not impose any registration requirement that would require the applicant to have, undertake, obtain or undergo any material additional training, experience, examinations or assessments. 2009, c. 24, s. 33 (5).
+
+##### Exception, registration requirements listed on website
+
+(3) Despite subsection (2), the College is not prohibited from imposing on the applicant any registration requirement that,
+
+(a) is listed on the publicly accessible website referred to in clause 9 (3) (a) of the Ontario Labour Mobility Act, 2009; and
+
+(b) is stated on the website to be a permissible registration requirement for the certificate of registration being applied for, adopted by the Government of Ontario under Article 708 of the Agreement on Internal Trade. 2009, c. 24, s. 33 (5).
+
+##### Other exceptions
+
+(4) Despite subsection (2), if the conditions set out in subsection (6) are met, the College is not prohibited from imposing one or both of the following registration requirements on the applicant:
+
+1. Requiring the applicant to demonstrate proficiency in English or in French if equivalent proficiency in the language was not a requirement for the granting of the out-of-province certificate.
+
+2. Requiring the applicant to undertake, obtain or undergo material additional training, experience, examinations or assessments if the applicant has not, within a period of time fixed by the College, before submitting the application for registration, practised the profession to the extent that would be permitted by the certificate of registration for which the applicant is applying. 2009, c. 24, s. 33 (5).
+
+##### Other permitted registration requirements
+
+(5) Subsection (2) does not prohibit the College from imposing registration requirements that would require the applicant to do one or more of the following:
+
+1. If the conditions set out in subsection (6) are met:
+
+i. Pay a fee upon application for registration and upon registration.
+
+ii. Obtain professional liability insurance or any other insurance or similar protection.
+
+iii. Post a bond.
+
+iv. Undergo a criminal background check.
+
+v. Provide evidence of good character.
+
+2. If the condition set out in paragraph 2 of subsection (6) is met, provide a certificate, letter or other evidence from every body or individual from whom the applicant currently holds an out-of-province certificate, confirming that the out-of-province certificate is in good standing.
+
+3. If the conditions set out in subsection (6) are met, demonstrate knowledge of matters applicable to the practice of the profession in Ontario, as long as this does not involve material additional training, experience, examinations or assessments.
+
+4. If the conditions set out in subsection (6) are met, meet any other requirement specified by the College that does not involve material additional training, experience, examinations or assessments. 2009, c. 24, s. 33 (5).
+
+##### Conditions for subss. (4) and (5)
+
+(6) The conditions referred to in subsections (4) and (5) are:
+
+1. Subject to subsection (9), the requirement imposed by the College on applicants who hold an out-of-province certificate must be the same as, or substantially similar to but no more onerous than, the requirement imposed by the College on applicants who do not hold an out-of-province certificate.
+
+2. The requirement imposed by the College must not be a disguised restriction on labour mobility. 2009, c. 24, s. 33 (5).
+
+##### Permitted measures
+
+(7) This section does not prohibit the College from carrying out the following measures in respect of the applicant if the conditions set out in subsection (8) are met:
+
+1. Refusing to issue a certificate of registration to the applicant or imposing terms, conditions or limitations on the applicant’s certificate of registration if, in the opinion of the Registration Committee, such action is necessary to protect the public interest as a result of complaints, or criminal, disciplinary or other proceedings, against the applicant in any jurisdiction whether in or outside Canada, relating to the applicant’s competency, conduct or character.
+
+2. If the out-of-province certificate held by the applicant is subject to a term, condition or limitation,
+
+i. imposing an equivalent term, condition or limitation on the certificate of registration to be issued to the applicant, or
+
+ii. refusing to register the applicant, if the College does not impose an equivalent term, condition or limitation on the certificate of registration being applied for. 2009, c. 24, s. 33 (5).
+
+##### Conditions for subs. (7)
+
+(8) The conditions referred to in subsection (7) are:
+
+1. Subject to subsection (9), the measure carried out by the College with respect to applicants who hold an out-of-province certificate must be the same as, or substantially similar to but no more onerous than, the measure carried out by the College with respect to applicants who do not hold an out-of-province certificate.
+
+2. The measure carried out by the College must not be a disguised restriction on labour mobility. 2009, c. 24, s. 33 (5).
+
+##### Costs
+
+(9) The College shall ensure that any registration requirements it imposes on the applicant and any measures it carries out with respect to the applicant in connection with the registration of the applicant do not result in the imposition on the applicant of fees or other costs that are more onerous than those the College would impose if the applicant did not hold an out-of-province certificate, unless the difference in such fees or other costs reflects the actual cost differential to the College. 2009, c. 24, s. 33 (5).
+
+##### Expeditious registration
+
+(10) The College shall ensure that its imposition of registration requirements on the applicant under subsections (3), (4) and (5) and its imposition of terms, conditions or limitations on the applicant’s certificate of registration under subsection (7) do not prevent the expeditious registration of the applicant. 2009, c. 24, s. 33 (5).
+
+##### Transition
+
+22.19 Sections 22.17 and 22.18 apply to,
+
+(a) an application for registration made to the College on or after the day this section comes into force; and
+
+(b) an application for registration made to the College before the day this section comes into force, if the application has not been finally decided before that day. 2009, c. 24, s. 33 (5).
+
+##### Occupational standards
+
+22.20 (1) The College shall, to the extent possible and where practical,
+
+(a) ensure that the process it follows in establishing or amending occupational standards for certificates of registration is conducive to labour mobility within Canada;
+
+(b) take steps to reconcile differences between the occupational standards it has established for certificates of registration and occupational standards in effect with respect to the profession in the other provinces and territories of Canada that are parties to the Agreement on Internal Trade; and
+
+(c) ensure that the occupational standards it establishes for certificates of registration are consistent with such common interprovincial or international occupational standards as may have been developed for the profession. 2009, c. 24, s. 33 (5).
+
+##### No limitation
+
+(2) Subsection (1) does not limit the objects of the College under section 3 or the powers of the Council under section 95 to establish such occupational standards for the profession as it considers appropriate to protect the public. 2009, c. 24, s. 33 (5).
+
+##### Notice of proposed occupational standards
+
+22.21 If the College wishes to establish or amend occupational standards for a certificate of registration, it shall,
+
+(a) give notice of the proposed new or amended standards to,
+
+(i) the Minister,
+
+(ii) the co-ordinating Minister under the Ontario Labour Mobility Act, 2009, and
+
+(iii) the granting bodies and individuals referred to in clause (b) of the definition of “out-of-province certificate” in subsection 22.15 (1); and
+
+(b) afford those granting bodies and individuals an opportunity to comment on the development of the new or amended standards. 2009, c. 24, s. 33 (5).
+
+##### Conflict
+
+22.22 (1) If any of sections 22.16 to 22.21 conflicts with the health profession Act or a regulation or by-law made under the health profession Act or under this Code, sections 22.16 to 22.21 prevail to the extent of the conflict. 2009, c. 24, s. 33 (5).
+
+##### Same
+
+(2) This conflict provision prevails over any other conflict provision in the health profession Act, even if the other conflict provision is enacted after this one, unless the other conflict provision refers expressly to sections 22.16 to 22.21 of this Code. 2009, c. 24, s. 33 (5).
+
+##### Regulations and by-laws to conform
+
+22.23 Within 12 months after the day this section comes into force or within such longer period as may be prescribed, the Council shall take such steps as are within its power to make, amend or revoke regulations and by-laws under this Code and under the health profession Act so that they conform with sections 22.16 to 22.21 of this Code. 2009, c. 24, s. 33 (5).
 
 ##### Register
 
@@ -2474,7 +2660,7 @@ Reporting of Health Professionals
 
 ##### Reporting by members re: offences
 
-85.6.1 (1) A member shall file a report in writing if the member has been found guilty of an offence. 2007, c. 10, Sched. M, s. 63.
+85.6.1 (1) A member shall file a report in writing with the Registrar if the member has been found guilty of an offence. 2007, c. 10, Sched. M, s. 63; 2009, c. 26, s. 24 (15).
 
 ##### Timing of report
 
@@ -2508,7 +2694,7 @@ Reporting of Health Professionals
 
 ##### Reporting by members re: professional negligence and malpractice
 
-85.6.2 (1) A member shall file a report in writing if there has been a finding of professional negligence or malpractice made against the member. 2007, c. 10, Sched. M, s. 63.
+85.6.2 (1) A member shall file a report in writing with the Registrar if there has been a finding of professional negligence or malpractice made against the member. 2007, c. 10, Sched. M, s. 63; 2009, c. 26, s. 24 (16).
 
 ##### Timing of report
 
@@ -2744,13 +2930,13 @@ Miscellaneous
 
 92.1 No person shall do anything, or refrain from doing anything, relating to another person’s employment or to a contract providing for the provision of services by that other person, in retaliation for that other person filing a report or making a complaint as long as the report was filed, or the complaint was made, in good faith. 1993, c. 37, s. 25.
 
-##### Offence
+##### Offences
 
-93. (1) Every person who contravenes an order made under subsection 7 (3), or section 45 or 47, or subsection 76 (3), 82 (2) or (3), or who contravenes subsection 85.2 (1), 85.5 (1) or (2) or section 92.1 is guilty of an offence and on conviction is liable,
+93. (1) Every person who contravenes an order made under subsection 7 (3) or section 45 or 47, or who contravenes subsection 76 (3), 82 (2) or (3), 85.2 (1), 85.5 (1) or (2) or 85.14 (2) or section 92.1 is guilty of an offence and on conviction is liable,
 
 (a) in the case of an individual to a fine of not more than $25,000 for a first offence and not more than $50,000 for a second or subsequent offence; or
 
-(b) in the case of a corporation to a fine of not more than $50,000 for a first offence and not more than $200,000 for a second or subsequent offence. 2007, c. 10, Sched. M, s. 72.
+(b) in the case of a corporation to a fine of not more than $50,000 for a first offence and not more than $200,000 for a second or subsequent offence. 2007, c. 10, Sched. M, s. 72; 2009, c. 26, s. 24 (17).
 
 ##### Same
 
