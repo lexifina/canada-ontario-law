@@ -1,3 +1,3 @@
 # Perpetuities Act
 
-R.S.O. 1990, CHAPTER P.9
+R.S.O. 1990, Chapter P.9
