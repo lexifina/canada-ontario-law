@@ -1,3 +1,3 @@
 # Partnerships Act
 
-R.S.O. 1990, CHAPTER P.5
+R.S.O. 1990, Chapter P.5
