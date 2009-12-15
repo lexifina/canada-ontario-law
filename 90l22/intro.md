@@ -1,3 +1,3 @@
 # Livestock Community Sales Act
 
-R.S.O. 1990, CHAPTER L.22
+R.S.O. 1990, Chapter L.22
