@@ -1,3 +1,3 @@
 # Naturopathy Act, 2007
 
-S.O. 2007, CHAPTER 10 Schedule P
+S.o. 2007, chapter 10 Schedule P
