@@ -1,3 +1,3 @@
 # Consolidated Hearings Act
 
-R.S.O. 1990, CHAPTER C.29
+R.S.O. 1990, Chapter C.29
