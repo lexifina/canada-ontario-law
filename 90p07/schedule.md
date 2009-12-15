@@ -8,7 +8,7 @@
 
 (c) every board as defined in the Education Act, and every college, university or post-secondary school educational institution in Ontario the majority of the capital or annual operating funds of which are received from the Crown;
 
-(d) every hospital referred to in the list of hospitals and their grades and classifications maintained by the Minister of Health and Long-Term Care under the Public Hospitals Act, every private hospital operated under the authority of a licence issued under the Private Hospitals Act and every hospital established or approved by the Lieutenant Governor in Council as a community psychiatric hospital under the Community Psychiatric Hospitals Act;
+(d) every hospital referred to in the list of hospitals and their grades and classifications maintained by the Minister of Health and Long-Term Care under the Public Hospitals Act and every private hospital operated under the authority of a licence issued under the Private Hospitals Act;
 
 (e) every corporation with share capital, at least 90 per cent of the issued shares of which are beneficially held by or for an employer or employers described in clauses (a) to (d), and every wholly-owned subsidiary thereof;
 
