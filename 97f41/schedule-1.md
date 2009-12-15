@@ -2,7 +2,7 @@
 
 Common Name | Scientific Name
 
-Badger | Taxidea taxus
+Badger, American | Taxidea taxus
 
 Beaver | Castor canadensis
 
@@ -14,21 +14,21 @@ Fisher | Martes pennanti
 
 Fox, Arctic | Alopex lagopus
 
-Fox, Gray | Urocyon cinereoargenteus
+Fox, Grey | Urocyon cinereoargenteus
 
 Fox, Red (all colour phases) | Vulpes vulpes
 
 Lynx | Lynx canadensis
 
-Marten | Martes Americana
+Marten | Martes americana
 
-Mink | Mustela vison
+Mink | Neovison vison
 
 Muskrat | Ondatra zibethicus
 
 Opossum | Didelphis virginiana
 
-Otter | Lutra canadensis
+Otter | Lontra canadensis
 
 Raccoon | Procyon lotor
 
@@ -44,4 +44,4 @@ Weasel, Short-tailed (Ermine) | Mustela erminea
 
 Wolf | Canis lupus
 
-1997, c. 41, Sched. 1.
+2009, c. 33, Sched. 22, s. 2 (31).

@@ -2,28 +2,28 @@
 
 Common Name | Scientific Name
 
-Frog, Blanchard’s Cricket | Acris crepitans blanchardi
+Frog, Northern Cricket | Acris crepitans
 
 Salamander, Blue-spotted | Ambystoma laterale
 
-Salamander, Eastern Tiger | Ambystoma tigrinum tigrinum
+Salamander, Eastern Tiger | Ambystoma tigrinum
 
 Salamander, Four-toed | Hemidactylium scutatum
 
 Salamander, Jefferson | Ambystoma jeffersonianum
 
-Salamander, Northern Dusky | Desmognathus fuscus fuscus
+Salamander, Northern Dusky | Desmognathus fuscus
+
+Salamander, Northern Two-lined | Eurycea bislineata
 
 Salamander, Redback | Plethodon cinereus
 
-Salamander, Smallmouth | Ambystoma texanum
+Salamander, Small-mouthed | Ambystoma texanum
 
 Salamander, Spotted | Ambystoma maculatum
 
-Salamander, Two-lined | Eurycea bislineata
-
-Toad, Fowler’s | Bufo woodhousi fowleri
+Toad, Fowler’s | Anaxyrus fowleri
 
 Treefrog, Gray | Hyla versicolor
 
-1997, c. 41, Sched. 10.
+2009, c. 33, Sched. 22, s. 2 (35).

@@ -10,7 +10,7 @@
 
 (d) every university in Ontario and every college of applied arts and technology and post-secondary institution in Ontario whether or not affiliated with a university, the enrolments of which are counted for purposes of calculating annual operating grants entitlements;
 
-(e) every hospital listed in the Schedule to the Classification of Hospitals Regulation made under the Public Hospitals Act, every private hospital operated under the authority of a licence issued under the Private Hospitals Act and every hospital established or approved by the Lieutenant Governor in Council as a community psychiatric hospital under the Community Psychiatric Hospitals Act;
+(e) every hospital listed in the Schedule to the Classification of Hospitals Regulation made under the Public Hospitals Act and every private hospital operated under the authority of a licence issued under the Private Hospitals Act;
 
 (f) every corporation with share capital, at least 90 per cent of the issued shares of which are beneficially held by or for an employer or employers described in clauses (a) to (d), and every wholly-owned subsidiary thereof;
 
@@ -144,7 +144,7 @@
 
 1. Stadium Corporation of Ontario Ltd.
 
-#### MINISTRY OF HEALTH
+#### MINISTRY OF HEALTH AND LONG-TERM CARE
 
 1. Any authority, board, commission, corporation, office, person or organization of persons which operates or provides,
 
@@ -266,4 +266,4 @@
 
 2. Sexual assault centres.
 
-1993, c. 5, Sched.; 2006, c. 4, s. 53.
+1993, c. 5, Sched.; 2006, c. 4, s. 53; 2009, c. 33, Sched. 18, s. 32.

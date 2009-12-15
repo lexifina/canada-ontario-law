@@ -4,11 +4,9 @@ Common Name | Scientific Name
 
 Bat, Big Brown | Eptesicus fuscus
 
-Bat, Eastern Pipistrelle | Pipistrellus subflavus
+Bat, Eastern Pipistrelle | Perimyotis subflavus
 
 Bat, Hoary | Lasiurus cinereus
-
-Bat, Least (Small-footed) | Myotis leibii
 
 Bat, Little Brown | Myotis lucifugus
 
@@ -17,6 +15,8 @@ Bat, Northern Long-eared | Myotis septentrionalis
 Bat, Red | Lasiurus borealis
 
 Bat, Silver-haired | Lasionycteris noctivagans
+
+Bat, Small-footed | Myotis leibii
 
 Chipmunk, Eastern | Tamias striatus
 
@@ -28,9 +28,9 @@ Flying Squirrel, Southern | Glaucomys volans
 
 Shrew, Arctic | Sorex arcticus
 
-Shrew, Cinereus (Masked) | Sorex cinereus
-
 Shrew, Least | Cryptotis parva
+
+Shrew, Masked | Sorex cinereus
 
 Shrew, Northern Short-tailed | Blarina brevicauda
 
@@ -40,4 +40,4 @@ Shrew, Smoky | Sorex fumeus
 
 Shrew, Water | Sorex palustris
 
-1997, c. 41, Sched. 6.
+2009, c. 33, Sched. 22, s. 2 (33).
