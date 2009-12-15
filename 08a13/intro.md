@@ -1,3 +1,3 @@
 # Algoma University Act, 2008
 
-S.O. 2008, CHAPTER 13
+S.o. 2008, chapter 13

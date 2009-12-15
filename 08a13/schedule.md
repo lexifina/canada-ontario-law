@@ -1,4 +1,4 @@
-## SCHEDULE DEGREE PROGRAMS OFFERED AT ALGOMA UNIVERSITY COLLEGE IN AFFILIATION WITH LAURENTIAN UNIVERSITY BEFORE THE DAY SECTION 6 COMES INTO FORCE
+## Schedule Degree programs offered at Algoma University College in affiliation with Laurentian University before the day section 6 comes into force
 
 1. Bachelor of Arts Accounting – general.
 
