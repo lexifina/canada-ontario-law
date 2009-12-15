@@ -1,6 +1,6 @@
 ## SCHEDULE A THE MUNICIPAL AREA
 
-#### (Definition of “municipal area” in section 1)
+(Definition of “municipal area” in section 1)
 
 All of that part of the City of Nanticoke as it exists on December 31, 2000, that lies to the east of a line described as follows:
 
