@@ -1,3 +1,3 @@
 # Assessment Review Board Act
 
-R.S.O. 1990, CHAPTER A.32
+R.S.O. 1990, Chapter A.32
