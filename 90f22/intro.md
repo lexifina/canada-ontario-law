@@ -1,3 +1,3 @@
 # Fluoridation Act
 
-R.S.O. 1990, CHAPTER F.22
+R.S.O. 1990, Chapter F.22
