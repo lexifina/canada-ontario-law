@@ -1,3 +1,3 @@
 # Ambulance Act
 
-R.S.O. 1990, CHAPTER A.19
+R.S.O. 1990, Chapter A.19
