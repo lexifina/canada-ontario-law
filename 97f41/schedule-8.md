@@ -14,8 +14,8 @@ Jay, Gray | Perisoreus canadensis
 
 Kingfisher, Belted | Ceryle alcyon
 
-Pelican, White | Pelecanus erythrorhynchos
+Pelican, American White | Pelecanus erythrorhynchos
 
 Raven, Common | Corvus corax
 
-1997, c. 41, Sched. 8.
+1997, c. 41, Sched. 8; 2009, c. 33, Sched. 22, s. 2 (34).

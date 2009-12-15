@@ -2,6 +2,6 @@
 
 Common Name | Scientific Name
 
-Turtle, Common Snapping | Chelydra serpentina serpentina
+Turtle, Snapping | Chelydra serpentina
 
-1997, c. 41, Sched. 4.
+2009, c. 33, Sched. 22, s. 2 (33).

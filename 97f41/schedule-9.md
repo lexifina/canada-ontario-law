@@ -2,44 +2,44 @@
 
 Common Name | Scientific Name
 
-Racer, Blue | Coluber constrictor foxi
+Foxsnake, Eastern | Pantherophis gloydi
 
-Rattlesnake, Eastern Massasauga | Sistrurus catenatus catenatus
+Gartersnake, Butler’s | Thamnophis butleri
 
-Skink, Five-lined | Eumeces fasciatus
+Greensnake, Smooth | Opheodrys vernalis
 
-Snake, Black Rat | Elaphe obsoleta obsolete
+Massasauga | Sistrurus catenatus
 
-Snake, Butler’s Garter | Thamnophis butleri
+Milksnake | Lampropeltis triangulum
 
-Snake, Eastern Fox | Elaphe vulpina gloydi
+Queensnake | Regina septemvittata
 
-Snake, Eastern Hognose | Heterodon platyrhinos
+Racer, Blue | Coluber constrictor foxii
 
-Snake, Eastern Smooth Green | Opheodrys vernalis vernalis
+Ratsnake, Gray | Pantherophis spiloides
 
-Snake, Lake Erie Water | Nerodia sipedon insularum
+Skink, Common Five-lined | Plestiodon fasciatus
 
-Snake, Milk | Lampropeltis triangulum
+Snake, Eastern Hog-nosed | Heterodon platirhinos
 
-Snake, Northern Water | Nerodia sipedon sipedon
-
-Snake, Queen | Regina septemvittata
-
-Softshell, Eastern Spiny | Trionyx spiniferus spiniferus
+Softshell, Spiny | Apalone spinifera
 
 Turtle, Blanding’s | Emydoidea blandingii
 
-Turtle, Map | Graptemys geographica
+Turtle, Eastern Musk | Sternotherus odoratus
 
 Turtle, Midland Painted | Chrysemys picta marginata
 
-Turtle, Musk | Sternotherus odoratus
+Turtle, Northern Map | Graptemys geographica
 
 Turtle, Spotted | Clemmys guttata
 
 Turtle, Western Painted | Chrysemys picta bellii
 
-Turtle, Wood | Clemmys insculpta
+Turtle, Wood | Glyptemys insculpta
 
-1997, c. 41, Sched. 9.
+Watersnake, Lake Erie | Nerodia sipedon insularum
+
+Watersnake, Northern | Nerodia sipedon sipedon
+
+2009, c. 33, Sched. 22, s. 2 (35).

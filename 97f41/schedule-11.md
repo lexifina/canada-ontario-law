@@ -2,21 +2,23 @@
 
 Common Name | Scientific Name
 
-Butterfly, Karner Blue | Lycaeides melissa
+Blue, Karner | Lycaeides melissa samuelis
 
-Butterfly, Monarch | Danaus plexippus
+Duskywing, Mottled | Erynnis martialis
 
-Butterfly, West Virginia White | Pieris virginiensis
+Elfin, Bog | Callophrys lanoraieensis
 
-Dusky Wing, Mottled | Erynnis martialis
+Elfin, Frosted | Callophrys irus
 
-Elfin, Bog | Incisalia lanoraieensis
-
-Elfin, Frosted | Incisalia irus
+Monarch | Danaus plexippus
 
 Swallowtail, Black | Papilio polyxenes
 
-Swallowtail, Giant | Papilio cresthontes
+Swallowtail, Canadian Tiger | Papilio canadensis
+
+Swallowtail, Eastern Tiger | Papilio glaucus
+
+Swallowtail, Giant | Papilio cresphontes
 
 Swallowtail, Old World | Papilio machaon
 
@@ -24,8 +26,8 @@ Swallowtail, Pipevine | Battus philenor
 
 Swallowtail, Spicebush | Papilio troilus
 
-Swallowtail, Tiger | Papilio glaucus
-
 Swallowtail, Zebra | Eurytides marcellus
 
-1997, c. 41, Sched. 11.
+White, West Virginia | Pieris virginiensis
+
+2009, c. 33, Sched. 22, s. 2 (35).
