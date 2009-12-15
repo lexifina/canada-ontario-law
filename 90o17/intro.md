@@ -1,3 +1,3 @@
 # Ontario Guaranteed Annual Income Act
 
-R.S.O. 1990, CHAPTER O.17
+R.S.O. 1990, Chapter O.17
