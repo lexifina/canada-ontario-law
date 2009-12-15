@@ -1,3 +1,3 @@
 # Livestock Identification Act
 
-R.S.O. 1990, CHAPTER L.21
+R.S.O. 1990, Chapter L.21
