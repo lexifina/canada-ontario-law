@@ -1,3 +1,3 @@
 # Road Access Act
 
-R.S.O. 1990, CHAPTER R.34
+R.S.O. 1990, Chapter R.34
