@@ -1,3 +1,3 @@
 # Private Security and Investigative Services Act, 2005
 
-S.O. 2005, CHAPTER 34
+S.o. 2005, chapter 34
