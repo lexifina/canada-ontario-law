@@ -102,7 +102,7 @@ Powers and Procedures
 
 23.The parties agree that the Government of Ontario and the provincial judges’ associations are entitled to be present when other persons make oral submissions to the Commission and are entitled to receive copies of other persons’ written submissions.
 
-24.In connection with, and for the purposes of, any inquiry, the Commission or any member thereof has the powers of a commission under the Public Inquiries Act.
+24. In connection with, and for the purposes of, any inquiry, the Commission or any member thereof has the powers of a commission under the Public Inquiries Act.
 
 Criteria
 
