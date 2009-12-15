@@ -1,3 +1,3 @@
 # Mandatory Blood Testing Act, 2006
 
-S.O. 2006, CHAPTER 26
+S.o. 2006, chapter 26
