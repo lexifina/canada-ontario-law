@@ -1,3 +1,3 @@
 # Agricultural Tile Drainage Installation Act
 
-R.S.O. 1990, CHAPTER A.14
+R.S.O. 1990, Chapter A.14
