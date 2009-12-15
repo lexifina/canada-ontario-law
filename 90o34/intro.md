@@ -1,3 +1,3 @@
 # Ontario Place Corporation Act
 
-R.S.O. 1990, CHAPTER O.34
+R.S.O. 1990, Chapter O.34
