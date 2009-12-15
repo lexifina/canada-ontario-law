@@ -1,3 +1,3 @@
 # Legislation Act, 2006
 
-S.O. 2006, CHAPTER 21 Schedule F
+S.o. 2006, chapter 21 Schedule F
