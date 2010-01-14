@@ -1,3 +1,3 @@
 # Crown Administration of Estates Act
 
-R.S.O. 1990, CHAPTER C.47
+R.S.O. 1990, Chapter C.47
