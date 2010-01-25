@@ -10,17 +10,7 @@ Business Corporations Act | subsections 157 (2), 185 (18) and (19), 188 (9), (13
 
 Business Practices Act | subsection 4 (5)
 
-City of Toronto Act, 2006 | subsections 214 (4), 250 (2) and 351 (4)
-
-Note: On a day to be named by proclamation of the Lieutenant Governor, the Schedule is amended by striking out,
-
-City of Toronto Act, 2006 | subsections 214 (4), 250 (2) and 351 (4)
-
-and substituting:
-
 City of Toronto Act, 2006 | subsections 214 (4), 250 (2), 270 (4) and 351 (4)
-
-See: 2009, c. 33, Sched. 21, ss. 5, 13 (2).
 
 Civil Remedies Act, 2001 | subsections 3 (5) and 13 (7)
 
