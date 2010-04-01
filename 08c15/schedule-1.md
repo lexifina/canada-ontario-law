@@ -1,4 +1,4 @@
-## SCHEDULE 1
+## Schedule 1
 
 ##### Full time academic staff bargaining unit
 
