@@ -16,7 +16,7 @@ Civil Remedies Act, 2001 | subsections 3 (5) and 13 (7)
 
 Commodity Futures Act | section 60.4
 
-Community Small Business Investment Funds Act | subsections 40 (8) and (9)
+Community Small Business Investment Funds Act, 1992 | subsections 40 (8) and (9)
 
 Construction Lien Act | sections 31 and 36
 
