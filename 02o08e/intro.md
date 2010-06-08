@@ -1,3 +1,3 @@
-# Ontario College of Art & Design Act, 2002
+# Ontario College of Art & Design University Act, 2002
 
-S.O. 2002, CHAPTER 8 Schedule E
+S.O. 2002, Chapter 8 Schedule E
