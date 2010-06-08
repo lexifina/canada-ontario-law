@@ -27,3 +27,5 @@ Recognize the importance of an Ontario Health Quality Council that would report 
 Affirm that a strong health system depends on collaboration between the community, individuals, health service providers and governments, and a common vision of shared responsibility;
 
 Therefore, Her Majesty, by and with the advice and consent of the Legislative Assembly of the Province of Ontario, enacts as follows:
+
+PART I (ss. 1-7) Repealed: 2010, c. 14, s. 18 (1).
