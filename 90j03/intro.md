@@ -1,3 +1,3 @@
 # Juries Act
 
-R.S.O. 1990, CHAPTER J.3
+R.S.O. 1990, Chapter J.3
