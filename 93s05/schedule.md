@@ -1,4 +1,4 @@
-## SCHEDULE
+## schedule
 
 1. The public sector in Ontario consists of,
 
@@ -82,7 +82,7 @@
 
 (b) provides residential care under the authority of a licence issued under clause 193 (1) (b) of the Child and Family Services Act (R.S.O. 1990, c. C.11);
 
-(c) operates a home for the aged established or maintained under the Homes for the Aged and Rest Homes Act (R.S.O. 1990, c. H.13);
+(c) Repealed: 2007, c. 8, s. 228 (1).
 
 (d) provides counselling services and staff training if the provision of those services is funded under the General Welfare Assistance Act (R.S.O. 1990, c. G.6);
 
@@ -110,9 +110,7 @@
 
 3. Societies within the meaning of the Child and Family Services Act (R.S.O. 1990, c. C.11) and agencies from whom such societies purchase services for children.
 
-4. Corporations operating charitable institutions approved under the Charitable Institutions Act (R.S.O. 1990, c. C.9).
-
-5. Boards of management operating under the Homes for the Aged and Rest Homes Act (R.S.O. 1990, c. H.13).
+4., 5. Repealed: 2007, c. 8, s. 228 (1).
 
 6. District Welfare Administration Boards operating under the District Welfare Administration Boards Act (R.S.O. 1990, c. D.15).
 
@@ -144,13 +142,13 @@
 
 1. Stadium Corporation of Ontario Ltd.
 
-#### MINISTRY OF HEALTH AND LONG-TERM CARE
+#### MINISTRY OF Health and Long-Term Care
 
 1. Any authority, board, commission, corporation, office, person or organization of persons which operates or provides,
 
 (a) an ambulance service, under the authority of a licence issued under the Ambulance Act (R.S.O. 1990, c. A.19);
 
-(b) a nursing home, under the authority of a licence issued under the Nursing Homes Act (R.S.O. 1990, c. N.7);
+(b) a long-term care home, under the authority of a licence or an approval under the Long-Term Care Homes Act, 2007;
 
 (c) a laboratory or a specimen collection centre, under the authority of a licence issued under the Laboratory and Specimen Collection Centre Licensing Act (R.S.O. 1990, c. L.1);
 
@@ -266,4 +264,4 @@
 
 2. Sexual assault centres.
 
-1993, c. 5, Sched.; 2006, c. 4, s. 53; 2009, c. 33, Sched. 18, s. 32.
+1993, c. 5, Sched.; 2006, c. 4, s. 53; 2007, c. 8, s. 228; 2009, c. 33, Sched. 18, s. 32.
