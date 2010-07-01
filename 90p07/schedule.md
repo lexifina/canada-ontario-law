@@ -56,7 +56,7 @@ Ministry of Community and Social Services
 
 (b) provides residential care under the authority of a licence issued under clause 193 (1) (b) of the Child and Family Services Act (R.S.O. 1990, c. C.11) unless the provider is a foster parent;
 
-(c) operates a home for the aged established or maintained under the Homes for the Aged and Rest Homes Act (R.S.O. 1990, c. H.13);
+(c) Repealed: 2007, c. 8, s. 223 (1).
 
 (d) provides counselling services if the provision of those services is funded under the General Welfare Assistance Act (R.S.O. 1990, c. G.6);
 
@@ -94,9 +94,7 @@ Ministry of Community and Social Services
 
 2. Societies and approved agencies, as defined in the Child and Family Services Act (R.S.O. 1990, c. C.11).
 
-3. Corporations operating charitable institutions approved under the Charitable Institutions Act (R.S.O. 1990, c. C.9).
-
-4. Boards of management operating under the Homes for the Aged and Rest Homes Act (R.S.O. 1990, c. H.13).
+3., 4. Repealed: 2007, c. 8, s. 223 (1).
 
 5. District Welfare Administration Boards operating under the District Welfare Administration Boards Act (R.S.O. 1990, c. D.15).
 
@@ -180,7 +178,7 @@ Ministry of Health and Long-Term Care
 
 (a) an ambulance service, under the authority of a licence issued under the Ambulance Act (R.S.O. 1990, c. A.19);
 
-(b) a nursing home under the authority of a licence issued under the Nursing Homes Act but, for greater certainty, only in respect of its nursing home beds with respect to which funding is received from the Province of Ontario;
+(b) a long-term care home under the authority of a licence issued, or an approval granted, under the Long-Term Care Homes Act, 2007 but, for greater certainty, only in respect of its long-term care home beds with respect to which funding is received from the Province of Ontario or a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006;
 
 (c) a laboratory or a specimen collection centre, under the authority of a licence issued under the Laboratory and Specimen Collection Centre Licensing Act (R.S.O. 1990, c. L.1);
 
