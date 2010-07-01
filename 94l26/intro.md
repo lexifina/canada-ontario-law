@@ -1,3 +1,3 @@
-# Long-Term Care Act, 1994
+# Home Care and Community Services Act, 1994
 
 S.O. 1994, CHAPTER 26
