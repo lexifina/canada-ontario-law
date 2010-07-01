@@ -1,6 +1,6 @@
 # Commitment to the Future of Medicare Act, 2004
 
-S.O. 2004, CHAPTER 5
+S.o. 2004, chapter 5
 
 ##### Preamble
 
@@ -28,4 +28,4 @@ Affirm that a strong health system depends on collaboration between the communit
 
 Therefore, Her Majesty, by and with the advice and consent of the Legislative Assembly of the Province of Ontario, enacts as follows:
 
-PART I (ss. 1-7) Repealed: 2010, c. 14, s. 18 (1).
+Part I (ss. 1-7) Repealed: 2010, c. 14, s. 18 (1).
