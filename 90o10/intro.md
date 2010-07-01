@@ -1,3 +1,3 @@
 # Ontario Drug Benefit Act
 
-R.S.O. 1990, CHAPTER O.10
+R.S.O. 1990, Chapter O.10
