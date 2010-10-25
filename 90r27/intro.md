@@ -129,15 +129,3 @@ R.S.O. 1990, CHAPTER R.27
 ##### Auditors
 
 20.The Board at each annual meeting shall appoint one or more auditors who shall hold office until the next annual meeting and until their successors are duly appointed and the auditor or auditors shall yearly examine the accounts of the Foundation and shall report thereon to the Board. R.S.O. 1990, c. R.27, s. 20.
-
-##### Annual Report
-
-21.(1)The Foundation shall, after the close of each fiscal year, file with the member of the Executive Council who is responsible for the administration of this Act an annual report which shall include a financial statement, a description of the work of the Foundation during the previous year and such other information as the Lieutenant Governor in Council may require. R.S.O. 1990, c. R.27, s. 21 (1); 1999, c. 12, Sched. H, s. 3 (1).
-
-##### Tabling
-
-(2)The member of the Executive Council who is responsible for the administration of this Act shall submit the report to the Lieutenant Governor in Council and shall then lay the report before the Assembly if it is in session or, if not, at the next session. R.S.O. 1990, c. R.27, s. 21 (2); 1999, c. 12, Sched. H, s. 3 (2).
-
-##### Powers of Foundation
-
-22.The Foundation has power to do all such things as are incidental or conducive to the attainment of its objects. R.S.O. 1990, c. R.27, s. 22.
