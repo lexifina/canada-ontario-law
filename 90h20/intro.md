@@ -1,3 +1,3 @@
 # Trillium Gift of Life Network Act
 
-R.S.O. 1990, CHAPTER H.20
+R.S.O. 1990, Chapter H.20
