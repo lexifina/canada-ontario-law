@@ -1,3 +1,3 @@
 # Elderly Persons Centres Act
 
-R.S.O. 1990, CHAPTER E.4
+R.S.O. 1990, Chapter E.4
