@@ -22,7 +22,7 @@ Construction Lien Act | sections 31 and 36
 
 Corporations Act | subsection 37 (2)
 
-Creditors’ Relief Act | subsections 12 (2) and 32 (6)
+Creditors’ Relief Act, 2010 | subsection 12 (1)
 
 Drainage Act | section 111
 
