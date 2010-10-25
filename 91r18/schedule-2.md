@@ -392,11 +392,11 @@ College
 
 ##### College is body corporate
 
-2. (1) The College is a body corporate without share capital with all the powers of a natural person.
+2. (1) The College is a body corporate without share capital with all the powers of a natural person. 1991, c. 18, Sched. 2, s. 2 (1).
 
 ##### Corporations Act
 
-(2) The Corporations Act does not apply in respect to the College. 1991, c. 18, Sched. 2, s. 2.
+(2) The Corporations Act does not apply in respect to the College. 1991, c. 18, Sched. 2, s. 2 (2).
 
 ##### Duty of College
 
