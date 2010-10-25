@@ -1,3 +1,3 @@
 # Personal Property Security Act
 
-R.S.O. 1990, Chapter P.10
+R.S.O. 1990, CHAPTER P.10
