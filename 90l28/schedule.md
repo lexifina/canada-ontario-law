@@ -78,7 +78,7 @@ and may charge a fee for the cost of such services.
 
 The Board may by by-law,
 
-(a) contract for the provision of public library service by a public library board, union board or county library board or by a board of an Ontario library service area acting under subsection 34 (2) of the Public Libraries Act; or
+(a) contract for the provision of public library service by a public library board, union board or county library board; or
 
 (b) establish and maintain a public library service,
 
