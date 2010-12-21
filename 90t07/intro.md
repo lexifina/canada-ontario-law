@@ -1,3 +1,3 @@
 # Ticket Speculation Act
 
-R.S.O. 1990, CHAPTER T.7
+R.S.O. 1990, Chapter T.7
