@@ -1,6 +1,6 @@
 # Excellent Care for All Act, 2010
 
-S.O. 2010, CHAPTER 14
+S.o. 2010, chapter 14
 
 ##### Preamble
 
