@@ -72,7 +72,7 @@ Ministry of Community and Social Services
 
 (j) operates a supported employment program, being a program established under subclause 5 (i) (ii) of the Vocational Rehabilitation Services Act (R.S.O. 1990, c. V.5) that provides individualized training and support for a disabled person to enable him or her to obtain and retain employment;
 
-(k) provides services funded under the Developmental Services Act (R.S.O. 1990, c. D.11);
+(k) provides services funded under the Services and Supports to Promote the Social Inclusion of Persons with Developmental Disabilities Act, 2008 (S.O. 2008, c. 14);
 
 (l) provides the services of homemakers or nurses if the provision of those services is funded under the Homemakers and Nurses Services Act (R.S.O. 1990, c. H.10);
 
