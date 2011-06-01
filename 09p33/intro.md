@@ -1,3 +1,3 @@
 # Public Inquiries Act, 2009
 
-S.O. 2009, CHAPTER 33 Schedule 6
+S.o. 2009, chapter 33 Schedule 6
