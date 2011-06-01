@@ -1,6 +1,6 @@
 # Members’ Integrity Act, 1994
 
-S.O. 1994, CHAPTER 38
+S.O. 1994, chapter 38
 
 ##### Preamble
 
