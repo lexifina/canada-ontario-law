@@ -238,7 +238,7 @@ Registrar’s Powers of Investigation
 
 75. | Investigators
 
-76. | Powers of investigators
+76. | Application of Public Inquiries Act, 2009
 
 77. | Entries and searches
 
@@ -2294,9 +2294,9 @@ Registrar’s Powers of Investigation
 
 (3) Where an investigator has been appointed under subsection (2), the Registrar shall report the appointment of the investigator to the Inquiries, Complaints and Reports Committee within five days. 2007, c. 10, Sched. M, s. 53.
 
-##### Powers of investigators
+##### Application of Public Inquiries Act, 2009
 
-76. (1) An investigator may inquire into and examine the practice of the member to be investigated and has, for the purposes of the investigation, all the powers of a commission under Part II of the Public Inquiries Act. 1991, c. 18, Sched. 2, s. 76 (1).
+76. (1) An investigator may inquire into and examine the practice of the member to be investigated and section 33 of the Public Inquiries Act, 2009 applies to that inquiry and examination. 2009, c. 33, Sched. 6, s. 84.
 
 ##### Reasonable inquiries
 
