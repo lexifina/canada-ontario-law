@@ -1,3 +1,3 @@
 # Farm Products Marketing Act
 
-R.S.O. 1990, CHAPTER F.9
+R.S.O. 1990, Chapter F.9
