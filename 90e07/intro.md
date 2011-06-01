@@ -1,3 +1,3 @@
 # Election Finances Act
 
-R.S.O. 1990, CHAPTER E.7
+R.S.O. 1990, Chapter E.7
