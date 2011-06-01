@@ -1,3 +1,3 @@
 # Surveyors Act
 
-R.S.O. 1990, CHAPTER S.29
+R.S.O. 1990, Chapter S.29
