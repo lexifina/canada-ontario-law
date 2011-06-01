@@ -1,10 +1,10 @@
 # Charities Accounting Act
 
-R.S.O. 1990, CHAPTER C.10
+R.S.O. 1990, chapter C.10
 
 ##### Notice of donation to be given to Public Guardian and Trustee
 
-1. (1) Where, under the terms of a will or other instrument in writing, real or personal property or any right or interest in it or proceeds from it are given to or vested in a person as executor or trustee for a religious, educational, charitable or public purpose, or are to be applied by the person for any such purpose, the person shall give written notice to,
+1 (1) Where, under the terms of a will or other instrument in writing, real or personal property or any right or interest in it or proceeds from it are given to or vested in a person as executor or trustee for a religious, educational, charitable or public purpose, or are to be applied by the person for any such purpose, the person shall give written notice to,
 
 (a) the person, if any, designated in the will or other instrument as the beneficiary or as the person to receive the gift from the executor or trustee; and
 
