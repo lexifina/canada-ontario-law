@@ -1,4 +1,4 @@
-## SCHEDULE 1 PHYSICIAN PAYMENT REVIEW PROCESS
+## Schedule 1 Physician Payment review Process
 
 ##### Purpose
 
