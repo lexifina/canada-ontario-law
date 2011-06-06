@@ -1,3 +1,3 @@
 # Surveys Act
 
-R.S.O. 1990, CHAPTER S.30
+R.S.O. 1990, Chapter S.30
