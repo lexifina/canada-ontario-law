@@ -1,6 +1,6 @@
 # Green Energy Act, 2009
 
-S.O. 2009, CHAPTER 12 Schedule A
+S.o. 2009, chapter 12 Schedule a
 
 ##### Preamble
 
