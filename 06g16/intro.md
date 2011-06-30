@@ -1,3 +1,3 @@
 # Metrolinx Act, 2006
 
-S.O. 2006, CHAPTER 16
+S.o. 2006, chapter 16
