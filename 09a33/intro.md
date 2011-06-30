@@ -1,3 +1,3 @@
 # Adjudicative Tribunals Accountability, Governance and Appointments Act, 2009
 
-S.O. 2009, CHAPTER 33 Schedule 5
+S.o. 2009, chapter 33 Schedule 5
