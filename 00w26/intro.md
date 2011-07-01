@@ -1,3 +1,3 @@
 # Wine Content and Labelling Act, 2000
 
-S.O. 2000, CHAPTER 26 Schedule P
+S.O. 2000, Chapter 26 Schedule P
