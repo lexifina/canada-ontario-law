@@ -1,3 +1,3 @@
 # Dangerous Goods Transportation Act
 
-R.S.O. 1990, CHAPTER D.1
+R.S.O. 1990, Chapter D.1
