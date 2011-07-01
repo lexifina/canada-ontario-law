@@ -1,3 +1,3 @@
 # Construction Lien Act
 
-R.S.O. 1990, CHAPTER C.30
+R.S.O. 1990, Chapter C.30
