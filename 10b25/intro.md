@@ -1,3 +1,3 @@
 # Broader Public Sector Accountability Act, 2010
 
-S.O. 2010, CHAPTER 25
+S.o. 2010, chapter 25
