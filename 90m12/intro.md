@@ -1,3 +1,3 @@
 # Milk Act
 
-R.S.O. 1990, CHAPTER M.12
+R.S.O. 1990, Chapter M.12
