@@ -1,4 +1,4 @@
-## SCHEDULE
+## schedule
 
 1. Every district school board as defined in section 1 of the Education Act and every board established under section 68 of that Act.
 
