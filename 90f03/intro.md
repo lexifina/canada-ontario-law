@@ -1,6 +1,6 @@
 # Family Law Act
 
-R.S.O. 1990, CHAPTER F.3
+R.S.O. 1990, Chapter F.3
 
 ##### Preamble
 
