@@ -1,6 +1,6 @@
 # Places to Grow Act, 2005
 
-S.O. 2005, CHAPTER 13
+S.o. 2005, chapter 13
 
 ##### Preamble
 
