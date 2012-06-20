@@ -1,4 +1,4 @@
-## SCHEDULE 11 SPECIALLY PROTECTED INVERTEBRATES
+## Schedule 11 specially pROTECTED INVERTEBRATES
 
 Common Name | Scientific Name
 

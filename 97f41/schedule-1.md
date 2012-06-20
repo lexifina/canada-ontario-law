@@ -1,4 +1,4 @@
-## SCHEDULE 1 FURBEARING MAMMALS
+## Schedule 1 FURBEARING MAMMALS
 
 Common Name | Scientific Name
 

@@ -1,4 +1,4 @@
-## SCHEDULE 3 GAME BIRDS
+## Schedule 3 GAME BIRDS
 
 Common Name | Scientific Name
 

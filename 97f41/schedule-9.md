@@ -1,4 +1,4 @@
-## SCHEDULE 9 SPECIALLY PROTECTED REPTILES
+## Schedule 9 Specially PROTECTED REPTILES
 
 Common Name | Scientific Name
 

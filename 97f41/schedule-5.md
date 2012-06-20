@@ -1,4 +1,4 @@
-## SCHEDULE 5 GAME AMPHIBIANS
+## Schedule 5 GAME AMPHIBIANS
 
 Common Name | Scientific Name
 
