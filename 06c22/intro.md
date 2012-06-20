@@ -1,3 +1,3 @@
 # Clean Water Act, 2006
 
-S.O. 2006, CHAPTER 22
+S.o. 2006, chapter 22
