@@ -1,4 +1,4 @@
-## SCHEDULE 2 GAME MAMMALS
+## Schedule 2 GAME MAMMALS
 
 Common Name | Scientific Name
 
