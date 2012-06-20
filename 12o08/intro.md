@@ -1,0 +1,3 @@
+# Ontario Loan Act, 2012
+
+S.O. 2012, CHAPTER 8 SCHEDULE 41
