@@ -1,3 +1,3 @@
 # Ontario Municipal Employees Retirement System Act, 2006
 
-S.O. 2006, CHAPTER 2
+S.o. 2006, chapter 2
