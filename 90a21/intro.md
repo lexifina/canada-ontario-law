@@ -1,3 +1,3 @@
 # Anatomy Act
 
-R.S.O. 1990, CHAPTER A.21
+R.S.O. 1990, Chapter A.21
