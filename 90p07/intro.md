@@ -1,6 +1,6 @@
 # Pay Equity Act
 
-R.S.O. 1990, CHAPTER P.7
+R.S.O. 1990, Chapter P.7
 
 ##### Preamble
 
