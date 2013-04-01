@@ -3114,7 +3114,7 @@ Miscellaneous
 
 (t) providing for the exemption of any member from the regulations made by the Council;
 
-(u) prescribing anything that is referred to in the health profession Act or this Code as being prescribed. 1998, c. 18, Sched. G, s. 23 (1); 2004, c. 3, Sched. B, s. 11 (3); 2009, c. 6, s. 2; 2007, c. 10, Sched. M, s. 74 (1).
+(u) prescribing anything that is referred to in the health profession Act or this Code as being prescribed. 1998, c. 18, Sched. G, s. 23 (1); 2004, c. 3, Sched. B, s. 11 (3); 2007, c. 10, Sched. M, s. 74 (1); 2009, c. 6, s. 2.
 
 ##### Standards of practice
 
