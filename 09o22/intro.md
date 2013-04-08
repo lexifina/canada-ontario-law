@@ -1,3 +1,3 @@
 # Ontario College of Trades and Apprenticeship Act, 2009
 
-S.O. 2009, CHAPTER 22
+S.o. 2009, chapter 22
