@@ -1,4 +1,4 @@
-## SCHEDULE
+## Schedule
 
 (Definition of “rule” in subsection (1))
 
