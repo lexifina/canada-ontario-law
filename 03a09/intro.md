@@ -1,3 +1,3 @@
 # Automobile Insurance Rate Stabilization Act, 2003
 
-S.O. 2003, CHAPTER 9
+S.o. 2003, chapter 9
