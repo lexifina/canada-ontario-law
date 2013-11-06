@@ -1,3 +1,3 @@
 # Fair Access to Regulated Professions and Compulsory Trades Act, 2006
 
-S.O. 2006, CHAPTER 31
+S.o. 2006, chapter 31
