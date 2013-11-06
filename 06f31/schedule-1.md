@@ -1,4 +1,4 @@
-## SCHEDULE 1 REGULATED PROFESSIONS
+## Schedule 1 Regulated Professions
 
 ##### Regulated professions named
 
@@ -32,8 +32,10 @@
 
 13. Certified Management Accountants of Ontario.
 
+14. The Human Resources Professionals Association.
+
 ##### Application date
 
 2. This Act first applies to the regulated professions named in paragraphs 1 to 13 of section 1 on the day section 5 of this Act comes into force.
 
-2006, c. 31, Sched. 1; 2007, c. 7, Sched. 8, s. 69; 2010, c. 6, Sched. B, s. 75.
+2006, c. 31, Sched. 1; 2007, c. 7, Sched. 8, s. 69; 2010, c. 6, Sched. B, s. 75; 2013, c. 6, s. 74.
