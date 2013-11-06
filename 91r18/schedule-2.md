@@ -384,6 +384,24 @@ Miscellaneous
 
 “sexual nature” does not include touching, behaviour or remarks of a clinical nature appropriate to the service provided. 1993, c. 37, s. 4.
 
+##### Exception, spouses
+
+(5) If the Council has made a regulation under clause 95 (1) (0.a), conduct, behaviour or remarks that would otherwise constitute sexual abuse of a patient by a member under the definition of “sexual abuse” in subsection (3) do not constitute sexual abuse if,
+
+(a) the patient is the member’s spouse; and
+
+(b) the member is not engaged in the practice of the profession at the time the conduct, behaviour or remark occurs. 2013, c. 9, s. 1 (1).
+
+##### Definition
+
+(6) For the purposes of subsection (5),
+
+“spouse”, in relation to a member, means,
+
+(a) a person who is the member’s spouse as defined in section 1 of the Family Law Act, or
+
+(b) a person who has lived with the member in a conjugal relationship outside of marriage continuously for a period of not less than three years. 2013, c. 9, s. 1 (1).
+
 ##### Statement of purpose, sexual abuse provisions
 
 1.1 The purpose of the provisions of this Code with respect to sexual abuse of patients by members is to encourage the reporting of such abuse, to provide funding for therapy and counselling for patients who have been sexually abused by members and, ultimately, to eradicate the sexual abuse of patients by members. 1993, c. 37, s. 5.
@@ -3070,6 +3088,8 @@ Miscellaneous
 
 95. (1) Subject to the approval of the Lieutenant Governor in Council and with prior review of the Minister, the Council may make regulations,
 
+(0.a) providing that the spousal exception in subsection 1 (5) applies in respect of the College;
+
 (a) prescribing classes of certificates of registration and imposing terms, conditions and limitations on the certificates of registration of a class;
 
 (b) respecting applications for certificates of registration or classes of them and the issuing, suspension, revocation and expiration of the certificates or classes of them;
@@ -3114,7 +3134,7 @@ Miscellaneous
 
 (t) providing for the exemption of any member from the regulations made by the Council;
 
-(u) prescribing anything that is referred to in the health profession Act or this Code as being prescribed. 1998, c. 18, Sched. G, s. 23 (1); 2004, c. 3, Sched. B, s. 11 (3); 2007, c. 10, Sched. M, s. 74 (1); 2009, c. 6, s. 2.
+(u) prescribing anything that is referred to in the health profession Act or this Code as being prescribed. 1998, c. 18, Sched. G, s. 23 (1); 2004, c. 3, Sched. B, s. 11 (3); 2007, c. 10, Sched. M, s. 74 (1); 2009, c. 6, s. 2; 2013, c. 9, s. 1 (2).
 
 ##### Standards of practice
 
