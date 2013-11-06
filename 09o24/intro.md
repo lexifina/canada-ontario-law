@@ -1,3 +1,3 @@
 # Ontario Labour Mobility Act, 2009
 
-S.O. 2009, CHAPTER 24
+S.o. 2009, chapter 24
