@@ -1,3 +1,3 @@
 # Ontario Provincial Police Collective Bargaining Act, 2006
 
-S.O. 2006, CHAPTER 35 Schedule B
+S.o. 2006, chapter 35 Schedule B
