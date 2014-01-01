@@ -1,6 +1,6 @@
 ## SCHEDULE
 
-MUNICIPALITY OR DISTRICT | AREA
+Municipality or District | Area
 
 City of Greater Sudbury | All
 
