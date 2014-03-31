@@ -2,7 +2,7 @@
 
 ##### Full time academic staff bargaining unit
 
-1. The full time academic staff bargaining unit includes all persons employed by an employer as teachers, counsellors or librarians, but does not include,
+1 The full time academic staff bargaining unit includes all persons employed by an employer as teachers, counsellors or librarians, but does not include,
 
 (a) chairs, department heads or directors;
 
@@ -18,7 +18,7 @@
 
 ##### Part time academic staff bargaining unit
 
-2. (1) Subject to subsection (2), the part time academic staff bargaining unit includes all persons employed by an employer as,
+2 (1) Subject to subsection (2), the part time academic staff bargaining unit includes all persons employed by an employer as,
 
 (a) teachers who teach for six hours or less per week;
 
@@ -40,7 +40,7 @@
 
 ##### Full time support staff bargaining unit
 
-3. The full time support staff bargaining unit includes all persons employed by an employer in positions or classifications in the office, clerical, technical, health care, maintenance, building service, shipping, transportation, cafeteria and nursery staff, but does not include,
+3 The full time support staff bargaining unit includes all persons employed by an employer in positions or classifications in the office, clerical, technical, health care, maintenance, building service, shipping, transportation, cafeteria and nursery staff, but does not include,
 
 (a) foremen or supervisors;
 
@@ -62,7 +62,7 @@
 
 ##### Part time support staff bargaining unit
 
-4. (1) Subject to subsection (2), the part time support staff bargaining unit includes,
+4 (1) Subject to subsection (2), the part time support staff bargaining unit includes,
 
 (a) all persons regularly employed by an employer for not more than 24 hours a week in positions or classifications in the office, clerical, technical, health care, maintenance, building service, shipping, transportation, cafeteria and nursery staff; and
 
@@ -88,7 +88,7 @@
 
 ##### Definition
 
-5. In this Schedule,
+5 In this Schedule,
 
 “person employed in a managerial or confidential capacity” means a person who,
 
