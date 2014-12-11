@@ -18,7 +18,7 @@ Denturism Act, 1991 | Denturism
 
 Dietetics Act, 1991 | Dietetics
 
-Note: On a day to be named by proclamation of the Lieutenant Governor, Schedule 1 is amended by the Statutes of Ontario, 2007, chapter 10, Schedule Q, section 14 by adding the following:
+Note: On April 1, 2015, the day named by proclamation of the Lieutenant Governor, Schedule 1 is amended by the Statutes of Ontario, 2007, chapter 10, Schedule Q, section 14 by adding the following:
 
 Homeopathy Act, 2007 | Homeopathy
 

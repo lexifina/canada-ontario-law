@@ -2668,6 +2668,16 @@ Reporting of Health Professionals
 
 (2) If a person intended to terminate the employment of a member or to revoke the member’s privileges for reasons of professional misconduct, incompetence or incapacity but the person did not do so because the member resigned or voluntarily relinquished his or her privileges, the person shall file with the Registrar within thirty days after the resignation or relinquishment a written report setting out the reasons upon which the person had intended to act. 1993, c. 37, s. 23.
 
+Note: On a day to be named by proclamation of the Lieutenant Governor, subsection (2) is repealed and the following substituted: (See: 2014, c. 14, Sched. 2, ss. 12, 13)
+
+Same
+
+(2) Where a member resigns, or voluntarily relinquishes or restricts his or her privileges or practice, and the circumstances set out in paragraph 1 or 2 apply, a person referred to in subsection (3) shall act in accordance with those paragraphs:
+
+1. Where a person referred to in subsection (3) has reasonable grounds to believe that the resignation, relinquishment or restriction, as the case may be, is related to the member’s professional misconduct, incompetence or incapacity, the person shall file with the Registrar within 30 days after the resignation, relinquishment or restriction a written report setting out the grounds upon which the person’s belief is based.
+
+2. Where the resignation, relinquishment or restriction, as the case may be, takes place during the course of, or as a result of, an investigation conducted by or on behalf of a person referred to in subsection (3) into allegations related to professional misconduct, incompetence or incapacity on the part of the member, the person referred to in subsection (3) shall file with the Registrar within 30 days after the resignation, relinquishment or restriction a written report setting out the nature of the allegations being investigated. 2014, c. 14, Sched. 2, s. 12.
+
 ##### Application
 
 (3) This section applies to every person, other than a patient, who employs or offers privileges to a member or associates in partnership or otherwise with a member for the purpose of offering health services. 1993, c. 37, s. 23.
