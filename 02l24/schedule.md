@@ -78,7 +78,7 @@ Reciprocal Enforcement of Judgments Act | subsection 2 (1)
 
 Reciprocal Enforcement of Judgments (U.K.) Act | paragraph 1 of article iii of the Schedule
 
-Securities Act | section 129.1, subsection 136 (5) and sections 138 and 138.14
+Securities Act | section 129.1, subsection 136 (6) and sections 138 and 138.14
 
 Succession Law Reform Act | section 61
 
@@ -91,3 +91,5 @@ Tobacco Damages and Health Care Costs Recovery Act, 2009 | subsection 6 (1)
 Tobacco Tax Act | subsections 6 (10) and 24 (5)
 
 Trustee Act | subsection 38 (3)
+
+2002, c. 24, Sched. B, Sched.; 2002, c. 24, Sched. B, s. 50; 2004, c. 16, Sched. D, Table; 2004, c. 31, Sched. 22, s. 1; 2006, c. 32, Sched. C, s. 29; 2007, c. 13, s. 44 (2); 2008, c. 19, Sched. V, s. 4; 2009, c. 13, s. 12; 2009, c. 33, Sched. 21, s. 5; 2010, c. 16, Sched. 4, s. 27; 2015, c. 20, Sched. 39, s. 5.
