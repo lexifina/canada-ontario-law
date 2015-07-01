@@ -32,11 +32,7 @@ Medicine Act, 1991 | Medicine
 
 Midwifery Act, 1991 | Midwifery
 
-Note: On a day to be named by proclamation of the Lieutenant Governor, Schedule 1 is amended by the Statutes of Ontario, 2007, chapter 10, Schedule P, subsection 20 (3) by adding the following:
-
 Naturopathy Act, 2007 | Naturopathy
-
-See: 2007, c. 10, Sched. P, ss. 20 (3), 21 (2).
 
 Nursing Act, 1991 | Nursing
 
@@ -57,3 +53,5 @@ Psychotherapy Act, 2007 | Psychotherapy
 Respiratory Therapy Act, 1991 | Respiratory Therapy
 
 Traditional Chinese Medicine Act, 2006 | Traditional Chinese Medicine
+
+1991, c. 18, Sched. 1; 1998, c. 18, Sched. G, s. 9; 2006, c. 27, s. 18 (2); 2007, c. 10, Sched. O, s. 14; 2007, c. 10, Sched. Q, s. 14; 2007, c. 10, Sched. R, s. 19 (3); 2007, c. 10, Sched. P, s. 20 (3).
