@@ -98,7 +98,7 @@
 
 (j) operates an approved home or auxiliary residence if the operation is funded under the Homes for Retarded Persons Act (R.S.O. 1990, c. H.11);
 
-(k) operates a day nursery or private home day-care agency licensed under the Day Nurseries Act (R.S.O. 1990, c. D.2);
+(k) operates a child care centre or is a home child care agency under the authority of a licence issued under the Child Care and Early Years Act, 2014;
 
 (l) provides services for young offenders under Part IV of the Child and Family Services Act (R.S.O. 1990, c. C.11) or under an agreement with the Ministry of Community and Social Services under the Ministry of Community and Social Services Act (R.S.O. 1990, c. M.20);
 
@@ -106,7 +106,7 @@
 
 (n) provides children’s services funded or purchased by the Ministry of Community and Social Services under the Child and Family Services Act (R.S.O. 1990, c. C.11).
 
-2. Municipalities and other corporations operating day nurseries under the Day Nurseries Act (R.S.O. 1990, c. D.2) and receiving direct subsidies from the Ministry of Community and Social Services.
+2. Municipalities and other corporations operating child care centres under the Child Care and Early Years Act, 2014 and receiving direct subsidies from the Ministry of Education.
 
 3. Societies within the meaning of the Child and Family Services Act (R.S.O. 1990, c. C.11) and agencies from whom such societies purchase services for children.
 
@@ -264,4 +264,4 @@
 
 2. Sexual assault centres.
 
-1993, c. 5, Sched.; 2006, c. 4, s. 53; 2007, c. 8, s. 228; 2009, c. 33, Sched. 18, s. 32.
+1993, c. 5, Sched.; 2006, c. 4, s. 53; 2007, c. 8, s. 228; 2009, c. 33, Sched. 18, s. 32; 2014, c. 11, Sched. 6, s. 9.
