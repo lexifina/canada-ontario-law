@@ -2,11 +2,11 @@
 
 ##### Details of plan to be set forth in by-law
 
-1. The terms and provisions of any plan referred to in section 211 of the Corporations Act shall be set forth in detail in a by-law made by the directors and confirmed at a special general meeting of the company duly called for the purpose of considering the by-law, and there shall be recorded in the minutes of the meeting the number of votes for and the number of votes against confirmation of the by-law, the votes of shareholders and the votes of policyholders being recorded separately.
+1 The terms and provisions of any plan referred to in section 211 of the Corporations Act shall be set forth in detail in a by-law made by the directors and confirmed at a special general meeting of the company duly called for the purpose of considering the by-law, and there shall be recorded in the minutes of the meeting the number of votes for and the number of votes against confirmation of the by-law, the votes of shareholders and the votes of policyholders being recorded separately.
 
 ##### Sanction of by-law by Lieutenant Governor in Council
 
-2. No such by-law becomes effective until sanctioned by the Lieutenant Governor in Council, and in no case shall any such by-law be sanctioned unless the Lieutenant Governor in Council is satisfied that,
+2 No such by-law becomes effective until sanctioned by the Lieutenant Governor in Council, and in no case shall any such by-law be sanctioned unless the Lieutenant Governor in Council is satisfied that,
 
 (a) the conversion of the company into a mutual company may reasonably be expected to be achieved under the terms of the by-law and in accordance with this paragraph;
 
@@ -22,31 +22,31 @@
 
 ##### Prices to be paid for shares purchased under by-law
 
-3. Upon the sanction of the by-law by the Lieutenant Governor in Council, the price fixed for the purposes of clause (d) of paragraph 2 shall continue to be the price that may be paid for shares purchased under the terms of the by-law until such price is changed by the directors in accordance with paragraph 4.
+3 Upon the sanction of the by-law by the Lieutenant Governor in Council, the price fixed for the purposes of clause (d) of paragraph 2 shall continue to be the price that may be paid for shares purchased under the terms of the by-law until such price is changed by the directors in accordance with paragraph 4.
 
 ##### Change in price, when effective
 
-4. The directors may from time to time change the price to be paid for shares purchased under the terms of the by-law, but no such change becomes effective until approved by the Minister on the report of the Superintendent.
+4 The directors may from time to time change the price to be paid for shares purchased under the terms of the by-law, but no such change becomes effective until approved by the Minister on the report of the Superintendent.
 
 ##### Period for which price to remain in effect
 
-5. The price fixed for the purposes of clause (d) of paragraph 2 and any subsequent change in price approved in accordance with paragraph 4 shall remain in effect for a period of not less than six months from the date of sanction of the by-law or the date of approval by the Minister, as the case may be.
+5 The price fixed for the purposes of clause (d) of paragraph 2 and any subsequent change in price approved in accordance with paragraph 4 shall remain in effect for a period of not less than six months from the date of sanction of the by-law or the date of approval by the Minister, as the case may be.
 
 ##### Payment
 
-6. All shares purchased under the terms of the by-law shall be paid for by the company in full at the time of the purchase thereof, but nothing in this paragraph shall be construed as prohibiting the company from applying, in payment for any shares so purchased, the full amount of the purchase price thereof by promissory note, payable at a fixed or determinable future time not later than ten years from the date of the making thereof and bearing a rate of interest fixed by the directors and approved by the Minister on the report of the Superintendent.
+6 All shares purchased under the terms of the by-law shall be paid for by the company in full at the time of the purchase thereof, but nothing in this paragraph shall be construed as prohibiting the company from applying, in payment for any shares so purchased, the full amount of the purchase price thereof by promissory note, payable at a fixed or determinable future time not later than ten years from the date of the making thereof and bearing a rate of interest fixed by the directors and approved by the Minister on the report of the Superintendent.
 
 ##### Date for commencement of purchase of shares
 
-7. The by-law shall fix a day for the commencement of purchase of shares under the terms of the by-law, which day shall be not sooner than the day following the day the by-law is sanctioned by the Lieutenant Governor in Council.
+7 The by-law shall fix a day for the commencement of purchase of shares under the terms of the by-law, which day shall be not sooner than the day following the day the by-law is sanctioned by the Lieutenant Governor in Council.
 
 ##### Purchase of shares offered for sale
 
-8. Subject to paragraph 9, the company shall purchase all shares offered for sale under the terms of the by-law on the day or days fixed by the terms of the offer in each case for the sale of those shares and at the price in effect on the day the offer was received or the day fixed by the by-law for the purposes of paragraph 7, whichever is the later, except that no such purchase shall be made prior to the day so fixed by the by-law.
+8 Subject to paragraph 9, the company shall purchase all shares offered for sale under the terms of the by-law on the day or days fixed by the terms of the offer in each case for the sale of those shares and at the price in effect on the day the offer was received or the day fixed by the by-law for the purposes of paragraph 7, whichever is the later, except that no such purchase shall be made prior to the day so fixed by the by-law.
 
 ##### Limitation
 
-9. Despite anything in this Schedule, the maximum amount that may be applied by the company at any particular time in payment for shares purchased under the terms of the by-law is the amount by which,
+9 Despite anything in this Schedule, the maximum amount that may be applied by the company at any particular time in payment for shares purchased under the terms of the by-law is the amount by which,
 
 (a) the aggregate of the surplus and general or contingency reserves of the company, after deducting the excess of the book value over the par value of any shares purchased under the terms of the by-law on or before the date as of which the condition and affairs of the company are required to be shown in the most recent annual statement as required by the Corporations Act,
 
@@ -58,15 +58,15 @@ exceeds the aggregate of,
 
 ##### Idem
 
-10. For the purposes of paragraph 9, the assets, surplus and general or contingency reserves of the company and the book value of any shares purchased under the terms of the by-law shall be taken as shown in the annual statement referred to in clause (a) of paragraph 9.
+10 For the purposes of paragraph 9, the assets, surplus and general or contingency reserves of the company and the book value of any shares purchased under the terms of the by-law shall be taken as shown in the annual statement referred to in clause (a) of paragraph 9.
 
 ##### Number of shares to be purchased from each shareholder offering shares
 
-11. Where, by reason of paragraph 9, the company may, at any particular time, purchase some but not all of the shares in respect of which offers for sale at that time have been received, the amount that may be applied by the company at that time in payment for shares purchased under the terms of the by-law shall be applied by the company by apportionment among all of the shares so offered for sale at that time, or any of them, in such manner as is specified in the by-law.
+11 Where, by reason of paragraph 9, the company may, at any particular time, purchase some but not all of the shares in respect of which offers for sale at that time have been received, the amount that may be applied by the company at that time in payment for shares purchased under the terms of the by-law shall be applied by the company by apportionment among all of the shares so offered for sale at that time, or any of them, in such manner as is specified in the by-law.
 
 ##### Register to be kept
 
-12. The company shall cause a register to be kept in which shall be recorded the offers for sale of shares under the terms of the by-law in the order in which such offers are received by the company, showing, in respect of each such offer,
+12 The company shall cause a register to be kept in which shall be recorded the offers for sale of shares under the terms of the by-law in the order in which such offers are received by the company, showing, in respect of each such offer,
 
 (a) the date of receipt by the company of the offer;
 
@@ -82,11 +82,11 @@ exceeds the aggregate of,
 
 ##### Notice to shareholders of discontinuation of purchases
 
-13. Where, by reason of paragraph 9, the company is required to discontinue the purchase of shares under the terms of the by-law, the company shall give notice of such discontinuation to each shareholder on the register whose offer for the sale of shares has not been fully taken up by the company, but any such offer as regards shares not so purchased shall continue to be effective and shall maintain its place on the register until withdrawn by the shareholder by notice in writing to the company.
+13 Where, by reason of paragraph 9, the company is required to discontinue the purchase of shares under the terms of the by-law, the company shall give notice of such discontinuation to each shareholder on the register whose offer for the sale of shares has not been fully taken up by the company, but any such offer as regards shares not so purchased shall continue to be effective and shall maintain its place on the register until withdrawn by the shareholder by notice in writing to the company.
 
 ##### Shares purchased: general
 
-14. Where the company has purchased any shares of the capital stock of the company under the terms of the by-law,
+14 Where the company has purchased any shares of the capital stock of the company under the terms of the by-law,
 
 (a) the number of policyholders’ directors of the company shall at all times thereafter be not less than,
 
@@ -104,7 +104,7 @@ whichever is the greater, except that nothing in this clause shall be held to re
 
 ##### Idem
 
-15. In respect of each share purchased under the terms of the by-law, until the capital stock of the company has been cancelled in accordance with paragraph 20,
+15 In respect of each share purchased under the terms of the by-law, until the capital stock of the company has been cancelled in accordance with paragraph 20,
 
 (a) the company may include in its assets shown in the annual statement required by the Corporations Act an amount not exceeding the purchase price of the share, minus one-fifth of the excess of the purchase price over the par value thereof for each complete year that has elapsed since the date of purchase of the share; and
 
@@ -112,15 +112,15 @@ whichever is the greater, except that nothing in this clause shall be held to re
 
 ##### Notice where 90 per cent or more of shares acquired by company
 
-16. At such time as the company first acquires 90 per cent or more of the shares of its capital stock, it shall notify the Minister and each of the remaining shareholders of the company to that effect, and, for the purposes of this paragraph, notice to any shareholder shall be deemed to have been given by the company if the company has forwarded to the shareholder by registered mail, at the shareholder’s address shown in the book or books in which the names of the shareholders of the company are recorded, the notice required by this paragraph.
+16 At such time as the company first acquires 90 per cent or more of the shares of its capital stock, it shall notify the Minister and each of the remaining shareholders of the company to that effect, and, for the purposes of this paragraph, notice to any shareholder shall be deemed to have been given by the company if the company has forwarded to the shareholder by registered mail, at the shareholder’s address shown in the book or books in which the names of the shareholders of the company are recorded, the notice required by this paragraph.
 
 ##### Contents of notice
 
-17. The notice required by paragraph 16 to be given to each of the remaining shareholders of the company shall request each such shareholder to offer the shareholder’s shares for sale forthwith to the company, and shall state therein the substance of paragraph 18.
+17 The notice required by paragraph 16 to be given to each of the remaining shareholders of the company shall request each such shareholder to offer the shareholder’s shares for sale forthwith to the company, and shall state therein the substance of paragraph 18.
 
 ##### Acquisition of remaining shares by company
 
-18. All shares of a shareholder remaining outstanding at the expiration of six months from the date of the notice required by paragraph 16, or at the expiration of such further period as may be required by reason of paragraph 9, shall, upon tender by the company to the shareholder of an amount equal to the price in effect,
+18 All shares of a shareholder remaining outstanding at the expiration of six months from the date of the notice required by paragraph 16, or at the expiration of such further period as may be required by reason of paragraph 9, shall, upon tender by the company to the shareholder of an amount equal to the price in effect,
 
 (a) in the case of shares in respect of which any offer for sale was received by the company prior to the date of the notice, on the day the offer was received; or
 
@@ -130,19 +130,19 @@ be deemed to have been purchased by the company, and, for the purposes of this p
 
 ##### Amount tendered to be retained for payment
 
-19. Where tender of an amount in accordance with paragraph 18 has been made and the amount so tendered has not been accepted, the amount so tendered shall be retained by the company for payment to the person entitled thereto, and until so paid shall be shown on the books of the company as a liability.
+19 Where tender of an amount in accordance with paragraph 18 has been made and the amount so tendered has not been accepted, the amount so tendered shall be retained by the company for payment to the person entitled thereto, and until so paid shall be shown on the books of the company as a liability.
 
 ##### Retirement and cancellation of capital stock
 
-20. Where the company has purchased or is deemed by paragraph 18 to have purchased all of the shares of the capital stock of the company and the shares have been written down in the books of the company to their par value, the capital stock of the company shall thereupon be retired and cancelled by resolution of the board of directors, and the company shall then become a mutual company without capital stock, having for its members the participating policyholders and such other policyholders, if any, as may be authorized by by-law, and the directors shall take all necessary steps to reorganize the affairs of the company accordingly.
+20 Where the company has purchased or is deemed by paragraph 18 to have purchased all of the shares of the capital stock of the company and the shares have been written down in the books of the company to their par value, the capital stock of the company shall thereupon be retired and cancelled by resolution of the board of directors, and the company shall then become a mutual company without capital stock, having for its members the participating policyholders and such other policyholders, if any, as may be authorized by by-law, and the directors shall take all necessary steps to reorganize the affairs of the company accordingly.
 
 ##### No change in by-law except with sanction of Lieutenant Governor in Council
 
-21. No change in any by-law of a company described in paragraph 1 shall be made after the sanction of the by-law by the Lieutenant Governor in Council, except by a subsequent by-law of the company made by the directors and confirmed at a special general meeting of the company duly called for that purpose, and no such subsequent by-law becomes effective until sanctioned by the Lieutenant Governor in Council.
+21 No change in any by-law of a company described in paragraph 1 shall be made after the sanction of the by-law by the Lieutenant Governor in Council, except by a subsequent by-law of the company made by the directors and confirmed at a special general meeting of the company duly called for that purpose, and no such subsequent by-law becomes effective until sanctioned by the Lieutenant Governor in Council.
 
 ##### Definitions
 
-22. In this Schedule,
+22 In this Schedule,
 
 “Minister” means the member of the Executive Council charged for the time being by the Lieutenant Governor in Council with the administration of the Insurance Act; (“ministre”);
 
