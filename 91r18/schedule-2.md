@@ -328,7 +328,7 @@ Miscellaneous
 
 ##### Interpretation
 
-1. (1) In this Code,
+1 (1) In this Code,
 
 “alternative dispute resolution process” means mediation, conciliation, negotiation, or any other means of facilitating the resolution of issues in dispute; (“processus de règlement extrajudiciaire des différends”)
 
@@ -410,7 +410,7 @@ College
 
 ##### College is body corporate
 
-2. (1) The College is a body corporate without share capital with all the powers of a natural person. 1991, c. 18, Sched. 2, s. 2 (1).
+2 (1) The College is a body corporate without share capital with all the powers of a natural person. 1991, c. 18, Sched. 2, s. 2 (1).
 
 ##### Corporations Act
 
@@ -422,7 +422,7 @@ College
 
 ##### Objects of College
 
-3. (1) The College has the following objects:
+3 (1) The College has the following objects:
 
 1. To regulate the practice of the profession and to govern the members in accordance with the health profession Act, this Code and the Regulated Health Professions Act, 1991 and the regulations and by-laws.
 
@@ -462,11 +462,11 @@ College
 
 ##### Council
 
-4. The College shall have a Council that shall be its board of directors and that shall manage and administer its affairs. 1991, c. 18, Sched. 2, s. 4.
+4 The College shall have a Council that shall be its board of directors and that shall manage and administer its affairs. 1991, c. 18, Sched. 2, s. 4.
 
 ##### Terms
 
-5. (1) No term of a Council member who is elected shall exceed three years.
+5 (1) No term of a Council member who is elected shall exceed three years.
 
 ##### Multiple terms
 
@@ -474,11 +474,11 @@ College
 
 ##### Quorum
 
-6. A majority of the members of the Council constitute a quorum. 1991, c. 18, Sched. 2, s. 6.
+6 A majority of the members of the Council constitute a quorum. 1991, c. 18, Sched. 2, s. 6.
 
 ##### Meetings
 
-7. (1) The meetings of the Council shall be open to the public and reasonable notice shall be given to the members of the College, to the Minister, and to the public. 2007, c. 10, Sched. M, s. 20 (1).
+7 (1) The meetings of the Council shall be open to the public and reasonable notice shall be given to the members of the College, to the Minister, and to the public. 2007, c. 10, Sched. M, s. 20 (1).
 
 ##### Exclusion of public
 
@@ -506,11 +506,11 @@ College
 
 ##### Remuneration and expenses
 
-8. Council members appointed by the Lieutenant Governor in Council shall be paid, by the Minister, the expenses and remuneration the Lieutenant Governor in Council determines. 1991, c. 18, Sched. 2, s. 8; 2006, c. 19, Sched. L, s. 10 (1).
+8 Council members appointed by the Lieutenant Governor in Council shall be paid, by the Minister, the expenses and remuneration the Lieutenant Governor in Council determines. 1991, c. 18, Sched. 2, s. 8; 2006, c. 19, Sched. L, s. 10 (1).
 
 ##### Employees
 
-9. (1) The Council may employ persons it considers advisable.
+9 (1) The Council may employ persons it considers advisable.
 
 ##### Registrar
 
@@ -518,7 +518,7 @@ College
 
 ##### Committees
 
-10. (1) The College shall have the following committees:
+10 (1) The College shall have the following committees:
 
 1. Executive Committee.
 
@@ -552,7 +552,7 @@ College
 
 ##### Annual reports
 
-11. (1) Each committee named in subsection 10 (1) shall monitor and evaluate their processes and outcomes and shall annually submit a report of its activities to the Council in a form acceptable to the Council. 2007, c. 10, Sched. M, s. 22.
+11 (1) Each committee named in subsection 10 (1) shall monitor and evaluate their processes and outcomes and shall annually submit a report of its activities to the Council in a form acceptable to the Council. 2007, c. 10, Sched. M, s. 22.
 
 ##### Exclusions from reports
 
@@ -566,7 +566,7 @@ College
 
 ##### Executive Committee’s exercise of Council’s powers
 
-12. (1) Between the meetings of the Council, the Executive Committee has all the powers of the Council with respect to any matter that, in the Committee’s opinion, requires immediate attention, other than the power to make, amend or revoke a regulation or by-law.
+12 (1) Between the meetings of the Council, the Executive Committee has all the powers of the Council with respect to any matter that, in the Committee’s opinion, requires immediate attention, other than the power to make, amend or revoke a regulation or by-law.
 
 ##### Report to Council
 
@@ -574,7 +574,7 @@ College
 
 ##### Members
 
-13. (1) A person registered by the College is a member.
+13 (1) A person registered by the College is a member.
 
 ##### Suspended members
 
@@ -582,7 +582,7 @@ College
 
 ##### Continuing jurisdiction
 
-14. (1) A person whose certificate of registration is revoked or expires or who resigns as a member continues to be subject to the jurisdiction of the College for professional misconduct or incompetence referable to the time when the person was a member and may be investigated under section 75. 2007, c. 10, Sched. M, s. 23 (1).
+14 (1) A person whose certificate of registration is revoked or expires or who resigns as a member continues to be subject to the jurisdiction of the College for professional misconduct or incompetence referable to the time when the person was a member and may be investigated under section 75. 2007, c. 10, Sched. M, s. 23 (1).
 
 ##### Idem
 
@@ -592,7 +592,7 @@ Registration
 
 ##### Registration
 
-15. (1) If a person applies to the Registrar for registration, the Registrar shall,
+15 (1) If a person applies to the Registrar for registration, the Registrar shall,
 
 (a) register the applicant; or
 
@@ -624,7 +624,7 @@ Registration
 
 ##### Disclosure of application file
 
-16. (1) The Registrar shall give an applicant for registration, at his or her request, all the information and a copy of each document the College has that is relevant to the application.
+16 (1) The Registrar shall give an applicant for registration, at his or her request, all the information and a copy of each document the College has that is relevant to the application.
 
 ##### Exception
 
@@ -632,7 +632,7 @@ Registration
 
 ##### Panels
 
-17. (1) An application for registration referred to the Registration Committee or an application referred back to the Registration Committee by the Board shall be considered by a panel selected by the chair from among the members of the Committee. 1991, c. 18, Sched. 2, s. 17 (1); 2007, c. 10, Sched. M, s. 24 (1).
+17 (1) An application for registration referred to the Registration Committee or an application referred back to the Registration Committee by the Board shall be considered by a panel selected by the chair from among the members of the Committee. 1991, c. 18, Sched. 2, s. 17 (1); 2007, c. 10, Sched. M, s. 24 (1).
 
 ##### Composition of panels
 
@@ -644,7 +644,7 @@ Registration
 
 ##### Consideration by panel
 
-18. (1) An applicant may make written submissions to the panel within thirty days after receiving notice under subsection 15 (3) or within any longer period the Registrar may specify in the notice.
+18 (1) An applicant may make written submissions to the panel within thirty days after receiving notice under subsection 15 (3) or within any longer period the Registrar may specify in the notice.
 
 ##### Orders by panel
 
@@ -670,7 +670,7 @@ Registration
 
 ##### Application for variation
 
-19. (1) A member may apply to the Registration Committee for an order directing the Registrar to remove or modify any term, condition or limitation imposed on the member’s certificate of registration as a result of a registration proceeding. 1991, c. 18, Sched. 2, s. 19 (1).
+19 (1) A member may apply to the Registration Committee for an order directing the Registrar to remove or modify any term, condition or limitation imposed on the member’s certificate of registration as a result of a registration proceeding. 1991, c. 18, Sched. 2, s. 19 (1).
 
 ##### Limitations
 
@@ -708,7 +708,7 @@ Registration
 
 ##### Notice of orders
 
-20. (1) A panel shall give the applicant notice of an order it makes under subsection 18 (2) or 19 (6) and written reasons for it if the order,
+20 (1) A panel shall give the applicant notice of an order it makes under subsection 18 (2) or 19 (6) and written reasons for it if the order,
 
 (a) directs the Registrar to refuse to issue a certificate of registration;
 
@@ -724,7 +724,7 @@ Registration
 
 ##### Appeal to Board
 
-21. (1) An applicant who has been given a notice under subsection 20 (1) of an order may require the Board to hold a review of the application and the documentary evidence in support of it, or a hearing of the application, by giving the Board and the Registration Committee notice in accordance with subsection (2).
+21 (1) An applicant who has been given a notice under subsection 20 (1) of an order may require the Board to hold a review of the application and the documentary evidence in support of it, or a hearing of the application, by giving the Board and the Registration Committee notice in accordance with subsection (2).
 
 ##### Requirements of notice
 
@@ -746,7 +746,7 @@ Registration
 
 ##### Registration hearings or reviews
 
-22. (1) This section applies to a hearing or review by the Board required by an applicant under subsection 21 (1). 1991, c. 18, Sched. 2, s. 22 (1).
+22 (1) This section applies to a hearing or review by the Board required by an applicant under subsection 21 (1). 1991, c. 18, Sched. 2, s. 22 (1).
 
 ##### Procedural provisions
 
@@ -1236,7 +1236,7 @@ ii. refusing to register the applicant, if the College does not impose an equiva
 
 ##### Register
 
-23. (1) The Registrar shall maintain a register. 2007, c. 10, Sched. M, s. 28.
+23 (1) The Registrar shall maintain a register. 2007, c. 10, Sched. M, s. 28.
 
 ##### Contents of register
 
@@ -1336,13 +1336,13 @@ ii. refusing to register the applicant, if the College does not impose an equiva
 
 ##### Suspension for non-payment of fees
 
-24. If a member fails to pay a fee that he or she is required to pay in accordance with the by-laws, the Registrar shall give the member notice of intention to suspend the member and may suspend the member’s certificate of registration for failure to pay the fee 30 days after notice is given. 1998, c. 18, Sched. G, s. 14; 2007, c. 10, Sched. M, s. 29.
+24 If a member fails to pay a fee that he or she is required to pay in accordance with the by-laws, the Registrar shall give the member notice of intention to suspend the member and may suspend the member’s certificate of registration for failure to pay the fee 30 days after notice is given. 1998, c. 18, Sched. G, s. 14; 2007, c. 10, Sched. M, s. 29.
 
 Complaints And Reports
 
 ##### Panel for investigation or consideration
 
-25. (1) A panel shall be selected by the chair of the Inquiries, Complaints and Reports Committee from among the members of the Committee to investigate a complaint filed with the Registrar regarding the conduct or actions of a member or to consider a report that is made by the Registrar under clause 79 (a). 2007, c. 10, Sched. M, s. 30.
+25 (1) A panel shall be selected by the chair of the Inquiries, Complaints and Reports Committee from among the members of the Committee to investigate a complaint filed with the Registrar regarding the conduct or actions of a member or to consider a report that is made by the Registrar under clause 79 (a). 2007, c. 10, Sched. M, s. 30.
 
 ##### Composition
 
@@ -1404,7 +1404,7 @@ Complaints And Reports
 
 ##### What a panel may do
 
-26. (1) A panel, after investigating a complaint or considering a report, considering the submissions of the member and making reasonable efforts to consider all records and documents it considers relevant to the complaint or the report, may do any one or more of the following:
+26 (1) A panel, after investigating a complaint or considering a report, considering the submissions of the member and making reasonable efforts to consider all records and documents it considers relevant to the complaint or the report, may do any one or more of the following:
 
 1. Refer a specified allegation of the member’s professional misconduct or incompetence to the Discipline Committee if the allegation is related to the complaint or the report.
 
@@ -1432,7 +1432,7 @@ Complaints And Reports
 
 ##### Notice of decision
 
-27. (1) A panel shall give the complainant and the member who is the subject of the complaint,
+27 (1) A panel shall give the complainant and the member who is the subject of the complaint,
 
 (a) a copy of its decision;
 
@@ -1450,7 +1450,7 @@ Complaints And Reports
 
 ##### Timely disposal
 
-28. (1) A panel shall dispose of a complaint within 150 days after the filing of the complaint. 2007, c. 10, Sched. M, s. 30.
+28 (1) A panel shall dispose of a complaint within 150 days after the filing of the complaint. 2007, c. 10, Sched. M, s. 30.
 
 ##### Not affected by ADR
 
@@ -1512,7 +1512,7 @@ Complaints And Reports
 
 ##### Review by Board
 
-29. (1) Subject to section 30, the Board shall review a decision of a panel of the Inquiries, Complaints and Reports Committee if the Board receives a request under subsection (2). 2007, c. 10, Sched. M, s. 30.
+29 (1) Subject to section 30, the Board shall review a decision of a panel of the Inquiries, Complaints and Reports Committee if the Board receives a request under subsection (2). 2007, c. 10, Sched. M, s. 30.
 
 ##### Request for review
 
@@ -1536,7 +1536,7 @@ Complaints And Reports
 
 ##### When no review
 
-30. (1) The Board shall not review a decision if the party who requested the review withdraws the request and the other party consents. 1991, c. 18, Sched. 2, s. 30 (1).
+30 (1) The Board shall not review a decision if the party who requested the review withdraws the request and the other party consents. 1991, c. 18, Sched. 2, s. 30 (1).
 
 ##### Request in bad faith, etc.
 
@@ -1548,11 +1548,11 @@ Complaints And Reports
 
 ##### Personal representative as complainant
 
-31. A complainant’s personal representative may act as the complainant for the purposes of a review of the decision by the Board if the complainant dies or becomes incapacitated. 1991, c. 18, Sched. 2, s. 31.
+31 A complainant’s personal representative may act as the complainant for the purposes of a review of the decision by the Board if the complainant dies or becomes incapacitated. 1991, c. 18, Sched. 2, s. 31.
 
 ##### Record of decision to be reviewed
 
-32. (1) If the Board is requested to review a decision, the Registrar shall give the Board, within fifteen days after the Board’s request, a record of the investigation and the documents and things upon which the decision was based.
+32 (1) If the Board is requested to review a decision, the Registrar shall give the Board, within fifteen days after the Board’s request, a record of the investigation and the documents and things upon which the decision was based.
 
 ##### Disclosure
 
@@ -1574,7 +1574,7 @@ Complaints And Reports
 
 ##### Conduct of review
 
-33. (1) In a review, the Board shall consider either or both of,
+33 (1) In a review, the Board shall consider either or both of,
 
 (a) the adequacy of the investigation conducted; or
 
@@ -1596,7 +1596,7 @@ Complaints And Reports
 
 ##### Procedural provisions
 
-34. (1) The following provisions apply with necessary modifications to a review by the Board:
+34 (1) The following provisions apply with necessary modifications to a review by the Board:
 
 1. Section 43 (no communication by panel members).
 
@@ -1630,7 +1630,7 @@ Complaints And Reports
 
 ##### Powers of Board
 
-35. (1) After conducting a review of a decision, the Board may do any one or more of the following:
+35 (1) After conducting a review of a decision, the Board may do any one or more of the following:
 
 1. Confirm all or part of the decision.
 
@@ -1646,7 +1646,7 @@ Discipline
 
 ##### Inquiries, Complaints and Reports Committee referral
 
-36. (1) The Inquiries, Complaints and Reports Committee may refer a specified allegation of a member’s professional misconduct or incompetence to the Discipline Committee. 2007, c. 10, Sched. M, s. 33 (1).
+36 (1) The Inquiries, Complaints and Reports Committee may refer a specified allegation of a member’s professional misconduct or incompetence to the Discipline Committee. 2007, c. 10, Sched. M, s. 33 (1).
 
 ##### Allegations of sexual abuse
 
@@ -1654,7 +1654,7 @@ Discipline
 
 ##### Interim suspension
 
-37. (1) The Inquiries, Complaints and Reports Committee may, subject to subsection (5), make an interim order directing the Registrar to suspend or impose terms, conditions or limitations on a member’s certificate of registration if,
+37 (1) The Inquiries, Complaints and Reports Committee may, subject to subsection (5), make an interim order directing the Registrar to suspend or impose terms, conditions or limitations on a member’s certificate of registration if,
 
 (a) an allegation is referred to the Discipline Committee; and
 
@@ -1690,7 +1690,7 @@ Discipline
 
 ##### Panel for discipline hearing
 
-38. (1) The chair of the Discipline Committee shall select a panel from among the members of the Committee to hold a hearing of allegations of a member’s professional misconduct or incompetence referred to the Committee by the Inquiries, Complaints and Reports Committee. 1991, c. 18, Sched. 2, s. 38 (1); 2007, c. 10, Sched. M, s. 35.
+38 (1) The chair of the Discipline Committee shall select a panel from among the members of the Committee to hold a hearing of allegations of a member’s professional misconduct or incompetence referred to the Committee by the Inquiries, Complaints and Reports Committee. 1991, c. 18, Sched. 2, s. 38 (1); 2007, c. 10, Sched. M, s. 35.
 
 ##### Composition
 
@@ -1710,15 +1710,15 @@ Discipline
 
 ##### Panel members deemed to continue
 
-39. A member of a panel who ceases to be a member of the Discipline Committee after a hearing of a matter has commenced before the panel shall be deemed, for the purposes of dealing with that matter, to remain a member of the panel until the final disposition of the matter. 1991, c. 18, Sched. 2, s. 39.
+39 A member of a panel who ceases to be a member of the Discipline Committee after a hearing of a matter has commenced before the panel shall be deemed, for the purposes of dealing with that matter, to remain a member of the panel until the final disposition of the matter. 1991, c. 18, Sched. 2, s. 39.
 
 ##### Amendment of notice of hearing
 
-40. A panel may at any time permit a notice of hearing of allegations against a member to be amended to correct errors or omissions of a minor or clerical nature if it is of the opinion that it is just and equitable to do so and the panel may make any order it considers necessary to prevent prejudice to the member. 1991, c. 18, Sched. 2, s. 40.
+40 A panel may at any time permit a notice of hearing of allegations against a member to be amended to correct errors or omissions of a minor or clerical nature if it is of the opinion that it is just and equitable to do so and the panel may make any order it considers necessary to prevent prejudice to the member. 1991, c. 18, Sched. 2, s. 40.
 
 ##### Parties
 
-41. The College and the member against whom allegations have been made are parties to a hearing. 1991, c. 18, Sched. 2, s. 41.
+41 The College and the member against whom allegations have been made are parties to a hearing. 1991, c. 18, Sched. 2, s. 41.
 
 ##### Non-party participation in hearings
 
@@ -1734,7 +1734,7 @@ Discipline
 
 ##### Disclosure of evidence
 
-42. (1) Evidence against a member is not admissible at a hearing of allegations against the member unless the member is given, at least ten days before the hearing,
+42 (1) Evidence against a member is not admissible at a hearing of allegations against the member unless the member is given, at least ten days before the hearing,
 
 (a) in the case of written or documentary evidence, an opportunity to examine the evidence;
 
@@ -1756,15 +1756,15 @@ Discipline
 
 ##### No communication by panel members
 
-43. No member of a panel holding a hearing shall communicate outside the hearing, in relation to the subject-matter of the hearing, with a party or the party’s representative unless the other party has been given notice of the subject-matter of the communication and an opportunity to be present during the communication. 1991, c. 18, Sched. 2, s. 43.
+43 No member of a panel holding a hearing shall communicate outside the hearing, in relation to the subject-matter of the hearing, with a party or the party’s representative unless the other party has been given notice of the subject-matter of the communication and an opportunity to be present during the communication. 1991, c. 18, Sched. 2, s. 43.
 
 ##### Legal advice
 
-44. If a panel obtains legal advice with respect to a hearing, it shall make the nature of the advice known to the parties and they may make submissions with respect to the advice. 1991, c. 18, Sched. 2, s. 44.
+44 If a panel obtains legal advice with respect to a hearing, it shall make the nature of the advice known to the parties and they may make submissions with respect to the advice. 1991, c. 18, Sched. 2, s. 44.
 
 ##### Hearings public
 
-45. (1) A hearing shall, subject to subsection (2), be open to the public. 1991, c. 18, Sched. 2, s. 45 (1).
+45 (1) A hearing shall, subject to subsection (2), be open to the public. 1991, c. 18, Sched. 2, s. 45 (1).
 
 ##### Exclusion of public
 
@@ -1804,11 +1804,11 @@ Discipline
 
 ##### Exception to closed hearings
 
-46. If a panel makes an order under subsection 45 (2) wholly or partly in relation to a person, the panel may allow the person and his or her personal representative to attend the hearing and may, in its discretion, allow another person to attend if, in the opinion of the panel, to do so does not undermine the reasons for making the order and does not cause undue prejudice to a party. 2007, c. 10, Sched. M, s. 38.
+46 If a panel makes an order under subsection 45 (2) wholly or partly in relation to a person, the panel may allow the person and his or her personal representative to attend the hearing and may, in its discretion, allow another person to attend if, in the opinion of the panel, to do so does not undermine the reasons for making the order and does not cause undue prejudice to a party. 2007, c. 10, Sched. M, s. 38.
 
 ##### Sexual misconduct witnesses
 
-47. (1) A panel shall, on the request of a witness whose testimony is in relation to allegations of a member’s misconduct of a sexual nature involving the witness, make an order that no person shall publish the identity of the witness or any information that could disclose the identity of the witness. 1991, c. 18, Sched. 2, s. 47.
+47 (1) A panel shall, on the request of a witness whose testimony is in relation to allegations of a member’s misconduct of a sexual nature involving the witness, make an order that no person shall publish the identity of the witness or any information that could disclose the identity of the witness. 1991, c. 18, Sched. 2, s. 47.
 
 ##### Interpretation
 
@@ -1818,7 +1818,7 @@ Discipline
 
 ##### Transcript of hearings
 
-48. (1) The panel holding a hearing shall ensure that,
+48 (1) The panel holding a hearing shall ensure that,
 
 (a) the oral evidence is recorded;
 
@@ -1832,15 +1832,15 @@ Discipline
 
 ##### Admissibility of evidence
 
-49. Despite the Statutory Powers Procedure Act, nothing is admissible at a hearing that would be inadmissible in a court in a civil action and the findings of a panel shall be based exclusively on evidence admitted before it. 1991, c. 18, Sched. 2, s. 49.
+49 Despite the Statutory Powers Procedure Act, nothing is admissible at a hearing that would be inadmissible in a court in a civil action and the findings of a panel shall be based exclusively on evidence admitted before it. 1991, c. 18, Sched. 2, s. 49.
 
 ##### Members of panel who participate
 
-50. Only the members of a panel who were present throughout a hearing shall participate in the panel’s decision. 1991, c. 18, Sched. 2, s. 50.
+50 Only the members of a panel who were present throughout a hearing shall participate in the panel’s decision. 1991, c. 18, Sched. 2, s. 50.
 
 ##### Professional misconduct
 
-51. (1) A panel shall find that a member has committed an act of professional misconduct if,
+51 (1) A panel shall find that a member has committed an act of professional misconduct if,
 
 (a) the member has been found guilty of an offence that is relevant to the member’s suitability to practise;
 
@@ -1914,7 +1914,7 @@ v. encouragement of the patient by the member to masturbate in the presence of t
 
 ##### Incompetence
 
-52. (1) A panel shall find a member to be incompetent if the member’s professional care of a patient displayed a lack of knowledge, skill or judgment of a nature or to an extent that demonstrates that the member is unfit to continue to practise or that the member’s practice should be restricted. 1991, c. 18, Sched. 2, s. 52 (1); 2007, c. 10, Sched. M, s. 40 (1).
+52 (1) A panel shall find a member to be incompetent if the member’s professional care of a patient displayed a lack of knowledge, skill or judgment of a nature or to an extent that demonstrates that the member is unfit to continue to practise or that the member’s practice should be restricted. 1991, c. 18, Sched. 2, s. 52 (1); 2007, c. 10, Sched. M, s. 40 (1).
 
 ##### Order
 
@@ -1932,7 +1932,7 @@ v. encouragement of the patient by the member to masturbate in the presence of t
 
 ##### Costs if proceedings unwarranted
 
-53. If a panel is of the opinion that the commencement of proceedings was unwarranted, it may make an order requiring the College to pay all or part of the member’s legal costs. 1991, c. 18, Sched. 2, s. 53.
+53 If a panel is of the opinion that the commencement of proceedings was unwarranted, it may make an order requiring the College to pay all or part of the member’s legal costs. 1991, c. 18, Sched. 2, s. 53.
 
 ##### College’s costs
 
@@ -1946,15 +1946,15 @@ v. encouragement of the patient by the member to masturbate in the presence of t
 
 ##### Decision to complainant
 
-54. A panel shall give its decision and reasons in writing to the parties and, if the matter had been referred to the Discipline Committee by the Inquiries, Complaints and Reports Committee, to the complainant in the matter. 1991, c. 18, Sched. 2, s. 54; 2007, c. 10, Sched. M, s. 41.
+54 A panel shall give its decision and reasons in writing to the parties and, if the matter had been referred to the Discipline Committee by the Inquiries, Complaints and Reports Committee, to the complainant in the matter. 1991, c. 18, Sched. 2, s. 54; 2007, c. 10, Sched. M, s. 41.
 
 ##### Release of evidence
 
-55. The Discipline Committee shall release documents and things put into evidence at a hearing to the person who produced them, on request, within a reasonable time after the matter in issue has been finally determined. 1991, c. 18, Sched. 2, s. 55.
+55 The Discipline Committee shall release documents and things put into evidence at a hearing to the person who produced them, on request, within a reasonable time after the matter in issue has been finally determined. 1991, c. 18, Sched. 2, s. 55.
 
 ##### Publication of decisions
 
-56. (1) The College shall publish a panel’s decision and its reasons, or a summary of its reasons, in its annual report and may publish the decision and reasons or summary in any other publication of the College.
+56 (1) The College shall publish a panel’s decision and its reasons, or a summary of its reasons, in its annual report and may publish the decision and reasons or summary in any other publication of the College.
 
 ##### Publication of member’s name
 
@@ -1972,11 +1972,11 @@ Incapacity
 
 ##### Registrar’s inquiry
 
-57. If the Registrar believes that a member may be incapacitated, the Registrar shall make inquiries he or she considers appropriate and shall report the results of the inquiries to the Inquiries, Complaints and Reports Committee. 1991, c. 18, Sched. 2, s. 57; 2007, c. 10, Sched. M, s. 42.
+57 If the Registrar believes that a member may be incapacitated, the Registrar shall make inquiries he or she considers appropriate and shall report the results of the inquiries to the Inquiries, Complaints and Reports Committee. 1991, c. 18, Sched. 2, s. 57; 2007, c. 10, Sched. M, s. 42.
 
 ##### Panel shall inquire
 
-58. (1) A panel selected by the chair of the Inquiries, Complaints and Reports Committee from among the members of the Committee shall inquire into whether a member is incapacitated if,
+58 (1) A panel selected by the chair of the Inquiries, Complaints and Reports Committee from among the members of the Committee shall inquire into whether a member is incapacitated if,
 
 (a) the Inquiries, Complaints and Reports Committee receives a report from the Registrar under section 57; or
 
@@ -1992,7 +1992,7 @@ Incapacity
 
 ##### Inquiries by panel
 
-59. (1) A panel shall make the inquiries it considers appropriate. 2007, c. 10, Sched. M, s. 44.
+59 (1) A panel shall make the inquiries it considers appropriate. 2007, c. 10, Sched. M, s. 44.
 
 ##### Physical or mental examinations
 
@@ -2000,15 +2000,15 @@ Incapacity
 
 ##### Panel’s report
 
-60. The panel shall give a copy of its report and a copy of any report on an examination required under subsection 59 (2) to the member who was the subject of the inquiry. 2007, c. 10, Sched. M, s. 44.
+60 The panel shall give a copy of its report and a copy of any report on an examination required under subsection 59 (2) to the member who was the subject of the inquiry. 2007, c. 10, Sched. M, s. 44.
 
 ##### Referral to Fitness to Practise Committee
 
-61. After giving a copy of its report and copy of any report on an examination required under subsection 59 (2) to the member, the panel may refer the matter to the Fitness to Practise Committee. 2007, c. 10, Sched. M, s. 44.
+61 After giving a copy of its report and copy of any report on an examination required under subsection 59 (2) to the member, the panel may refer the matter to the Fitness to Practise Committee. 2007, c. 10, Sched. M, s. 44.
 
 ##### Interim suspension
 
-62. (1) The panel may, subject to section 63, make an interim order directing the Registrar to suspend or impose terms, conditions or limitations on a member’s certificate of registration if,
+62 (1) The panel may, subject to section 63, make an interim order directing the Registrar to suspend or impose terms, conditions or limitations on a member’s certificate of registration if,
 
 (a) it has referred a matter involving the member to the Fitness to Practise Committee; and
 
@@ -2028,7 +2028,7 @@ Incapacity
 
 ##### Restrictions on orders
 
-63. (1) No order shall be made with respect to a member under subsection 59 (2) or 62 (1) unless the member has been given,
+63 (1) No order shall be made with respect to a member under subsection 59 (2) or 62 (1) unless the member has been given,
 
 (a) notice of the intention to make the order;
 
@@ -2042,7 +2042,7 @@ Incapacity
 
 ##### Panels for Fitness to Practise hearings
 
-64. (1) The chair of the Fitness to Practise Committee shall select a panel from among the members of the Committee to hold a hearing of any matter referred to the Committee by a panel of the Inquiries, Complaints and Reports Committee. 1991, c. 18, Sched. 2, s. 64 (1); 2007, c. 10, Sched. M, s. 47 (1).
+64 (1) The chair of the Fitness to Practise Committee shall select a panel from among the members of the Committee to hold a hearing of any matter referred to the Committee by a panel of the Inquiries, Complaints and Reports Committee. 1991, c. 18, Sched. 2, s. 64 (1); 2007, c. 10, Sched. M, s. 47 (1).
 
 ##### Composition
 
@@ -2054,11 +2054,11 @@ Incapacity
 
 ##### Parties
 
-65. The College, the member who is alleged to be incapacitated and any other person specified by the panel are parties to a hearing. 1991, c. 18, Sched. 2, s. 65.
+65 The College, the member who is alleged to be incapacitated and any other person specified by the panel are parties to a hearing. 1991, c. 18, Sched. 2, s. 65.
 
 ##### Reports of health professionals
 
-66. (1) A report prepared and signed by a health professional containing his or her findings and the facts upon which they are based is admissible as evidence at a hearing without proof of its making or of the health professional’s signature if the party introducing the report gives the other parties a copy of the report at least ten days before the hearing.
+66 (1) A report prepared and signed by a health professional containing his or her findings and the facts upon which they are based is admissible as evidence at a hearing without proof of its making or of the health professional’s signature if the party introducing the report gives the other parties a copy of the report at least ten days before the hearing.
 
 ##### Testimony of health professionals
 
@@ -2074,7 +2074,7 @@ Incapacity
 
 ##### Procedural provisions
 
-67. The following provisions apply with necessary modifications to a hearing by a panel of the Fitness to Practise Committee:
+67 The following provisions apply with necessary modifications to a hearing by a panel of the Fitness to Practise Committee:
 
 1. Subsection 22 (4) (findings of fact).
 
@@ -2098,7 +2098,7 @@ Incapacity
 
 ##### Hearings closed
 
-68. (1) A hearing by a panel of the Fitness to Practise Committee shall, subject to subsection (2), be closed to the public. 1991, c. 18, Sched. 2, s. 68 (1); 2007, c. 10, Sched. M, s. 49 (1).
+68 (1) A hearing by a panel of the Fitness to Practise Committee shall, subject to subsection (2), be closed to the public. 1991, c. 18, Sched. 2, s. 68 (1); 2007, c. 10, Sched. M, s. 49 (1).
 
 ##### Open on request of member in some cases
 
@@ -2114,7 +2114,7 @@ Incapacity
 
 ##### Orders
 
-69. (1) If a panel finds that a member is incapacitated, it shall make an order doing any one or more of the following:
+69 (1) If a panel finds that a member is incapacitated, it shall make an order doing any one or more of the following:
 
 1. Directing the Registrar to revoke the member’s certificate of registration.
 
@@ -2142,7 +2142,7 @@ Appeals to Court
 
 ##### Appeals from decisions
 
-70. (1) A party to proceedings before the Board concerning a registration hearing or review or to proceedings before a panel of the Discipline or Fitness to Practise Committee, other than a hearing of an application under subsection 72 (1), may appeal from the decision of the Board or panel to the Divisional Court.
+70 (1) A party to proceedings before the Board concerning a registration hearing or review or to proceedings before a panel of the Discipline or Fitness to Practise Committee, other than a hearing of an application under subsection 72 (1), may appeal from the decision of the Board or panel to the Divisional Court.
 
 ##### Basis of appeal
 
@@ -2154,7 +2154,7 @@ Appeals to Court
 
 ##### No stay of certain orders pending appeal
 
-71. An order made by a panel of the Discipline Committee on the grounds of incompetence or by a panel of the Fitness to Practise Committee on the grounds of incapacity, directing the Registrar to revoke, suspend or impose terms, limitations or conditions on a member’s certificate, takes effect immediately despite any appeal. 1991, c. 18, Sched. 2, s. 71.
+71 An order made by a panel of the Discipline Committee on the grounds of incompetence or by a panel of the Fitness to Practise Committee on the grounds of incapacity, directing the Registrar to revoke, suspend or impose terms, limitations or conditions on a member’s certificate, takes effect immediately despite any appeal. 1991, c. 18, Sched. 2, s. 71.
 
 ##### No stay of certain orders pending appeal
 
@@ -2168,7 +2168,7 @@ Reinstatement
 
 ##### Applications for reinstatement
 
-72. (1) A person whose certificate of registration has been revoked or suspended as a result of disciplinary or incapacity proceedings may apply in writing to the Registrar to have a new certificate issued or the suspension removed. 1991, c. 18, Sched. 2, s. 72 (1).
+72 (1) A person whose certificate of registration has been revoked or suspended as a result of disciplinary or incapacity proceedings may apply in writing to the Registrar to have a new certificate issued or the suspension removed. 1991, c. 18, Sched. 2, s. 72 (1).
 
 ##### Time of application
 
@@ -2196,7 +2196,7 @@ Reinstatement
 
 ##### Referral to Committee
 
-73. (1) The Registrar shall refer the application, if the revocation or suspension was on the grounds of,
+73 (1) The Registrar shall refer the application, if the revocation or suspension was on the grounds of,
 
 (a) professional misconduct or incompetence, to the Discipline Committee; or
 
@@ -2276,7 +2276,7 @@ Reinstatement
 
 ##### Orders without hearing
 
-74. (1) The Council or Executive Committee may, without a hearing, with respect to a person whose certificate of registration has been revoked or suspended as a result of disciplinary or incapacity proceedings, make an order doing any one or more of the following:
+74 (1) The Council or Executive Committee may, without a hearing, with respect to a person whose certificate of registration has been revoked or suspended as a result of disciplinary or incapacity proceedings, make an order doing any one or more of the following:
 
 1. Directing the Registrar to issue a new certificate of registration to the applicant.
 
@@ -2292,7 +2292,7 @@ Registrar’s Powers of Investigation
 
 ##### Investigators
 
-75. (1) The Registrar may appoint one or more investigators to determine whether a member has committed an act of professional misconduct or is incompetent if,
+75 (1) The Registrar may appoint one or more investigators to determine whether a member has committed an act of professional misconduct or is incompetent if,
 
 (a) the Registrar believes on reasonable and probable grounds that the member has committed an act of professional misconduct or is incompetent and the Inquiries, Complaints and Reports Committee approves of the appointment;
 
@@ -2314,7 +2314,7 @@ Registrar’s Powers of Investigation
 
 ##### Application of Public Inquiries Act, 2009
 
-76. (1) An investigator may inquire into and examine the practice of the member to be investigated and section 33 of the Public Inquiries Act, 2009 applies to that inquiry and examination. 2009, c. 33, Sched. 6, s. 84.
+76 (1) An investigator may inquire into and examine the practice of the member to be investigated and section 33 of the Public Inquiries Act, 2009 applies to that inquiry and examination. 2009, c. 33, Sched. 6, s. 84.
 
 ##### Reasonable inquiries
 
@@ -2338,7 +2338,7 @@ Registrar’s Powers of Investigation
 
 ##### Entries and searches
 
-77. (1) A justice of the peace may, on the application of the investigator made without notice, issue a warrant authorizing an investigator to enter and search a place and examine any document or thing specified in the warrant if the justice of the peace is satisfied that the investigator has been properly appointed and that there are reasonable and probable grounds established upon oath for believing that,
+77 (1) A justice of the peace may, on the application of the investigator made without notice, issue a warrant authorizing an investigator to enter and search a place and examine any document or thing specified in the warrant if the justice of the peace is satisfied that the investigator has been properly appointed and that there are reasonable and probable grounds established upon oath for believing that,
 
 (a) the member being investigated has committed an act of professional misconduct or is incompetent; and
 
@@ -2362,7 +2362,7 @@ Registrar’s Powers of Investigation
 
 ##### Copying of documents and objects
 
-78. (1) An investigator may copy, at the College’s expense, a document or object that an investigator may examine under subsection 76 (2) or under the authority of a warrant issued under subsection 77 (1).
+78 (1) An investigator may copy, at the College’s expense, a document or object that an investigator may examine under subsection 76 (2) or under the authority of a warrant issued under subsection 77 (1).
 
 ##### Removal for documents and objects
 
@@ -2392,7 +2392,7 @@ Registrar’s Powers of Investigation
 
 ##### Report of investigation
 
-79. The Registrar shall report the results of an investigation to,
+79 The Registrar shall report the results of an investigation to,
 
 (a) the Inquiries, Complaints and Reports Committee if the investigator was appointed under clause 75 (1) (a) or (b) or subsection 75 (2);
 
@@ -2406,7 +2406,7 @@ Quality Assurance Committee
 
 ##### Quality assurance program required
 
-80. The Council shall make regulations under clause 95 (1) (r) prescribing a quality assurance program. 1991, c. 18, Sched. 2, s. 80; 2000, c. 26, Sched. H, s. 3 (1).
+80 The Council shall make regulations under clause 95 (1) (r) prescribing a quality assurance program. 1991, c. 18, Sched. 2, s. 80; 2000, c. 26, Sched. H, s. 3 (1).
 
 ##### Minimum requirements for quality assurance program
 
@@ -2446,11 +2446,11 @@ ii. who has been directed to participate in specified continuing education or re
 
 ##### Assessors
 
-81. The Quality Assurance Committee may appoint assessors for the purposes of a quality assurance program. 1991, c. 18, Sched. 2, s. 81.
+81 The Quality Assurance Committee may appoint assessors for the purposes of a quality assurance program. 1991, c. 18, Sched. 2, s. 81.
 
 ##### Co-operation with Committee and assessors
 
-82. (1) Every member shall co-operate with the Quality Assurance Committee and with any assessor it appoints and in particular every member shall,
+82 (1) Every member shall co-operate with the Quality Assurance Committee and with any assessor it appoints and in particular every member shall,
 
 (a) permit the assessor to enter and inspect the premises where the member practises;
 
@@ -2480,7 +2480,7 @@ ii. who has been directed to participate in specified continuing education or re
 
 ##### Confidentiality of information
 
-83. (1) Except as provided in section 80.2 and in this section, the Quality Assurance Committee and any assessor appointed by it shall not disclose, to any other committee, information that,
+83 (1) Except as provided in section 80.2 and in this section, the Quality Assurance Committee and any assessor appointed by it shall not disclose, to any other committee, information that,
 
 (a) was given by the member; or
 
@@ -2572,7 +2572,7 @@ Patient Relations Program
 
 ##### Patient relations program
 
-84. (1) The College shall have a patient relations program. 1991, c. 18, Sched. 2, s. 84 (1).
+84 (1) The College shall have a patient relations program. 1991, c. 18, Sched. 2, s. 84 (1).
 
 ##### Measures for sexual abuse of patients
 
@@ -2596,7 +2596,7 @@ Patient Relations Program
 
 ##### Advice to Council
 
-85. The Patient Relations Committee shall advise the Council with respect to the patient relations program. 1991, c. 18, Sched. 2, s. 85.
+85 The Patient Relations Committee shall advise the Council with respect to the patient relations program. 1991, c. 18, Sched. 2, s. 85.
 
 Reporting of Health Professionals
 
@@ -2898,7 +2898,7 @@ Miscellaneous
 
 ##### Right to use French
 
-86. (1) A person has the right to use French in all dealings with the College. 1991, c. 18, Sched. 2, s. 86 (1).
+86 (1) A person has the right to use French in all dealings with the College. 1991, c. 18, Sched. 2, s. 86 (1).
 
 ##### Language preferences
 
@@ -2920,21 +2920,21 @@ Miscellaneous
 
 ##### Court orders
 
-87. The College may apply to the Superior Court of Justice for an order directing a person to comply with a provision of the health profession Act, this Code, the Regulated Health Professions Act, 1991, the regulations under those Acts or the by-laws made under clause 94 (1) (l.2), (l.3) (s), (t), (t.1), (t.2), (v), (w) or (y). 1991, c. 18, Sched. 2, s. 87; 1998, c. 18, Sched. G, s. 20; 2000, c. 42, Sched., s. 38; 2001, c. 8, s. 224; 2006, c. 19, Sched. C, s. 1 (1).
+87 The College may apply to the Superior Court of Justice for an order directing a person to comply with a provision of the health profession Act, this Code, the Regulated Health Professions Act, 1991, the regulations under those Acts or the by-laws made under clause 94 (1) (l.2), (l.3) (s), (t), (t.1), (t.2), (v), (w) or (y). 1991, c. 18, Sched. 2, s. 87; 1998, c. 18, Sched. G, s. 20; 2000, c. 42, Sched., s. 38; 2001, c. 8, s. 224; 2006, c. 19, Sched. C, s. 1 (1).
 
 ##### Evidence of Registrar
 
-88. A statement purporting to be certified by the Registrar under the seal of the College as a statement of information from the records kept by the Registrar in the course of his or her duties is admissible in court as proof, in the absence of evidence to the contrary, of the information in it without proof of the Registrar’s appointment or signature or of the seal of the College. 1991, c. 18, Sched. 2, s. 88.
+88 A statement purporting to be certified by the Registrar under the seal of the College as a statement of information from the records kept by the Registrar in the course of his or her duties is admissible in court as proof, in the absence of evidence to the contrary, of the information in it without proof of the Registrar’s appointment or signature or of the seal of the College. 1991, c. 18, Sched. 2, s. 88.
 
-89. Repealed: 2002, c. 24, Sched. B, s. 25.
+89 Repealed: 2002, c. 24, Sched. B, s. 25.
 
-90. Repealed: 1993, c. 37, s. 24.
+90 Repealed: 1993, c. 37, s. 24.
 
-91. Repealed: 2007, c. 10, Sched. M, s. 70.
+91 Repealed: 2007, c. 10, Sched. M, s. 70.
 
 ##### Making false representations to obtain certificates
 
-92. (1) Every person who makes a representation, knowing it to be false,
+92 (1) Every person who makes a representation, knowing it to be false,
 
 (a) for the purpose of having a certificate of registration issued is guilty of an offence and on conviction is liable to a fine of not more than $25,000 for a first offence and not more than $50,000 for a second or subsequent offence; or
 
@@ -2954,7 +2954,7 @@ Miscellaneous
 
 ##### Offences
 
-93. (1) Every person who contravenes an order made under subsection 7 (3) or section 45 or 47, or who contravenes subsection 76 (3), 82 (2) or (3), 85.2 (1), 85.5 (1) or (2) or 85.14 (2) or section 92.1 is guilty of an offence and on conviction is liable,
+93 (1) Every person who contravenes an order made under subsection 7 (3) or section 45 or 47, or who contravenes subsection 76 (3), 82 (2) or (3), 85.2 (1), 85.5 (1) or (2) or 85.14 (2) or section 92.1 is guilty of an offence and on conviction is liable,
 
 (a) in the case of an individual to a fine of not more than $25,000 for a first offence and not more than $50,000 for a second or subsequent offence; or
 
@@ -2970,7 +2970,7 @@ Miscellaneous
 
 ##### By-laws
 
-94. (1) The Council may make by-laws relating to the administrative and internal affairs of the College and, without limiting the generality of the foregoing, the Council may make by-laws,
+94 (1) The Council may make by-laws relating to the administrative and internal affairs of the College and, without limiting the generality of the foregoing, the Council may make by-laws,
 
 (a) adopting a seal for the College;
 
@@ -3090,7 +3090,7 @@ Miscellaneous
 
 ##### Regulations
 
-95. (1) Subject to the approval of the Lieutenant Governor in Council and with prior review of the Minister, the Council may make regulations,
+95 (1) Subject to the approval of the Lieutenant Governor in Council and with prior review of the Minister, the Council may make regulations,
 
 (0.a) providing that the spousal exception in subsection 1 (5) applies in respect of the College;
 
