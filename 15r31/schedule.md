@@ -52,7 +52,7 @@ All that part of the Territorial District of Timiskaming lying west of the easte
 
 SECONDLY:
 
-All of the Territorial District of Sudbury, EXCEPTING those parts described as follows:
+All of the Territorial District of Sudbury, EXCEPTING those parts described as follows, other than that part forming Wahnapitae Indian Reserve No. 11:
 
 (i) All that part lying west of the easterly limit of the geographic townships of Shenango, Lemoine, Carty, Pinogami, Biggs, Rollo, Swayze, Cunningham, Blamey, Shipley, Singapore, Burr and Edighoffer;
 
@@ -128,7 +128,7 @@ All that part of the Territorial District of Cochrane lying east and south of a 
 
 THIRDLY:
 
-All that part of the Territorial District of Sudbury lying easterly of a line described as follows: Commencing at the northwest corner of the geographic Township of Stull; thence southerly along the west limit of the geographic townships of Stull, Valin, Cotton, Beresford and Creelman to the north limit of the former Regional Municipality of Sudbury (as existed on December 31, 1996); thence generally easterly and southerly along the north and east limits of said former municipality and continuing southerly along the east limit of the geographic township of Dryden to the northwest corner of the geographic township of Hawley; thence southerly and easterly along the west and south limits of the geographic township of Hawley to the northeast corner of the geographic township of Hendrie; thence southerly along the east limit of the geographic townships of Hendrie and Hoskin to the north limit of the geographic township of Delamere; thence easterly along the north limit of the geographic township of Delamere to the northwest corner of the former Municipal Township of Cosby, Mason and Martland (as existed on December 31, 1996); thence generally southerly and easterly along the west and south limits of the said former municipal township to the south limit of the Territorial District of Sudbury.
+All that part of the Territorial District of Sudbury, other than that part forming Wahnapitae Indian Reserve No. 11, lying easterly of a line described as follows: Commencing at the northwest corner of the geographic Township of Stull; thence southerly along the west limit of the geographic townships of Stull, Valin, Cotton, Beresford and Creelman to the north limit of the former Regional Municipality of Sudbury (as existed on December 31, 1996); thence generally easterly and southerly along the north and east limits of said former municipality and continuing southerly along the east limit of the geographic township of Dryden to the northwest corner of the geographic township of Hawley; thence southerly and easterly along the west and south limits of the geographic township of Hawley to the northeast corner of the geographic township of Hendrie; thence southerly along the east limit of the geographic townships of Hendrie and Hoskin to the north limit of the geographic township of Delamere; thence easterly along the north limit of the geographic township of Delamere to the northwest corner of the former Municipal Township of Cosby, Mason and Martland (as existed on December 31, 1996); thence generally southerly and easterly along the west and south limits of the said former municipal township to the south limit of the Territorial District of Sudbury.
 
 FOURTHLY:
 
@@ -145,3 +145,5 @@ All of the Territorial District of Cochrane EXCEPTING that part lying east and s
 SECONDLY:
 
 All that part of the Territorial District of Kenora, lying east of a line described as follows: Commencing at the most northerly northeast corner of the Territorial District of Thunder Bay; thence northerly along the production of the east limit of the Territorial District of Thunder Bay to the north limit of the Province of Ontario.
+
+2016, c. 33, s. 36 (2, 3).
