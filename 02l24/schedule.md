@@ -2,9 +2,9 @@
 
 Act | Provision
 
-Assignments and Preferences Act | subsections 26 (2) and 27 (2)
+Arbitration Act, 1991 | subsection 52 (3)
 
-Bulk Sales Act | section 19
+Assignments and Preferences Act | subsections 26 (2) and 27 (2)
 
 Business Corporations Act | subsections 157 (2), 185 (18) and (19), 188 (9), (13) and (14), and 189 (5)
 
@@ -54,6 +54,8 @@ Income Tax Act | section 38
 
 Insurance Act | section 148, statutory condition 14, section 259.1 and section 281.1
 
+International Commercial Arbitration Act, 2017 | section 10
+
 Libel and Slander Act | section 6
 
 Liquor Licence Act | subsection 44.1 (4)
@@ -92,4 +94,4 @@ Tobacco Tax Act | subsections 6 (10) and 24 (5)
 
 Trustee Act | subsection 38 (3)
 
-2002, c. 24, Sched. B, Sched.; 2002, c. 24, Sched. B, s. 50; 2004, c. 16, Sched. D, Table; 2004, c. 31, Sched. 22, s. 1; 2006, c. 32, Sched. C, s. 29; 2007, c. 13, s. 44 (2); 2008, c. 19, Sched. V, s. 4; 2009, c. 13, s. 12; 2009, c. 33, Sched. 21, s. 5; 2010, c. 16, Sched. 4, s. 27; 2015, c. 20, Sched. 39, s. 5.
+2002, c. 24, Sched. B, Sched.; 2002, c. 24, Sched. B, s. 50; 2004, c. 16, Sched. D, Table; 2004, c. 31, Sched. 22, s. 1; 2006, c. 32, Sched. C, s. 29; 2007, c. 13, s. 44 (2); 2008, c. 19, Sched. V, s. 4; 2009, c. 13, s. 12; 2009, c. 33, Sched. 21, s. 5; 2010, c. 16, Sched. 4, s. 27; 2015, c. 20, Sched. 39, s. 5; 2017, c. 2, Sched. 3, s. 6; 2017, c. 2, Sched. 5, s. 14 (2).
