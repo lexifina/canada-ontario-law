@@ -1,6 +1,6 @@
-## SCHEDULE
+## SCHEDULE 1 UNITED NATIONS CONVENTION ON CONTRACTS FOR THE INTERNATIONAL SALE OF GOODS
 
-#### UNITED NATIONS CONVENTION ON CONTRACTS FOR THE INTERNATIONAL SALE OF GOODS THE STATES PARTIES TO THIS CONVENTION,
+#### THE STATES PARTIES TO THIS CONVENTION,
 
 BEARING IN MIND the broad objectives in the resolutions adopted by the sixth special session of the General Assembly of the United Nations on the establishment of a New International Economic Order,
 
@@ -774,4 +774,4 @@ DONE at Vienna, this eleventh day of April, one thousand nine hundred and eighty
 
 IN WITNESS WHEREOF the undersigned plenipotentiaries, being duly authorized by their respective Governments, have signed this Convention.
 
-R.S.O. 1990, c. I.10, Sched.
+R.S.O. 1990, c. I.10, Sched.; 2017, c. 2, Sched. 8, s. 3.
