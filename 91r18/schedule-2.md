@@ -820,7 +820,7 @@ Registration
 
 “auditor” means an auditor appointed under section 22.8; (“vérificateur”)
 
-“Fairness Commissioner” means the Fairness Commissioner appointed under the Fair Access to Regulated Professions Act, 2006; (“commissaire à l’équité”)
+“Fairness Commissioner” means the Fairness Commissioner appointed under the Fair Access to Regulated Professions and Compulsory Trades Act, 2006; (“commissaire à l’équité”)
 
 “fair registration practices report” means a report required under section 22.7; (“rapport sur les pratiques d’inscription équitables”)
 
@@ -830,7 +830,7 @@ Registration
 
 “record” means a record as defined in the Freedom of Information and Protection of Privacy Act; (“document”)
 
-“regulations” means the regulations made under clauses 43 (1) (h) to (k) of the Regulated Health Professions Act, 1991. (“règlements”) 2006, c. 31, s. 35 (3).
+“regulations” means the regulations made under clauses 43 (1) (h) to (k) of the Regulated Health Professions Act, 1991. (“règlements”) 2006, c. 31, s. 35 (3); 2017, c. 2, Sched. 9, s. 10.
 
 ##### Fair registration practices: general duty
 
