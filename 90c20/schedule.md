@@ -1,6 +1,6 @@
 ## Schedule
 
-(Definition of “rule” in subsection (1))
+#### (Definition of “rule” in subsection (1))
 
 In The Matter Of The Members Of The Toronto Stock Exchange And Of The Investment Dealers Association of Canada (Order) (exempts members of the TSE and IDA from the need to segregate) | November 29, 1979
 
