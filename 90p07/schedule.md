@@ -1,6 +1,6 @@
 ## SCHEDULE
 
-1. The public sector in Ontario consists of,
+1 The public sector in Ontario consists of,
 
 (a) the Crown in right of Ontario, every agency thereof, and every authority, board, commission, corporation, office or organization of persons a majority of whose directors, members or officers are appointed or chosen by or under the authority of the Lieutenant Governor in Council or a member of the Executive Council;
 
@@ -20,37 +20,37 @@
 
 (i) any authority, board, commission, corporation, office, person or organization of persons, or any class of authorities, boards, commissions, corporations, offices, persons or organizations of persons, set out in the Appendix to this Schedule or added to the Appendix by the regulations made under this Act.
 
-2. Repealed: 2002, c. 17, Sched. C, s. 21.
+2 Repealed: 2002, c. 17, Sched. C, s. 21.
 
 #### APPENDIX
 
-Ministry of the Attorney General
+#### Ministry of the Attorney General
 
-1. Community legal clinics that receive funding from the legal aid plan established under the Legal Aid Act.
+1 Community legal clinics that receive funding from the legal aid plan established under the Legal Aid Act.
 
-2. Supervised access centres that receive funding from the Ministry of the Attorney General.
+2 Supervised access centres that receive funding from the Ministry of the Attorney General.
 
-Ministry of Citizenship, Culture and Recreation
+#### Ministry of Citizenship, Culture and Recreation
 
-1. Organizations providing services for immigrants and refugees that receive funding through the Newcomer Settlement Program of the Ministry of Citizenship, Culture and Recreation.
+1 Organizations providing services for immigrants and refugees that receive funding through the Newcomer Settlement Program of the Ministry of Citizenship, Culture and Recreation.
 
-2. A native friendship centre, being an employer that is a not-for-profit corporation established to assist in improving the quality of life of urban and migrating native people.
+2 A native friendship centre, being an employer that is a not-for-profit corporation established to assist in improving the quality of life of urban and migrating native people.
 
-3. The Art Gallery of Ontario.
+3 The Art Gallery of Ontario.
 
-4. CJRT-FM Inc.
+4 CJRT-FM Inc.
 
-5. Royal Botanical Gardens.
+5 Royal Botanical Gardens.
 
-6. Community information centres.
+6 Community information centres.
 
-7. The Northern Ontario Library Service Board.
+7 The Northern Ontario Library Service Board.
 
-8. The Southern Ontario Library Service Board.
+8 The Southern Ontario Library Service Board.
 
-Ministry of Community and Social Services
+#### Ministry of Community and Social Services
 
-1. Any corporation or organization of persons, other than one that has no employees other than employees who directly or indirectly control it, that,
+1 Any corporation or organization of persons, other than one that has no employees other than employees who directly or indirectly control it, that,
 
 (a) operates a children’s residence under the authority of a licence issued under clause 193 (1) (a) of the Child and Family Services Act (R.S.O. 1990, c. C.11);
 
@@ -92,89 +92,89 @@ Ministry of Community and Social Services
 
 (t) provides an approved service as defined in the Child and Family Services Act (R.S.O. 1990, c. C.11).
 
-2. Societies and approved agencies, as defined in the Child and Family Services Act (R.S.O. 1990, c. C.11).
+2 Societies and approved agencies, as defined in the Child and Family Services Act (R.S.O. 1990, c. C.11).
 
-3., 4. Repealed: 2007, c. 8, s. 223 (1).
+3., 4 Repealed: 2007, c. 8, s. 223 (1).
 
-5. District Welfare Administration Boards operating under the District Welfare Administration Boards Act (R.S.O. 1990, c. D.15).
+5 District Welfare Administration Boards operating under the District Welfare Administration Boards Act (R.S.O. 1990, c. D.15).
 
-Ministry of Economic Development, Trade and Tourism
+#### Ministry of Economic Development, Trade and Tourism
 
-1. Metropolitan Toronto Convention Centre.
+1 Metropolitan Toronto Convention Centre.
 
-2. The St. Clair Parkway Commission.
+2 The St. Clair Parkway Commission.
 
-Ministry of Education and Training
+#### Ministry of Education and Training
 
-1. Algoma College.
+1 Algoma College.
 
-2. Assumption University.
+2 Assumption University.
 
-3. Brescia College.
+3 Brescia College.
 
-4. Canterbury College.
+4 Canterbury College.
 
 4.1 Centre franco-ontarien de ressources pédagogiques.
 
-5. Collège dominicain de philosophie et de théologie.
+5 Collège dominicain de philosophie et de théologie.
 
-6. Concordia Lutheran Seminary.
+6 Concordia Lutheran Seminary.
 
-7. Conrad Grebel College.
+7 Conrad Grebel College.
 
-8. Hearst College.
+8 Hearst College.
 
-9. Holy Redeemer College.
+9 Holy Redeemer College.
 
-10. Huntington University.
+10 Huntington University.
 
-11. Huron College.
+11 Huron College.
 
-12. Iona College.
+12 Iona College.
 
-13. King’s College.
+13 King’s College.
 
-14. Knox College.
+14 Knox College.
 
-15. L’Université de Sudbury.
+15 L’Université de Sudbury.
 
-16. McMaster Divinity College.
+16 McMaster Divinity College.
 
-17. Nipissing College.
+17 Nipissing College.
 
-18. Queen’s Theological College.
+18 Queen’s Theological College.
 
-19. Regis College.
+19 Regis College.
 
-20. Renison College.
+20 Renison College.
 
-21. St. Augustine’s Seminary.
+21 St. Augustine’s Seminary.
 
-22. St. Paul’s United College.
+22 St. Paul’s United College.
 
-23. St. Paul University.
+23 St. Paul University.
 
-24. St. Peter’s Seminary.
+24 St. Peter’s Seminary.
 
-25. The University of St. Jerome’s College.
+25 The University of St. Jerome’s College.
 
-26. The University of St. Michael’s College.
+26 The University of St. Michael’s College.
 
-27. Thorneloe University.
+27 Thorneloe University.
 
-28. Trinity College.
+28 Trinity College.
 
-29. Victoria University.
+29 Victoria University.
 
-30. Waterloo Lutheran Seminary.
+30 Waterloo Lutheran Seminary.
 
-31. Wycliffe College.
+31 Wycliffe College.
 
-32. Youth employment centres providing community-based vocational planning and counselling that receive funding from the Ministry of Education and Training.
+32 Youth employment centres providing community-based vocational planning and counselling that receive funding from the Ministry of Education and Training.
 
-Ministry of Health and Long-Term Care
+#### Ministry of Health and Long-Term Care
 
-1. Any corporation or organization of persons, other than one that has no employees other than employees who directly or indirectly control it, that operates or provides,
+1 Any corporation or organization of persons, other than one that has no employees other than employees who directly or indirectly control it, that operates or provides,
 
 (a) an ambulance service, under the authority of a licence issued under the Ambulance Act (R.S.O. 1990, c. A.19);
 
@@ -202,31 +202,31 @@ Ministry of Health and Long-Term Care
 
 (j) a placement service the operation of which is, pursuant to a “Placement Co-ordination Service Agreement” or other agreement in writing, funded in whole or in part by the Ministry of Health and Long-Term Care or a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006.
 
-2. Repealed: 2006, c. 4, s. 50 (3).
+2 Repealed: 2006, c. 4, s. 50 (3).
 
-3. A laundry that is operated exclusively for one or more than one hospital.
+3 A laundry that is operated exclusively for one or more than one hospital.
 
-4. Hospital Food Services-Ontario Inc.
+4 Hospital Food Services-Ontario Inc.
 
-5. Repealed: O. Reg. 395/93, s. 8 (4).
+5 Repealed: O. Reg. 395/93, s. 8 (4).
 
-6. Alcoholism and Drug Addiction Research Foundation.
+6 Alcoholism and Drug Addiction Research Foundation.
 
-7. The Canadian Red Cross Society in respect of its operations in Ontario.
+7 The Canadian Red Cross Society in respect of its operations in Ontario.
 
-8. The Hospital Council of Metropolitan Toronto.
+8 The Hospital Council of Metropolitan Toronto.
 
-9. The Hospital Medical Records Institute.
+9 The Hospital Medical Records Institute.
 
-10. The Ontario Cancer Institute.
+10 The Ontario Cancer Institute.
 
-11. The Ontario Cancer Treatment and Research Foundation.
+11 The Ontario Cancer Treatment and Research Foundation.
 
-12. The Ontario Mental Health Foundation.
+12 The Ontario Mental Health Foundation.
 
-13. Michener Institute for Applied Health Sciences.
+13 Michener Institute for Applied Health Sciences.
 
-14. A community health centre, being an employer,
+14 A community health centre, being an employer,
 
 (a) who provides primary health services primarily to,
 
@@ -236,45 +236,45 @@ Ministry of Health and Long-Term Care
 
 (b) who receives funding from the Ministry of Health and Long-Term Care or a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006 in accordance with the number or type of services provided.
 
-15. A comprehensive health organization, being a not-for-profit corporation that,
+15 A comprehensive health organization, being a not-for-profit corporation that,
 
 (a) provides or arranges for the provision of comprehensive health care services for individuals who are enrolled as members of the patient roster of the corporation; and
 
 (b) receives funding from the Ministry of Health and Long-Term Care or a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006 in accordance with the number of individuals on the roster.
 
-Ministry of Labour
+#### Ministry of Labour
 
-1. Pay Equity Advocacy and Legal Services.
+1 Pay Equity Advocacy and Legal Services.
 
-2. A help centre, being an employer providing employment and vocational counselling services to adults that receives funding from the Ontario Help Centre Program of the Ministry of Labour.
+2 A help centre, being an employer providing employment and vocational counselling services to adults that receives funding from the Ontario Help Centre Program of the Ministry of Labour.
 
-Ministry of Municipal Affairs and Housing
+#### Ministry of Municipal Affairs and Housing
 
-1. Any authority, board, commission, corporation, office, person or organization of persons which operates or provides,
+1 Any authority, board, commission, corporation, office, person or organization of persons which operates or provides,
 
 (a) the collection, removal and disposal of garbage and other refuse for a municipality;
 
 (b) the operation and maintenance of buses for the conveyance of passengers under an agreement with a municipality.
 
-2. Ontario Municipal Employees Retirement Board.
+2 Ontario Municipal Employees Retirement Board.
 
-3. Toronto District Heating Corporation.
+3 Toronto District Heating Corporation.
 
-Ministry of Natural Resources
+#### Ministry of Natural Resources
 
-1. Conservation Authorities established under the Conservation Authorities Act (R.S.O. 1990, c. C.27).
+1 Conservation Authorities established under the Conservation Authorities Act (R.S.O. 1990, c. C.27).
 
-Ministry of the Solicitor General and Correctional Services
+#### Ministry of the Solicitor General and Correctional Services
 
-1. Any agency, corporation or organization of persons, other than one that has no employees other than employees who directly or indirectly control it, that, under funding from the Ministry of the Solicitor General and Correctional Services,
+1 Any agency, corporation or organization of persons, other than one that has no employees other than employees who directly or indirectly control it, that, under funding from the Ministry of the Solicitor General and Correctional Services,
 
 (a) provides community residential or non-residential services; or
 
 (b) supervises persons who have been convicted of or been found guilty of a criminal provincial offence or who have been accused of a criminal or provincial offence.
 
-2. Sexual assault centres.
+2 Sexual assault centres.
 
-Office Responsible for Women’s Issues
+#### Office Responsible for Women’s Issues
 
 1. Any corporation or organization of persons, other than one that has no employees other than employees who directly or indirectly control it, that receives funding from the program administered by the Office Responsible for Women’s Issues and known as Women’s Centres Program: Investing in Women’s Futures and that provides counselling, referral or information services for women.
 
