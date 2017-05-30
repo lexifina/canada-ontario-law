@@ -2,11 +2,11 @@
 
 ##### Purpose
 
-1. The purpose of this Schedule is to establish procedures for the Physician Payment Review Board to hold hearings on payment matters that cannot be resolved between the General Manager and a physician through the provision of education and other assistance, and to provide for an appeal process from its decisions. 2007, c. 10, Sched. G, s. 34.
+1 The purpose of this Schedule is to establish procedures for the Physician Payment Review Board to hold hearings on payment matters that cannot be resolved between the General Manager and a physician through the provision of education and other assistance, and to provide for an appeal process from its decisions. 2007, c. 10, Sched. G, s. 34.
 
 ##### Definitions
 
-2. In this Schedule,
+2 In this Schedule,
 
 “peer” means a physician who is a member of the same specialty group as the physician who is a party to a hearing by the Review Board; (“pair”)
 
@@ -20,7 +20,7 @@
 
 ##### Request for a hearing, general
 
-3. (1) When the Review Board receives a notice that requests a hearing under section 18, 18.2 or 40.3 of the Act and proof of service of the notice, the chair of the Review Board or, in his or her absence, a vice chair shall select a panel in accordance with section 6 to hear and determine the matter before it. 2007, c. 10, Sched. G, s. 34.
+3 (1) When the Review Board receives a notice that requests a hearing under section 18, 18.2 or 40.3 of the Act and proof of service of the notice, the chair of the Review Board or, in his or her absence, a vice chair shall select a panel in accordance with section 6 to hear and determine the matter before it. 2007, c. 10, Sched. G, s. 34.
 
 ##### Timing of hearing
 
@@ -36,7 +36,7 @@
 
 ##### Expedited hearings
 
-4. (1) When the Review Board has received a request for an expedited hearing under subsection 18 (5) of the Act, the chair of the Review Board or, in his or her absence, a vice chair shall promptly select a panel to deal with the request, and the panel shall hear the matter and make an order as expeditiously as possible or, if a time has been prescribed, within that time. 2007, c. 10, Sched. G, s. 34.
+4 (1) When the Review Board has received a request for an expedited hearing under subsection 18 (5) of the Act, the chair of the Review Board or, in his or her absence, a vice chair shall promptly select a panel to deal with the request, and the panel shall hear the matter and make an order as expeditiously as possible or, if a time has been prescribed, within that time. 2007, c. 10, Sched. G, s. 34.
 
 ##### Same
 
@@ -44,7 +44,7 @@
 
 ##### Period of review
 
-5. (1) In the case of a hearing under subsection 18 (16), (17) or (18) of the Act, unless the panel orders otherwise in accordance with paragraph 5 of subsection 11 (1) of this Schedule, the physician under review shall only be required to reimburse the Plan for services provided in a period that is no more than 12 months in duration. 2007, c. 10, Sched. G, s. 34.
+5 (1) In the case of a hearing under subsection 18 (16), (17) or (18) of the Act, unless the panel orders otherwise in accordance with paragraph 5 of subsection 11 (1) of this Schedule, the physician under review shall only be required to reimburse the Plan for services provided in a period that is no more than 12 months in duration. 2007, c. 10, Sched. G, s. 34.
 
 ##### Restriction
 
@@ -60,7 +60,7 @@
 
 ##### Panels
 
-6. (1) A review panel shall consist of four members of the Review Board selected as follows:
+6 (1) A review panel shall consist of four members of the Review Board selected as follows:
 
 1. The chair of the Review Board or, in his or her absence, a vice chair shall select the members of the panel that will conduct the hearing and determine the matter before it. The chair or the vice chair may be a member of a panel.
 
@@ -84,7 +84,7 @@
 
 ##### Hearing by review panel
 
-7. (1) A review panel shall hear and determine the matter before it. 2007, c. 10, Sched. G, s. 34.
+7 (1) A review panel shall hear and determine the matter before it. 2007, c. 10, Sched. G, s. 34.
 
 ##### Members holding hearing not to have taken part in investigation, etc.
 
@@ -112,19 +112,19 @@
 
 ##### Findings of fact
 
-8. The findings of fact of a review panel pursuant to a hearing shall be based exclusively on evidence admissible or matters that may be noticed under sections 15 and 16 of the Statutory Powers Procedure Act. 2007, c. 10, Sched. G, s. 34.
+8 The findings of fact of a review panel pursuant to a hearing shall be based exclusively on evidence admissible or matters that may be noticed under sections 15 and 16 of the Statutory Powers Procedure Act. 2007, c. 10, Sched. G, s. 34.
 
 ##### Recording of evidence
 
-9. The oral evidence taken before the review panel at a hearing shall be recorded and, if so required, copies of a transcript of the evidence shall be furnished upon the same terms as in the Superior Court of Justice. 2007, c. 10, Sched. G, s. 34.
+9 The oral evidence taken before the review panel at a hearing shall be recorded and, if so required, copies of a transcript of the evidence shall be furnished upon the same terms as in the Superior Court of Justice. 2007, c. 10, Sched. G, s. 34.
 
 ##### Release of documentary evidence
 
-10. Documents and things put in evidence at a hearing shall, upon the request of the person who produced them, be released to the person by the Review Board within a reasonable time after the matter in issue has been finally determined. 2007, c. 10, Sched. G, s. 34.
+10 Documents and things put in evidence at a hearing shall, upon the request of the person who produced them, be released to the person by the Review Board within a reasonable time after the matter in issue has been finally determined. 2007, c. 10, Sched. G, s. 34.
 
 ##### Orders
 
-11. (1) The review panel may, as an order of the Review Board, make any order that it considers appropriate, including, without being limited to, any one or more of the following:
+11 (1) The review panel may, as an order of the Review Board, make any order that it considers appropriate, including, without being limited to, any one or more of the following:
 
 1. An order determining the proper amount, if any, to be paid to the physician in accordance with the Act and the regulations for the service provided, and requiring that,
 
@@ -198,7 +198,7 @@ ii. the physician reimburse the Plan for any amount paid by the Plan for the ser
 
 ##### Appeal
 
-12. (1) A party to a hearing before the Review Board may appeal from its order to the Divisional Court in accordance with the rules of the court, but,
+12 (1) A party to a hearing before the Review Board may appeal from its order to the Divisional Court in accordance with the rules of the court, but,
 
 (a) personal health information contained in any document or evidence filed or adduced with regard to the appeal, or in any order or decision of the court shall not be made accessible to the public; and
 
