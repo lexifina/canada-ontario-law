@@ -190,9 +190,7 @@ Additional Provisions
 
 48 This agreement shall be binding upon and enure to the benefit of the parties hereto and their respective successors and assigns.
 
-APPENDIX B OF FRAMEWORK AGREEMENT
-
-Judicial Salaries
+#### APPENDIX B OF FRAMEWORK AGREEMENT Judicial Salaries
 
 Date | Formula
 
@@ -200,10 +198,8 @@ April 1, 1991 | $124,250
 
 April 1, 1992 | 0%
 
-April 1, 1993 | AIW*
+April 1, 1993 | AIW (Note: See paragraph 46 of Appendix “A”)
 
-April 1, 1994 | AIW*
-
-*Note: See paragraph 46 of Appendix “A”.
+April 1, 1994 | AIW (Note: See paragraph 46 of Appendix “A”)
 
 1994, c. 12, s. 48; 2009, c. 33, Sched. 6, s. 50.
