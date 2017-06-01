@@ -94,7 +94,7 @@
 
 2 Societies and approved agencies, as defined in the Child and Family Services Act (R.S.O. 1990, c. C.11).
 
-3., 4 Repealed: 2007, c. 8, s. 223 (1).
+3, 4 Repealed: 2007, c. 8, s. 223 (1).
 
 5 District Welfare Administration Boards operating under the District Welfare Administration Boards Act (R.S.O. 1990, c. D.15).
 
