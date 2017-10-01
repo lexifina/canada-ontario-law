@@ -82,7 +82,7 @@
 
 (o) operates programs providing services to child care centres funded under the Child Care and Early Years Act, 2014;
 
-(p) operates an elderly persons centre funded under the Elderly Persons Centres Act (R.S.O. 1990, c. E.4);
+(p) operates a program that receives a payment under the Seniors Active Living Centres Act, 2017;
 
 (q) provides services for young persons under Part IV of the Child and Family Services Act (R.S.O. 1990, c. C.11) or under an agreement with the Ministry of Community and Social Services under the Ministry of Community and Social Services Act (R.S.O. 1990, c. M.20);
 
@@ -276,6 +276,6 @@
 
 #### Office Responsible for Women’s Issues
 
-1. Any corporation or organization of persons, other than one that has no employees other than employees who directly or indirectly control it, that receives funding from the program administered by the Office Responsible for Women’s Issues and known as Women’s Centres Program: Investing in Women’s Futures and that provides counselling, referral or information services for women.
+1 Any corporation or organization of persons, other than one that has no employees other than employees who directly or indirectly control it, that receives funding from the program administered by the Office Responsible for Women’s Issues and known as Women’s Centres Program: Investing in Women’s Futures and that provides counselling, referral or information services for women.
 
-R.S.O. 1990, c. P.7, Sched.; O. Reg. 395/93; 1998, c. 18, Sched. G, s. 67; O. Reg. 81/99; 2001, c. 13, s. 23; O. Reg. 37/02; 2002, c. 17, Sched. C, s. 21; 2004, c. 17, s. 32; 2006, c. 4, s. 50 (2-5); 2006, c. 19, Sched. D, s. 17; 2006, c. 19, Sched. M, s. 6; 2007, c. 8, s. 223; 2008, c. 14, s. 57; 2009, c. 33, Sched. 18, s. 24; 2014, c. 11, Sched. 6, s. 6.
+R.S.O. 1990, c. P.7, Sched.; O. Reg. 395/93; 1998, c. 18, Sched. G, s. 67; O. Reg. 81/99; 2001, c. 13, s. 23; O. Reg. 37/02; 2002, c. 17, Sched. C, s. 21; 2004, c. 17, s. 32; 2006, c. 4, s. 50 (2-5); 2006, c. 19, Sched. D, s. 17; 2006, c. 19, Sched. M, s. 6; 2007, c. 8, s. 223; 2008, c. 14, s. 57; 2009, c. 33, Sched. 18, s. 24; 2014, c. 11, Sched. 6, s. 6; 2017, c. 11, Sched. 6, s. 14.
