@@ -12,7 +12,7 @@ Included within the above-described land is Part 3 on Expropriation Plan 63079E.
 
 ##### Transition, leases
 
-22. (1) The following leases are terminated on the date indicated:
+22 (1) The following leases are terminated on the date indicated:
 
 1. The lease described in subsection 3 (5) of the Act as it reads immediately before section 2 comes into force is terminated on the day on which section 2 comes into force.
 
