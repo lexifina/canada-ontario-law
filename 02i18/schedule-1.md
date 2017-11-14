@@ -832,4 +832,4 @@ In witness whereof the undersigned Plenipotentiaries, having been duly authorise
 
 Done at Cape Town, this sixteenth day of November, two thousand and one, in a single original in the English, Arabic, Chinese, French, Russian and Spanish languages, all texts being equally authentic, such authenticity to take effect upon verification by the Joint Secretariat of the Conference under the authority of the President of the Conference within ninety days hereof as to the conformity of the texts with one another.
 
-2002, c. 18, Sched. B, Sched. 1.
+2002, c. 18, Sched. B, Sched. 1; 2017, c. 20, Sched. 2, s. 25.

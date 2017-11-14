@@ -540,4 +540,4 @@ ___________________________
 
 [insert relevant notational details]
 
-2002, c. 18, Sched. B, Sched. 2.
+2002, c. 18, Sched. B, Sched. 2; 2017, c. 20, Sched. 2, s. 26.
