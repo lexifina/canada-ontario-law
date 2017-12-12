@@ -1,6 +1,6 @@
 ## schedule
 
-1. The public sector in Ontario consists of,
+1 The public sector in Ontario consists of,
 
 (a) the Crown in right of Ontario, every agency thereof, and every authority, board, commission, corporation, office or organization of persons a majority of whose directors, members or officers are appointed or chosen by or under the authority of the Lieutenant Governor in Council or a member of the Executive Council;
 
@@ -22,7 +22,7 @@
 
 (j) any authority, board, commission, corporation, office, person or organization of persons, or any class of authorities, boards, commissions, corporations, offices, persons or organizations of persons, set out in the Appendix to this Schedule or added to the Appendix by the regulations made under this Act.
 
-2. For the purposes of this Schedule,
+2 For the purposes of this Schedule,
 
 “municipality” includes a metropolitan, regional or district municipality and the County of Oxford.
 
@@ -38,13 +38,13 @@
 
 #### MINISTRY OF THE ATTORNEY GENERAL
 
-1. Community legal clinics that receive funding from the legal aid plan established under the Legal Aid Act.
+1 Community legal clinics that receive funding from the legal aid plan established under the Legal Aid Act.
 
-2. Supervised access centres that receive funding from the Ministry of the Attorney General.
+2 Supervised access centres that receive funding from the Ministry of the Attorney General.
 
 #### MINISTRY OF CITIZENSHIP
 
-1. Organizations providing services for immigrants and other newcomers to Ontario that receive funding through the Ontario Settlement and Integration Program of the Ministry of Citizenship.
+1 Organizations providing services for immigrants and other newcomers to Ontario that receive funding through the Ontario Settlement and Integration Program of the Ministry of Citizenship.
 
 #### MINISTRY OF CULTURE, TOURISM AND RECREATION
 
@@ -76,7 +76,7 @@
 
 #### MINISTRY OF COMMUNITY AND SOCIAL SERVICES
 
-1. Any authority, board, commission, corporation, office, person or organization of persons that,
+1 Any authority, board, commission, corporation, office, person or organization of persons that,
 
 (a) operates a children’s residence under the authority of a licence issued under clause 193 (1) (a) of the Child and Family Services Act (R.S.O. 1990, c. C.11);
 
@@ -106,15 +106,15 @@
 
 (n) provides children’s services funded or purchased by the Ministry of Community and Social Services under the Child and Family Services Act (R.S.O. 1990, c. C.11).
 
-2. Municipalities and other corporations operating child care centres under the Child Care and Early Years Act, 2014 and receiving direct subsidies from the Ministry of Education.
+2 Municipalities and other corporations operating child care centres under the Child Care and Early Years Act, 2014 and receiving direct subsidies from the Ministry of Education.
 
-3. Societies within the meaning of the Child and Family Services Act (R.S.O. 1990, c. C.11) and agencies from whom such societies purchase services for children.
+3 Societies within the meaning of the Child and Family Services Act (R.S.O. 1990, c. C.11) and agencies from whom such societies purchase services for children.
 
-4., 5. Repealed: 2007, c. 8, s. 228 (1).
+4, 5 Repealed: 2007, c. 8, s. 228 (1).
 
-6. District Welfare Administration Boards operating under the District Welfare Administration Boards Act (R.S.O. 1990, c. D.15).
+6 District Welfare Administration Boards operating under the District Welfare Administration Boards Act (R.S.O. 1990, c. D.15).
 
-7. Approved corporations as defined in the Elderly Persons Centres Act (R.S.O. 1990, c. E.4).
+7 Approved corporations as defined in the Elderly Persons Centres Act (R.S.O. 1990, c. E.4).
 
 #### MINISTRY OF ECONOMIC DEVELOPMENT AND TRADE
 
@@ -144,7 +144,7 @@
 
 #### MINISTRY OF Health and Long-Term Care
 
-1. Any authority, board, commission, corporation, office, person or organization of persons which operates or provides,
+1 Any authority, board, commission, corporation, office, person or organization of persons which operates or provides,
 
 (a) an ambulance service, under the authority of a licence issued under the Ambulance Act (R.S.O. 1990, c. A.19);
 
@@ -172,29 +172,29 @@
 
 (k) a placement service the operation of which is, pursuant to a “Placement Co-ordination Service Agreement” or other agreement in writing, funded in whole or in part by the Ministry of Health or a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006.
 
-2. Repealed: 2006, c. 4, s. 53 (2).
+2 Repealed: 2006, c. 4, s. 53 (2).
 
-3. A laundry that is operated exclusively for one or more than one hospital.
+3 A laundry that is operated exclusively for one or more than one hospital.
 
-4. Hospital Food Services - Ontario Inc.
+4 Hospital Food Services - Ontario Inc.
 
-5. Alcoholism and Drug Addiction Research Foundation.
+5 Alcoholism and Drug Addiction Research Foundation.
 
-6. The Canadian Red Cross Society in respect of its operations in Ontario.
+6 The Canadian Red Cross Society in respect of its operations in Ontario.
 
-7. The Hospital Council of Metropolitan Toronto.
+7 The Hospital Council of Metropolitan Toronto.
 
-8. The Hospital Medical Records Institute.
+8 The Hospital Medical Records Institute.
 
-9. The Ontario Cancer Institute.
+9 The Ontario Cancer Institute.
 
-10. The Ontario Cancer Treatment and Research Foundation.
+10 The Ontario Cancer Treatment and Research Foundation.
 
-11. The Ontario Mental Health Foundation.
+11 The Ontario Mental Health Foundation.
 
-12. Michener Institute for Applied Health Sciences.
+12 Michener Institute for Applied Health Sciences.
 
-13. A community health centre, being an employer,
+13 A community health centre, being an employer,
 
 (a) who provides primary health services primarily to,
 
@@ -204,64 +204,64 @@
 
 (b) who receives funding from the Ministry of Health and Long-Term Care or a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006 in accordance with the number or type of services provided.
 
-14. A comprehensive health care organization, being a non-for-profit corporation that,
+14 A comprehensive health care organization, being a non-for-profit corporation that,
 
 (a) provides or arranges for the provision of comprehensive health care services for individuals who are enrolled as members of the patient roster of the corporation; and
 
 (b) receives funding from the Ministry of Health and Long-Term Care or a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006 in accordance with the number of individuals on the roster.
 
-15. A person operating an independent health facility to which the Independent Health Facilities Act (R.S.O. 1990, c. I.3) applies.
+15 A person operating an independent health facility to which the Independent Health Facilities Act (R.S.O. 1990, c. I.3) applies.
 
-16. A practitioner whose services are insured services under the Health Insurance Act (R.S.O. 1990, c. H.6).
+16 A practitioner whose services are insured services under the Health Insurance Act (R.S.O. 1990, c. H.6).
 
-17. The Clarke Institute of Psychiatry.
+17 The Clarke Institute of Psychiatry.
 
-18. A community advisory board for a psychiatric hospital whose members are appointed by the Minister of Health.
+18 A community advisory board for a psychiatric hospital whose members are appointed by the Minister of Health.
 
-19. An operator of a pharmacy receiving payments under the Ontario Drug Benefit Act (R.S.O. 1990, c. O.10).
+19 An operator of a pharmacy receiving payments under the Ontario Drug Benefit Act (R.S.O. 1990, c. O.10).
 
 #### MINISTRY OF HOUSING
 
-1. A non-profit housing corporation or co-operative receiving funding under the Housing Development Act (R.S.O. 1990, c. H.18).
+1 A non-profit housing corporation or co-operative receiving funding under the Housing Development Act (R.S.O. 1990, c. H.18).
 
-2. North Pickering Development Corporation.
+2 North Pickering Development Corporation.
 
 #### MINISTRY OF LABOUR
 
-1. The Pay Equity Advocacy and Legal Service.
+1 The Pay Equity Advocacy and Legal Service.
 
-2. A help centre, being an employer providing unemployment and vocational counselling services to adults that receives funding from the Ontario Help Centre Program of the Ministry of Labour.
+2 A help centre, being an employer providing unemployment and vocational counselling services to adults that receives funding from the Ontario Help Centre Program of the Ministry of Labour.
 
-3. The Workplace Health and Safety Agency.
+3 The Workplace Health and Safety Agency.
 
 #### MINISTRY OF MUNICIPAL AFFAIRS
 
-1. Any authority, board, commission, corporation, office, person or organization of persons which operates or provides,
+1 Any authority, board, commission, corporation, office, person or organization of persons which operates or provides,
 
 (a) the collection, removal and disposal of garbage and other refuse for a municipality;
 
 (b) the operation and maintenance of buses for the conveyance of passengers under an agreement with a municipality.
 
-2. Ontario Municipal Employees Retirement Board.
+2 Ontario Municipal Employees Retirement Board.
 
-3. Toronto District Heating Corporation.
+3 Toronto District Heating Corporation.
 
-4. Police Villages.
+4 Police Villages.
 
-5. Moosonee Development Area Board.
+5 Moosonee Development Area Board.
 
 #### MINISTRY OF NATURAL RESOURCES
 
-1. Conservation Authorities established under the Conservation Authorities Act (R.S.O. 1990, c. C.27).
+1 Conservation Authorities established under the Conservation Authorities Act (R.S.O. 1990, c. C.27).
 
 #### MINISTRY OF THE SOLICITOR GENERAL AND CORRECTIONAL SERVICES
 
-1. Any agency, board, commission, person or partnership that, under funding from the Ministry of the Solicitor General and Correctional Services,
+1 Any agency, board, commission, person or partnership that, under funding from the Ministry of the Solicitor General and Correctional Services,
 
 (a) provides community residential or non-residential services; or
 
 (b) supervises persons who have been convicted or found guilty of a criminal or provincial offence or who have been accused of a criminal or provincial offence.
 
-2. Sexual assault centres.
+2 Sexual assault centres.
 
 1993, c. 5, Sched.; 2006, c. 4, s. 53; 2007, c. 8, s. 228; 2009, c. 33, Sched. 18, s. 32; 2014, c. 11, Sched. 6, s. 9.
