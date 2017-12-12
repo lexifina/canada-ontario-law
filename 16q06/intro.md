@@ -2,6 +2,10 @@
 
 S.o. 2016, chapter 6 Schedule 2
 
+Last amendment: 2017, c. 25, Sched. 9, s. 114.
+
+Legislative History: 2017, c. 25, Sched. 9, s. 114.
+
 ##### Preamble
 
 The people of Ontario and their Government:
