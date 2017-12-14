@@ -1,0 +1,13 @@
+# Korean Heritage Month Act, 2017
+
+S.o. 2017, chapter 31
+
+##### Preamble
+
+Ontario is home to about 80,000 Korean Canadians. Koreans started to migrate to Ontario after the devastating Second World War (1939-1945) and Korean War (1950-1953), both of which heavily affected the Korean peninsula.
+
+Korean Canadians have made important contributions to the economic, political, social and cultural fabric of Ontario’s society. Having a Korean Heritage Month will provide an opportunity to remember, celebrate and educate future generations about the outstanding achievements and contributions of Korean Canadians in the province of Ontario.
+
+October is a historically significant month for the Korean Canadian community. On October 3, the Korean people celebrate National Foundation Day. National Foundation Day celebrates the legendary formation of the first Korean state of Gojoseon. It is widely seen by the Korean people as the creation and foundation of the modern Korean state.
+
+Therefore, Her Majesty, by and with the advice and consent of the Legislative Assembly of the Province of Ontario, enacts as follows:
