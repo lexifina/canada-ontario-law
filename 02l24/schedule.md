@@ -26,7 +26,7 @@ Creditors’ Relief Act, 2010 | subsection 12 (1)
 
 Drainage Act | section 111
 
-Education Act | subsection 218 (2)
+Education Act | subsection 218 (2) and subsection 11 (3) of Schedule 1
 
 Election Act | subsection 99 (4)
 
@@ -94,4 +94,4 @@ Tobacco Tax Act | subsections 6 (10) and 24 (5)
 
 Trustee Act | subsection 38 (3)
 
-2002, c. 24, Sched. B, Sched.; 2002, c. 24, Sched. B, s. 50; 2004, c. 16, Sched. D, Table; 2004, c. 31, Sched. 22, s. 1; 2006, c. 32, Sched. C, s. 29; 2007, c. 13, s. 44 (2); 2008, c. 19, Sched. V, s. 4; 2009, c. 13, s. 12; 2009, c. 33, Sched. 21, s. 5; 2010, c. 16, Sched. 4, s. 27; 2015, c. 20, Sched. 39, s. 5; 2017, c. 2, Sched. 3, s. 6; 2017, c. 2, Sched. 5, s. 14 (2).
+2002, c. 24, Sched. B, Sched.; 2002, c. 24, Sched. B, s. 50; 2004, c. 16, Sched. D, Table; 2004, c. 31, Sched. 22, s. 1; 2006, c. 32, Sched. C, s. 29; 2007, c. 13, s. 44 (2); 2008, c. 19, Sched. V, s. 4; 2009, c. 13, s. 12; 2009, c. 33, Sched. 21, s. 5; 2010, c. 16, Sched. 4, s. 27; 2015, c. 20, Sched. 39, s. 5; 2017, c. 2, Sched. 3, s. 6; 2017, c. 2, Sched. 5, s. 14 (2); 2017, c. 34, Sched. 12, s. 11.
