@@ -1,3 +1,3 @@
 # Attracting Investment and Creating Jobs Act, 2012
 
-S.o. 2012, chapter 10
+S.O. 2012, CHAPTER 10
