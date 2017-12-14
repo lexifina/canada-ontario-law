@@ -1,6 +1,6 @@
 ## SCHEDULE 1 provisions of the federal Act that do not apply
 
-1. The following provisions of the federal Act do not apply for the purposes of this Act:
+1 The following provisions of the federal Act do not apply for the purposes of this Act:
 
 1. Section 1 (Short title).
 
