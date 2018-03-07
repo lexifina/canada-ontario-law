@@ -160,7 +160,7 @@
 
 ##### Advisory committees
 
-##### Parent and Program Advisory Committee
+##### Parent and program advisory committee
 
 14 (1) The Consortium must establish a parent and program advisory committee.
 
@@ -238,7 +238,7 @@
 
 (2) Thirty days after the later of the day subsection 1 (1) of Schedule 12 to the Stronger, Fairer Ontario Act (Budget Measures), 2017 comes into force and the day subsection 1 (4) of Schedule 12 to the Stronger, Fairer Ontario Act (Budget Measures), 2017 comes into force, this section is repealed.
 
-#### Part II Provisions for which not Deemed DSB
+#### Part II Provisions for which not Deemed DISTRICT SCHOOL BOARD
 
 The Consortium is not deemed to be a district school board for the purposes of the following provisions of this Act:
 
