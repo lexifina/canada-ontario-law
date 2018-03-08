@@ -2,7 +2,7 @@
 
 ##### Initiatives
 
-1. (1) Any of the following types of initiatives may be funded, in whole or in part, from the Greenhouse Gas Reduction Account in accordance with section 71 of the Act, but only, for any particular initiative, if the particular initiative is reasonably likely to reduce, or support the reduction of, greenhouse gas:
+1 (1) Any of the following types of initiatives may be funded, in whole or in part, from the Greenhouse Gas Reduction Account in accordance with section 71 of the Act, but only, for any particular initiative, if the particular initiative is reasonably likely to reduce, or support the reduction of, greenhouse gas:
 
 1. Initiatives relating to the reduction of greenhouse gas from energy sources and uses through the use of renewable and alternative energy sources and uses including the following:
 
