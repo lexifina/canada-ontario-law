@@ -190,7 +190,7 @@
 
 10 The Ontario Cancer Treatment and Research Foundation.
 
-11 The Ontario Mental Health Foundation.
+11 Repealed: 2017, c. 25, Sched. 8, s. 4.
 
 12 Michener Institute for Applied Health Sciences.
 
@@ -214,7 +214,7 @@
 
 16 A practitioner whose services are insured services under the Health Insurance Act (R.S.O. 1990, c. H.6).
 
-17 The Clarke Institute of Psychiatry.
+17 Repealed: 2017, c. 25, Sched. 8, s. 4.
 
 18 A community advisory board for a psychiatric hospital whose members are appointed by the Minister of Health.
 
@@ -264,4 +264,4 @@
 
 2 Sexual assault centres.
 
-1993, c. 5, Sched.; 2006, c. 4, s. 53; 2007, c. 8, s. 228; 2009, c. 33, Sched. 18, s. 32; 2014, c. 11, Sched. 6, s. 9.
+1993, c. 5, Sched.; 2006, c. 4, s. 53; 2007, c. 8, s. 228; 2009, c. 33, Sched. 18, s. 32; 2014, c. 11, Sched. 6, s. 9; 2017, c. 25, Sched. 8, s. 4.

@@ -24,10 +24,8 @@ Ministry of Correctional Services Act
 
 Ministry of Health and Long-Term Care Act
 
-Ontario Mental Health Foundation Act
-
 Private Hospitals Act
 
 Public Hospitals Act
 
-1992, c. 30, Sched.; 2001, c. 13, s. 30; 2006, c. 19, Sched. B, s. 22 (11); 2007, c. 8, s. 229; 2008, c. 14, s. 59 (2); 2009, c. 33, Sched. 18, s. 33.
+1992, c. 30, Sched.; 2001, c. 13, s. 30; 2006, c. 19, Sched. B, s. 22 (11); 2007, c. 8, s. 229; 2008, c. 14, s. 59 (2); 2009, c. 33, Sched. 18, s. 33; 2017, c. 25, Sched. 8, s. 3.
