@@ -12,7 +12,7 @@
 
 5. Section 4 (Application of Act).
 
-6. Subsections 6 (3) (Tabling in Parliament), (4) (Publication – Canada Gazette) and (5) (Publication – other).
+6. Repealed: 2018, c. 8, Sched. 26, s. 8.
 
 7. Section 8 (Review by Federal Court).
 
@@ -49,3 +49,5 @@
 23. Section 94 (Coordinating amendment).
 
 24. Section 95 (Order in Council).
+
+2018, c. 8, Sched. 26, s. 8.
