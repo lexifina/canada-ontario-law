@@ -18,7 +18,7 @@ Commodity Futures Act | section 60.4
 
 Community Small Business Investment Funds Act, 1992 | subsections 40 (8) and (9)
 
-Construction Lien Act | sections 31 and 36
+Construction Act | sections 31 and 36
 
 Corporations Act | subsection 37 (2)
 
@@ -94,4 +94,4 @@ Tobacco Tax Act | subsections 6 (10) and 24 (5)
 
 Trustee Act | subsection 38 (3)
 
-2002, c. 24, Sched. B, Sched.; 2002, c. 24, Sched. B, s. 50; 2004, c. 16, Sched. D, Table; 2004, c. 31, Sched. 22, s. 1; 2006, c. 32, Sched. C, s. 29; 2007, c. 13, s. 44 (2); 2008, c. 19, Sched. V, s. 4; 2009, c. 13, s. 12; 2009, c. 33, Sched. 21, s. 5; 2010, c. 16, Sched. 4, s. 27; 2015, c. 20, Sched. 39, s. 5; 2017, c. 2, Sched. 3, s. 6; 2017, c. 2, Sched. 5, s. 14 (2); 2017, c. 34, Sched. 12, s. 11.
+2002, c. 24, Sched. B, Sched.; 2002, c. 24, Sched. B, s. 50; 2004, c. 16, Sched. D, Table; 2004, c. 31, Sched. 22, s. 1; 2006, c. 32, Sched. C, s. 29; 2007, c. 13, s. 44 (2); 2008, c. 19, Sched. V, s. 4; 2009, c. 13, s. 12; 2009, c. 33, Sched. 21, s. 5; 2010, c. 16, Sched. 4, s. 27; 2015, c. 20, Sched. 39, s. 5; 2017, c. 2, Sched. 3, s. 6; 2017, c. 2, Sched. 5, s. 14 (2); 2017, c. 24, s. 77 (1); 2017, c. 34, Sched. 12, s. 11.
