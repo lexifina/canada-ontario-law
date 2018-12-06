@@ -18,13 +18,15 @@
 
 (h) every board of health under the Health Protection and Promotion Act, and every board of health under an Act of the Legislature that establishes or continues a regional municipality;
 
-(i) the Office of the Lieutenant Governor of Ontario, the Office of the Assembly, members of the Assembly and the offices of persons appointed on an address of the Assembly; and
+(i) the Office of the Lieutenant Governor of Ontario, the Office of the Assembly, members of the Assembly and the offices of persons appointed by order of the Assembly; and
 
 (j) any authority, board, commission, corporation, office, person or organization of persons, or any class of authorities, boards, commissions, corporations, offices, persons or organizations of persons, set out in the Appendix to this Schedule or added to the Appendix by the regulations made under this Act.
 
 2 For the purposes of this Schedule,
 
 “municipality” includes a metropolitan, regional or district municipality and the County of Oxford.
+
+2018, c. 17, Sched. 45, s. 15.
 
 #### APPENDIX
 
