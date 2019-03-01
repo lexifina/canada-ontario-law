@@ -64,7 +64,7 @@ Mortgages Act | subsections 21 (2) and 54 (2)
 
 Municipal Act, 2001 | subsections 273 (5), 380 (4) and 415 (2)
 
-Municipal Conflict of Interest Act | subsections 9 (1) and (3)
+Municipal Conflict of Interest Act | subsections 8 (2) and (6)
 
 Municipal Elections Act, 1996 | subsections 58 (2), 63 (1), 80 (6) and 83 (2)
 
@@ -94,4 +94,4 @@ Tobacco Tax Act | subsections 6 (10) and 24 (5)
 
 Trustee Act | subsection 38 (3)
 
-2002, c. 24, Sched. B, Sched.; 2002, c. 24, Sched. B, s. 50; 2004, c. 16, Sched. D, Table; 2004, c. 31, Sched. 22, s. 1; 2006, c. 32, Sched. C, s. 29; 2007, c. 13, s. 44 (2); 2008, c. 19, Sched. V, s. 4; 2009, c. 13, s. 12; 2009, c. 33, Sched. 21, s. 5; 2010, c. 16, Sched. 4, s. 27; 2015, c. 20, Sched. 39, s. 5; 2017, c. 2, Sched. 3, s. 6; 2017, c. 2, Sched. 5, s. 14 (2); 2017, c. 24, s. 77 (1); 2017, c. 34, Sched. 12, s. 11.
+2002, c. 24, Sched. B, Sched.; 2002, c. 24, Sched. B, s. 50; 2004, c. 16, Sched. D, Table; 2004, c. 31, Sched. 22, s. 1; 2006, c. 32, Sched. C, s. 29; 2007, c. 13, s. 44 (2); 2008, c. 19, Sched. V, s. 4; 2009, c. 13, s. 12; 2009, c. 33, Sched. 21, s. 5; 2010, c. 16, Sched. 4, s. 27; 2015, c. 20, Sched. 39, s. 5; 2017, c. 2, Sched. 3, s. 6; 2017, c. 2, Sched. 5, s. 14 (2); 2017, c. 10, Sched. 4, s. 7; 2017, c. 24, s. 77 (1); 2017, c. 34, Sched. 12, s. 11.
