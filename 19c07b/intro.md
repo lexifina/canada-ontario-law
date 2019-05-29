@@ -1,0 +1,5 @@
+# Combative Sports Act, 2019
+
+S.o. 2019, chapter 7 Schedule 9
+
+51, 52 Omitted (amends, repeals or revokes other legislation).
