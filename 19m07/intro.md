@@ -1,0 +1,3 @@
+# Modernizing the Skilled Trades and Apprenticeship Act, 2019
+
+S.o. 2019, chapter 7 Schedule 40
