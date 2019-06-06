@@ -180,11 +180,11 @@
 
 (a) an ambulance service, under the authority of a licence issued under the Ambulance Act (R.S.O. 1990, c. A.19);
 
-(b) a long-term care home under the authority of a licence issued, or an approval granted, under the Long-Term Care Homes Act, 2007 but, for greater certainty, only in respect of its long-term care home beds with respect to which funding is received from the Province of Ontario or a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006;
+(b) a long-term care home under the authority of a licence issued, or an approval granted, under the Long-Term Care Homes Act, 2007 but, for greater certainty, only in respect of its long-term care home beds with respect to which funding is received from the Province of Ontario a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006 or the corporation continued by section 3 of the Connecting Care Act, 2019;
 
 (c) a laboratory or a specimen collection centre, under the authority of a licence issued under the Laboratory and Specimen Collection Centre Licensing Act (R.S.O. 1990, c. L.1);
 
-(d) a psychiatric facility within the meaning of the Mental Health Act (R.S.O. 1990, c. M.7), the operation of which is funded in whole or in part by the Ministry of Health and Long-Term Care or a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006;
+(d) a psychiatric facility within the meaning of the Mental Health Act (R.S.O. 1990, c. M.7), the operation of which is funded in whole or in part by the Ministry of Health and Long-Term Care a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006 or the corporation continued by section 3 of the Connecting Care Act, 2019;
 
 (e) a home for special care established, approved or licensed under the Homes for Special Care Act (R.S.O. 1990, c. H.2);
 
@@ -196,13 +196,13 @@
 
 (g) a rehabilitation centre or a crippled children’s centre listed in the relevant Schedule to the General Regulation made under the Health Insurance Act (R.S.O. 1990, c. H.6);
 
-(h) a detoxification centre that receives funding from the Ministry of Health and Long-Term Care or a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006;
+(h) a detoxification centre that receives funding from the Ministry of Health and Long-Term Care a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006 or the corporation continued by section 3 of the Connecting Care Act, 2019;
 
-(h.1) services relating to addiction if the provider of the services receives funding from the Ministry of Health and Long-Term Care or a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006;
+(h.1) services relating to addiction if the provider of the services receives funding from the Ministry of Health and Long-Term Care a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006 or the corporation continued by section 3 of the Connecting Care Act, 2019;
 
-(i) an adult community mental health service the operation of which is, pursuant to an agreement in writing, funded in whole or in part by the Ministry of Health and Long-Term Care or a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006;
+(i) an adult community mental health service the operation of which is, pursuant to an agreement in writing, funded in whole or in part by the Ministry of Health and Long-Term Care a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006 or the corporation continued by section 3 of the Connecting Care Act, 2019;
 
-(j) a placement service the operation of which is, pursuant to a “Placement Co-ordination Service Agreement” or other agreement in writing, funded in whole or in part by the Ministry of Health and Long-Term Care or a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006.
+(j) a placement service the operation of which is, pursuant to a “Placement Co-ordination Service Agreement” or other agreement in writing, funded in whole or in part by the Ministry of Health and Long-Term Care a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006 or the corporation continued by section 3 of the Connecting Care Act, 2019. 2019, c. 5, Sched. 3, s. 15 (2)
 
 2 Repealed: 2006, c. 4, s. 50 (3).
 
@@ -236,13 +236,13 @@
 
 (ii) a group or groups of individuals who, because of age, sex, socio-economic factors or environmental factors, are more likely to be in need of some or all of those services than other individuals; and
 
-(b) who receives funding from the Ministry of Health and Long-Term Care or a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006 in accordance with the number or type of services provided.
+(b) who receives funding from the Ministry of Health and Long-Term Care a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006 or the corporation continued by section 3 of the Connecting Care Act, 2019 in accordance with the number or type of services provided. 2019, c. 5, Sched. 3, s. 15 (2).
 
 15 A comprehensive health organization, being a not-for-profit corporation that,
 
 (a) provides or arranges for the provision of comprehensive health care services for individuals who are enrolled as members of the patient roster of the corporation; and
 
-(b) receives funding from the Ministry of Health and Long-Term Care or a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006 in accordance with the number of individuals on the roster.
+(b) receives funding from the Ministry of Health and Long-Term Care a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006 or the corporation continued by section 3 of the Connecting Care Act, 2019 in accordance with the number of individuals on the roster. 2019, c. 5, Sched. 3, s. 15 (2).
 
 #### Ministry of Labour
 
