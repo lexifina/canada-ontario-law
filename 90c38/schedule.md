@@ -26,7 +26,7 @@
 
 ##### Change in price, when effective
 
-4 The directors may from time to time change the price to be paid for shares purchased under the terms of the by-law, but no such change becomes effective until approved by the Minister on the report of the Superintendent.
+4 The directors may from time to time change the price to be paid for shares purchased under the terms of the by-law, but no such change becomes effective until approved by the Minister on the report of the Chief Executive Officer.
 
 ##### Period for which price to remain in effect
 
@@ -34,7 +34,7 @@
 
 ##### Payment
 
-6 All shares purchased under the terms of the by-law shall be paid for by the company in full at the time of the purchase thereof, but nothing in this paragraph shall be construed as prohibiting the company from applying, in payment for any shares so purchased, the full amount of the purchase price thereof by promissory note, payable at a fixed or determinable future time not later than ten years from the date of the making thereof and bearing a rate of interest fixed by the directors and approved by the Minister on the report of the Superintendent.
+6 All shares purchased under the terms of the by-law shall be paid for by the company in full at the time of the purchase thereof, but nothing in this paragraph shall be construed as prohibiting the company from applying, in payment for any shares so purchased, the full amount of the purchase price thereof by promissory note, payable at a fixed or determinable future time not later than ten years from the date of the making thereof and bearing a rate of interest fixed by the directors and approved by the Minister on the report of the Chief Executive Officer.
 
 ##### Date for commencement of purchase of shares
 
@@ -140,12 +140,10 @@ be deemed to have been purchased by the company, and, for the purposes of this p
 
 21 No change in any by-law of a company described in paragraph 1 shall be made after the sanction of the by-law by the Lieutenant Governor in Council, except by a subsequent by-law of the company made by the directors and confirmed at a special general meeting of the company duly called for that purpose, and no such subsequent by-law becomes effective until sanctioned by the Lieutenant Governor in Council.
 
-##### Definitions
+##### Definition
 
 22 In this Schedule,
 
-“Minister” means the member of the Executive Council charged for the time being by the Lieutenant Governor in Council with the administration of the Insurance Act; (“ministre”)
+“Minister” means the member of the Executive Council charged for the time being by the Lieutenant Governor in Council with the administration of the Insurance Act. (“ministre”)
 
-“Superintendent” means the Superintendent of Financial Services. (“surintendant”)
-
-R.S.O. 1990, c. C.38, Sched.; 1997, c. 28, s. 51.
+R.S.O. 1990, c. C.38, Sched.; 1997, c. 28, s. 51; 2018, c. 8, Sched. 5, s. 12, 13.
