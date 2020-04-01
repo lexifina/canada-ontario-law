@@ -22,8 +22,8 @@ Believe in public accountability to demonstrate that the health system is govern
 
 Recognize that the promotion of health, and the prevention of and treatment of disease includes mental and physical illness;
 
-Recognize the importance of an Ontario Health Quality Council that would report to the people of Ontario on the performance of their health system to support continuous quality improvement;
-
 Affirm that a strong health system depends on collaboration between the community, individuals, health service providers and governments, and a common vision of shared responsibility;
 
 Therefore, Her Majesty, by and with the advice and consent of the Legislative Assembly of the Province of Ontario, enacts as follows:
+
+2019, c. 5, Sched. 3, s. 4 - 01/04/2020

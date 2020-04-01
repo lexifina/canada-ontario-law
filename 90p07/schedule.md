@@ -222,7 +222,7 @@
 
 10 The Ontario Cancer Institute.
 
-11 The Ontario Cancer Treatment and Research Foundation.
+11 Repealed: 2019, c. 5, Sched. 3, s. 15 (3).
 
 12 Repealed: 2017, c. 25, Sched. 8, s. 2.
 
@@ -280,4 +280,4 @@
 
 1 Any corporation or organization of persons, other than one that has no employees other than employees who directly or indirectly control it, that receives funding from the program administered by the Office Responsible for Women’s Issues and known as Women’s Centres Program: Investing in Women’s Futures and that provides counselling, referral or information services for women.
 
-R.S.O. 1990, c. P.7, Sched.; O. Reg. 395/93; 1998, c. 18, Sched. G, s. 67; O. Reg. 81/99; 2001, c. 13, s. 23; O. Reg. 37/02; 2002, c. 17, Sched. C, s. 21; 2004, c. 17, s. 32; 2006, c. 4, s. 50 (2-5); 2006, c. 19, Sched. D, s. 17; 2006, c. 19, Sched. M, s. 6; 2007, c. 8, s. 223; 2008, c. 14, s. 57; 2009, c. 33, Sched. 18, s. 24; 2014, c. 11, Sched. 6, s. 6; 2017, c. 11, Sched. 6, s. 14; 2017, c. 25, Sched. 8, s. 2; 2017, c. 14, Sched. 4, s. 25.
+R.S.O. 1990, c. P.7, Sched.; O. Reg. 395/93; 1998, c. 18, Sched. G, s. 67; O. Reg. 81/99; 2001, c. 13, s. 23; O. Reg. 37/02; 2002, c. 17, Sched. C, s. 21; 2004, c. 17, s. 32; 2006, c. 4, s. 50 (2-5); 2006, c. 19, Sched. D, s. 17; 2006, c. 19, Sched. M, s. 6; 2007, c. 8, s. 223; 2008, c. 14, s. 57; 2009, c. 33, Sched. 18, s. 24; 2014, c. 11, Sched. 6, s. 6; 2017, c. 11, Sched. 6, s. 14; 2017, c. 25, Sched. 8, s. 2; 2017, c. 14, Sched. 4, s. 25; 2017, c. 25, Sched. 8, s. 2; 2019, c. 5, Sched. 3, s. 15 (2, 3).
