@@ -1,4 +1,4 @@
-## SCHEDULE Conversion of Joint Stock Life Companies into Mutual Companies
+## Schedule 1 CONVERSION OF JOINT STOCK LIFE COMPANIES INTO MUTUAL COMPANIES
 
 ##### Details of plan to be set forth in by-law
 
