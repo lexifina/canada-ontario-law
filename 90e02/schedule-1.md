@@ -82,6 +82,26 @@
 
 (3) If no chair or designate is physically present in the meeting room, the meeting must not proceed.
 
+##### Exception, emergency
+
+(4) The requirements under subsections (1) to (3) do not apply for the period described in subsection (5) if all schools of the Consortium are closed pursuant to an order made by,
+
+(a) the Minister under section 5 (1) of this Act;
+
+(b) a medical officer of health or the Chief Medical Officer of Health under section 22 or 77.1 of the Health Protection and Promotion Act; or
+
+(c) the Lieutenant Governor in Council under paragraph 5 of subsection 7.0.2 (4) of the Emergency Management and Civil Protection Act.
+
+##### Same
+
+(5) The period referred to in subsection (4) starts on the later of,
+
+(a) the day the order under clause (4) (a), (b) or (c) is made; and
+
+(b) the day section 4 of Schedule 9 to the COVID-19 Response and Reforms to Modernize Ontario Act, 2020 comes into force,
+
+and ends 60 days after the order ceases to apply.
+
 ### Vacancies
 
 ##### Seat vacated
@@ -268,4 +288,4 @@ The Consortium is not deemed to be a district school board for the purposes of t
 
 13. Section 253.1.
 
-2017, c. 34, Sched. 12, s. 9.
+2017, c. 34, Sched. 12, s. 9; 2020, c. 7, Sched. 9, s. 4.
