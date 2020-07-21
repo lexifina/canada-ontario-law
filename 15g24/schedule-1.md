@@ -1,6 +1,6 @@
 ## Schedule 1 Policies — legal effect under sections 20 to 24
 
-1. The following policies may be included in an initiative and given legal effect for the purposes of one or more of the provisions of sections 20 to 24:
+1 The following policies may be included in an initiative and given legal effect for the purposes of one or more of the provisions of sections 20 to 24:
 
 1. Policies respecting key natural heritage features and key hydrologic features that assist in achieving the objectives of the initiative and that have been set out in the initiative, including the following:
 

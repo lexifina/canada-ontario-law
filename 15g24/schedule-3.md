@@ -1,6 +1,6 @@
 ## Schedule 3 Policies — no legal effect
 
-1. The following policies may be included in an initiative, but shall not be given any legal effect:
+1 The following policies may be included in an initiative, but shall not be given any legal effect:
 
 1. Policies to support co-ordination of environmental and resource management programs, land use planning programs and land development programs of the various ministries of the Government of Ontario.
 
