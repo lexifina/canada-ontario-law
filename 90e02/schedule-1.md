@@ -204,51 +204,7 @@ and ends 60 days after the order ceases to apply.
 
 ### Transition
 
-##### Transition
-
-##### First appointments
-
-17 (1) No later than 30 days after the day the Stronger, Fairer Ontario Act (Budget Measures), 2017 receives Royal Assent, each Association must appoint the members it is responsible for appointing.
-
-##### Term
-
-(2) The appointments may be for any term that is less than four years and may start on any date, despite subsections 5 (2), (3) and (4) of this Part, but the terms of the appointments must end on a November 30 before November 15, 2022 or on November 14, 2022.
-
-##### Presiding officer
-
-(3) At the first meeting of the Consortium, the chief executive officer shall preside until the election of the chair or, if there is no chief executive officer or in his or her absence, the members present shall designate who shall preside at the election of the chair and if a member is so designated, he or she may vote at the election of the chair.
-
-##### Chair
-
-(4) At the first meeting of the Consortium, the members must elect a chair from among the members.
-
-##### Meetings optional
-
-(5) Section 8 of this Part is inoperative while this subsection is in force.
-
-##### Meetings in private
-
-(6) The meetings of the Consortium may be held in private.
-
-##### Transition powers
-
-(7) The Consortium may,
-
-##### negotiate with Ministry
-
-1. make all necessary decisions to negotiate a transfer agreement with the Ministry with respect to the schools referred to in the amendments to this Act under subsections 1 (1) and (4) of Schedule 12 to the Stronger, Fairer Ontario Act (Budget Measures), 2017;
-
-##### support negotiations with Ministry
-
-2. conduct research, stakeholder engagement and planning for programs and services necessary to support the negotiation of the transfer agreement;
-
-##### hire staff
-
-3. hire a director of education and other staff for any purpose related to negotiating the transfer agreement and planning the Consortium’s programs and services.
-
-##### Repeal
-
-(8) On the later of the day subsection 1 (1) of Schedule 12 to the Stronger, Fairer Ontario Act (Budget Measures), 2017 comes into force and the day subsection 1 (4) of Schedule 12 to the Stronger, Fairer Ontario Act (Budget Measures), 2017 comes into force, this section is repealed.
+17 Repealed: R.S.O. 1990, c. E.2, Sched. 1, s. 17 (8).
 
 ##### First meeting after schools transfer
 
@@ -288,4 +244,4 @@ The Consortium is not deemed to be a district school board for the purposes of t
 
 13. Section 253.1.
 
-2017, c. 34, Sched. 12, s. 9; 2020, c. 7, Sched. 9, s. 4.
+R.S.O. 1990, c. E.2, Sched. 1, s. 17 (8); 2017, c. 34, Sched. 12, s. 9; 2020, c. 7, Sched. 9, s. 4.
