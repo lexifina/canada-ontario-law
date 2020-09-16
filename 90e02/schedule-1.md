@@ -202,17 +202,9 @@ and ends 60 days after the order ceases to apply.
 
 16 The director of education must provide the members of the Consortium with an orientation respecting the special needs of the students attending the schools of the Consortium.
 
-### Transition
-
 17 Repealed: R.S.O. 1990, c. E.2, Sched. 1, s. 17 (8).
 
-##### First meeting after schools transfer
-
-18 (1) The Consortium must meet during the period that begins on the later of the day subsection 1 (1) of Schedule 12 to the Stronger, Fairer Ontario Act (Budget Measures), 2017 comes into force and the day subsection 1 (4) of Schedule 12 to the Stronger, Fairer Ontario Act (Budget Measures), 2017 comes into force and ends 30 days after the later of the day subsection 1 (1) of Schedule 12 to the Stronger, Fairer Ontario Act (Budget Measures), 2017 comes into force and the day subsection 1 (4) of Schedule 12 to the Stronger, Fairer Ontario Act (Budget Measures), 2017 comes into force.
-
-##### Repeal
-
-(2) Thirty days after the later of the day subsection 1 (1) of Schedule 12 to the Stronger, Fairer Ontario Act (Budget Measures), 2017 comes into force and the day subsection 1 (4) of Schedule 12 to the Stronger, Fairer Ontario Act (Budget Measures), 2017 comes into force, this section is repealed.
+18 Repealed: R.S.O. 1990, c. E.2, Sched. 1, s. 18 (2).
 
 #### Part II Provisions for which not Deemed DISTRICT SCHOOL BOARD
 
@@ -244,4 +236,4 @@ The Consortium is not deemed to be a district school board for the purposes of t
 
 13. Section 253.1.
 
-R.S.O. 1990, c. E.2, Sched. 1, s. 17 (8); 2017, c. 34, Sched. 12, s. 9; 2020, c. 7, Sched. 9, s. 4.
+R.S.O. 1990, c. E.2, Sched. 1, s. 17 (8), 18 (2); 2017, c. 34, Sched. 12, s. 9; 2020, c. 7, Sched. 9, s. 4.
