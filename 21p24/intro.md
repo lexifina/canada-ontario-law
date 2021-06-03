@@ -1,0 +1,13 @@
+# Persian Heritage Month Act, 2021
+
+S.o. 2021, chapter 24
+
+##### Preamble
+
+Canada is home to more than 200,000 people of Persian descent, and more than half of them call Ontario home. Ontarians of Persian heritage have contributed to the diversity and uniqueness of our communities for generations. Persian immigration to Canada began in earnest in the 1970s. Since then Persians have played, and continue to play, a key role in shaping the economic, political, social and cultural landscape of Ontario.
+
+With thousands of years of history and tradition, Persian culture is rooted in one of the oldest civilizations on earth. From ancient Mesopotamia to Cyrus the Great’s founding of the First Persian Empire and beyond, Persian peoples have held a home at the centre of countless empires, trade routes and cultures for centuries. Today, Ontario is proud to have gained the cultural and historical legacy of the Persian people. After decades of contributions, Persian culture has become an inherent part of our province’s cultural, political, economic and social identity.
+
+In the month of March, millions of people of Persian heritage celebrate Nowruz; the beginning of their new year, the day of the vernal equinox and the beginning of spring in the northern hemisphere. This millennia-old celebration is also a reminder of the importance of harmony between nature and life. By proclaiming the month of March as Persian Heritage Month, the Province of Ontario recognizes the many achievements and contributions of Ontarians of Persian descent, and acknowledges the proud legacy that Persian history and culture has imprinted on humanity.
+
+Therefore, Her Majesty, by and with the advice and consent of the Legislative Assembly of the Province of Ontario, enacts as follows:
