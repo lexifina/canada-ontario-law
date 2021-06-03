@@ -106,4 +106,4 @@ Time Extension for Annual Meetings, General
 
 (3) Despite subsection (1), if the last day on which a meeting is required to be held under subsection (1) is a day that falls within the 30-day period that begins on the day after the day the emergency is terminated, the last day on which the meeting is instead required to be held is no later than the 120th day after the day the emergency is terminated.
 
-2020, c. 7, Sched. 7, s. 12
+2020, c. 7, Sched. 7, s. 11.
