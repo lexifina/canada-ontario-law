@@ -64,43 +64,7 @@
 
 7 If an Association fails to exercise its powers to appoint members, the Minister may step into its shoes to exercise the powers.
 
-### Meetings
-
-##### Number of meetings
-
-8 The Consortium shall meet at least three times in each 12-month period beginning December 1.
-
-##### In-person attendance required of chair or designate
-
-9 (1) If the chair is not physically present in the meeting room for a meeting of the Consortium, the meeting must be presided over by a member who is physically present in the meeting room and who is designated by the chair, even if the chair attends the meeting remotely.
-
-##### Duration of designation
-
-(2) Each designation is for one meeting.
-
-##### Cancellation of meeting
-
-(3) If no chair or designate is physically present in the meeting room, the meeting must not proceed.
-
-##### Exception, emergency
-
-(4) The requirements under subsections (1) to (3) do not apply for the period described in subsection (5) if all schools of the Consortium are closed pursuant to an order made by,
-
-(a) the Minister under section 5 (1) of this Act;
-
-(b) a medical officer of health or the Chief Medical Officer of Health under section 22 or 77.1 of the Health Protection and Promotion Act; or
-
-(c) the Lieutenant Governor in Council under paragraph 5 of subsection 7.0.2 (4) of the Emergency Management and Civil Protection Act.
-
-##### Same
-
-(5) The period referred to in subsection (4) starts on the later of,
-
-(a) the day the order under clause (4) (a), (b) or (c) is made; and
-
-(b) the day section 4 of Schedule 9 to the COVID-19 Response and Reforms to Modernize Ontario Act, 2020 comes into force,
-
-and ends 60 days after the order ceases to apply.
+8, 9 repealed: 2021, c. 25, Sched. 3, s. 3.
 
 ### Vacancies
 
@@ -236,4 +200,4 @@ The Consortium is not deemed to be a district school board for the purposes of t
 
 13. Section 253.1.
 
-R.S.O. 1990, c. E.2, Sched. 1, s. 17 (8), 18 (2); 2017, c. 34, Sched. 12, s. 9; 2020, c. 7, Sched. 9, s. 4.
+R.S.O. 1990, c. E.2, Sched. 1, s. 17 (8), 18 (2); 2017, c. 34, Sched. 12, s. 9; 2020, c. 7, Sched. 9, s. 4; 2021, c. 25, Sched. 3, s. 3.
