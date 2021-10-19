@@ -8,7 +8,7 @@ The following are the corporate and financial matters referred to in subsection 
 
 3. Whether the corporation is an agent of the Crown.
 
-4. Whether all or part of the Corporations Act and the regulations made under it applies to the corporation.
+4. Whether all or part of the Not-for-Profit Corporations Act, 2010 and the regulations made under it applies to the corporation.
 
 5. Whether all or part of the Corporations Information Act and the regulations made under it applies to the corporation.
 
@@ -53,3 +53,5 @@ ii. Requirements respecting inspections, reviews and audits by the Minister or t
 20. The winding up and dissolution of the corporation and the transfer of its assets, liabilities, rights and obligations.
 
 21. Any other matters that the Lieutenant Governor in Council considers necessary or advisable.
+
+2019, c. 15, Sched. 37, Sched., s. 19.
