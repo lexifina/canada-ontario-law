@@ -8,4 +8,6 @@ Remembrance Day commemorates the armistice signed to end the First World War at 
 
 The people of Ontario must never forget the extraordinary courage and profound sacrifice made by the men and women who bravely and unselfishly gave their lives for Canada in wars and in peace support operations. As a gesture of respect for them, it is appropriate to proclaim the week preceding Remembrance Day in each year as Remembrance Week and to unite in honouring their memory by observing two minutes of silence on Remembrance Day itself.
 
+Poppies are worn during Remembrance Week as a symbol of remembrance and respect.
+
 Therefore, Her Majesty, by and with the advice and consent of the Legislative Assembly of the Province of Ontario, enacts as follows:
