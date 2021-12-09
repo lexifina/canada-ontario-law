@@ -1,0 +1,19 @@
+# Endometriosis Awareness Month Act, 2021
+
+S.o. 2021, chapter 41
+
+##### Preamble
+
+Endometriosis is a common condition experienced by 1 in 10 women, trans and non-binary menstruators of reproductive age. The disease can cause debilitating conditions, including chronic pelvic pain, and is sometimes associated with infertility. Many suffer silently for years without a diagnosis, enduring extreme pain, nausea and other symptoms. Due to the stigma and shame associated with menstruation and the lack of knowledge and education around what constitutes a “normal” period, many sufferers never seek help or, if they do, find their concerns dismissed.
+
+Endometriosis is an inflammatory disease process characterized by the growth of abnormal tissue, similar to that which lines the uterus, outside of the uterus in the pelvic cavity. Endometriosis leads to the formation of lesions, cysts, nodules and other abnormal tissue growths.
+
+The misplaced tissue responds in the same way that the tissue in the uterus does during the menstrual cycle, and symptoms can become exacerbated during menstruation. While menstrual blood leaves the body during menstruation, the blood and tissue resulting from endometriosis have nowhere to go. This process results in inflammation and scarring, causing painful symptoms and contributing to infertility.
+
+There is no cause yet known for the disease, and diagnostics and treatment can often be severely delayed from the onset of symptoms. In many cases, menstruators can go up to eight years or longer without a diagnosis. Endometriosis can be treated through medical and surgical interventions, but long surgery wait times can cause further delays in treatment.
+
+Research shows that youth with endometriosis symptoms are more likely to miss one or more days of school per month, causing them to fall behind in their studies and leading to adverse effects on their grades and self-confidence. For adults with endometriosis, this can translate to a loss of 10 hours of productivity per week. It is estimated that endometriosis costs the Canadian economy $1.8 billion per year.
+
+The month of March is recognized as Endometriosis Awareness Month. Increasing public awareness of endometriosis is imperative as many menstruators spend years unaware their symptoms are abnormal. Delays in diagnosis and treatment can negatively impact education, work and quality of life for those with endometriosis. Proclaiming the month of March Endometriosis Awareness Month in Ontario provides an opportunity to educate the public about this common yet misunderstood disease and to encourage conversations and education around what is a “normal” period.
+
+Therefore, Her Majesty, by and with the advice and consent of the Legislative Assembly of the Province of Ontario, enacts as follows:
