@@ -19,3 +19,5 @@ If the material which the witness is required to produce is of such weight or si
 4. In addition to the amounts described above, an allowance of $20 for each day of absence from the ordinary residence of the witness, and the witness shall be paid on account of this allowance not less than $60.
 
 R.S.O. 1990, c. I.12, Sched. 1; 2000, c. 26, Sched. A, s. 10 (6).
+
+#### Schedule 2 Repealed: 2017, c. 20, Sched. 11, s. 15.
