@@ -180,7 +180,7 @@
 
 (a) an ambulance service, under the authority of a licence issued under the Ambulance Act (R.S.O. 1990, c. A.19);
 
-(b) a long-term care home under the authority of a licence issued, or an approval granted, under the Long-Term Care Homes Act, 2007 but, for greater certainty, only in respect of its long-term care home beds with respect to which funding is received from the Province of Ontario a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006 or the corporation continued by section 3 of the Connecting Care Act, 2019;
+(b) a long-term care home under the authority of a licence issued or replaced, or an approval granted or continued, under the Fixing Long-Term Care Act, 2021 but, for greater certainty, only in respect of its long-term care home beds with respect to which funding is received from the Province of Ontario a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006 or the corporation continued by section 3 of the Connecting Care Act, 2019;
 
 (c) a laboratory or a specimen collection centre, under the authority of a licence issued under the Laboratory and Specimen Collection Centre Licensing Act (R.S.O. 1990, c. L.1);
 
@@ -202,7 +202,7 @@
 
 (i) an adult community mental health service the operation of which is, pursuant to an agreement in writing, funded in whole or in part by the Ministry of Health and Long-Term Care a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006 or the corporation continued by section 3 of the Connecting Care Act, 2019;
 
-(j) a placement service the operation of which is, pursuant to a “Placement Co-ordination Service Agreement” or other agreement in writing, funded in whole or in part by the Ministry of Health and Long-Term Care a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006 or the corporation continued by section 3 of the Connecting Care Act, 2019. 2019, c. 5, Sched. 3, s. 15 (2)
+(j) a placement service the operation of which is, pursuant to a “Placement Co-ordination Service Agreement” or other agreement in writing, funded in whole or in part by the Ministry of Health and Long-Term Care a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006 or the corporation continued by section 3 of the Connecting Care Act, 2019. 2019, c. 5, Sched. 3, s. 15 (2); 2021, c. 39, Sched. 2, s. 19.
 
 2 Repealed: 2006, c. 4, s. 50 (3).
 
