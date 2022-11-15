@@ -44,17 +44,7 @@
 
 (3) A term must begin on a November 15 and end on a November 14.
 
-##### Transition
-
-(4) The following rules apply to a term that begins before November 15, 2022:
-
-1. The term must begin on a December 1 and end on a November 30, despite subsection (3).
-
-2. If the result of subsection (2) and paragraph 1 of this subsection is that the term would end on a November 30 after November 15, 2022, the term instead ends on the November 14 before that November 30, despite subsection (2) and paragraph 1 of this subsection.
-
-##### Repeal
-
-(5) On November 15, 2022, subsection (4) and this subsection are repealed.
+(4), (5) Repealed: R.S.O. 1990, c. E.2, Sched. 1, s. 5 (5).
 
 ##### Multiple terms
 
@@ -138,7 +128,7 @@
 
 ##### Vacancies near election times
 
-13 Where a vacancy occurs during the period beginning on the day one month before the next election and ending on the December 1 after that election, section 12 of this Part applies but instead of being required to fill the vacancy within 60 days after the office becomes vacant, the Association must fill the vacancy no later than the January 30 after the election.
+13 Where a vacancy occurs during the period beginning on the day one month before the next election and ending on the November 15 after that election, section 12 of this Part applies but instead of being required to fill the vacancy within 60 days after the office becomes vacant, the Association must fill the vacancy no later than the January 14 after the election.
 
 ### Advisory Committees
 
@@ -200,4 +190,4 @@ The Consortium is not deemed to be a district school board for the purposes of t
 
 13. Section 253.1.
 
-R.S.O. 1990, c. E.2, Sched. 1, s. 17 (8), 18 (2); 2017, c. 34, Sched. 12, s. 9; 2020, c. 7, Sched. 9, s. 4; 2021, c. 25, Sched. 3, s. 3.
+R.S.O. 1990, c. E.2, Sched. 1, s. 5 (5), 17 (8), 18 (2); 2017, c. 34, Sched. 12, s. 9, 10 (2); 2020, c. 7, Sched. 9, s. 4; 2021, c. 25, Sched. 3, s. 3.
