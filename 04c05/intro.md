@@ -25,5 +25,3 @@ Recognize that the promotion of health, and the prevention of and treatment of d
 Affirm that a strong health system depends on collaboration between the community, individuals, health service providers and governments, and a common vision of shared responsibility;
 
 Therefore, Her Majesty, by and with the advice and consent of the Legislative Assembly of the Province of Ontario, enacts as follows:
-
-2019, c. 5, Sched. 3, s. 4 - 01/04/2020
