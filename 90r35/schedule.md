@@ -21,3 +21,15 @@ Thence northerly along the said westerly limit of Queen’s Park Drive, a distan
 Subject to an easement for subway purposes in favour of The Municipality of Metropolitan Toronto as described in an Instrument filed in the said Registry Office as No. 122702 E.P.
 
 R.S.O. 1990, c. R.35, Sched.
+
+Immunity of trustees
+
+17 (1) No cause of action arises against a trustee of the Museum as a result of any act done in good faith in the performance or intended performance of his or her duties or any alleged neglect or default in the performance in good faith of his or her duties. 2023, c. 9, Sched. 31, s. 2.
+
+No proceeding
+
+(2) No proceeding, including but not limited to a proceeding for a remedy in contract, restitution, tort or trust, shall be instituted against a trustee of the Museum by a person who has suffered any damages, injury or other loss based on or related to any cause of action described in subsection (1). 2023, c. 9, Sched. 31, s. 2.
+
+Liability of Museum preserved
+
+(3) Subsections (1) and (2) do not relieve the Museum of any liability to which it would otherwise be subject. 2023, c. 9, Sched. 31, s. 2.
