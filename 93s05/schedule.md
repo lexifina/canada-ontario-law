@@ -212,7 +212,7 @@
 
 (b) receives funding from the Ministry of Health and Long-Term Care or a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006 in accordance with the number of individuals on the roster.
 
-15 A person operating an independent health facility to which the Independent Health Facilities Act (R.S.O. 1990, c. I.3) applies.
+15. A person operating an integrated community health services centre to which the Integrated Community Health Services Centres Act, 2023 applies.
 
 16 A practitioner whose services are insured services under the Health Insurance Act (R.S.O. 1990, c. H.6).
 
@@ -266,4 +266,4 @@
 
 2 Sexual assault centres.
 
-1993, c. 5, Sched.; 2006, c. 4, s. 53; 2007, c. 8, s. 228; 2009, c. 33, Sched. 18, s. 32; 2014, c. 11, Sched. 6, s. 9; 2017, c. 25, Sched. 8, s. 4.
+1993, c. 5, Sched.; 2006, c. 4, s. 53; 2007, c. 8, s. 228; 2009, c. 33, Sched. 18, s. 32; 2014, c. 11, Sched. 6, s. 9; 2017, c. 25, Sched. 8, s. 4; 2023, c. 4, Sched. 1, s. 84.
