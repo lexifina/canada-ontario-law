@@ -147,3 +147,5 @@ be deemed to have been purchased by the company, and, for the purposes of this p
 “Minister” means the member of the Executive Council charged for the time being by the Lieutenant Governor in Council with the administration of the Insurance Act. (“ministre”)
 
 R.S.O. 1990, c. C.38, Sched.; 1997, c. 28, s. 51; 2018, c. 8, Sched. 5, s. 12, 13.
+
+#### Schedule 2 Repealed: 2023, c. 9, Sched. 9, s. 29.
