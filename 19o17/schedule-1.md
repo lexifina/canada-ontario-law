@@ -1,6 +1,6 @@
 ## Schedule 1
 
-1 A product that contains a drug containing any of the following active ingredients is an opioid product for the purposes of this Act:
+1 A product that contains any of the following drugs or active ingredients is an opioid product for the purposes of this Act:
 
 1. Anileridine.
 
@@ -47,3 +47,5 @@
 22. Tapentadol, including but not limited to tapentadol hydrochloride.
 
 23. Tramadol, including but not limited to tramadol hydrochloride.
+
+2019, c. 17, Sched. 2, Schedule 1; 2023, c. 21, Sched. 9, s. 13.

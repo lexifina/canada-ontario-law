@@ -68,7 +68,7 @@ Not-for-Profit Corporations Act, 2010 | subsections 98 (3) and 187 (14) and (15)
 
 Ontario Home Ownership Savings Plan Act | section 18
 
-Opioid Damages and Health Care Costs Recovery Act, 2019 | subsection 6 (1)
+Opioid Damages and Health Care Costs Recovery Act, 2019 | subsections 6 (1) and (1.1)
 
 Personal Property Security Act | subsections 44 (13) and (14)
 
@@ -94,4 +94,4 @@ Tobacco Tax Act | subsections 6 (10) and 24 (5)
 
 Trustee Act | subsection 38 (3)
 
-2002, c. 24, Sched. B, Sched.; 2002, c. 24, Sched. B, s. 50; 2004, c. 16, Sched. D, Table; 2004, c. 31, Sched. 22, s. 1; 2006, c. 32, Sched. C, s. 29; 2007, c. 13, s. 44 (2); 2008, c. 19, Sched. V, s. 4; 2009, c. 13, s. 12; 2009, c. 33, Sched. 21, s. 5; 2010, c. 16, Sched. 4, s. 27; 2015, c. 20, Sched. 39, s. 5; 2017, c. 2, Sched. 3, s. 6; 2017, c. 2, Sched. 5, s. 14 (2); 2017, c. 10, Sched. 4, s. 7; 2017, c. 24, s. 77; 2017, c. 34, Sched. 12, s. 11; 2019, c. 15, Sched. 22, s. 98; 2019, c. 17, Sched. 2, s 15; 2020, c. 11, Sched. 16, s. 2; 2020, c. 36, Sched. 25, s. 1; 2021, c. 34, Sched. 9, s. 10.
+2002, c. 24, Sched. B, Sched.; 2002, c. 24, Sched. B, s. 50; 2004, c. 16, Sched. D, Table; 2004, c. 31, Sched. 22, s. 1; 2006, c. 32, Sched. C, s. 29; 2007, c. 13, s. 44 (2); 2008, c. 19, Sched. V, s. 4; 2009, c. 13, s. 12; 2009, c. 33, Sched. 21, s. 5; 2010, c. 16, Sched. 4, s. 27; 2015, c. 20, Sched. 39, s. 5; 2017, c. 2, Sched. 3, s. 6; 2017, c. 2, Sched. 5, s. 14 (2); 2017, c. 10, Sched. 4, s. 7; 2017, c. 24, s. 77; 2017, c. 34, Sched. 12, s. 11; 2019, c. 15, Sched. 22, s. 98; 2019, c. 17, Sched. 2, s 15; 2020, c. 11, Sched. 16, s. 2; 2020, c. 36, Sched. 25, s. 1; 2021, c. 34, Sched. 9, s. 10; 2023, c. 21, Sched. 9, s. 14.
