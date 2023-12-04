@@ -1,4 +1,4 @@
-# St. Thomas - Central Elgin Boundary Adjustment Act, 2023
+# Supporting Manufacturing in St. Thomas Act, 2023
 
 S.o. 2023, chapter 1
 
