@@ -1,4 +1,4 @@
-# Hazel McCallion Act (Peel Dissolution), 2023
+# Hazel McCallion Act (Peel Restructuring), 2023
 
 S.o. 2023, chapter 13
 
