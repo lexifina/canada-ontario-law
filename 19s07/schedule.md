@@ -10,6 +10,6 @@
 
 5. A person described in clause (b), (c) or (d) of the definition of “service provider” in subsection 2 (1) of the Child, Youth and Family Services Act, 2017.
 
-6. A local health integration network as defined in subsection 2 (1) of the Local Health System Integration Act, 2006.
+6. Repealed: 2023, c. 19, s. 26.
 
-7. A health service provider within the meaning of the Connecting Care Act, 2019 other than a person that operates a private hospital within the meaning of the Private Hospitals Act, unless the person received public funds for the operation of the hospital in the previous fiscal year of the Government of Ontario, other than funds paid in exchange for the provision of goods or services to the Government of Ontario or to a public body or provided by way of a loan or a loan guarantee. 2019, c. 7, Sched. 56, Sched.; 2023, c. 4, Sched. 1, s. 83.
+7. A health service provider within the meaning of the Connecting Care Act, 2019 other than a person that operates a private hospital within the meaning of the Private Hospitals Act, unless the person received public funds for the operation of the hospital in the previous fiscal year of the Government of Ontario, other than funds paid in exchange for the provision of goods or services to the Government of Ontario or to a public body or provided by way of a loan or a loan guarantee. 2019, c. 7, Sched. 56, Sched.; 2023, c. 4, Sched. 1, s. 83; 2023, c. 19, s. 26.

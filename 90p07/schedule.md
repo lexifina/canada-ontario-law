@@ -8,7 +8,7 @@
 
 (c) every board as defined in the Education Act, and every college, university or post-secondary school educational institution in Ontario the majority of the capital or annual operating funds of which are received from the Crown;
 
-(d) every hospital referred to in the list of hospitals and their grades and classifications maintained by the Minister of Health and Long-Term Care under the Public Hospitals Act and every private hospital operated under the authority of a licence issued under the Private Hospitals Act;
+(d) every hospital referred to in the list of hospitals and their grades and classifications maintained by the Minister of Health under the Public Hospitals Act and every private hospital operated under the authority of a licence issued under the Private Hospitals Act;
 
 (e) every corporation with share capital, at least 90 per cent of the issued shares of which are beneficially held by or for an employer or employers described in clauses (a) to (d), and every wholly-owned subsidiary thereof;
 
@@ -21,6 +21,8 @@
 (i) any authority, board, commission, corporation, office, person or organization of persons, or any class of authorities, boards, commissions, corporations, offices, persons or organizations of persons, set out in the Appendix to this Schedule or added to the Appendix by the regulations made under this Act.
 
 2 Repealed: 2002, c. 17, Sched. C, s. 21.
+
+R.S.O. 1990, c. P.7, Sched.; 2002, c. 17, Sched. C, s. 21; 2023, c. 19, s. 22 (1).
 
 #### APPENDIX
 
@@ -174,17 +176,17 @@
 
 32 Youth employment centres providing community-based vocational planning and counselling that receive funding from the Ministry of Education and Training.
 
-#### Ministry of Health and Long-Term Care
+### MINISTRY OF HEALTH AND MINISTRY OF LONG-TERM CARE
 
 1 Any corporation or organization of persons, other than one that has no employees other than employees who directly or indirectly control it, that operates or provides,
 
 (a) an ambulance service, under the authority of a licence issued under the Ambulance Act (R.S.O. 1990, c. A.19);
 
-(b) a long-term care home under the authority of a licence issued or replaced, or an approval granted or continued, under the Fixing Long-Term Care Act, 2021 but, for greater certainty, only in respect of its long-term care home beds with respect to which funding is received from the Province of Ontario a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006 or the corporation continued by section 3 of the Connecting Care Act, 2019;
+(b) a long-term care home under the authority of a licence issued or replaced, or an approval granted or continued, under the Fixing Long-Term Care Act, 2021 but, for greater certainty, only in respect of its long-term care home beds with respect to which funding is received from the Province of Ontario or the corporation continued by section 3 of the Connecting Care Act, 2019;
 
 (c) a laboratory or a specimen collection centre, under the authority of a licence issued under the Laboratory and Specimen Collection Centre Licensing Act (R.S.O. 1990, c. L.1);
 
-(d) a psychiatric facility within the meaning of the Mental Health Act (R.S.O. 1990, c. M.7), the operation of which is funded in whole or in part by the Ministry of Health and Long-Term Care a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006 or the corporation continued by section 3 of the Connecting Care Act, 2019;
+(d) a psychiatric facility within the meaning of the Mental Health Act, the operation of which is funded in whole or in part by the Ministry of Health, the Ministry of Long-Term Care or the corporation continued by section 3 of the Connecting Care Act, 2019;
 
 (e) a home for special care established, approved or licensed under the Homes for Special Care Act (R.S.O. 1990, c. H.2);
 
@@ -196,13 +198,13 @@
 
 (g) a rehabilitation centre or a crippled children’s centre listed in the relevant Schedule to the General Regulation made under the Health Insurance Act (R.S.O. 1990, c. H.6);
 
-(h) a detoxification centre that receives funding from the Ministry of Health and Long-Term Care a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006 or the corporation continued by section 3 of the Connecting Care Act, 2019;
+(h) a detoxification centre that receives funding from the Ministry of Health, the Ministry of Long-Term Care or the corporation continued by section 3 of the Connecting Care Act, 2019;
 
-(h.1) services relating to addiction if the provider of the services receives funding from the Ministry of Health and Long-Term Care a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006 or the corporation continued by section 3 of the Connecting Care Act, 2019;
+(h.1) services relating to addiction if the provider of the services receives funding from the Ministry of Health, the Ministry of Long-Term Care or the corporation continued by section 3 of the Connecting Care Act, 2019;
 
-(i) an adult community mental health service the operation of which is, pursuant to an agreement in writing, funded in whole or in part by the Ministry of Health and Long-Term Care a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006 or the corporation continued by section 3 of the Connecting Care Act, 2019;
+(i) an adult community mental health service the operation of which is, pursuant to an agreement in writing, funded in whole or in part by the Ministry of Health, the Ministry of Long-Term Care or the corporation continued by section 3 of the Connecting Care Act, 2019;
 
-(j) a placement service the operation of which is, pursuant to a “Placement Co-ordination Service Agreement” or other agreement in writing, funded in whole or in part by the Ministry of Health and Long-Term Care a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006 or the corporation continued by section 3 of the Connecting Care Act, 2019. 2019, c. 5, Sched. 3, s. 15 (2); 2021, c. 39, Sched. 2, s. 19.
+(j) a placement service the operation of which is, pursuant to a “Placement Co-ordination Service Agreement” or other agreement in writing, funded in whole or in part by the Ministry of Health, the Ministry of Long-Term Care or the corporation continued by section 3 of the Connecting Care Act, 2019.
 
 2 Repealed: 2006, c. 4, s. 50 (3).
 
@@ -236,13 +238,13 @@
 
 (ii) a group or groups of individuals who, because of age, sex, socio-economic factors or environmental factors, are more likely to be in need of some or all of those services than other individuals; and
 
-(b) who receives funding from the Ministry of Health and Long-Term Care a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006 or the corporation continued by section 3 of the Connecting Care Act, 2019 in accordance with the number or type of services provided. 2019, c. 5, Sched. 3, s. 15 (2).
+(b) who receives funding from the Ministry of Health, the Ministry of Long-Term Care or the corporation continued by section 3 of the Connecting Care Act, 2019 in accordance with the number or type of services provided.
 
 15 A comprehensive health organization, being a not-for-profit corporation that,
 
 (a) provides or arranges for the provision of comprehensive health care services for individuals who are enrolled as members of the patient roster of the corporation; and
 
-(b) receives funding from the Ministry of Health and Long-Term Care a local health integration network as defined in section 2 of the Local Health System Integration Act, 2006 or the corporation continued by section 3 of the Connecting Care Act, 2019 in accordance with the number of individuals on the roster. 2019, c. 5, Sched. 3, s. 15 (2).
+(b) receives funding from the Ministry of Health, the Ministry of Long-Term Care or the corporation continued by section 3 of the Connecting Care Act, 2019 in accordance with the number of individuals on the roster.
 
 #### Ministry of Labour
 
@@ -280,4 +282,4 @@
 
 1 Any corporation or organization of persons, other than one that has no employees other than employees who directly or indirectly control it, that receives funding from the program administered by the Office Responsible for Women’s Issues and known as Women’s Centres Program: Investing in Women’s Futures and that provides counselling, referral or information services for women.
 
-R.S.O. 1990, c. P.7, Sched.; O. Reg. 395/93; 1998, c. 18, Sched. G, s. 67; O. Reg. 81/99; 2001, c. 13, s. 23; O. Reg. 37/02; 2002, c. 17, Sched. C, s. 21; 2004, c. 17, s. 32; 2006, c. 4, s. 50 (2-5); 2006, c. 19, Sched. D, s. 17; 2006, c. 19, Sched. M, s. 6; 2007, c. 8, s. 223; 2008, c. 14, s. 57; 2009, c. 33, Sched. 18, s. 24; 2014, c. 11, Sched. 6, s. 6; 2017, c. 11, Sched. 6, s. 14; 2017, c. 25, Sched. 8, s. 2; 2017, c. 14, Sched. 4, s. 25; 2017, c. 25, Sched. 8, s. 2; 2019, c. 5, Sched. 3, s. 15 (2, 3).
+R.S.O. 1990, c. P.7, Sched.; O. Reg. 395/93; 1998, c. 18, Sched. G, s. 67; O. Reg. 81/99; 2001, c. 13, s. 23; O. Reg. 37/02; 2002, c. 17, Sched. C, s. 21; 2004, c. 17, s. 32; 2006, c. 4, s. 50 (2-5); 2006, c. 19, Sched. D, s. 17; 2006, c. 19, Sched. M, s. 6; 2007, c. 8, s. 223; 2008, c. 14, s. 57; 2009, c. 33, Sched. 18, s. 24; 2014, c. 11, Sched. 6, s. 6; 2017, c. 11, Sched. 6, s. 14; 2017, c. 25, Sched. 8, s. 2; 2017, c. 14, Sched. 4, s. 25; 2017, c. 25, Sched. 8, s. 2; 2019, c. 5, Sched. 3, s. 15 (2, 3); 2023, c. 19, s. 22 (2-10).
