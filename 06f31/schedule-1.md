@@ -16,7 +16,7 @@
 
 5. The College of Veterinarians of Ontario.
 
-6. Repealed: 2017, c. 8, Sched. 3, s. 75 (1).
+6. The Health and Supportive Care Providers Oversight Authority.
 
 7. The Law Society of Ontario.
 
@@ -38,4 +38,4 @@
 
 2 Repealed: 2017, c. 2, Sched. 9, s. 8.
 
-2006, c. 31, Sched. 1; 2007, c. 7, Sched. 8, s. 69; 2010, c. 6, Sched. B, s. 75; 2013, c. 6, s. 74; 2017, c. 2, Sched. 9, s. 8; 2017, c. 8, Sched. 3, s. 75; 2018, c. 8, Sched. 15, s. 9.
+2006, c. 31, Sched. 1; 2007, c. 7, Sched. 8, s. 69; 2010, c. 6, Sched. B, s. 75; 2013, c. 6, s. 74; 2017, c. 2, Sched. 9, s. 8; 2017, c. 8, Sched. 3, s. 75; 2018, c. 8, Sched. 15, s. 9; 2021, c. 27, Sched. 2, s. 66.
