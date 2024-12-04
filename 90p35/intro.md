@@ -1,3 +1,3 @@
-# Provincial Schools Negotiations Act
+# Provincial Schools Authority Act
 
 R.S.O. 1990, Chapter P.35
