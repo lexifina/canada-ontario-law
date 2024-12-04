@@ -4,10 +4,10 @@ S.o. 2020, chapter 18 Schedule 11
 
 ##### Preamble
 
-Ontario is committed to fostering a strong business climate that supports growth while ensuring appropriate regulatory oversights that protect the public, workers and the environment.
+The Ontario government is committed to supporting individuals and regulated entities, while ensuring appropriate regulatory oversights that protect workers, the environment and the public interest, including health and safety.
 
-Ontario recognizes that modern regulations protect the public interest, including health, safety and the environment, while enabling economic growth, prosperity and a competitive business climate.
+The Ontario government recognizes that regulatory modernization enables economic growth, prosperity and a strong business climate, and supports the unique needs of small businesses.
 
-As a part of Ontario’s regulatory modernization efforts, the province is committed to reducing unnecessary red tape and regulatory burdens while also ensuring the public interest is protected, and to supporting business needs and ensuring that interactions with government are efficient and straightforward.
+As part of the Ontario government’s regulatory modernization efforts, it is also committed to reducing unnecessary burdens faced by individuals when interacting with the government.
 
-Ontario is dedicated to a regulatory environment that considers both costs and benefits as part of the evidence, utilizes recognized standards, considers the unique needs of small businesses, provides digital options and recognizes businesses with excellent compliance records.
+The Ontario government is dedicated to a regulatory environment that considers both costs and benefits as part of government decision making, utilizes recognized standards, provides digital options and recognizes excellent compliance records. The Ontario government is committed to supporting the needs of individuals and regulated entities by ensuring interactions with government are efficient and straightforward.
