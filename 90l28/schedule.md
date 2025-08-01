@@ -14,9 +14,9 @@ a supply of water and for that purpose may regulate the time, manner, extent and
 
 The Board may by by-law,
 
-(a) establish a fire department and for that purpose acquire, operate and maintain a fire-hall, fire engines and apparatus and equipment for use by volunteer firefighters in connection with fire suppression and other fire protection activities; or
+(a) establish a fire department and for that purpose acquire, operate and maintain a fire-hall, fire engines and apparatus and equipment for use by volunteer firefighters in connection with fire protection services within the meaning of the Fire Protection and Prevention Act, 1997; or
 
-(b) contract for fire protection,
+(b) contract for fire protection services within the meaning of the Fire Protection and Prevention Act, 1997,
 
 and may charge a fee for the cost of such service.
 
@@ -24,9 +24,9 @@ and may charge a fee for the cost of such service.
 
 The Board may by by-law,
 
-(a) establish and maintain a system for the collection and removal of garbage; or
+(a) establish and maintain a system for the collection or removal, or any combination of them, of compost, garbage or recycling, or any combination of them; or
 
-(b) contract for the collection, removal and disposal of garbage,
+(b) contract for the collection, removal or disposal, or any combination of them, of compost, garbage or recycling, or any combination of them,
 
 and for that purpose may regulate the occasions, manner, extent and nature of such service and the persons to whom such service may be supplied, and may charge a fee for the cost of such service.
 
@@ -64,15 +64,7 @@ The Board may by by-law,
 
 and may charge fees in respect of the programs of recreation or the recreation facilities.
 
-7. ROADS
-
-The Board may by by-law,
-
-(a) contract for the construction, inspection and maintenance of roads and bridges in the Board area;
-
-(b) determine the work to be performed on roads and bridges in the Board area,
-
-and may charge a fee for the cost of such services.
+7. Repealed: 2024, c. 28, Sched. 18, s. 14 (3).
 
 8. PUBLIC LIBRARY SERVICE
 
@@ -88,6 +80,6 @@ and may, subject to the Public Libraries Act, charge fees in respect of such ser
 
 The Board may, by by-law, contract for the establishment, operation and maintenance of an emergency telecommunications service that communicates with fire, police and ambulance communications services, and may charge a fee for the cost of such service.
 
-R.S.O. 1990, c. L.28, Sched.; 1998, c. 15, Sched. E, s. 15; 1998, c. 16, s. 11; 2002, c. 17, Sched. F, Table; O. Reg. 99/04; 2010, c. 16, Sched. 11, s. 1.
+R.S.O. 1990, c. L.28, Sched.; 1998, c. 15, Sched. E, s. 15; 1998, c. 16, s. 11; 2002, c. 17, Sched. F, Table; O. Reg. 99/04; 2010, c. 16, Sched. 11, s. 1; 2024, c. 28, Sched. 18, s. 14.
 
 FormS 1, 2 REPEALED: 2017, c. 20, Sched. 11, s. 29.
