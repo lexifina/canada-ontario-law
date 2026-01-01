@@ -96,7 +96,7 @@ Registration
 
 22.17 | Ontario residency cannot be required
 
-22.18 | When applicant holds out-of-province certificate
+22.18 | When applicant holds out-of-province certificate, non-prescribed professions
 
 22.19 | Transition
 
@@ -350,6 +350,8 @@ Miscellaneous
 
 “Board” means the Health Professions Appeal and Review Board under the Ministry of Health and Long-Term Care Appeal and Review Boards Act, 1998; (“Commission”)
 
+“business day” means a day from Monday to Friday, other than a holiday as defined in section 87 of the Legislation Act, 2006; (“jour ouvrable”)
+
 “by-laws” means by-laws made by the Council; (“règlements administratifs”)
 
 “certificate of authorization” means a certificate of authorization issued under the Regulated Health Professions Act, 1991 or this Code; (“certificat d’autorisation”)
@@ -376,7 +378,7 @@ Miscellaneous
 
 “Registrar” means the Registrar of the College; (“registrateur”)
 
-“registration” means the issuance of a certificate of registration. (“inscription”) 1991, c. 18, Sched. 2, s. 1 (1); 1998, c. 18, Sched. G, s. 10; 2000, c. 42, Sched., s. 34; 2006, c. 19, Sched. L, s. 11 (2); 2007, c. 10, Sched. M, s. 17; 2009, c. 26, s. 24 (10).
+“registration” means the issuance of a certificate of registration. (“inscription”) 1991, c. 18, Sched. 2, s. 1 (1); 1998, c. 18, Sched. G, s. 10; 2000, c. 42, Sched., s. 34; 2006, c. 19, Sched. L, s. 11 (2); 2007, c. 10, Sched. M, s. 17; 2009, c. 26, s. 24 (10); 2025, c. 11, Sched. 8, s. 4.
 
 ##### Hearing not required unless referred to
 
@@ -653,6 +655,10 @@ Miscellaneous
 ##### Panels for consent
 
 (5) Subsections 17 (2) and (3) apply with respect to the panel mentioned in subsection (4). 1991, c. 18, Sched. 2, s. 15 (5).
+
+##### Out-of-province applicants to prescribed Colleges
+
+(6) Despite clause (2) (b), if the Registrar is of the opinion that terms, conditions or limitations should be imposed on a certificate of registration of the applicant and the applicant is an individual described in subsection 22.19.1 (1), the Registrar shall not refer the application to the Registration Committee and shall instead issue the certificate of registration to the applicant with the terms, conditions or limitations in accordance with subsection 22.19.1 (8). 2025, c. 11, Sched. 8, s. 5.
 
 ##### Disclosure of application file
 
@@ -1140,7 +1146,7 @@ Miscellaneous
 
 22.15 (1) In this section and in sections 22.16 to 22.23,
 
-“Agreement on Internal Trade” means the Agreement on Internal Trade signed in 1994 by the governments of Canada, the provinces of Canada, the Northwest Territories and the Yukon Territory, as amended from time to time; (“Accord sur le commerce intérieur”)
+“Canadian Free Trade Agreement” means the Canadian Free Trade Agreement, effective July 1, 2017, between the governments of Canada, the provinces of Canada and the territories of Canada, as amended from time to time; (“Accord de libre-échange canadien”)
 
 “occupational standards”, in relation to a certificate of registration, means the knowledge, skills and judgment that an individual must possess in order to be issued the certificate of registration, as established by the College, and against which the College measures the qualifications of an applicant for registration when assessing whether the applicant is qualified to practise the profession to the extent permitted by the certificate of registration; (“normes professionnelles”)
 
@@ -1148,7 +1154,7 @@ Miscellaneous
 
 (a) attests to an individual being qualified to practise the profession and authorizes the individual to practise the profession, use a title or designation relating to the profession, or both, and
 
-(b) is granted to the individual by a body or individual that is authorized under an Act of Canada or of a province or territory of Canada that is a party to the Agreement on Internal Trade, other than Ontario, to grant such certificate, licence, registration, or other form of official recognition. (“certificat extraprovincial”) 2009, c. 24, s. 33 (5).
+(b) is granted to the individual by a body or individual that is authorized under an Act of Canada or of a province or territory of Canada that is a party to the Canadian Free Trade Agreement, other than Ontario, to grant such certificate, licence, registration, or other form of official recognition. (“certificat extraprovincial”) 2009, c. 24, s. 33 (5); 2025, c. 11, Sched. 8, s. 6.
 
 ##### Federal Act
 
@@ -1160,15 +1166,19 @@ Miscellaneous
 
 (a) to eliminate or reduce measures established or implemented by the College that restrict or impair the ability of an individual to obtain a certificate of registration when the individual holds an equivalent out-of-province certificate; and
 
-(b) to support the Government of Ontario in fulfilling its obligations under Chapter Seven of the Agreement on Internal Trade. 2009, c. 24, s. 33 (5).
+(b) to support the Government of Ontario in fulfilling its obligations under Chapter Seven of the Canadian Free Trade Agreement. 2009, c. 24, s. 33 (5); 2025, c. 11, Sched. 8, s. 7.
 
 ##### Ontario residency cannot be required
 
-22.17 The College shall not make it a registration requirement that an applicant reside in Ontario, if the applicant resides in another province or territory of Canada that is a party to the Agreement on Internal Trade. 2009, c. 24, s. 33 (5).
+22.17 The College shall not make it a registration requirement that an applicant reside in Ontario, if the applicant resides in another province or territory of Canada that is a party to the Canadian Free Trade Agreement. 2009, c. 24, s. 33 (5); 2025, c. 11, Sched. 8, s. 8.
 
-##### When applicant holds out-of-province certificate
+##### When applicant holds out-of-province certificate, non-prescribed professions
 
-22.18 (1) This section applies if an individual applying to the College for registration already holds an out-of-province certificate that is equivalent to the certificate of registration being applied for. 2009, c. 24, s. 33 (5).
+22.18 (1) This section applies when an individual,
+
+(a) applies for registration with a College that is not prescribed in a regulation made pursuant to clause 43 (1) (h.0.3) of the Regulated Health Professions Act, 1991; and
+
+(b) already holds an out-of-province certificate that is equivalent to the certificate of registration being applied for. 2025, c. 11, Sched. 8, s. 9 (1).
 
 ##### Material additional training, etc., cannot be required
 
@@ -1180,7 +1190,7 @@ Miscellaneous
 
 (a) is listed on the publicly accessible website referred to in clause 9 (3) (a) of the Ontario Labour Mobility Act, 2009; and
 
-(b) is stated on the website to be a permissible registration requirement for the certificate of registration being applied for, adopted by the Government of Ontario under Article 708 of the Agreement on Internal Trade. 2009, c. 24, s. 33 (5).
+(b) is stated on the website to be a permissible registration requirement for the certificate of registration being applied for, adopted by the Government of Ontario under Article 707 of the Canadian Free Trade Agreement. 2009, c. 24, s. 33 (5); 2025, c. 11, Sched. 8, s. 9 (2).
 
 ##### Other exceptions
 
@@ -1256,15 +1266,145 @@ ii. refusing to register the applicant, if the College does not impose an equiva
 
 (b) an application for registration made to the College before the day this section comes into force, if the application has not been finally decided before that day. 2009, c. 24, s. 33 (5).
 
+##### When applicant holds out-of-province certificate, prescribed professions
+
+22.19.1 (1) This section applies when an individual,
+
+(a) applies for registration with a College that is prescribed in a regulation made pursuant to clause 43 (1) (h.0.3) of the Regulated Health Professions Act, 1991; and
+
+(b) already holds an out-of-province certificate that is equivalent to the certificate of registration being applied for. 2025, c. 11, Sched. 8, s. 10.
+
+##### Material additional training, etc. cannot be required
+
+(2) The College shall not impose any registration requirement that would require the applicant to have, undertake, obtain or undergo any material additional training, experience, examinations or assessments. 2025, c. 11, Sched. 8, s. 10.
+
+##### Permitted registration requirements
+
+(3) Subsection (2) does not prohibit the College from imposing registration requirements that would require the applicant to do one or more of the following:
+
+1. If the conditions set out in subsection (4) are met:
+
+i. Pay a fee upon application for registration and upon registration.
+
+ii. Provide evidence of good character.
+
+2. If the condition set out in paragraph 2 of subsection (4) is met, provide a certificate, letter or other evidence from every body or individual from whom the applicant currently holds an out-of-province certificate confirming that the out-of-province certificate is in good standing.
+
+3. If the conditions set out in subsection (4) are met, meet any other requirement specified by the College that does not involve material additional training, experience, examinations or assessments. 2025, c. 11, Sched. 8, s. 10.
+
+##### Conditions for subs. (3)
+
+(4) The conditions referred to in subsection (3) are:
+
+1. Subject to subsection (7), the requirement imposed by the College on applicants who hold an out-of-province certificate must be the same as, or substantially similar to but no more onerous than, the requirement imposed by the College on applicants who do not hold an out-of-province certificate.
+
+2. The requirement imposed by the College must not be a disguised restriction on labour mobility. 2025, c. 11, Sched. 8, s. 10.
+
+##### Permitted measures
+
+(5) This section does not prohibit the College from carrying out the following measures in respect of the applicant if the conditions set out in subsection (6) are met:
+
+1. Refusing to issue a certificate of registration to the applicant or imposing terms, conditions or limitations on the applicant’s certificate of registration if, in the opinion of the Registrar, such action is necessary to protect the public interest as a result of complaints, or criminal, disciplinary or other proceedings, against the applicant in any jurisdiction whether in or outside Canada, relating to the applicant’s competency, conduct or character.
+
+2. If the out-of-province certificate held by the applicant is subject to a term, condition or limitation, having the Registrar impose an equivalent term, condition or limitation on the certificate of registration to be issued to the applicant. 2025, c. 11, Sched. 8, s. 10.
+
+##### Conditions for subs. (5)
+
+(6) The conditions referred to in subsection (5) are:
+
+1. Subject to subsection (7), the measure carried out by the College with respect to applicants who hold an out-of-province certificate must be the same as, or substantially similar to but no more onerous than, the measure carried out by the College with respect to applicants who do not hold an out-of-province certificate.
+
+2. The measure carried out by the College must not be a disguised restriction on labour mobility. 2025, c. 11, Sched. 8, s. 10.
+
+##### Costs
+
+(7) Subject to the regulations made under clause 43 (1) (h.0.4) of the Regulated Health Professions Act, 1991, the College shall ensure that any registration requirements it imposes on the applicant and any measures it carries out with respect to the applicant in connection with the registration of the applicant do not result in the imposition on the applicant of fees or other costs that are more onerous than those the College would impose if the applicant did not hold an out-of-province certificate, unless the difference in such fees or other costs reflects the actual cost differential to the College. 2025, c. 11, Sched. 8, s. 10.
+
+##### Result of application
+
+(8) Within two business days after receiving an application referred to in subsection (1), the Registrar shall either,
+
+(a) register the applicant, subject to any terms, conditions or limitations the Registrar determines are appropriate; or
+
+(b) refuse the application and refer it to the Registration Committee in accordance with section 15. 2025, c. 11, Sched. 8, s. 10.
+
+##### Interim suspension of out-of-province registrants, prescribed Colleges
+
+22.19.2 (1) The Registrar of a College that is prescribed in a regulation made pursuant to clause 43 (1) (h.0.3) of the Regulated Health Professions Act, 1991 may immediately make an order suspending or imposing terms, conditions or limitations on a member’s certificate of registration and referring the matter to the Registration Committee if,
+
+(a) the member was an individual described in subsection 22.19.1 (1) at the time of their application to the College and received their certificate of registration within the previous year; and
+
+(b) the Registrar becomes aware of information that,
+
+(i) existed at the time of the member’s application,
+
+(ii) was not provided to the Registrar at the time of the member’s application, and
+
+(iii) is of a nature that, in the Registrar’s opinion, would have resulted in a refusal to issue the certificate to the member or the imposition of terms, conditions or limitations on the certificate. 2025, c. 11, Sched. 8, s. 10.
+
+##### Duration of order
+
+(2) An order made under subsection (1) continues in force until the order is withdrawn or until an order is made by the Registration Committee in respect of the matter under subsection (10). 2025, c. 11, Sched. 8, s. 10.
+
+##### Notice to member
+
+(3) A Registrar who makes an order under subsection (1) shall,
+
+(a) refer the matter to the Registration Committee; and
+
+(b) give the member notice of the statutory grounds for the referral and of the member’s right to make written submissions. 2025, c. 11, Sched. 8, s. 10.
+
+##### Matter to be given precedence
+
+(4) The Registration Committee shall give precedence to the matter. 2025, c. 11, Sched. 8, s. 10.
+
+##### Disclosure of file
+
+(5) The Registrar shall give a member who has been referred to the Registration Committee under this section all the information and a copy of each document the College has that is relevant to the matter at the member’s request. 2025, c. 11, Sched. 8, s. 10.
+
+##### Exception
+
+(6) The Registrar may refuse to give the member anything that may, in the Registrar’s opinion, jeopardize the safety of any person. 2025, c. 11, Sched. 8, s. 10.
+
+##### Process for dealing with request
+
+(7) The Registrar shall establish a process for the purposes of dealing with a disclosure request under subsection (5). 2025, c. 11, Sched. 8, s. 10.
+
+##### Panel composition
+
+(8) An order made under subsection (1) shall be considered by a panel of the Registration Committee selected by the chair from among the members of the Committee, and subsections 17 (2) and (3) apply with respect to the panel. 2025, c. 11, Sched. 8, s. 10.
+
+##### Consideration by panel
+
+(9) A member may make written submissions to the panel within 30 days after receiving notice under subsection (3) or within any longer period the Registrar may specify in the notice. 2025, c. 11, Sched. 8, s. 10.
+
+##### Orders by panel
+
+(10) After considering the application and the submissions, the panel may make an order doing any one or more of the following:
+
+1. Direct the Registrar to rescind the order made under subsection (1).
+
+2. Direct the Registrar to revoke the member’s certificate.
+
+3. Direct the Registrar to impose terms, conditions or limitations on the member’s certificate. 2025, c. 11, Sched. 8, s. 10.
+
+##### Decision in writing
+
+(11) The panel shall give its decision and reasons in writing to the member who is the subject of the referral. 2025, c. 11, Sched. 8, s. 10.
+
+##### Effectiveness of panel’s order
+
+(12) In a matter in which an order under subsection (1) was made, an order of a panel of the Registration Committee directing the Registrar to revoke or impose terms, conditions or limitations on a member’s certificate takes effect immediately. 2025, c. 11, Sched. 8, s. 10.
+
 ##### Occupational standards
 
 22.20 (1) The College shall, to the extent possible and where practical,
 
 (a) ensure that the process it follows in establishing or amending occupational standards for certificates of registration is conducive to labour mobility within Canada;
 
-(b) take steps to reconcile differences between the occupational standards it has established for certificates of registration and occupational standards in effect with respect to the profession in the other provinces and territories of Canada that are parties to the Agreement on Internal Trade; and
+(b) take steps to reconcile differences between the occupational standards it has established for certificates of registration and occupational standards in effect with respect to the profession in the other provinces and territories of Canada that are parties to the Canadian Free Trade Agreement; and
 
-(c) ensure that the occupational standards it establishes for certificates of registration are consistent with such common interprovincial or international occupational standards as may have been developed for the profession. 2009, c. 24, s. 33 (5).
+(c) ensure that the occupational standards it establishes for certificates of registration are consistent with such common interprovincial or international occupational standards as may have been developed for the profession. 2009, c. 24, s. 33 (5); 2025, c. 11, Sched. 8, s. 11.
 
 ##### No limitation
 
@@ -2350,15 +2490,19 @@ vii. Other conduct of a sexual nature prescribed in regulations made pursuant to
 
 ##### Appeals from decisions
 
-70 (1) A party to proceedings before the Board concerning a registration hearing or review or to proceedings before a panel of the Discipline or Fitness to Practise Committee, other than a hearing of an application under subsection 72 (1), may appeal from the decision of the Board or panel to the Divisional Court.
+70 (1) A party to proceedings before the Board concerning a registration hearing or review or to proceedings before a panel of the Discipline or Fitness to Practise Committee, other than a hearing of an application under subsection 72 (1), may appeal from the decision of the Board or panel to the Divisional Court. 1991, c. 18, Sched. 2, s. 70 (1).
 
 ##### Basis of appeal
 
-(2) An appeal under subsection (1) may be made on questions of law or fact or both.
+(2) An appeal under subsection (1) may be made on questions of law or fact or both. 1991, c. 18, Sched. 2, s. 70 (2).
 
 ##### Court’s powers
 
-(3) In an appeal under subsection (1), the Court has all the powers of the panel that dealt with the matter and, in an appeal from the Board, the Court also has all the powers of the Board. 1991, c. 18, Sched. 2, s. 70.
+(3) In an appeal under subsection (1), the Court has all the powers of the panel that dealt with the matter and, in an appeal from the Board, the Court also has all the powers of the Board. 1991, c. 18, Sched. 2, s. 70 (3).
+
+##### Exception
+
+(4) Subsection (1) does not apply with respect to a hearing by a panel of the Registration Committee under section 22.19.2. 2025, c. 11, Sched. 8, s. 12.
 
 ##### No stay of certain orders pending appeal
 
