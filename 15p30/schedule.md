@@ -14,7 +14,7 @@
 
 Item | Column 1 Type of Information | Column 2 Criminal record check | Column 3 Criminal record and judicial matters check | Column 4 Vulnerable sector check
 
-1. | Every criminal offence of which the individual has been convicted for which a pardon has not been issued or granted. | Disclose. However, do not disclose summary convictions if the request is made more than five years after the date of the summary conviction. | Disclose. However, do not disclose summary convictions if the request is made more than five years after the date of the summary conviction. | Disclose. However, do not disclose summary convictions if the request is made more than five years after the date of the summary conviction.
+1. | Every criminal offence of which the individual has been convicted for which a pardon has not been issued or granted. | Disclose. However, do not disclose convictions for an offence that may be prosecuted only by way of summary conviction proceedings if the request is made more than five years after the date of the conviction. | Disclose. However, do not disclose convictions for an offence that may be prosecuted only by way of summary conviction proceedings if the request is made more than five years after the date of the conviction. | Disclose. However, do not disclose convictions for an offence that may be prosecuted only by way of summary conviction proceedings if the request is made more than five years after the date of the conviction.
 
 2. | Every finding of guilt under the Youth Criminal Justice Act (Canada) in respect of the individual during the applicable period of access under that Act. | Disclose. | Disclose. | Disclose.
 
@@ -32,4 +32,4 @@ Item | Column 1 Type of Information | Column 2 Criminal record check | Column 3 
 
 9. | Any non-conviction information authorized for exceptional disclosure in accordance with section 10. | Do not disclose. | Do not disclose. | Disclose. Set out the information in the prescribed form (if applicable).
 
-2015, c. 30, Sched.; 2017, c. 14, Sched. 4, s. 29 (2).
+2015, c. 30, Sched.; 2017, c. 14, Sched. 4, s. 29 (2); 2026, c. 7, Sched. 6, s. 4.
