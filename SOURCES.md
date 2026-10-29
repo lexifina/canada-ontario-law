@@ -23,6 +23,4 @@ meets:
 3. state that a reproduction that is not an official copy under the Legislation Act, 2006 is not an official version
    (README.md, LICENSE).
 
-The ontario.ca terms of use (https://www.ontario.ca/page/terms-use) refer to that page for reuse and do not forbid
-automated access. robots.txt (https://www.ontario.ca/robots.txt) asks for `Crawl-delay: 1`, disallows no path read
-here, and has no rule for AI agents; the build makes one request at a time, at least 1.1 seconds apart.
+The ontario.ca terms of use (https://www.ontario.ca/page/terms-use) refer to that page for reuse.

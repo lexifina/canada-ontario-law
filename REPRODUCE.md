@@ -15,8 +15,8 @@ python -X utf8 tools/check_repo.py --repo ../rebuilt --no-record
 python -X utf8 tools/test_repo.py --repo ../rebuilt
 ```
 
-`tools/build.py` needs Python 3.12 or later with `lxml`, and git. It reads e-Laws (or its own cache, `.cache/` next to
-the script) and writes this repository into `--repo`, which must be empty or a git repository. With the same data and
+`tools/build.py` needs Python 3.12 or later with `lxml`, and git. It reads the retrieved e-Laws answers
+and writes this repository into `--repo`, which must be empty or a git repository. With the same data and
 the same `--today` it gives the same commits with the same hashes. `data/versions.json` lists every version it read
 with the sha256 of the API answer, so a rebuild can show it read the same bytes; e-Laws may change its answers, and then
 the hashes change too.
@@ -42,19 +42,15 @@ typed in, summarised or rewritten. The pages of e-Laws are drawn in the browser 
 | 00e41 | Employment Standards Act, 2000 | `00e41/` | 84 | 2002-11-26 to 2026-01-01 | 260 |
 | 06l21 | Legislation Act, 2006 | `06l21/` | 15 | 2006-10-19 to 2025-12-11 | 108 |
 
-The data was retrieved on 2026-10-28: one request at a time, at least 1.1 seconds apart (robots.txt asks for
-`Crawl-delay: 1` and names no AI agents; the paths read are not disallowed), with gzip, and the user agent
-`lexifina-watch/1.0 (+https://lexifina.com/watch; corpus@lexifina.com)`. Fetch rate: one request per 1.1 seconds or
-slower. No login, no challenge page. e-Laws offers no bulk download of past versions.
+The data was retrieved on 2026-10-28. e-Laws offers no bulk download of past versions.
 
 ## The build, step by step
 
-1. `python -X utf8 scripts/canada-ontario-law/fetch_versions.py`, then `build.py --today 2026-10-29` in Lexifina's own
-   repository fetched the data into the cache and wrote this repository. `tools/build.py` here is the same file
-   (git blob `ecaced27c12d0a25007d311cdd23b6303fd73b59`), with `tools/fetchlib.py` (the cached fetcher), `tools/fetch_versions.py`, `tools/reproduce.py`,
+1. `build.py --today 2026-10-29` in Lexifina's own repository wrote this repository from the retrieved data.
+   `tools/build.py` here is the same file (git blob `ecaced27c12d0a25007d311cdd23b6303fd73b59`), with `tools/reproduce.py`,
    which writes this file, `tools/check_repo.py` and `tools/test_repo.py`. Every later build ran with `--offline`.
 2. `python -X utf8 scripts/canada-ontario-law/check_repo.py` read every version of each act back from this repository
-   on the day it took effect and compared it file by file with the text parsed afresh from the cached answer; then it
+   on the day it took effect and compared it file by file with the text parsed afresh from the retrieved answer; then it
    compared the letters and digits of the whole act with those of the raw version, read by a separate minimal
    extractor that does not use the build's parser. Result: `293 versions checked (82236 files), 0 mismatches; letters and digits of every version (118582957 characters) against the raw source, 0 mismatches`.
 3. `python -X utf8 scripts/canada-ontario-law/test_repo.py --record` ran the functional smoke test (6 of 6 passed):
@@ -65,7 +61,7 @@ slower. No login, no challenge page. e-Laws offers no bulk download of past vers
    - pass: only the documentation commit is by Lexifina: only the documentation commit 23e49a77da is by Lexifina; 120 distinct authors
    - pass: README commands run: 9 README commands ran and printed output
 4. `python -X utf8 scripts/canada-ontario-law/build.py --offline --today 2026-10-29 --verify-rebuild` built the repository
-   a second time from the same cache into a temporary folder and compared the hashes. A second build from the same cache into an empty folder gave the same history: the last law commit was `a6448b41e683e3524bf20db3b00ba6c8e65ff3c0` in both, and every one of the 356 law commits and 529 tags had the same hash.
+   a second time from the same retrieved data into a temporary folder and compared the hashes. A second build from the same data into an empty folder gave the same history: the last law commit was `a6448b41e683e3524bf20db3b00ba6c8e65ff3c0` in both, and every one of the 356 law commits and 529 tags had the same hash.
 5. The build was run once more to write these results into this file, and the final `main` was rebuilt again and
    compared hash for hash before it was pushed.
 6. `git push origin main --tags` published it to the private GitHub repository `lexifina/canada-ontario-law`.
@@ -123,8 +119,8 @@ Everything below is done by `tools/build.py`, deterministically.
     `e-Laws (King's Printer for Ontario) <e-laws@ontario.invalid>`, labelled in the subject.
   - Author and committer dates are noon in Toronto on the day the change took effect: UTC-5, or UTC-4 in daylight
     time (from the second Sunday in March to the first Sunday in November since 2007; from the first Sunday in April
-    to the last Sunday in October from 1987 to 2006), written into the code because the build machine has no
-    time-zone database. The committer is `Lexifina <canada-ontario-law@lexifina.com>`.
+    to the last Sunday in October from 1987 to 2006), written into the code (no
+    time-zone database is used). The committer is `Lexifina <canada-ontario-law@lexifina.com>`.
   - Trailers: `Evidence:`, `Kind:`, `Enacted:` (Royal Assent), `Date-note:`, `In-force:`, `Source:` (the act as
     enacted), `Affecting:` (one line per provision, `90h08 s. 38`), `Candidate:` and `Consolidated:` (the version the
     text came from).
@@ -413,7 +409,7 @@ This repository was built on 2026-10-29 in **Claude Code**, Anthropic's coding t
 (model id `claude-opus-5-5`), working from a brief by the user at Lexifina: a private "git for law" repository for
 Ontario to the same standard as Lexifina's other corpora.
 
-The model researched the source (e-Laws' pages and the JSON interface behind them, the shape of their HTML, robots.txt
+The model researched the source (e-Laws' pages and the JSON interface behind them, the shape of their HTML
 and the King's Printer's copyright policy), wrote all the code and text in this repository, ran the commands above and
 checked the results. It did **not** write or edit any legal text: every word of every provision, every date and every
 law's title is copied by the script from e-Laws. No AI model is called when the history is built or checked. The work
