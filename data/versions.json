@@ -1,0 +1,4008 @@
+{
+ "built": "2026-10-29",
+ "source": "https://www.ontario.ca/laws",
+ "api": "https://www.ontario.ca/laws/api/v2/legislation",
+ "acts": [
+  {
+   "id": "90h08",
+   "title": "Highway Traffic Act",
+   "short": "Highway Traffic Act",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2004-01-01",
+     "to": "2004-01-01",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v1",
+     "api": "en/doc-search/statute/90h08/v1",
+     "sha256": "4a15caec1a40d56bd8e16e47e9f31e332a7710e0a288231a18548f1d0642f8c7"
+    },
+    {
+     "n": 2,
+     "from": "2004-01-02",
+     "to": "2004-07-31",
+     "laws": [
+      "S.O. 1994, c. 27"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v2",
+     "api": "en/doc-search/statute/90h08/v2",
+     "sha256": "f75884f76708f6a7fee8367fa14326a4692ebd93e060add59e39d7bd52fa9438"
+    },
+    {
+     "n": 3,
+     "from": "2004-08-01",
+     "to": "2004-12-08",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v3",
+     "api": "en/doc-search/statute/90h08/v3",
+     "sha256": "be2cdbf136f285d4afe1448c39efd9b95803ae40cad7b248c9d09ce58bec7d6a"
+    },
+    {
+     "n": 4,
+     "from": "2004-12-09",
+     "to": "2004-12-15",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v4",
+     "api": "en/doc-search/statute/90h08/v4",
+     "sha256": "aaaa200132cb24907b6e26b6004340abd5ab8e05149b0b22f18c0ffbcb19aea1"
+    },
+    {
+     "n": 5,
+     "from": "2004-12-16",
+     "to": "2004-12-31",
+     "laws": [
+      "S.O. 2004, c. 31"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v5",
+     "api": "en/doc-search/statute/90h08/v5",
+     "sha256": "c48990fc3dd0cf9a94ddbd1e935f9a9eeeb462b5dbcb05087c4b3f201c90fd78"
+    },
+    {
+     "n": 6,
+     "from": "2005-01-01",
+     "to": "2005-06-12",
+     "laws": [
+      "S.O. 2002, c. 18"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v6",
+     "api": "en/doc-search/statute/90h08/v6",
+     "sha256": "80e9ead9a4c791c522a95a41a05d0c0d67685cae402c58dab8dab332c4ea59f5"
+    },
+    {
+     "n": 7,
+     "from": "2005-06-13",
+     "to": "2005-08-31",
+     "laws": [
+      "S.O. 2005, c. 14"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v7",
+     "api": "en/doc-search/statute/90h08/v7",
+     "sha256": "7c1a59da9bf40a170cc07f540c59a7507fbb4367ded686e2d5608eaf4c31d972"
+    },
+    {
+     "n": 8,
+     "from": "2005-09-01",
+     "to": "2005-11-20",
+     "laws": [
+      "S.O. 2004, c. 22"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v8",
+     "api": "en/doc-search/statute/90h08/v8",
+     "sha256": "e5b8c587c8f4c525e7e708049c9d31dd9546b848b6ff2a385f84b397ecec5d0c"
+    },
+    {
+     "n": 9,
+     "from": "2005-11-21",
+     "to": "2005-11-30",
+     "laws": [
+      "S.O. 2005, c. 26"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v9",
+     "api": "en/doc-search/statute/90h08/v9",
+     "sha256": "139b69fceb2b7a0fe13acf605dd640e1645cae49b28ddd172fdf01bb5b3e41ee"
+    },
+    {
+     "n": 10,
+     "from": "2005-12-01",
+     "to": "2005-12-14",
+     "laws": [
+      "S.O. 2005, c. 26"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v10",
+     "api": "en/doc-search/statute/90h08/v10",
+     "sha256": "885337e8bb667f9d74d1b864db6b7cd941d03cf81f196b12f3ceb0f71b4871a3"
+    },
+    {
+     "n": 11,
+     "from": "2005-12-15",
+     "to": "2005-12-31",
+     "laws": [
+      "S.O. 2005, c. 32"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v11",
+     "api": "en/doc-search/statute/90h08/v11",
+     "sha256": "2e1ea6d86f6254ea4dc4570de5fa3f7fdb39447b9e3e6c6f0b1f19dcd9ebc5ce"
+    },
+    {
+     "n": 12,
+     "from": "2006-01-01",
+     "to": "2006-02-14",
+     "laws": [
+      "S.O. 2002, c. 18",
+      "S.O. 2002, c. 22",
+      "S.O. 2005, c. 26"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v12",
+     "api": "en/doc-search/statute/90h08/v12",
+     "sha256": "90d085b459cff6f7142f2686207ac279cbb1b13940aaf7bab3c09be089cad4fa"
+    },
+    {
+     "n": 13,
+     "from": "2006-02-15",
+     "to": "2006-02-28",
+     "laws": [
+      "S.O. 2005, c. 26"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v13",
+     "api": "en/doc-search/statute/90h08/v13",
+     "sha256": "46b2b45bafb68bf10da1fec7b3de3852fb0dbae20a3a3e3fd930c1105ae89cc0"
+    },
+    {
+     "n": 14,
+     "from": "2006-03-01",
+     "to": "2006-03-14",
+     "laws": [
+      "S.O. 2005, c. 31"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v14",
+     "api": "en/doc-search/statute/90h08/v14",
+     "sha256": "6712f8d5d88379f34544e9e8be5412b5b562f98f7bddcc61bc2e2bc5541f5858"
+    },
+    {
+     "n": 15,
+     "from": "2006-03-15",
+     "to": "2006-03-30",
+     "laws": [
+      "S.O. 2005, c. 26"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v15",
+     "api": "en/doc-search/statute/90h08/v15",
+     "sha256": "3890c0fe16231d04595343c4358494ec915a117c0c2b090e0ac58e3a4877f6d8"
+    },
+    {
+     "n": 16,
+     "from": "2006-03-31",
+     "to": "2006-04-27",
+     "laws": [
+      "S.O. 2005, c. 26"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v16",
+     "api": "en/doc-search/statute/90h08/v16",
+     "sha256": "333556bbbbf840aa67229253304bd0fff4e591b39ebe04ab5e7e3aa3be332e3f"
+    },
+    {
+     "n": 17,
+     "from": "2006-04-28",
+     "to": "2006-06-11",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v17",
+     "api": "en/doc-search/statute/90h08/v17",
+     "sha256": "8230305fabce0d6d9e575b7dabb3534904a7b28a1dc5cf8ffa844840520fb487"
+    },
+    {
+     "n": 18,
+     "from": "2006-06-12",
+     "to": "2006-06-21",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v18",
+     "api": "en/doc-search/statute/90h08/v18",
+     "sha256": "96cd8059612c747853178860ba43d5a62e8ba78d1d16a1be2841808e5090d685"
+    },
+    {
+     "n": 19,
+     "from": "2006-06-22",
+     "to": "2006-10-18",
+     "laws": [
+      "S.O. 2006, c. 19",
+      "S.O. 2006, c. 20"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v19",
+     "api": "en/doc-search/statute/90h08/v19",
+     "sha256": "31c9f39f2ea01f52f66e9bffd0bc9b471f0d4f4c12f081b5e3de44acba563998"
+    },
+    {
+     "n": 20,
+     "from": "2006-10-19",
+     "to": "2006-11-01",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v20",
+     "api": "en/doc-search/statute/90h08/v20",
+     "sha256": "89b27ee98faf656ec578fc17db25ca4bf3015ad044f5bd8c5e2ee8df29d6f784"
+    },
+    {
+     "n": 21,
+     "from": "2006-11-02",
+     "to": "2006-11-30",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v21",
+     "api": "en/doc-search/statute/90h08/v21",
+     "sha256": "41c7c9e9c18325ec91e657ae37b537848ee6936840fd8692e1d8bc9fe38233e3"
+    },
+    {
+     "n": 22,
+     "from": "2006-12-01",
+     "to": "2006-12-19",
+     "laws": [
+      "S.O. 2006, c. 25"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v22",
+     "api": "en/doc-search/statute/90h08/v22",
+     "sha256": "e15ef760d4d48b5eba9f6ad8f4ee8a3be8b214cfd0f19c2010b5c5795d30d9a8"
+    },
+    {
+     "n": 23,
+     "from": "2006-12-20",
+     "to": "2006-12-31",
+     "laws": [
+      "S.O. 2006, c. 33"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v23",
+     "api": "en/doc-search/statute/90h08/v23",
+     "sha256": "bce0bae062758d1a7890155d58f5ccfff768804d1d176357a540bed416eb6e6a"
+    },
+    {
+     "n": 24,
+     "from": "2007-01-01",
+     "to": "2007-06-03",
+     "laws": [
+      "S.O. 2006, c. 11",
+      "S.O. 2006, c. 32"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v24",
+     "api": "en/doc-search/statute/90h08/v24",
+     "sha256": "ed9b1cd2016b5f05e9a753057e37e57080c8ac281cd511294f020deb467a14fd"
+    },
+    {
+     "n": 25,
+     "from": "2007-06-04",
+     "to": "2007-06-14",
+     "laws": [
+      "S.O. 2007, c. 13"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v25",
+     "api": "en/doc-search/statute/90h08/v25",
+     "sha256": "58e511ee5e0522a066c5bdcd715680c490585ca4ebf822db708839292a0f0db5"
+    },
+    {
+     "n": 26,
+     "from": "2007-06-15",
+     "to": "2007-06-30",
+     "laws": [
+      "S.O. 2005, c. 26"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v26",
+     "api": "en/doc-search/statute/90h08/v26",
+     "sha256": "3172115f8dfe244b2a79b13c3b26771de1c4cd1c0fd83e763ce813bcb3840068"
+    },
+    {
+     "n": 27,
+     "from": "2007-07-01",
+     "to": "2007-07-24",
+     "laws": [
+      "S.O. 2005, c. 26"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v27",
+     "api": "en/doc-search/statute/90h08/v27",
+     "sha256": "e1ee7ab6d3114253cb01e7a2eaa56f180b5e7faadab01d6b3bb866015132bb13"
+    },
+    {
+     "n": 28,
+     "from": "2007-07-25",
+     "to": "2007-09-29",
+     "laws": [
+      "S.O. 2006, c. 21"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v28",
+     "api": "en/doc-search/statute/90h08/v28",
+     "sha256": "a6267d89a33840333a91dc7fa3558429503168578fdbcaa2f005311d7c62fb13"
+    },
+    {
+     "n": 29,
+     "from": "2007-09-30",
+     "to": "2008-02-19",
+     "laws": [
+      "S.O. 2007, c. 13"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v29",
+     "api": "en/doc-search/statute/90h08/v29",
+     "sha256": "5e9622a821b230e548a2a4cbe8b78982ef44e1ef8b60976e54a7064802a7c10a"
+    },
+    {
+     "n": 30,
+     "from": "2008-02-20",
+     "to": "2008-06-15",
+     "laws": [
+      "S.O. 2007, c. 13"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v30",
+     "api": "en/doc-search/statute/90h08/v30",
+     "sha256": "2afba8e2c768667a2d11da7862f8ae725d67c5e979d892d3d3eb345a08b277f5"
+    },
+    {
+     "n": 31,
+     "from": "2008-06-16",
+     "to": "2008-06-17",
+     "laws": [
+      "S.O. 2002, c. 18"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v31",
+     "api": "en/doc-search/statute/90h08/v31",
+     "sha256": "73e5f7ede41415d62a4fbae1d6d996f9ba6bd4da9f2d616d29cf3d871d55a064"
+    },
+    {
+     "n": 32,
+     "from": "2008-06-18",
+     "to": "2008-11-26",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v32",
+     "api": "en/doc-search/statute/90h08/v32",
+     "sha256": "d9cbb2178796af159a5d4bfe08abc0029a484de1c7e11480c18c31bd9cc1fdc4"
+    },
+    {
+     "n": 33,
+     "from": "2008-11-27",
+     "to": "2008-11-30",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v33",
+     "api": "en/doc-search/statute/90h08/v33",
+     "sha256": "edbf1ef9108fda4cefaa34cb77e95dfdedbcc00c2bde0b8082d74ff90135dee0"
+    },
+    {
+     "n": 34,
+     "from": "2008-12-01",
+     "to": "2008-12-31",
+     "laws": [
+      "S.O. 2002, c. 18"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v34",
+     "api": "en/doc-search/statute/90h08/v34",
+     "sha256": "1fc8ba91285ab2dc5cb89214c9b2c79edc29e8c52383487940bd778ac5433e30"
+    },
+    {
+     "n": 35,
+     "from": "2009-01-01",
+     "to": "2009-03-05",
+     "laws": [
+      "S.O. 2008, c. 8"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v35",
+     "api": "en/doc-search/statute/90h08/v35",
+     "sha256": "f7bfecfbd529c4ecbde4c837368596cbc81c6001d7f7cdb265785486426ff16d"
+    },
+    {
+     "n": 36,
+     "from": "2009-03-06",
+     "to": "2009-04-22",
+     "laws": [
+      "S.O. 2008, c. 17"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v36",
+     "api": "en/doc-search/statute/90h08/v36",
+     "sha256": "996e979d6a2277246fddedfe3a4c557b73cf87c79e51894cc6c40b9abfcb6555"
+    },
+    {
+     "n": 37,
+     "from": "2009-04-23",
+     "to": "2009-04-30",
+     "laws": [
+      "S.O. 2009, c. 5"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v37",
+     "api": "en/doc-search/statute/90h08/v37",
+     "sha256": "004a1a9adb041ca541f4e65a3e67d5148fe41a502d1e079eeae6848d89a04ca5"
+    },
+    {
+     "n": 38,
+     "from": "2009-05-01",
+     "to": "2009-06-04",
+     "laws": [
+      "S.O. 2007, c. 13",
+      "S.O. 2009, c. 5"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v38",
+     "api": "en/doc-search/statute/90h08/v38",
+     "sha256": "a973aba7c072f55823ff161f6177bd800bac3fcaec81fa01d5011210a0ec78fe"
+    },
+    {
+     "n": 39,
+     "from": "2009-06-05",
+     "to": "2009-06-30",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v39",
+     "api": "en/doc-search/statute/90h08/v39",
+     "sha256": "5c7ef6d6ae22a098a35f0063ab4cf0ac0b8aab1a6e5fd7cc0b860c6b72514d18"
+    },
+    {
+     "n": 40,
+     "from": "2009-07-01",
+     "to": "2009-10-02",
+     "laws": [
+      "S.O. 2009, c. 5"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v40",
+     "api": "en/doc-search/statute/90h08/v40",
+     "sha256": "8b037ab016927c91b644fee9bcaaced7893ebbc2ed939a28690038acab3c55e1"
+    },
+    {
+     "n": 41,
+     "from": "2009-10-03",
+     "to": "2009-10-25",
+     "laws": [
+      "S.O. 2009, c. 5"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v41",
+     "api": "en/doc-search/statute/90h08/v41",
+     "sha256": "437befd237d8bbb5df7869a98f3c5ad15460cd2abdae4d4c09be2ea3dd83725e"
+    },
+    {
+     "n": 42,
+     "from": "2009-10-26",
+     "to": "2009-12-14",
+     "laws": [
+      "S.O. 2009, c. 4"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v42",
+     "api": "en/doc-search/statute/90h08/v42",
+     "sha256": "729f2254bc4135c9901e07d7c6560c23997e4bf4578c74af8b060ba3e4dc9105"
+    },
+    {
+     "n": 43,
+     "from": "2009-12-15",
+     "to": "2009-12-31",
+     "laws": [
+      "S.O. 2009, c. 33"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v43",
+     "api": "en/doc-search/statute/90h08/v43",
+     "sha256": "d49e6276231159bbe9eb91ab0845b0cfd1607d3cd4dd63ee2b57f260e627f79b"
+    },
+    {
+     "n": 44,
+     "from": "2010-01-01",
+     "to": "2010-06-30",
+     "laws": [
+      "S.O. 2002, c. 30",
+      "S.O. 2009, c. 5",
+      "S.O. 2009, c. 19"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v44",
+     "api": "en/doc-search/statute/90h08/v44",
+     "sha256": "eebfd2a18eb980ebd801528339b03ead35f5e2592247951a2748de84ae41d0b7"
+    },
+    {
+     "n": 45,
+     "from": "2010-07-01",
+     "to": "2010-07-31",
+     "laws": [
+      "S.O. 1994, c. 27",
+      "S.O. 2002, c. 18"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v45",
+     "api": "en/doc-search/statute/90h08/v45",
+     "sha256": "b8f480653c75845712a0fc3df8432b05620b04d8d2882e818aa51b1982468111"
+    },
+    {
+     "n": 46,
+     "from": "2010-08-01",
+     "to": "2010-10-24",
+     "laws": [
+      "S.O. 2009, c. 5"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v46",
+     "api": "en/doc-search/statute/90h08/v46",
+     "sha256": "cf4910e4dff22e416a18280733096dcf7d3ee0b9d65e9c90e6f672a5a87df8d1"
+    },
+    {
+     "n": 47,
+     "from": "2010-10-25",
+     "to": "2010-11-30",
+     "laws": [
+      "S.O. 2010, c. 16"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v47",
+     "api": "en/doc-search/statute/90h08/v47",
+     "sha256": "d76587cd84463b1491499f9f77972a4c0e4e8111643107825a1e81bf3e5232d1"
+    },
+    {
+     "n": 48,
+     "from": "2010-12-01",
+     "to": "2010-12-31",
+     "laws": [
+      "S.O. 2009, c. 5",
+      "S.O. 2010, c. 16"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v48",
+     "api": "en/doc-search/statute/90h08/v48",
+     "sha256": "72c1ceabc94caa151ba487aeccc24a094a732045521f9492ad120df72567b4ff"
+    },
+    {
+     "n": 49,
+     "from": "2011-01-01",
+     "to": "2011-05-11",
+     "laws": [
+      "S.O. 2009, c. 5"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v49",
+     "api": "en/doc-search/statute/90h08/v49",
+     "sha256": "9c58ef0a46e0d9489753953f47e47d60347b1171e361212458bb224c3de0928d"
+    },
+    {
+     "n": 50,
+     "from": "2011-05-12",
+     "to": "2011-06-30",
+     "laws": [
+      "S.O. 2011, c. 9"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v50",
+     "api": "en/doc-search/statute/90h08/v50",
+     "sha256": "19d51e8b3840792ffcf79095ffc219dd5c48b2c3d150228323e89829b38138db"
+    },
+    {
+     "n": 51,
+     "from": "2011-07-01",
+     "to": "2011-07-16",
+     "laws": [
+      "S.O. 2009, c. 5",
+      "S.O. 2010, c. 16"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v51",
+     "api": "en/doc-search/statute/90h08/v51",
+     "sha256": "9a860f33549679c8a9bd653cec06bd11a98245bc44c756a76f1ab183251d949c"
+    },
+    {
+     "n": 52,
+     "from": "2011-07-17",
+     "to": "2011-12-30",
+     "laws": [
+      "S.O. 1996, c. 20"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v52",
+     "api": "en/doc-search/statute/90h08/v52",
+     "sha256": "021978fa6a40fbd8182736dce3bf847f87265ad07c9eab871e160b3d7f3ebeb2"
+    },
+    {
+     "n": 53,
+     "from": "2011-12-31",
+     "to": "2012-03-30",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v53",
+     "api": "en/doc-search/statute/90h08/v53",
+     "sha256": "39b12c588fe373c1da34a807c174611440f6a1c77d1b01b51f4e6af482987b49"
+    },
+    {
+     "n": 54,
+     "from": "2012-03-31",
+     "to": "2012-06-19",
+     "laws": [
+      "S.O. 2009, c. 33"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v54",
+     "api": "en/doc-search/statute/90h08/v54",
+     "sha256": "853190292bc54c7a7e5fbe9d637f80c55edefac2926241f3de2cde4f35deb36d"
+    },
+    {
+     "n": 55,
+     "from": "2012-06-20",
+     "to": "2012-12-30",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v55",
+     "api": "en/doc-search/statute/90h08/v55",
+     "sha256": "c8821286f43f46525fe560f8bafd9ffd2ebe3fec0139795303800a19870e24a3"
+    },
+    {
+     "n": 56,
+     "from": "2012-12-31",
+     "to": "2014-06-30",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v56",
+     "api": "en/doc-search/statute/90h08/v56",
+     "sha256": "e3f28caf42e52e079726138c8633ed93b53ef2639d3d695bd8621d0d4d160662"
+    },
+    {
+     "n": 57,
+     "from": "2014-07-01",
+     "to": "2014-11-19",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v57",
+     "api": "en/doc-search/statute/90h08/v57",
+     "sha256": "08db9adb21cf0954cb0ce34dc0061e4c25bf3dd0c438e1480d62aeb9c85c53ec"
+    },
+    {
+     "n": 58,
+     "from": "2014-11-20",
+     "to": "2015-06-01",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v58",
+     "api": "en/doc-search/statute/90h08/v58",
+     "sha256": "e129991bf7c90fe63fd1eae7f39e8b2e8a8e62df9123305bc1894c8470e66aee"
+    },
+    {
+     "n": 59,
+     "from": "2015-06-02",
+     "to": "2015-06-07",
+     "laws": [
+      "S.O. 2015, c. 14"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v59",
+     "api": "en/doc-search/statute/90h08/v59",
+     "sha256": "2253f07bc0b9fb09cccaf84f459af82be7998d85f4b6f468d2932a76a04b075d"
+    },
+    {
+     "n": 60,
+     "from": "2015-06-08",
+     "to": "2015-06-30",
+     "laws": [
+      "S.O. 2015, c. 14"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v60",
+     "api": "en/doc-search/statute/90h08/v60",
+     "sha256": "86b07f67311f1e79b5a10be6198dd593ac52f2486a7f96eb97403561cde7fedf"
+    },
+    {
+     "n": 61,
+     "from": "2015-07-01",
+     "to": "2015-08-31",
+     "laws": [
+      "S.O. 2012, c. 8"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v61",
+     "api": "en/doc-search/statute/90h08/v61",
+     "sha256": "3cc6470a7b1eca692dd4d14e82bbb99eb764ae2f3c195fa7713e55580645b6f2"
+    },
+    {
+     "n": 62,
+     "from": "2015-09-01",
+     "to": "2015-12-02",
+     "laws": [
+      "S.O. 2015, c. 14"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v62",
+     "api": "en/doc-search/statute/90h08/v62",
+     "sha256": "8fc675d4b1197b353601577ae5ac435799a058b7397a6293c7d0a015300b8a4e"
+    },
+    {
+     "n": 63,
+     "from": "2015-12-03",
+     "to": "2015-12-30",
+     "laws": [
+      "S.O. 2015, c. 27"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v63",
+     "api": "en/doc-search/statute/90h08/v63",
+     "sha256": "b0bddbb9bcc60136cd624e39e5e851ba84fbfd82660bae81adafa7802c94ffe7"
+    },
+    {
+     "n": 64,
+     "from": "2015-12-31",
+     "to": "2015-12-31",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v64",
+     "api": "en/doc-search/statute/90h08/v64",
+     "sha256": "99c3b7bfc9169606b80811d8063ce73e87f0628676a886635e9025b1d6395e36"
+    },
+    {
+     "n": 65,
+     "from": "2016-01-01",
+     "to": "2016-02-04",
+     "laws": [
+      "S.O. 2015, c. 14"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v65",
+     "api": "en/doc-search/statute/90h08/v65",
+     "sha256": "9a43c3ebb8d9143c9a93a83ae48f5e56e3f624881b1d23dad7b749dd2c670435"
+    },
+    {
+     "n": 66,
+     "from": "2016-02-05",
+     "to": "2016-03-31",
+     "laws": [
+      "S.O. 2015, c. 14"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v66",
+     "api": "en/doc-search/statute/90h08/v66",
+     "sha256": "781719cf5a64d1fee9945da366fb92458c51a047da81d9720e86df19133674d3"
+    },
+    {
+     "n": 67,
+     "from": "2016-04-01",
+     "to": "2016-04-18",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v67",
+     "api": "en/doc-search/statute/90h08/v67",
+     "sha256": "7880c65053795113e43a1ee87bfa3de202b7c895024c611a014e7ffc7e4dfc48"
+    },
+    {
+     "n": 68,
+     "from": "2016-04-19",
+     "to": "2016-10-01",
+     "laws": [
+      "S.O. 2015, c. 14",
+      "S.O. 2016, c. 5"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v68",
+     "api": "en/doc-search/statute/90h08/v68",
+     "sha256": "ca2738cfb81d954d34a8687352b5d832b5b525b353a66361352fa0b2d6850bbc"
+    },
+    {
+     "n": 69,
+     "from": "2016-10-02",
+     "to": "2016-12-31",
+     "laws": [
+      "S.O. 2015, c. 14",
+      "S.O. 2015, c. 27"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v69",
+     "api": "en/doc-search/statute/90h08/v69",
+     "sha256": "0f774073b2790e2402325a90eddd9cc353696043ba13466fc532568fcf63d0fe"
+    },
+    {
+     "n": 70,
+     "from": "2017-01-01",
+     "to": "2017-03-21",
+     "laws": [
+      "S.O. 2014, c. 9",
+      "S.O. 2015, c. 14"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v70",
+     "api": "en/doc-search/statute/90h08/v70",
+     "sha256": "82b58681a8b800e6808b53041592ac4caecbef6d17cd340e994c41cb4d0f8d3e"
+    },
+    {
+     "n": 71,
+     "from": "2017-03-22",
+     "to": "2017-04-30",
+     "laws": [
+      "S.O. 1993, c. 34",
+      "S.O. 2000, c. 26",
+      "S.O. 2006, c. 19",
+      "S.O. 2016, c. 5",
+      "S.O. 2017, c. 2"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v71",
+     "api": "en/doc-search/statute/90h08/v71",
+     "sha256": "5e2a7fb3eea725fe01f84729e8029d4594f8955b3e0673f528b400f1fdc5db4a"
+    },
+    {
+     "n": 72,
+     "from": "2017-05-01",
+     "to": "2017-05-29",
+     "laws": [
+      "S.O. 2015, c. 14"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v72",
+     "api": "en/doc-search/statute/90h08/v72",
+     "sha256": "8fe912caa62388dceae152900ede813ab5be83a77a77641c8d542a0bb3abde50"
+    },
+    {
+     "n": 73,
+     "from": "2017-05-30",
+     "to": "2017-06-30",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v73",
+     "api": "en/doc-search/statute/90h08/v73",
+     "sha256": "77ab503eb80c743b267c135f7ff23070f4063cfaeb71f58d0fde70fa0cd88837"
+    },
+    {
+     "n": 74,
+     "from": "2017-07-01",
+     "to": "2017-12-11",
+     "laws": [
+      "S.O. 2016, c. 5"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v74",
+     "api": "en/doc-search/statute/90h08/v74",
+     "sha256": "f3d632efc0f2dd61e3af03b84a6f114db69ded2ca49f11040f67be2cd22b21ca"
+    },
+    {
+     "n": 75,
+     "from": "2017-12-12",
+     "to": "2017-12-13",
+     "laws": [
+      "S.O. 2017, c. 26"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v75",
+     "api": "en/doc-search/statute/90h08/v75",
+     "sha256": "f624989edf3b6877a66aed7e64c8ab9ff960975c20e08157012201e46fb27500"
+    },
+    {
+     "n": 76,
+     "from": "2017-12-14",
+     "to": "2018-03-07",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v76",
+     "api": "en/doc-search/statute/90h08/v76",
+     "sha256": "883c9068ce7c94923f086aae5e09eadd03ac408b8d7af2d992cfa4931680dfac"
+    },
+    {
+     "n": 77,
+     "from": "2018-03-08",
+     "to": "2018-04-30",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v77",
+     "api": "en/doc-search/statute/90h08/v77",
+     "sha256": "43a5b8e3d05633e6abeae23bc6ea3a50ff3d1de5c2fba244fe9e41b54e32ed46"
+    },
+    {
+     "n": 78,
+     "from": "2018-05-01",
+     "to": "2018-06-30",
+     "laws": [
+      "S.O. 2017, c. 9"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v78",
+     "api": "en/doc-search/statute/90h08/v78",
+     "sha256": "1d2a01caaa6c30ffb52f39891cff7ce5e77e59b70ac9928e6a9872e8b630a07b"
+    },
+    {
+     "n": 79,
+     "from": "2018-07-01",
+     "to": "2018-08-31",
+     "laws": [
+      "S.O. 2015, c. 14",
+      "S.O. 2017, c. 2",
+      "S.O. 2017, c. 26"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v79",
+     "api": "en/doc-search/statute/90h08/v79",
+     "sha256": "8166d56ed5a69e38dc833cf271e2a4df1d56b05c6275e588475f719e54fd4e0a"
+    },
+    {
+     "n": 80,
+     "from": "2018-09-01",
+     "to": "2018-10-16",
+     "laws": [
+      "S.O. 2017, c. 26"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v80",
+     "api": "en/doc-search/statute/90h08/v80",
+     "sha256": "427063154637217f7172c2691adeab9bf60b2bd8f000549eac3798682d9620d0"
+    },
+    {
+     "n": 81,
+     "from": "2018-10-17",
+     "to": "2018-11-15",
+     "laws": [
+      "S.O. 2017, c. 26",
+      "S.O. 2018, c. 12"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v81",
+     "api": "en/doc-search/statute/90h08/v81",
+     "sha256": "90e0a36cd33e1fff0dc806593a06a7dadc43501eb6e5165c33cb5fc1f45110aa"
+    },
+    {
+     "n": 82,
+     "from": "2018-11-16",
+     "to": "2018-12-31",
+     "laws": [
+      "S.O. 2018, c. 12"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v82",
+     "api": "en/doc-search/statute/90h08/v82",
+     "sha256": "85cd653fa4e015be41efd693d9aa6243f4e7ff37f1a8962cd45e2037c190356b"
+    },
+    {
+     "n": 83,
+     "from": "2019-01-01",
+     "to": "2019-03-25",
+     "laws": [
+      "S.O. 2017, c. 26"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v83",
+     "api": "en/doc-search/statute/90h08/v83",
+     "sha256": "1a81d285fa84a93df7038baf05129fe690e2c2dc1449f537394e462d40f96b47"
+    },
+    {
+     "n": 84,
+     "from": "2019-03-26",
+     "to": "2019-04-02",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v84",
+     "api": "en/doc-search/statute/90h08/v84",
+     "sha256": "720b4e9de846d5ee7f2e9948e58df953331ce428b14091af2588b44ab2360b37"
+    },
+    {
+     "n": 85,
+     "from": "2019-04-03",
+     "to": "2019-05-28",
+     "laws": [
+      "S.O. 2019, c. 4"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v85",
+     "api": "en/doc-search/statute/90h08/v85",
+     "sha256": "17818e7d709c96ce7668f2724f4542b04208932468acb25e8dfd5f3595385034"
+    },
+    {
+     "n": 86,
+     "from": "2019-05-29",
+     "to": "2019-06-05",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v86",
+     "api": "en/doc-search/statute/90h08/v86",
+     "sha256": "ea3ffe42f43f2b2460d9377998444e89a7604dd56ec695bb97a4d23dcda155f2"
+    },
+    {
+     "n": 87,
+     "from": "2019-06-06",
+     "to": "2019-06-30",
+     "laws": [
+      "S.O. 2019, c. 8"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v87",
+     "api": "en/doc-search/statute/90h08/v87",
+     "sha256": "6fa39449c282f01577b6a31d90fae1fa913651762495c277669345f55ea36645"
+    },
+    {
+     "n": 88,
+     "from": "2019-07-01",
+     "to": "2019-11-28",
+     "laws": [
+      "S.O. 2019, c. 7",
+      "S.O. 2019, c. 8"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v88",
+     "api": "en/doc-search/statute/90h08/v88",
+     "sha256": "f61de1600f9b4855d2cc5cab8e1dd5d6b5ecd796b7676fea5f604335cf2f6e10"
+    },
+    {
+     "n": 89,
+     "from": "2019-11-29",
+     "to": "2019-11-30",
+     "laws": [
+      "S.O. 2019, c. 8"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v89",
+     "api": "en/doc-search/statute/90h08/v89",
+     "sha256": "a0aa182f3cdad6d543392ccc69f298cca000ff9ee97ed2db2f1504a5f9f4e806"
+    },
+    {
+     "n": 90,
+     "from": "2019-12-01",
+     "to": "2019-12-09",
+     "laws": [
+      "S.O. 2017, c. 9",
+      "S.O. 2017, c. 34"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v90",
+     "api": "en/doc-search/statute/90h08/v90",
+     "sha256": "ab8b3511781e7152aff285d91cd33fdff0c1c7a3b024d52756b0af7fff87ac37"
+    },
+    {
+     "n": 91,
+     "from": "2019-12-10",
+     "to": "2019-12-11",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v91",
+     "api": "en/doc-search/statute/90h08/v91",
+     "sha256": "acd903b82ee4d629434976cdcb01739d110cb2b34dc3c454721dfa4951323674"
+    },
+    {
+     "n": 92,
+     "from": "2019-12-12",
+     "to": "2019-12-30",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v92",
+     "api": "en/doc-search/statute/90h08/v92",
+     "sha256": "ed47e5585e4466006e36c6b7633607a5c5fb2002d526469f6c9cddfad13ea6c6"
+    },
+    {
+     "n": 93,
+     "from": "2019-12-31",
+     "to": "2019-12-31",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v93",
+     "api": "en/doc-search/statute/90h08/v93",
+     "sha256": "fddad7a8d9d957a6d6052f571af2ad56647437df867dbd78123adc2137ae12a2"
+    },
+    {
+     "n": 94,
+     "from": "2020-01-01",
+     "to": "2020-06-30",
+     "laws": [
+      "S.O. 2019, c. 8"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v94",
+     "api": "en/doc-search/statute/90h08/v94",
+     "sha256": "b98c0901952eca7ae8f86f781253377701ac32749c644ea5c6a8b542cad22674"
+    },
+    {
+     "n": 95,
+     "from": "2020-07-01",
+     "to": "2020-08-31",
+     "laws": [
+      "S.O. 2019, c. 14"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v95",
+     "api": "en/doc-search/statute/90h08/v95",
+     "sha256": "5127509e9f9870ac82499bdb86b5d614b294fdcee41aa33a2fec5f4106dfd572"
+    },
+    {
+     "n": 96,
+     "from": "2020-09-01",
+     "to": "2020-11-29",
+     "laws": [
+      "S.O. 2002, c. 24",
+      "S.O. 2017, c. 26"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v96",
+     "api": "en/doc-search/statute/90h08/v96",
+     "sha256": "d6a0d8a9f655a85910feb091fc5f672a5ed1f8a6693adc8437a2ab03d2da7dcc"
+    },
+    {
+     "n": 97,
+     "from": "2020-11-30",
+     "to": "2020-11-30",
+     "laws": [
+      "S.O. 2020, c. 29"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v97",
+     "api": "en/doc-search/statute/90h08/v97",
+     "sha256": "23535cd17534810fa610600332447cca00e260f665900adad1b6a611a627624b"
+    },
+    {
+     "n": 98,
+     "from": "2020-12-01",
+     "to": "2020-12-07",
+     "laws": [
+      "S.O. 2019, c. 8"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v98",
+     "api": "en/doc-search/statute/90h08/v98",
+     "sha256": "4cc182d8ddbb93cfd49d5a1323adc908bb87e4a188e4d5c29a35b07d1a6826e2"
+    },
+    {
+     "n": 99,
+     "from": "2020-12-08",
+     "to": "2020-12-31",
+     "laws": [
+      "S.O. 2002, c. 22"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v99",
+     "api": "en/doc-search/statute/90h08/v99",
+     "sha256": "100cf8a7fce5e248d29b2ad4c9c2942d07de3852a9bef2ff53d9a3a0e7372fd7"
+    },
+    {
+     "n": 100,
+     "from": "2021-01-01",
+     "to": "2021-02-28",
+     "laws": [
+      "S.O. 2019, c. 8",
+      "S.O. 2019, c. 18"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v100",
+     "api": "en/doc-search/statute/90h08/v100",
+     "sha256": "74faac807e2e56a0d6ae3d61b9c523f4957ff2f727a6230b325751c65fb73b65"
+    },
+    {
+     "n": 101,
+     "from": "2021-03-01",
+     "to": "2021-05-11",
+     "laws": [
+      "S.O. 2019, c. 15"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v101",
+     "api": "en/doc-search/statute/90h08/v101",
+     "sha256": "ed139f8041b9c64142e88063747d86e451cb970d3a4b54e3a8c634630c888f6e"
+    },
+    {
+     "n": 102,
+     "from": "2021-05-12",
+     "to": "2021-06-02",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v102",
+     "api": "en/doc-search/statute/90h08/v102",
+     "sha256": "c33c55dd7ff8a41f915508aa43818686de9965914dc276d64073d091107c54ca"
+    },
+    {
+     "n": 103,
+     "from": "2021-06-03",
+     "to": "2021-06-30",
+     "laws": [
+      "S.O. 2021, c. 26"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v103",
+     "api": "en/doc-search/statute/90h08/v103",
+     "sha256": "c3988c54b21e580bf6f3e460a5bab279c3a34fae7a689aabdbc1a5170b4b6310"
+    },
+    {
+     "n": 104,
+     "from": "2021-07-01",
+     "to": "2021-09-11",
+     "laws": [
+      "S.O. 2020, c. 34",
+      "S.O. 2020, c. 36",
+      "S.O. 2021, c. 26"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v104",
+     "api": "en/doc-search/statute/90h08/v104",
+     "sha256": "d7f10a20fa5c7b02250c09f6c54fab07badc8c86205650955c75b47330090eaa"
+    },
+    {
+     "n": 105,
+     "from": "2021-09-12",
+     "to": "2021-10-31",
+     "laws": [
+      "S.O. 2021, c. 26"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v105",
+     "api": "en/doc-search/statute/90h08/v105",
+     "sha256": "5e1c90a7a24eee9ca3b534d38ed3dd03b04a265a55ec2d583149374340d4f6b7"
+    },
+    {
+     "n": 106,
+     "from": "2021-11-01",
+     "to": "2021-11-27",
+     "laws": [
+      "S.O. 2017, c. 34"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v106",
+     "api": "en/doc-search/statute/90h08/v106",
+     "sha256": "4972ea561c12698e7a7f8f9c6c5660c7d2b3092e734e376fe4d375f9c32b4775"
+    },
+    {
+     "n": 107,
+     "from": "2021-11-28",
+     "to": "2021-11-28",
+     "laws": [
+      "S.O. 2021, c. 26"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v107",
+     "api": "en/doc-search/statute/90h08/v107",
+     "sha256": "084aacd10b56b8524448d0c99d4edfe4ee001c49d576993fd05cdd8126c7a73a"
+    },
+    {
+     "n": 108,
+     "from": "2021-11-29",
+     "to": "2022-02-28",
+     "laws": [
+      "S.O. 2019, c. 15"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v108",
+     "api": "en/doc-search/statute/90h08/v108",
+     "sha256": "774bd25bf5414459e92d0eb8d5d449880c847ec15fe0a7dbf7452dbcf2100a32"
+    },
+    {
+     "n": 109,
+     "from": "2022-03-01",
+     "to": "2022-03-02",
+     "laws": [
+      "S.O. 2019, c. 15"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v109",
+     "api": "en/doc-search/statute/90h08/v109",
+     "sha256": "c84c488ee8f76f25c50a8c8ccb3813573a6680a0a56669a09d85efe862cc5bb0"
+    },
+    {
+     "n": 110,
+     "from": "2022-03-03",
+     "to": "2022-03-12",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v110",
+     "api": "en/doc-search/statute/90h08/v110",
+     "sha256": "0f5687a10bb50980c7b60bec848ded14498190bcfdc6e638b3dc78eb68b2b317"
+    },
+    {
+     "n": 111,
+     "from": "2022-03-13",
+     "to": "2022-03-31",
+     "laws": [
+      "S.O. 2022, c. 2"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v111",
+     "api": "en/doc-search/statute/90h08/v111",
+     "sha256": "81fb05d92ff50db3a2d893f5ecb185dd32db84f5fe270f00904518075c94c2e1"
+    },
+    {
+     "n": 112,
+     "from": "2022-04-01",
+     "to": "2022-04-13",
+     "laws": [
+      "S.O. 2015, c. 14",
+      "S.O. 2019, c. 7",
+      "S.O. 2019, c. 14",
+      "S.O. 2021, c. 26"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v112",
+     "api": "en/doc-search/statute/90h08/v112",
+     "sha256": "ced9d4cde73da07f6232cf805f909117c3c0aeba427d77e872de75487508d81d"
+    },
+    {
+     "n": 113,
+     "from": "2022-04-14",
+     "to": "2022-06-11",
+     "laws": [
+      "S.O. 2022, c. 10"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v113",
+     "api": "en/doc-search/statute/90h08/v113",
+     "sha256": "88dddedceb6a32af555986cf92d92f2692e7465bebf125ba3912c488a022762b"
+    },
+    {
+     "n": 114,
+     "from": "2022-06-12",
+     "to": "2022-06-30",
+     "laws": [
+      "S.O. 2019, c. 15"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v114",
+     "api": "en/doc-search/statute/90h08/v114",
+     "sha256": "193d1734bb79a0d1a0d76b2f6c350a35baae289f24797d0361af76d2a8b527a4"
+    },
+    {
+     "n": 115,
+     "from": "2022-07-01",
+     "to": "2022-12-31",
+     "laws": [
+      "S.O. 2014, c. 9",
+      "S.O. 2019, c. 8",
+      "S.O. 2021, c. 13",
+      "S.O. 2021, c. 26"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v115",
+     "api": "en/doc-search/statute/90h08/v115",
+     "sha256": "53ffbdabfeb59c414f10c1d59eae1e5514544d0d13d95bb7e85d26a7998adea7"
+    },
+    {
+     "n": 116,
+     "from": "2023-01-01",
+     "to": "2023-06-07",
+     "laws": [
+      "S.O. 2021, c. 26"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v116",
+     "api": "en/doc-search/statute/90h08/v116",
+     "sha256": "3cbc6f0972fad141c771ed5d5545f306943773002d79192d486a47641cbdf100"
+    },
+    {
+     "n": 117,
+     "from": "2023-06-08",
+     "to": "2023-06-30",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v117",
+     "api": "en/doc-search/statute/90h08/v117",
+     "sha256": "f93dcaccc6944726173da544553957e78db892364cd06e4192c14b1053ac29a2"
+    },
+    {
+     "n": 118,
+     "from": "2023-07-01",
+     "to": "2023-09-14",
+     "laws": [
+      "S.O. 2021, c. 26"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v118",
+     "api": "en/doc-search/statute/90h08/v118",
+     "sha256": "c79579a5f23575dafce1cb1b6e7bfeab76b371e5557222dece437ef5321aa689"
+    },
+    {
+     "n": 119,
+     "from": "2023-09-15",
+     "to": "2023-12-31",
+     "laws": [
+      "S.O. 2023, c. 9"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v119",
+     "api": "en/doc-search/statute/90h08/v119",
+     "sha256": "146cd5a01aac0ae2aaa634997babae9b609130a53e6da63bc2778a73a1bb2707"
+    },
+    {
+     "n": 120,
+     "from": "2024-01-01",
+     "to": "2024-03-05",
+     "laws": [
+      "S.O. 2021, c. 26"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v120",
+     "api": "en/doc-search/statute/90h08/v120",
+     "sha256": "18943e2ca6b9d7fb1ae388be4b189df268b39c7f54d56687ad3f4abc65373dd3"
+    },
+    {
+     "n": 121,
+     "from": "2024-03-06",
+     "to": "2024-03-31",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v121",
+     "api": "en/doc-search/statute/90h08/v121",
+     "sha256": "fb189ec4bf738addc74c9350e933dde4ec3970ee5474a325bb74d7084720ecfe"
+    },
+    {
+     "n": 122,
+     "from": "2024-04-01",
+     "to": "2024-05-15",
+     "laws": [
+      "S.O. 2019, c. 1"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v122",
+     "api": "en/doc-search/statute/90h08/v122",
+     "sha256": "6b079e8a44efab33a9f75abb0929481b5e7104a4ff75bfcdc6ca8630c036a465"
+    },
+    {
+     "n": 123,
+     "from": "2024-05-16",
+     "to": "2024-06-30",
+     "laws": [
+      "S.O. 2024, c. 9"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v123",
+     "api": "en/doc-search/statute/90h08/v123",
+     "sha256": "8fd1c4e3dd8f1cb1d4c4e6f6d60e5735922c973f71e636320ddef09f262f2d43"
+    },
+    {
+     "n": 124,
+     "from": "2024-07-01",
+     "to": "2024-10-15",
+     "laws": [
+      "S.O. 2024, c. 9"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v124",
+     "api": "en/doc-search/statute/90h08/v124",
+     "sha256": "6346f961d456a7ce385f351de07c80b31f23478d02cd68ce4edb4f6283c34d29"
+    },
+    {
+     "n": 125,
+     "from": "2024-10-16",
+     "to": "2024-11-18",
+     "laws": [
+      "S.O. 2024, c. 2"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v125",
+     "api": "en/doc-search/statute/90h08/v125",
+     "sha256": "472a0c5f62927bea3bcb1e68633f97975ffdfd57631cd0df06f9e062d5faad69"
+    },
+    {
+     "n": 126,
+     "from": "2024-11-19",
+     "to": "2024-11-24",
+     "laws": [
+      "S.O. 2024, c. 21"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v126",
+     "api": "en/doc-search/statute/90h08/v126",
+     "sha256": "63b841cc94849d16c36cd6336c489b390fddad1c9307ffb3f8f0b671bb34ed0a"
+    },
+    {
+     "n": 127,
+     "from": "2024-11-25",
+     "to": "2024-12-03",
+     "laws": [
+      "S.O. 2024, c. 25"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v127",
+     "api": "en/doc-search/statute/90h08/v127",
+     "sha256": "a85be87b9dcaafe5234e325af162504602147e6875d7ea765acf524dd3eeaa1e"
+    },
+    {
+     "n": 128,
+     "from": "2024-12-04",
+     "to": "2024-12-18",
+     "laws": [
+      "S.O. 2024, c. 27"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v128",
+     "api": "en/doc-search/statute/90h08/v128",
+     "sha256": "bbc8e5e377c9ccdcf93ed924edece263143a3425a57d947c10dd5a5bdf31bede"
+    },
+    {
+     "n": 129,
+     "from": "2024-12-19",
+     "to": "2025-03-31",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v129",
+     "api": "en/doc-search/statute/90h08/v129",
+     "sha256": "205b9ff66ec31ca54931fafe45ffa71a0c78a685076c744d207578c1ecde732f"
+    },
+    {
+     "n": 130,
+     "from": "2025-04-01",
+     "to": "2025-06-04",
+     "laws": [
+      "S.O. 2015, c. 14",
+      "S.O. 2024, c. 28"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v130",
+     "api": "en/doc-search/statute/90h08/v130",
+     "sha256": "e480526afb6a7f7944dee24379320b89cd3ad490519306bdce28fa70ad9746c6"
+    },
+    {
+     "n": 131,
+     "from": "2025-06-05",
+     "to": "2025-11-02",
+     "laws": [
+      "S.O. 2025, c. 10"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v131",
+     "api": "en/doc-search/statute/90h08/v131",
+     "sha256": "aa1a362e9e5cd1aa1b6fe1213dce487b209dea195de7152751ebf84973adb7c2"
+    },
+    {
+     "n": 132,
+     "from": "2025-11-03",
+     "to": "2025-11-13",
+     "laws": [
+      "S.O. 2025, c. 11"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v132",
+     "api": "en/doc-search/statute/90h08/v132",
+     "sha256": "4385d25953ae5d9163b8d316f17475465f4a063f4d22d9e338c4c5539beb273b"
+    },
+    {
+     "n": 133,
+     "from": "2025-11-14",
+     "to": "2025-11-26",
+     "laws": [
+      "S.O. 2025, c. 11"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v133",
+     "api": "en/doc-search/statute/90h08/v133",
+     "sha256": "36538241bf815f6c2943823eddd7885dc78eb78fffdba23d86a3c3bcdd41f16e"
+    },
+    {
+     "n": 134,
+     "from": "2025-11-27",
+     "to": "2025-12-10",
+     "laws": [
+      "S.O. 2025, c. 14"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v134",
+     "api": "en/doc-search/statute/90h08/v134",
+     "sha256": "a5a316f959fe27fabd97b89f0a0465eb440f50f87b969c3a0d19ede9a4a180df"
+    },
+    {
+     "n": 135,
+     "from": "2025-12-11",
+     "to": "2025-12-30",
+     "laws": [
+      "S.O. 2025, c. 27"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v135",
+     "api": "en/doc-search/statute/90h08/v135",
+     "sha256": "5b4cb915b6979c4e84f03fd68991ca56911436451893bd1c410e8d05833a5405"
+    },
+    {
+     "n": 136,
+     "from": "2025-12-31",
+     "to": "2025-12-31",
+     "laws": [
+      "S.O. 2015, c. 14",
+      "S.O. 2015, c. 27"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v136",
+     "api": "en/doc-search/statute/90h08/v136",
+     "sha256": "40eb6ba65dc3c397aab7ffc7f119b44c7382ec0d2bd231e503edee09ede090eb"
+    },
+    {
+     "n": 137,
+     "from": "2026-01-01",
+     "to": "2026-05-18",
+     "laws": [
+      "S.O. 2024, c. 21",
+      "S.O. 2024, c. 27",
+      "S.O. 2025, c. 6"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v137",
+     "api": "en/doc-search/statute/90h08/v137",
+     "sha256": "749c484d373fe31199d468fec02547e9dee1128bb73b3ec626ef30996470ff47"
+    },
+    {
+     "n": 138,
+     "from": "2026-05-19",
+     "to": "2026-06-01",
+     "laws": [
+      "S.O. 2024, c. 21",
+      "S.O. 2024, c. 25"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v138",
+     "api": "en/doc-search/statute/90h08/v138",
+     "sha256": "1da821507d407a3a4ffdcacfb04cf69523ec6e36a5b6b011ef449c6a19628d3e"
+    },
+    {
+     "n": 139,
+     "from": "2026-06-02",
+     "to": "2026-06-24",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v139",
+     "api": "en/doc-search/statute/90h08/v139",
+     "sha256": "a1d9b94695d15a1b259873066d49e70a2fed63928c58e0bbd4359a2def46e97b"
+    },
+    {
+     "n": 140,
+     "from": "2026-06-25",
+     "to": "2026-06-30",
+     "laws": [
+      "S.O. 2024, c. 25",
+      "S.O. 2024, c. 27"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08/v140",
+     "api": "en/doc-search/statute/90h08/v140",
+     "sha256": "7b5a2f5d67faf33510ff69a4d6255a8e0fec73d36b75e86acef63344ee8a5ea3"
+    },
+    {
+     "n": 0,
+     "from": "2026-07-01",
+     "to": null,
+     "laws": [
+      "S.O. 2024, c. 21",
+      "S.O. 2024, c. 27"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h08",
+     "api": "en/doc-search/statute/90h08",
+     "sha256": "10099bc68ce2fc833adac41aef78bc086b1e139214c5bc0542a81ee49ff5a505"
+    }
+   ]
+  },
+  {
+   "id": "06r17",
+   "title": "Residential Tenancies Act, 2006",
+   "short": "Residential Tenancies Act, 2006",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2006-06-22",
+     "to": "2006-12-19",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v1",
+     "api": "en/doc-search/statute/06r17/v1",
+     "sha256": "2847b6dbc6e72b53bab8f75f15f5a2f3aff3b1349085b8b4f9d7b9f8a283c2f7"
+    },
+    {
+     "n": 2,
+     "from": "2006-12-20",
+     "to": "2006-12-31",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v2",
+     "api": "en/doc-search/statute/06r17/v2",
+     "sha256": "91442bbaed32c3fe9c8791cbb0b19f34ea8501047c2aec99a1e13fdc4be81897"
+    },
+    {
+     "n": 3,
+     "from": "2007-01-01",
+     "to": "2007-01-30",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v3",
+     "api": "en/doc-search/statute/06r17/v3",
+     "sha256": "f1169924608c843cfe7a440da92b3f5aeed33eb16172b27570b453f29aa76b16"
+    },
+    {
+     "n": 4,
+     "from": "2007-01-31",
+     "to": "2007-04-30",
+     "laws": [
+      "S.O. 2006, c. 17",
+      "S.O. 2006, c. 32"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v4",
+     "api": "en/doc-search/statute/06r17/v4",
+     "sha256": "da850bed8beb8b1fcc8462284ecb9984cff0320275a90008e9b688ab19e90f39"
+    },
+    {
+     "n": 5,
+     "from": "2007-05-01",
+     "to": "2007-06-03",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v5",
+     "api": "en/doc-search/statute/06r17/v5",
+     "sha256": "63d1813fb6216cc617836f7bcabec7756515265fba896096f82ec9ca678e7445"
+    },
+    {
+     "n": 6,
+     "from": "2007-06-04",
+     "to": "2007-08-19",
+     "laws": [
+      "S.O. 2007, c. 13"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v6",
+     "api": "en/doc-search/statute/06r17/v6",
+     "sha256": "d5589838748e22eeb214275feaf542fc8812ca5286298503acf6cc2ab0c79aef"
+    },
+    {
+     "n": 7,
+     "from": "2007-08-20",
+     "to": "2008-10-07",
+     "laws": [
+      "S.O. 2006, c. 35"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v7",
+     "api": "en/doc-search/statute/06r17/v7",
+     "sha256": "8fc08c30eab1f41090d5e83387260be14b3592e54c42198cb3381d8e49ba5958"
+    },
+    {
+     "n": 8,
+     "from": "2008-10-08",
+     "to": "2009-12-14",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v8",
+     "api": "en/doc-search/statute/06r17/v8",
+     "sha256": "060ffe28693e9aa5fbf4675843bbf0e15726e73b84c4db2e7c28058959501aee"
+    },
+    {
+     "n": 9,
+     "from": "2009-12-15",
+     "to": "2010-05-17",
+     "laws": [
+      "S.O. 2009, c. 33"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v9",
+     "api": "en/doc-search/statute/06r17/v9",
+     "sha256": "7ec1cb667dbd7cfee07176a5d26bb441d738e080fa4d03963729c6714b2e06e0"
+    },
+    {
+     "n": 10,
+     "from": "2010-05-18",
+     "to": "2010-06-30",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v10",
+     "api": "en/doc-search/statute/06r17/v10",
+     "sha256": "6ead5c72706a7b13077a82186389718e4623e5913141ac8c327132b918aa296d"
+    },
+    {
+     "n": 11,
+     "from": "2010-07-01",
+     "to": "2010-12-31",
+     "laws": [
+      "S.O. 2007, c. 8",
+      "S.O. 2009, c. 33"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v11",
+     "api": "en/doc-search/statute/06r17/v11",
+     "sha256": "df8a4a4096a74077e0df8f7fd29d76140fec8359c50464d4c254fb319cbbb886"
+    },
+    {
+     "n": 12,
+     "from": "2011-01-01",
+     "to": "2011-05-03",
+     "laws": [
+      "S.O. 2008, c. 14",
+      "S.O. 2009, c. 33",
+      "S.O. 2010, c. 8"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v12",
+     "api": "en/doc-search/statute/06r17/v12",
+     "sha256": "bf6f12902355c10dfec6d7983a4a156a77d9a3bc5adc6828e89ccb1df7c26360"
+    },
+    {
+     "n": 13,
+     "from": "2011-05-04",
+     "to": "2011-12-31",
+     "laws": [
+      "S.O. 2011, c. 6"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v13",
+     "api": "en/doc-search/statute/06r17/v13",
+     "sha256": "0234c8f98f5c4570986d56009b684861b08451cba4881136830d3ab1e397308d"
+    },
+    {
+     "n": 14,
+     "from": "2012-01-01",
+     "to": "2012-06-18",
+     "laws": [
+      "S.O. 2011, c. 6"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v14",
+     "api": "en/doc-search/statute/06r17/v14",
+     "sha256": "af37fd1e24121121488084458d099378e86ec5dde416504e43c5c1bbd27efdd3"
+    },
+    {
+     "n": 15,
+     "from": "2012-06-19",
+     "to": "2013-09-25",
+     "laws": [
+      "S.O. 2012, c. 6"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v15",
+     "api": "en/doc-search/statute/06r17/v15",
+     "sha256": "7dc544c585292e60ff6c24c95cfea25aa78f3904d7b3921d281cf44db25b16bc"
+    },
+    {
+     "n": 16,
+     "from": "2013-09-26",
+     "to": "2014-05-31",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v16",
+     "api": "en/doc-search/statute/06r17/v16",
+     "sha256": "38da3aa96b65c3aa266b060f029e2fb97290c09233bc04749358d5eacabdd3ec"
+    },
+    {
+     "n": 17,
+     "from": "2014-06-01",
+     "to": "2015-06-30",
+     "laws": [
+      "S.O. 2013, c. 3"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v17",
+     "api": "en/doc-search/statute/06r17/v17",
+     "sha256": "bd672a24ea57420651f73087ab4edf7e4020ba3e42a1b018d8523e4d7464db42"
+    },
+    {
+     "n": 18,
+     "from": "2015-07-01",
+     "to": "2015-12-09",
+     "laws": [
+      "S.O. 2011, c. 6"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v18",
+     "api": "en/doc-search/statute/06r17/v18",
+     "sha256": "a0f434880b32597c5bee28471d8e85a195df24759000af40a2e446523b3960d3"
+    },
+    {
+     "n": 19,
+     "from": "2015-12-10",
+     "to": "2016-03-07",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v19",
+     "api": "en/doc-search/statute/06r17/v19",
+     "sha256": "a43cb58690517c6097183c6a7072ed82b80d1918fa094ee858ad2c6217168be7"
+    },
+    {
+     "n": 20,
+     "from": "2016-03-08",
+     "to": "2016-09-07",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v20",
+     "api": "en/doc-search/statute/06r17/v20",
+     "sha256": "3d3e6ce5b8465f123806b833ae085900762d382aad47529695c3eac0f59608f8"
+    },
+    {
+     "n": 21,
+     "from": "2016-09-08",
+     "to": "2016-12-04",
+     "laws": [
+      "S.O. 2016, c. 2"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v21",
+     "api": "en/doc-search/statute/06r17/v21",
+     "sha256": "c24373496f992385d5fa69714199bcde3e4f2112892bcfb70ee4a84de17ba85b"
+    },
+    {
+     "n": 22,
+     "from": "2016-12-05",
+     "to": "2016-12-07",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v22",
+     "api": "en/doc-search/statute/06r17/v22",
+     "sha256": "735ebbe88492f287e4fe63c46aff27924a8ba6c0bbe53dafc7fbb593b6d9ed26"
+    },
+    {
+     "n": 23,
+     "from": "2016-12-08",
+     "to": "2016-12-09",
+     "laws": [
+      "S.O. 2016, c. 25"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v23",
+     "api": "en/doc-search/statute/06r17/v23",
+     "sha256": "432bfb474d4370949e152b2327027f2097e925975af66a826e4020f943244ffa"
+    },
+    {
+     "n": 24,
+     "from": "2016-12-10",
+     "to": "2016-12-31",
+     "laws": [
+      "S.O. 2015, c. 38"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v24",
+     "api": "en/doc-search/statute/06r17/v24",
+     "sha256": "de4f2524525494a0ec76a85678e56e7747f851f3eb5318ccd1fcd3c5d166c524"
+    },
+    {
+     "n": 25,
+     "from": "2017-01-01",
+     "to": "2017-05-29",
+     "laws": [
+      "S.O. 2016, c. 23"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v25",
+     "api": "en/doc-search/statute/06r17/v25",
+     "sha256": "bf6d760f92a8a0181d1678f42e02606ca090ab96696bb72e2013c3279a9e9ec2"
+    },
+    {
+     "n": 26,
+     "from": "2017-05-30",
+     "to": "2017-05-31",
+     "laws": [
+      "S.O. 2006, c. 17",
+      "S.O. 2017, c. 13"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v26",
+     "api": "en/doc-search/statute/06r17/v26",
+     "sha256": "3a790c1d4c118709e5aadb71d6d2b8d4ef456a4cfe31dd3a658baa4680073676"
+    },
+    {
+     "n": 27,
+     "from": "2017-06-01",
+     "to": "2017-08-31",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v27",
+     "api": "en/doc-search/statute/06r17/v27",
+     "sha256": "11a2c77e626c82f680fcf6cd8515906a477eff3c3db67d9cd2425190f00e0c3d"
+    },
+    {
+     "n": 28,
+     "from": "2017-09-01",
+     "to": "2017-12-11",
+     "laws": [
+      "S.O. 2017, c. 13"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v28",
+     "api": "en/doc-search/statute/06r17/v28",
+     "sha256": "ae7bcc8cc8a3f333655d9a525540354665544068f028f0d31c25e7f712972656"
+    },
+    {
+     "n": 29,
+     "from": "2017-12-12",
+     "to": "2017-12-13",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v29",
+     "api": "en/doc-search/statute/06r17/v29",
+     "sha256": "dbfb718b69e3c888a3c5fb1b317a967cb611b363eed06bc83db7ff20f2957fe3"
+    },
+    {
+     "n": 30,
+     "from": "2017-12-14",
+     "to": "2017-12-31",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v30",
+     "api": "en/doc-search/statute/06r17/v30",
+     "sha256": "1df85c30153671874a11df6459be272ab857845ef9a69c9482431b3234fcfbe4"
+    },
+    {
+     "n": 31,
+     "from": "2018-01-01",
+     "to": "2018-04-29",
+     "laws": [
+      "S.O. 2017, c. 13",
+      "S.O. 2017, c. 34"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v31",
+     "api": "en/doc-search/statute/06r17/v31",
+     "sha256": "0283f85dbe9045ebf3a4e3b9009e52f387028b3294d2b7e6951b4b2882500ada"
+    },
+    {
+     "n": 32,
+     "from": "2018-04-30",
+     "to": "2018-05-06",
+     "laws": [
+      "S.O. 2017, c. 14"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v32",
+     "api": "en/doc-search/statute/06r17/v32",
+     "sha256": "4828cfb3f9b297a117e600ee6613bc1798b71200fdd09f2a5c4b1a9eb36b572a"
+    },
+    {
+     "n": 33,
+     "from": "2018-05-07",
+     "to": "2018-06-30",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v33",
+     "api": "en/doc-search/statute/06r17/v33",
+     "sha256": "52054901de06d0f37b17f18e1f7dbb2cc1ff36af8683b5d5d8facd13c0bac246"
+    },
+    {
+     "n": 34,
+     "from": "2018-07-01",
+     "to": "2018-12-05",
+     "laws": [
+      "S.O. 2016, c. 25"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v34",
+     "api": "en/doc-search/statute/06r17/v34",
+     "sha256": "0d1455ab2b8e93f516ddf9e7cd33199812ac2041d6f662d3421d51f96a44201b"
+    },
+    {
+     "n": 35,
+     "from": "2018-12-06",
+     "to": "2019-05-28",
+     "laws": [
+      "S.O. 2018, c. 17"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v35",
+     "api": "en/doc-search/statute/06r17/v35",
+     "sha256": "76c9f5a765e7ba9721d2a5d5508e667534758529fb776634c3a2dd4b8b15ec1b"
+    },
+    {
+     "n": 36,
+     "from": "2019-05-29",
+     "to": "2019-06-30",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v36",
+     "api": "en/doc-search/statute/06r17/v36",
+     "sha256": "6d88823446490e5382618f32f34faf7ef273878e5a9d9981c37d46707f25515d"
+    },
+    {
+     "n": 37,
+     "from": "2019-07-01",
+     "to": "2020-03-03",
+     "laws": [
+      "S.O. 2019, c. 7"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v37",
+     "api": "en/doc-search/statute/06r17/v37",
+     "sha256": "c20822de729cf12f04849c7740d5c665938c3e73a450c43c6bd7110186edb70b"
+    },
+    {
+     "n": 38,
+     "from": "2020-03-04",
+     "to": "2020-07-20",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v38",
+     "api": "en/doc-search/statute/06r17/v38",
+     "sha256": "daa322ec2a299c601ee6927d36a3a4046533a66f279bd621cd9252fc2b3f4282"
+    },
+    {
+     "n": 39,
+     "from": "2020-07-21",
+     "to": "2020-09-30",
+     "laws": [
+      "S.O. 2020, c. 16"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v39",
+     "api": "en/doc-search/statute/06r17/v39",
+     "sha256": "0a5e80117d293762c1e2fe1f853c51e8d74f6d0f4e02d61b45414810c74e22d2"
+    },
+    {
+     "n": 40,
+     "from": "2020-10-01",
+     "to": "2021-03-30",
+     "laws": [
+      "S.O. 2020, c. 23"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v40",
+     "api": "en/doc-search/statute/06r17/v40",
+     "sha256": "80ffbf143ba2fdfcc4657387d2f69945985697a3771a2819422411d1c1965900"
+    },
+    {
+     "n": 41,
+     "from": "2021-03-31",
+     "to": "2021-04-18",
+     "laws": [
+      "S.O. 2020, c. 16"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v41",
+     "api": "en/doc-search/statute/06r17/v41",
+     "sha256": "2d2258353561cb4d483efb796149585ed94fad397e31f5c165e88deb3f96d119"
+    },
+    {
+     "n": 42,
+     "from": "2021-04-19",
+     "to": "2021-08-31",
+     "laws": [
+      "S.O. 2021, c. 4"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v42",
+     "api": "en/doc-search/statute/06r17/v42",
+     "sha256": "36852c13bb717419e885b22eb804537ab9791ffccb961bb3c660f7b2a4540b15"
+    },
+    {
+     "n": 43,
+     "from": "2021-09-01",
+     "to": "2021-12-08",
+     "laws": [
+      "S.O. 2020, c. 16"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v43",
+     "api": "en/doc-search/statute/06r17/v43",
+     "sha256": "79d6e00e334c2fc66c9bbdaf9e89d3aa2c5f3d71bc378939923b24ddd648d6a8"
+    },
+    {
+     "n": 44,
+     "from": "2021-12-09",
+     "to": "2021-12-31",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v44",
+     "api": "en/doc-search/statute/06r17/v44",
+     "sha256": "d92de4f41164f99706d948fe09ac56d979999a1b7eadedd01b2775e79ec34fd6"
+    },
+    {
+     "n": 45,
+     "from": "2022-01-01",
+     "to": "2022-04-10",
+     "laws": [
+      "S.O. 2020, c. 16"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v45",
+     "api": "en/doc-search/statute/06r17/v45",
+     "sha256": "7ad479ba6c5d8be8edc0e0a2fca82aa7b2864a4d684d4561314a91ab9e0b05f3"
+    },
+    {
+     "n": 46,
+     "from": "2022-04-11",
+     "to": "2023-05-17",
+     "laws": [
+      "S.O. 2021, c. 39"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v46",
+     "api": "en/doc-search/statute/06r17/v46",
+     "sha256": "6cfb00c89d6daee58e727624307ed5e259bdb793d5e51023da2d678624ce370b"
+    },
+    {
+     "n": 47,
+     "from": "2023-05-18",
+     "to": "2023-06-07",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v47",
+     "api": "en/doc-search/statute/06r17/v47",
+     "sha256": "084492c6c1ee7376118e9c0e5c46f2799aff73b64cd6eeb961a558b3140ad6dd"
+    },
+    {
+     "n": 48,
+     "from": "2023-06-08",
+     "to": "2023-11-30",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v48",
+     "api": "en/doc-search/statute/06r17/v48",
+     "sha256": "5191eea8064a5c6a5d7cf0897a1daf9770a564359e71da39a01a7edbb677ebfe"
+    },
+    {
+     "n": 49,
+     "from": "2023-12-01",
+     "to": "2024-12-03",
+     "laws": [
+      "S.O. 2020, c. 1"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v49",
+     "api": "en/doc-search/statute/06r17/v49",
+     "sha256": "700de7828935ff3ca28d78559e33eed9092c6eb1f45d7b5b80773b871cc9d6e3"
+    },
+    {
+     "n": 50,
+     "from": "2024-12-04",
+     "to": "2025-11-26",
+     "laws": [
+      "S.O. 2024, c. 28"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v50",
+     "api": "en/doc-search/statute/06r17/v50",
+     "sha256": "55f967268a6627b9a98ad9e02d0c3a5caeed6e07589ae85c92713db75d43a094"
+    },
+    {
+     "n": 51,
+     "from": "2025-11-27",
+     "to": "2026-06-30",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v51",
+     "api": "en/doc-search/statute/06r17/v51",
+     "sha256": "244dbecc329055d606fb9c0930d25e903c5b09a7d1e0256b054907786f4bf9d8"
+    },
+    {
+     "n": 52,
+     "from": "2026-07-01",
+     "to": "2026-09-20",
+     "laws": [
+      "S.O. 2023, c. 10",
+      "S.O. 2025, c. 14"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/06r17/v52",
+     "api": "en/doc-search/statute/06r17/v52",
+     "sha256": "4e15ff933572c26d323698b4af55c8c7e864fea62deed7fa26f96a055b3bd8cd"
+    },
+    {
+     "n": 0,
+     "from": "2026-09-21",
+     "to": null,
+     "laws": [
+      "S.O. 2023, c. 10",
+      "S.O. 2025, c. 14"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/06r17",
+     "api": "en/doc-search/statute/06r17",
+     "sha256": "2a3b6692fe7919b5ea74b5ff60eca206bdf5d3128a83613e805fe54f4fed3241"
+    }
+   ]
+  },
+  {
+   "id": "00e41",
+   "title": "Employment Standards Act, 2000",
+   "short": "Employment Standards Act, 2000",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2002-11-26",
+     "to": "2004-06-28",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v1",
+     "api": "en/doc-search/statute/00e41/v1",
+     "sha256": "a4e4c284d456e17cf4cc73c26b6ad582a2ea3ea6dde686b522751ca3e2a45d0e"
+    },
+    {
+     "n": 2,
+     "from": "2004-06-29",
+     "to": "2004-12-08",
+     "laws": [
+      "S.O. 2004, c. 15"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v2",
+     "api": "en/doc-search/statute/00e41/v2",
+     "sha256": "94dff533b43aa6155248e15d2cab9f64abf2113446e1a0725796fcd1ffa88668"
+    },
+    {
+     "n": 3,
+     "from": "2004-12-09",
+     "to": "2005-02-28",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v3",
+     "api": "en/doc-search/statute/00e41/v3",
+     "sha256": "29929212e2041e963a2dff4a84cdcf36199e6ff16b64389bed0534a9f86ac75e"
+    },
+    {
+     "n": 4,
+     "from": "2005-03-01",
+     "to": "2005-03-08",
+     "laws": [
+      "S.O. 2004, c. 21"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v4",
+     "api": "en/doc-search/statute/00e41/v4",
+     "sha256": "adc428339f7f7e478396d2663349c914e740970eca286fcfede520e8b799547f"
+    },
+    {
+     "n": 5,
+     "from": "2005-03-09",
+     "to": "2005-06-12",
+     "laws": [
+      "S.O. 2005, c. 5"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v5",
+     "api": "en/doc-search/statute/00e41/v5",
+     "sha256": "5d88d60ef97c5be665202afd407eb6c832dca353652d06c74296ec8037722181"
+    },
+    {
+     "n": 6,
+     "from": "2005-06-13",
+     "to": "2006-06-19",
+     "laws": [
+      "S.O. 2004, c. 15"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v6",
+     "api": "en/doc-search/statute/00e41/v6",
+     "sha256": "4560638697c78a6c43362f269fc2a7d0601150c45b021fefc9ee097e5a44b55e"
+    },
+    {
+     "n": 7,
+     "from": "2006-06-20",
+     "to": "2006-06-21",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v7",
+     "api": "en/doc-search/statute/00e41/v7",
+     "sha256": "79e03aedf6d39724ce02f292046af5ab3cae1abadd73a171c9f4673d9686287b"
+    },
+    {
+     "n": 8,
+     "from": "2006-06-22",
+     "to": "2006-06-29",
+     "laws": [
+      "S.O. 2006, c. 19"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v8",
+     "api": "en/doc-search/statute/00e41/v8",
+     "sha256": "aab901ee4ebaba22915c78115d7a59398fb57df57b6bd96d90610e971dedaa6c"
+    },
+    {
+     "n": 9,
+     "from": "2006-06-30",
+     "to": "2006-10-18",
+     "laws": [
+      "S.O. 2006, c. 13"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v9",
+     "api": "en/doc-search/statute/00e41/v9",
+     "sha256": "926721d699145c97ea775c8150e291af45e42883b18d97f4d7fd9f63525dc9d8"
+    },
+    {
+     "n": 10,
+     "from": "2006-10-19",
+     "to": "2006-12-19",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v10",
+     "api": "en/doc-search/statute/00e41/v10",
+     "sha256": "f40c234280bfbea7e4bc73f3fb18998db07c379a21a8877db7e924bcd2e5ab31"
+    },
+    {
+     "n": 11,
+     "from": "2006-12-20",
+     "to": "2007-03-31",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v11",
+     "api": "en/doc-search/statute/00e41/v11",
+     "sha256": "8bc1561a0f76f7e606875a9d13328f32490cac6b29a6eada3691511673df277f"
+    },
+    {
+     "n": 12,
+     "from": "2007-04-01",
+     "to": "2007-07-24",
+     "laws": [
+      "S.O. 2006, c. 34"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v12",
+     "api": "en/doc-search/statute/00e41/v12",
+     "sha256": "707fe5dcf7e281379372698721b34d9a64988a2dc51c569ae9ead1563d99c47e"
+    },
+    {
+     "n": 13,
+     "from": "2007-07-25",
+     "to": "2007-08-19",
+     "laws": [
+      "S.O. 2006, c. 21"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v13",
+     "api": "en/doc-search/statute/00e41/v13",
+     "sha256": "cb4108297510a96f39a232f1faabf6b08916a4e20401230ffd4b8d1a99137fd7"
+    },
+    {
+     "n": 14,
+     "from": "2007-08-20",
+     "to": "2007-12-02",
+     "laws": [
+      "S.O. 2006, c. 35"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v14",
+     "api": "en/doc-search/statute/00e41/v14",
+     "sha256": "eb0ca34803a6e076b2744a245529d0250b557ed6bed10f71f3f7048d9979ee6b"
+    },
+    {
+     "n": 15,
+     "from": "2007-12-03",
+     "to": "2008-10-07",
+     "laws": [
+      "S.O. 2007, c. 16"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v15",
+     "api": "en/doc-search/statute/00e41/v15",
+     "sha256": "dc5e35b22fbad22e1bfede52dd5e4cba911afdc637e77a614018fab9601aa568"
+    },
+    {
+     "n": 16,
+     "from": "2008-10-08",
+     "to": "2009-05-05",
+     "laws": [
+      "S.O. 2008, c. 15"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v16",
+     "api": "en/doc-search/statute/00e41/v16",
+     "sha256": "f8663e994eae09c13333a98bd7f6f8a0129a908260f81117dfd91dda74dc9463"
+    },
+    {
+     "n": 17,
+     "from": "2009-05-06",
+     "to": "2009-06-04",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v17",
+     "api": "en/doc-search/statute/00e41/v17",
+     "sha256": "e484cbca042bc1b7ae2cb8239aa25f82391ca17372d4380ea2978e641f07085c"
+    },
+    {
+     "n": 18,
+     "from": "2009-06-05",
+     "to": "2009-06-25",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v18",
+     "api": "en/doc-search/statute/00e41/v18",
+     "sha256": "d47062a6621c476364c1e6d7706144593646946f69a6b67d40e5188c3ef97489"
+    },
+    {
+     "n": 19,
+     "from": "2009-06-26",
+     "to": "2009-11-05",
+     "laws": [
+      "S.O. 2009, c. 16"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v19",
+     "api": "en/doc-search/statute/00e41/v19",
+     "sha256": "54d370fa1ff24f7adee91090221c3bd1bdd847c28e3073546f3a0a0086762078"
+    },
+    {
+     "n": 20,
+     "from": "2009-11-06",
+     "to": "2009-12-14",
+     "laws": [
+      "S.O. 2009, c. 9"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v20",
+     "api": "en/doc-search/statute/00e41/v20",
+     "sha256": "f9cd2b94931854f1086989bae04ce309b234a28cde5cff377036161bc2861530"
+    },
+    {
+     "n": 21,
+     "from": "2009-12-15",
+     "to": "2010-03-21",
+     "laws": [
+      "S.O. 2009, c. 33"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v21",
+     "api": "en/doc-search/statute/00e41/v21",
+     "sha256": "e15a3d29906c66ff05aa25aa8188249ca3594c7a7e59e711ea85803e5572008e"
+    },
+    {
+     "n": 22,
+     "from": "2010-03-22",
+     "to": "2010-10-24",
+     "laws": [
+      "S.O. 2009, c. 32"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v22",
+     "api": "en/doc-search/statute/00e41/v22",
+     "sha256": "4766a48e3c38f828605ee6e8c40a41c3cdc02c0375c105342e7f2ef01d479036"
+    },
+    {
+     "n": 23,
+     "from": "2010-10-25",
+     "to": "2010-11-28",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v23",
+     "api": "en/doc-search/statute/00e41/v23",
+     "sha256": "008c97905508b30cc76d7108621859318037e2d20d1f31072d1d9c5df07d044f"
+    },
+    {
+     "n": 24,
+     "from": "2010-11-29",
+     "to": "2011-03-29",
+     "laws": [
+      "S.O. 2010, c. 16"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v24",
+     "api": "en/doc-search/statute/00e41/v24",
+     "sha256": "ae5c04b1c25895a1e5f01058bccbbdc42843e4acea5329a2837a5a0977e9161b"
+    },
+    {
+     "n": 25,
+     "from": "2011-03-30",
+     "to": "2012-11-28",
+     "laws": [
+      "S.O. 2011, c. 1"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v25",
+     "api": "en/doc-search/statute/00e41/v25",
+     "sha256": "888e12a37f4fcfd1153234980168abe9fd75d55f1205f6438a91764449d0a676"
+    },
+    {
+     "n": 26,
+     "from": "2012-11-29",
+     "to": "2013-12-11",
+     "laws": [
+      "S.O. 2000, c. 41"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v26",
+     "api": "en/doc-search/statute/00e41/v26",
+     "sha256": "ab66a8a32ff6f2cc2d4702e6aac16a33f35b52be189ce04d190124cefeb98842"
+    },
+    {
+     "n": 27,
+     "from": "2013-12-12",
+     "to": "2014-04-08",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v27",
+     "api": "en/doc-search/statute/00e41/v27",
+     "sha256": "59e19084ae4d2e3a08ac3d146e047c5d101f45060e52058f660801897960e345"
+    },
+    {
+     "n": 28,
+     "from": "2014-04-09",
+     "to": "2014-04-23",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v28",
+     "api": "en/doc-search/statute/00e41/v28",
+     "sha256": "61bf79648dd13f95ab62fa8f84faa262c85b62fb27265b0b4abd26b444e7e052"
+    },
+    {
+     "n": 29,
+     "from": "2014-04-24",
+     "to": "2014-04-28",
+     "laws": [
+      "S.O. 2014, c. 5"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v29",
+     "api": "en/doc-search/statute/00e41/v29",
+     "sha256": "e505512a529ac87cb09c5151d204ccbccc382531061243fbbf9d3de59eae4f89"
+    },
+    {
+     "n": 30,
+     "from": "2014-04-29",
+     "to": "2014-10-28",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v30",
+     "api": "en/doc-search/statute/00e41/v30",
+     "sha256": "c42f845ed2548129b61119e31354f26a5283f5549042590ccb53cca7ef327ff0"
+    },
+    {
+     "n": 31,
+     "from": "2014-10-29",
+     "to": "2014-11-19",
+     "laws": [
+      "S.O. 2014, c. 6"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v31",
+     "api": "en/doc-search/statute/00e41/v31",
+     "sha256": "a11d7837f4180f0b3d1b2d61d23fb8c5ae43c9047c4d0a3b72d83c3f0e3b184a"
+    },
+    {
+     "n": 32,
+     "from": "2014-11-20",
+     "to": "2014-12-31",
+     "laws": [
+      "S.O. 2014, c. 10"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v32",
+     "api": "en/doc-search/statute/00e41/v32",
+     "sha256": "9b8778c09440635d98b6798e26013b30f40e1030a6a50d135585cf535940e6fc"
+    },
+    {
+     "n": 33,
+     "from": "2015-01-01",
+     "to": "2015-02-19",
+     "laws": [
+      "S.O. 2013, c. 13"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v33",
+     "api": "en/doc-search/statute/00e41/v33",
+     "sha256": "2e62248d8044675a7013643cf6f97441b35bafddfe5c3a4eede619cc08f8d1a7"
+    },
+    {
+     "n": 34,
+     "from": "2015-02-20",
+     "to": "2015-05-19",
+     "laws": [
+      "S.O. 2014, c. 10"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v34",
+     "api": "en/doc-search/statute/00e41/v34",
+     "sha256": "c79524f7fd83cb8fdd1e66e7717e11155bee40158ec279a95d1aaeb82330e0ef"
+    },
+    {
+     "n": 35,
+     "from": "2015-05-20",
+     "to": "2015-09-30",
+     "laws": [
+      "S.O. 2014, c. 10"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v35",
+     "api": "en/doc-search/statute/00e41/v35",
+     "sha256": "14d850008449b6f14c637f4cd26d07159389ed78c72647ac1b9fb06e9baabcc6"
+    },
+    {
+     "n": 36,
+     "from": "2015-10-01",
+     "to": "2015-11-19",
+     "laws": [
+      "S.O. 2014, c. 10"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v36",
+     "api": "en/doc-search/statute/00e41/v36",
+     "sha256": "f41881fde831e3e4325558bd746e0a8e561617b2987e5e61aa0179fb88f2da99"
+    },
+    {
+     "n": 37,
+     "from": "2015-11-20",
+     "to": "2015-12-02",
+     "laws": [
+      "S.O. 2014, c. 10"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v37",
+     "api": "en/doc-search/statute/00e41/v37",
+     "sha256": "985ead3184b18edad704a67b86395aa05004ee1838bda118aa030bea7cf01b76"
+    },
+    {
+     "n": 38,
+     "from": "2015-12-03",
+     "to": "2015-12-09",
+     "laws": [
+      "S.O. 2015, c. 27"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v38",
+     "api": "en/doc-search/statute/00e41/v38",
+     "sha256": "0b3d556ad71cf5bf32e94d0c1c21427b4c4e2a74832d139c91ef6e8953ad38b0"
+    },
+    {
+     "n": 39,
+     "from": "2015-12-10",
+     "to": "2016-06-09",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v39",
+     "api": "en/doc-search/statute/00e41/v39",
+     "sha256": "575e1360bd6e4c610a1fcc53b27f3800ebdc78c0f0ed2e10714ebe4bfcb03c39"
+    },
+    {
+     "n": 40,
+     "from": "2016-06-10",
+     "to": "2016-12-04",
+     "laws": [
+      "S.O. 2015, c. 32"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v40",
+     "api": "en/doc-search/statute/00e41/v40",
+     "sha256": "93d1def43b40054134c9ae0e6f983c521eabf0f128275986bdd6c3a9af1fa452"
+    },
+    {
+     "n": 41,
+     "from": "2016-12-05",
+     "to": "2016-12-07",
+     "laws": [
+      "S.O. 2016, c. 23"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v41",
+     "api": "en/doc-search/statute/00e41/v41",
+     "sha256": "00683d657ae9bc21c7aabaf16d3514a7421a68bcb9ada57017578a416d7e7d70"
+    },
+    {
+     "n": 42,
+     "from": "2016-12-08",
+     "to": "2017-02-19",
+     "laws": [
+      "S.O. 2016, c. 30"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v42",
+     "api": "en/doc-search/statute/00e41/v42",
+     "sha256": "f62ec3652d8bd1098fc06afa7dde34d060da45dac8f05b4450fc43ad27250927"
+    },
+    {
+     "n": 43,
+     "from": "2017-02-20",
+     "to": "2017-10-31",
+     "laws": [
+      "S.O. 2000, c. 41",
+      "S.O. 2006, c. 21",
+      "S.O. 2014, c. 10"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v43",
+     "api": "en/doc-search/statute/00e41/v43",
+     "sha256": "0a3da5d3df0c308c87f2bc0968f49418503c7a33ce7c062592db922132288b01"
+    },
+    {
+     "n": 44,
+     "from": "2017-11-01",
+     "to": "2017-11-26",
+     "laws": [
+      "S.O. 2016, c. 30"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v44",
+     "api": "en/doc-search/statute/00e41/v44",
+     "sha256": "b8e5ab2685390ec7f3528c320b5ff43941c6734ed84e1a1122bd5c85e842fbdd"
+    },
+    {
+     "n": 45,
+     "from": "2017-11-27",
+     "to": "2017-12-02",
+     "laws": [
+      "S.O. 2017, c. 22"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v45",
+     "api": "en/doc-search/statute/00e41/v45",
+     "sha256": "b28d2e23966b0063b28811c6d5c0590e769ea014cccbef0f9eb45f9540d1e1f4"
+    },
+    {
+     "n": 46,
+     "from": "2017-12-03",
+     "to": "2017-12-31",
+     "laws": [
+      "S.O. 2017, c. 22"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v46",
+     "api": "en/doc-search/statute/00e41/v46",
+     "sha256": "6ac7f94add91abca1c1eeea534828ef3f2a56d4424476e71e91004dc142eaf77"
+    },
+    {
+     "n": 47,
+     "from": "2018-01-01",
+     "to": "2018-03-07",
+     "laws": [
+      "S.O. 2017, c. 22"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v47",
+     "api": "en/doc-search/statute/00e41/v47",
+     "sha256": "c89a94e04d00448690effd8b1666b3a23ad3fd3db18add9c4ac5a720ddf7c966"
+    },
+    {
+     "n": 48,
+     "from": "2018-03-08",
+     "to": "2018-03-31",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v48",
+     "api": "en/doc-search/statute/00e41/v48",
+     "sha256": "76d15aa4afa5903c3d4616b610ec2a628612ae5d4e61a8ffd8bad27f24ea8fd5"
+    },
+    {
+     "n": 49,
+     "from": "2018-04-01",
+     "to": "2018-05-06",
+     "laws": [
+      "S.O. 2017, c. 22"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v49",
+     "api": "en/doc-search/statute/00e41/v49",
+     "sha256": "1862ca34dd13873350a75e2f033bd445d5e56cd0b349e991870ada4de98f604c"
+    },
+    {
+     "n": 50,
+     "from": "2018-05-07",
+     "to": "2018-11-20",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v50",
+     "api": "en/doc-search/statute/00e41/v50",
+     "sha256": "62107acbf5f96c49256fc42d6f28f3a362f19e4f1518bec1fb5543a043429eaf"
+    },
+    {
+     "n": 51,
+     "from": "2018-11-21",
+     "to": "2018-12-31",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v51",
+     "api": "en/doc-search/statute/00e41/v51",
+     "sha256": "94b3d1acc0b13afb75eb33c5a1aacd86efa3c35c95e41ce40b713ad6fc2ca76b"
+    },
+    {
+     "n": 52,
+     "from": "2019-01-01",
+     "to": "2019-03-25",
+     "laws": [
+      "S.O. 2017, c. 22",
+      "S.O. 2018, c. 14"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v52",
+     "api": "en/doc-search/statute/00e41/v52",
+     "sha256": "756b290787a0b60c3d46ed1df414fe3c1bdd1730f17558a19148b2ffd4e97f36"
+    },
+    {
+     "n": 53,
+     "from": "2019-03-26",
+     "to": "2019-04-02",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v53",
+     "api": "en/doc-search/statute/00e41/v53",
+     "sha256": "446514dd5092e7a0d7215528eb651840b4acb6bd5c266de78fb758a4b904a381"
+    },
+    {
+     "n": 54,
+     "from": "2019-04-03",
+     "to": "2019-04-17",
+     "laws": [
+      "S.O. 2019, c. 4"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v54",
+     "api": "en/doc-search/statute/00e41/v54",
+     "sha256": "45352bf2167acb4267756eb3e73028d350af9b216c5d91846eacd514df3cc8d1"
+    },
+    {
+     "n": 55,
+     "from": "2019-04-18",
+     "to": "2019-11-06",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v55",
+     "api": "en/doc-search/statute/00e41/v55",
+     "sha256": "9b148d56f5267ae212c2f1b6c82be0e8d9b48bd6afdfb5afa8d23755a964e098"
+    },
+    {
+     "n": 56,
+     "from": "2019-11-07",
+     "to": "2019-11-07",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v56",
+     "api": "en/doc-search/statute/00e41/v56",
+     "sha256": "a670161f1e0cc4c1dbec638dc8f5efedb7f7514e050fe3b6640104a5ee53ae50"
+    },
+    {
+     "n": 57,
+     "from": "2019-11-08",
+     "to": "2019-12-09",
+     "laws": [
+      "S.O. 2019, c. 12"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v57",
+     "api": "en/doc-search/statute/00e41/v57",
+     "sha256": "1f5dcf862f1a74a303b0e09db051b8328e138f81aa73b97ffe1a2da744263a26"
+    },
+    {
+     "n": 58,
+     "from": "2019-12-10",
+     "to": "2020-03-18",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v58",
+     "api": "en/doc-search/statute/00e41/v58",
+     "sha256": "fc1268a2f857da6f3dcea15c49e5b84bcbff9708102eaa1485836194045e576d"
+    },
+    {
+     "n": 59,
+     "from": "2020-03-19",
+     "to": "2021-04-18",
+     "laws": [
+      "S.O. 2020, c. 3"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v59",
+     "api": "en/doc-search/statute/00e41/v59",
+     "sha256": "d32d66afb4a04d603e003586e944c4057ae4be143da5640b6d4faa6bd00fa7d4"
+    },
+    {
+     "n": 60,
+     "from": "2021-04-19",
+     "to": "2021-04-28",
+     "laws": [
+      "S.O. 2021, c. 4"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v60",
+     "api": "en/doc-search/statute/00e41/v60",
+     "sha256": "3f3162ec2d157032b2b40e95dec69a2ce42b87cc64735f286cc2202443c6916a"
+    },
+    {
+     "n": 61,
+     "from": "2021-04-29",
+     "to": "2021-06-02",
+     "laws": [
+      "S.O. 2021, c. 9"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v61",
+     "api": "en/doc-search/statute/00e41/v61",
+     "sha256": "b9643a8aab384894e980a1fe0dd0231ef6f0128846ab0346054750225fddf67e"
+    },
+    {
+     "n": 62,
+     "from": "2021-06-03",
+     "to": "2021-10-18",
+     "laws": [
+      "S.O. 2021, c. 25"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v62",
+     "api": "en/doc-search/statute/00e41/v62",
+     "sha256": "5246295e3a83897783347c40e7fd1f8e00917832885f4ecf9cf26f329d2f3d7b"
+    },
+    {
+     "n": 63,
+     "from": "2021-10-19",
+     "to": "2021-11-28",
+     "laws": [
+      "S.O. 2010, c. 15"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v63",
+     "api": "en/doc-search/statute/00e41/v63",
+     "sha256": "78efa3f4131cc6b8a16cff87d06c9c6d93ba9c171724e9dca2a391765771a337"
+    },
+    {
+     "n": 64,
+     "from": "2021-11-29",
+     "to": "2021-12-01",
+     "laws": [
+      "S.O. 2019, c. 15"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v64",
+     "api": "en/doc-search/statute/00e41/v64",
+     "sha256": "dbec6ad0c9b1c28c0ce063b32c80dfc3f7f8935950a37169c24199a32acc07bc"
+    },
+    {
+     "n": 65,
+     "from": "2021-12-02",
+     "to": "2021-12-08",
+     "laws": [
+      "S.O. 2021, c. 35"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v65",
+     "api": "en/doc-search/statute/00e41/v65",
+     "sha256": "a098ee5f04affc61c03f5ae569a2e7b20d19861c544fbdad2749904a4419a768"
+    },
+    {
+     "n": 66,
+     "from": "2021-12-09",
+     "to": "2021-12-31",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v66",
+     "api": "en/doc-search/statute/00e41/v66",
+     "sha256": "2fd9cbcb72a497d52b988f061a0168a584e3bb82d3d33032f6cfb60ddc4ac839"
+    },
+    {
+     "n": 67,
+     "from": "2022-01-01",
+     "to": "2022-04-10",
+     "laws": [
+      "S.O. 2021, c. 40"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v67",
+     "api": "en/doc-search/statute/00e41/v67",
+     "sha256": "3cbd4d5ae592ebbfc05755a9b2ae81aee7375b5480fe7bb285f959cacdc4b663"
+    },
+    {
+     "n": 68,
+     "from": "2022-04-11",
+     "to": "2022-04-30",
+     "laws": [
+      "S.O. 2022, c. 7"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v68",
+     "api": "en/doc-search/statute/00e41/v68",
+     "sha256": "5acff5453eec1832bb33fc6ad7afcac10cdd2df9477344740e70aab79bb2ca60"
+    },
+    {
+     "n": 69,
+     "from": "2022-05-01",
+     "to": "2022-12-31",
+     "laws": [
+      "S.O. 2019, c. 5"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v69",
+     "api": "en/doc-search/statute/00e41/v69",
+     "sha256": "4f1fd5fc349a599dfe4885b0a6cf45a6edd4851e5512ec58fcaee8e9b5bf26b1"
+    },
+    {
+     "n": 70,
+     "from": "2023-01-01",
+     "to": "2023-06-07",
+     "laws": [
+      "S.O. 2022, c. 7"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v70",
+     "api": "en/doc-search/statute/00e41/v70",
+     "sha256": "f96e3cd3576668f053c62c1ad69cec7d21de93741798d8f06dc9dddba844df72"
+    },
+    {
+     "n": 71,
+     "from": "2023-06-08",
+     "to": "2023-06-30",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v71",
+     "api": "en/doc-search/statute/00e41/v71",
+     "sha256": "0a8eaa9a1f8cd0a30ed5b2ee8bfed6a8ba6b117bc406038670eed896cc1feb3a"
+    },
+    {
+     "n": 72,
+     "from": "2023-07-01",
+     "to": "2023-10-25",
+     "laws": [
+      "S.O. 2021, c. 35"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v72",
+     "api": "en/doc-search/statute/00e41/v72",
+     "sha256": "bd107e38b6dd35ab736aefdf457e7624f10f70904ec8c9b00565b2c4e90eca26"
+    },
+    {
+     "n": 73,
+     "from": "2023-10-26",
+     "to": "2023-12-31",
+     "laws": [
+      "S.O. 2023, c. 15"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v73",
+     "api": "en/doc-search/statute/00e41/v73",
+     "sha256": "3f1c618616ec5afa04cdf6f8644292ee358bf90fd02f52b027178faf31b019df"
+    },
+    {
+     "n": 74,
+     "from": "2024-01-01",
+     "to": "2024-02-22",
+     "laws": [
+      "S.O. 2023, c. 9"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v74",
+     "api": "en/doc-search/statute/00e41/v74",
+     "sha256": "6f2fbe0379487a4ec6cbac9225cc8bab69dcc5fc991498a772d8023590a73b4d"
+    },
+    {
+     "n": 75,
+     "from": "2024-02-23",
+     "to": "2024-03-20",
+     "laws": [
+      "S.O. 2019, c. 12"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v75",
+     "api": "en/doc-search/statute/00e41/v75",
+     "sha256": "ff7313c7857280083db4789834a7012140449befeded7e8b470f4a21931df520"
+    },
+    {
+     "n": 76,
+     "from": "2024-03-21",
+     "to": "2024-03-31",
+     "laws": [
+      "S.O. 2024, c. 3"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v76",
+     "api": "en/doc-search/statute/00e41/v76",
+     "sha256": "adaa2b613489bfd927916d8b32bb505c62528635e03fa1b6f54e9f22d0a521d9"
+    },
+    {
+     "n": 77,
+     "from": "2024-04-01",
+     "to": "2024-06-20",
+     "laws": [
+      "S.O. 2019, c. 1"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v77",
+     "api": "en/doc-search/statute/00e41/v77",
+     "sha256": "812d57fcbe6d8601459a6cbbbbb9dfeef7a0910d926b7a158b4ab951c0325a81"
+    },
+    {
+     "n": 78,
+     "from": "2024-06-21",
+     "to": "2024-06-30",
+     "laws": [
+      "S.O. 2024, c. 3"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v78",
+     "api": "en/doc-search/statute/00e41/v78",
+     "sha256": "8d342d0680b7a2244ae603e86ff05eaa31a140fae4bcf3b673f41626ba532619"
+    },
+    {
+     "n": 79,
+     "from": "2024-07-01",
+     "to": "2024-10-27",
+     "laws": [
+      "S.O. 2021, c. 35"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v79",
+     "api": "en/doc-search/statute/00e41/v79",
+     "sha256": "49cd7d04da6c68433af19a459ec2f4819d72019cc138ccc86c8cf6956f81c555"
+    },
+    {
+     "n": 80,
+     "from": "2024-10-28",
+     "to": "2024-12-18",
+     "laws": [
+      "S.O. 2024, c. 19"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v80",
+     "api": "en/doc-search/statute/00e41/v80",
+     "sha256": "93e67015704fdf1b440c397203ae708a9d8d1c22017e25e4bbb75623ee5a91c7"
+    },
+    {
+     "n": 81,
+     "from": "2024-12-19",
+     "to": "2025-06-18",
+     "laws": [
+      "S.O. 2024, c. 41"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v81",
+     "api": "en/doc-search/statute/00e41/v81",
+     "sha256": "8192d24a517e7d518548d519c2e4411c941572303711ac6ecd4ebcfaf7783ba7"
+    },
+    {
+     "n": 82,
+     "from": "2025-06-19",
+     "to": "2025-11-26",
+     "laws": [
+      "S.O. 2024, c. 41"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v82",
+     "api": "en/doc-search/statute/00e41/v82",
+     "sha256": "66ce5a194eae714ba14d5e239ba54bb83535bbb5452f8ad2f929780a3822f4ce"
+    },
+    {
+     "n": 83,
+     "from": "2025-11-27",
+     "to": "2025-12-31",
+     "laws": [
+      "S.O. 2025, c. 13"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41/v83",
+     "api": "en/doc-search/statute/00e41/v83",
+     "sha256": "f90110cc429b18a86aede7cbc8c152d7f2498f0405c2c2b54682af8a57d42e07"
+    },
+    {
+     "n": 0,
+     "from": "2026-01-01",
+     "to": null,
+     "laws": [
+      "S.O. 2024, c. 3",
+      "S.O. 2024, c. 19",
+      "S.O. 2025, c. 13"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/00e41",
+     "api": "en/doc-search/statute/00e41",
+     "sha256": "20e8c2e6b1a1c7a13554d2994258d164205a9c7792f800c266d26752579a7e1d"
+    }
+   ]
+  },
+  {
+   "id": "06l21",
+   "title": "Legislation Act, 2006",
+   "short": "Legislation Act, 2006",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2006-10-19",
+     "to": "2007-07-24",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/06l21/v1",
+     "api": "en/doc-search/statute/06l21/v1",
+     "sha256": "45ba565e6bdc865bbb9207607600e34b79ec06225f341ff5715383abdd1b0e81"
+    },
+    {
+     "n": 2,
+     "from": "2007-07-25",
+     "to": "2009-12-14",
+     "laws": [
+      "S.O. 2006, c. 21"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/06l21/v2",
+     "api": "en/doc-search/statute/06l21/v2",
+     "sha256": "307cf26550f744ac3423c1e86b4b6640956fcc6917a07ee4a00bfb1a01cdd524"
+    },
+    {
+     "n": 3,
+     "from": "2009-12-15",
+     "to": "2016-12-04",
+     "laws": [
+      "S.O. 2009, c. 33"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/06l21/v3",
+     "api": "en/doc-search/statute/06l21/v3",
+     "sha256": "e5a9de3fb0d41981d68b9f55bad33183b9cda0c25e2c2ba10c3f57cbba9739f2"
+    },
+    {
+     "n": 4,
+     "from": "2016-12-05",
+     "to": "2016-12-31",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/06l21/v4",
+     "api": "en/doc-search/statute/06l21/v4",
+     "sha256": "32c544d89f8c80d7e549a9c6853a6c53009215e9d59a3befa0c1994b132d8c0d"
+    },
+    {
+     "n": 5,
+     "from": "2017-01-01",
+     "to": "2017-03-21",
+     "laws": [
+      "S.O. 2016, c. 23"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/06l21/v5",
+     "api": "en/doc-search/statute/06l21/v5",
+     "sha256": "13a9650e6adb69a685ba4a2accd99211d0f4b8c381b257338e86c2393c8f28d9"
+    },
+    {
+     "n": 6,
+     "from": "2017-03-22",
+     "to": "2019-12-09",
+     "laws": [
+      "S.O. 2006, c. 21",
+      "S.O. 2017, c. 2"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/06l21/v6",
+     "api": "en/doc-search/statute/06l21/v6",
+     "sha256": "ce9b5b17c2d16a24cb896eaaf1f3356ed1c460db85870ed0de6e7f8c1ab9c067"
+    },
+    {
+     "n": 7,
+     "from": "2019-12-10",
+     "to": "2020-12-07",
+     "laws": [
+      "S.O. 2019, c. 14"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/06l21/v7",
+     "api": "en/doc-search/statute/06l21/v7",
+     "sha256": "dcc707730aea9f6874713802b22158f8b0e4577df0b450b58619f8f4dba4212d"
+    },
+    {
+     "n": 8,
+     "from": "2020-12-08",
+     "to": "2021-03-30",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/06l21/v8",
+     "api": "en/doc-search/statute/06l21/v8",
+     "sha256": "05a6e4853d166e79a8015818033cbe9d3c01262e7cc8324027c84a911ea4617c"
+    },
+    {
+     "n": 9,
+     "from": "2021-03-31",
+     "to": "2021-04-18",
+     "laws": [
+      "S.O. 2020, c. 34"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/06l21/v9",
+     "api": "en/doc-search/statute/06l21/v9",
+     "sha256": "ac1b88e555b670a2c46007a8c5c005d99cecd18214e0baf121bdeffdb08465b3"
+    },
+    {
+     "n": 10,
+     "from": "2021-04-19",
+     "to": "2021-05-31",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/06l21/v10",
+     "api": "en/doc-search/statute/06l21/v10",
+     "sha256": "955a26a72c1f8433d4a7b2f10865e2c75711eb5c0f1fe8873828f4e93ce92968"
+    },
+    {
+     "n": 11,
+     "from": "2021-06-01",
+     "to": "2024-03-05",
+     "laws": [
+      "S.O. 2021, c. 4"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/06l21/v11",
+     "api": "en/doc-search/statute/06l21/v11",
+     "sha256": "99b4a7f0ae5d1a7fc686a67a474ee9e8ba0a4e5432dacac918d87364e93eef13"
+    },
+    {
+     "n": 12,
+     "from": "2024-03-06",
+     "to": "2024-12-31",
+     "laws": [
+      "S.O. 2024, c. 2"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/06l21/v12",
+     "api": "en/doc-search/statute/06l21/v12",
+     "sha256": "81c4f53bc09eb6adc4ae53fb48d66ea8e6ffc8c2053f5551994ae9c34411a985"
+    },
+    {
+     "n": 13,
+     "from": "2025-01-01",
+     "to": "2025-11-26",
+     "laws": [
+      "S.O. 2024, c. 2"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/06l21/v13",
+     "api": "en/doc-search/statute/06l21/v13",
+     "sha256": "c269106b251fe0141c24d410e344e6cfc34f98175d761d5629dc23a356bf0da7"
+    },
+    {
+     "n": 14,
+     "from": "2025-11-27",
+     "to": "2025-12-10",
+     "laws": [
+      "S.O. 2025, c. 14"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/06l21/v14",
+     "api": "en/doc-search/statute/06l21/v14",
+     "sha256": "5dbcd69ae78a92c68a383fdb6652655390206d339dcbe5c0dfab34deb1cc80f5"
+    },
+    {
+     "n": 0,
+     "from": "2025-12-11",
+     "to": null,
+     "laws": [
+      "S.O. 2025, c. 27"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/06l21",
+     "api": "en/doc-search/statute/06l21",
+     "sha256": "da8cf25bdb117a808af9e11018f88c28445e096f51214fb4bd4fad5b4de67f59"
+    }
+   ]
+  }
+ ],
+ "laws": [
+  {
+   "key": "S.O. 1993, c. 34",
+   "title": "",
+   "assented": "",
+   "url": "",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 1994, c. 27",
+   "title": "",
+   "assented": "",
+   "url": "",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 1996, c. 20",
+   "title": "",
+   "assented": "",
+   "url": "",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2000, c. 26",
+   "title": "Red Tape Reduction Act, 2000",
+   "assented": "2000-12-06",
+   "url": "https://www.ontario.ca/laws/statute/s00026",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2000, c. 41",
+   "title": "Employment Standards Act, 2000",
+   "assented": "2000-12-21",
+   "url": "https://www.ontario.ca/laws/statute/s00041",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2002, c. 18",
+   "title": "Government Efficiency Act, 2002",
+   "assented": "2002-11-26",
+   "url": "https://www.ontario.ca/laws/statute/s02018",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2002, c. 22",
+   "title": "Keeping the Promise for a Strong Economy Act (Budget Measures), 2002",
+   "assented": "2002-12-09",
+   "url": "https://www.ontario.ca/laws/statute/s02022",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2002, c. 24",
+   "title": "Justice Statute Law Amendment Act, 2002",
+   "assented": "2002-12-09",
+   "url": "https://www.ontario.ca/laws/statute/s02024",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2002, c. 30",
+   "title": "Consumer Protection Statute Law Amendment Act, 2002",
+   "assented": "2002-12-13",
+   "url": "https://www.ontario.ca/laws/statute/s02030",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2004, c. 15",
+   "title": "Employment Standards Amendment Act (Family Medical Leave), 2004",
+   "assented": "2004-06-29",
+   "url": "https://www.ontario.ca/laws/statute/s04015",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2004, c. 21",
+   "title": "Employment Standards Amendment Act (Hours of Work and Other Matters), 2004",
+   "assented": "2004-12-09",
+   "url": "https://www.ontario.ca/laws/statute/s04021",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2004, c. 22",
+   "title": "Highway Traffic Statute Law Amendment Act (Child and Youth Safety), 2004",
+   "assented": "2004-12-09",
+   "url": "https://www.ontario.ca/laws/statute/s04022",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2004, c. 31",
+   "title": "Budget Measures Act (Fall), 2004",
+   "assented": "2004-12-16",
+   "url": "https://www.ontario.ca/laws/statute/s04031",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2005, c. 5",
+   "title": "Spousal Relationships Statute Law Amendment Act, 2005",
+   "assented": "2005-03-09",
+   "url": "https://www.ontario.ca/laws/statute/s05005",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2005, c. 14",
+   "title": "Highway Traffic Amendment Act (School Crossing Guards), 2005",
+   "assented": "2005-06-13",
+   "url": "https://www.ontario.ca/laws/statute/s05014",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2005, c. 26",
+   "title": "Transportation Statute Law Amendment Act, 2005",
+   "assented": "2005-11-21",
+   "url": "https://www.ontario.ca/laws/statute/s05026",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2005, c. 31",
+   "title": "Budget Measures Act, 2005 (No. 2) ",
+   "assented": "2005-12-15",
+   "url": "https://www.ontario.ca/laws/statute/s05031",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2005, c. 32",
+   "title": "Safe Streets Statute Law Amendment Act, 2005",
+   "assented": "2005-12-15",
+   "url": "https://www.ontario.ca/laws/statute/s05032",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2006, c. 11",
+   "title": "Stronger City of Toronto for a Stronger Ontario Act, 2006",
+   "assented": "2006-06-12",
+   "url": "https://www.ontario.ca/laws/statute/s06011",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2006, c. 13",
+   "title": "Emergency Management Statute Law Amendment Act, 2006",
+   "assented": "2006-06-20",
+   "url": "https://www.ontario.ca/laws/statute/s06013",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2006, c. 17",
+   "title": "Residential Tenancies Act, 2006",
+   "assented": "2006-06-22",
+   "url": "https://www.ontario.ca/laws/statute/s06017",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2006, c. 19",
+   "title": "Good Government Act, 2006",
+   "assented": "2006-06-22",
+   "url": "https://www.ontario.ca/laws/statute/s06019",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2006, c. 20",
+   "title": "Highway Traffic Amendment Act (Licence Suspensions), 2006",
+   "assented": "2006-06-22",
+   "url": "https://www.ontario.ca/laws/statute/s06020",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2006, c. 21",
+   "title": "Access to Justice Act, 2006",
+   "assented": "2006-10-19",
+   "url": "https://www.ontario.ca/laws/statute/s06021",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2006, c. 25",
+   "title": "Highway Traffic Amendment Act (Seat Belts), 2006",
+   "assented": "2006-11-02",
+   "url": "https://www.ontario.ca/laws/statute/s06025",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2006, c. 32",
+   "title": "Municipal Statute Law Amendment Act, 2006",
+   "assented": "2006-12-20",
+   "url": "https://www.ontario.ca/laws/statute/s06032",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2006, c. 33",
+   "title": "Budget Measures Act, 2006 (No. 2)",
+   "assented": "2006-12-20",
+   "url": "https://www.ontario.ca/laws/statute/s06033",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2006, c. 34",
+   "title": "Ministry of Government Services Consumer Protection and Service Modernization Act, 2006",
+   "assented": "2006-12-20",
+   "url": "https://www.ontario.ca/laws/statute/s06034",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2006, c. 35",
+   "title": "Public Service of Ontario Statute Law Amendment Act, 2006 ",
+   "assented": "2006-12-20",
+   "url": "https://www.ontario.ca/laws/statute/s06035",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2007, c. 8",
+   "title": "Long-Term Care Homes Act, 2007",
+   "assented": "2007-06-04",
+   "url": "https://www.ontario.ca/laws/statute/s07008",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2007, c. 13",
+   "title": "Safer Roads for a Safer Ontario Act, 2007",
+   "assented": "2007-06-04",
+   "url": "https://www.ontario.ca/laws/statute/s07013",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2007, c. 16",
+   "title": "Fairness for Military Families Act (Employment Standards and Health Insurance), 2007",
+   "assented": "2007-12-03",
+   "url": "https://www.ontario.ca/laws/statute/s07016",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2008, c. 8",
+   "title": "Highway Traffic Amendment Act (Speed-limiting Systems), 2008",
+   "assented": "2008-06-18",
+   "url": "https://www.ontario.ca/laws/statute/s08008",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2008, c. 14",
+   "title": "Services and Supports to Promote the Social Inclusion of Persons with Developmental Disabilities Act, 2008",
+   "assented": "2008-10-08",
+   "url": "https://www.ontario.ca/laws/statute/s08014",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2008, c. 15",
+   "title": "Colleges Collective Bargaining Act, 2008",
+   "assented": "2008-10-08",
+   "url": "https://www.ontario.ca/laws/statute/s08015",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2008, c. 17",
+   "title": "Photo Card Act, 2008",
+   "assented": "2008-11-27",
+   "url": "https://www.ontario.ca/laws/statute/s08017",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2009, c. 4",
+   "title": "Countering Distracted Driving and Promoting Green Transportation Act, 2009",
+   "assented": "2009-04-23",
+   "url": "https://www.ontario.ca/laws/statute/s09004",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2009, c. 5",
+   "title": "Road Safety Act, 2009",
+   "assented": "2009-04-23",
+   "url": "https://www.ontario.ca/laws/statute/s09005",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2009, c. 9",
+   "title": "Employment Standards Amendment Act (Temporary Help Agencies), 2009",
+   "assented": "2009-05-06",
+   "url": "https://www.ontario.ca/laws/statute/s09009",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2009, c. 16",
+   "title": "Employment Standards Amendment Act (Organ Donor Leave), 2009",
+   "assented": "2009-06-05",
+   "url": "https://www.ontario.ca/laws/statute/s09016",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2009, c. 19",
+   "title": "Toxics Reduction Act, 2009",
+   "assented": "2009-06-05",
+   "url": "https://www.ontario.ca/laws/statute/s09019",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2009, c. 32",
+   "title": "Employment Protection for Foreign Nationals Act (Live-in Caregivers and Others), 2009",
+   "assented": "2009-12-15",
+   "url": "https://www.ontario.ca/laws/statute/s09032",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2009, c. 33",
+   "title": "Good Government Act, 2009 ",
+   "assented": "2009-12-15",
+   "url": "https://www.ontario.ca/laws/statute/s09033",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2010, c. 8",
+   "title": "Energy Consumer Protection Act, 2010",
+   "assented": "2010-05-18",
+   "url": "https://www.ontario.ca/laws/statute/s10008",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2010, c. 15",
+   "title": "Not-for-Profit Corporations Act, 2010",
+   "assented": "2010-10-25",
+   "url": "https://www.ontario.ca/laws/statute/s10015",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2010, c. 16",
+   "title": "Open for Business Act, 2010",
+   "assented": "2010-10-25",
+   "url": "https://www.ontario.ca/laws/statute/s10016",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2011, c. 1",
+   "title": "Good Government Act, 2011",
+   "assented": "2011-03-30",
+   "url": "https://www.ontario.ca/laws/statute/s11001",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2011, c. 6",
+   "title": "Strong Communities through Affordable Housing Act, 2011",
+   "assented": "2011-05-04",
+   "url": "https://www.ontario.ca/laws/statute/s11006",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2011, c. 9",
+   "title": "Better Tomorrow for Ontario Act (Budget Measures), 2011",
+   "assented": "2011-05-12",
+   "url": "https://www.ontario.ca/laws/statute/s11009",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2012, c. 6",
+   "title": "Residential Tenancies Amendment Act (Rent Increase Guideline), 2012",
+   "assented": "2012-06-19",
+   "url": "https://www.ontario.ca/laws/statute/s12006",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2012, c. 8",
+   "title": "Strong Action for Ontario Act (Budget Measures), 2012",
+   "assented": "2012-06-20",
+   "url": "https://www.ontario.ca/laws/statute/s12008",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2013, c. 3",
+   "title": "Non-profit Housing Co-operatives Statute Law Amendment Act, 2013",
+   "assented": "2013-09-26",
+   "url": "https://www.ontario.ca/laws/statute/s13003",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2013, c. 13",
+   "title": "Stronger Protection for Ontario Consumers Act, 2013",
+   "assented": "2013-12-12",
+   "url": "https://www.ontario.ca/laws/statute/s13013",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2014, c. 5",
+   "title": "School Boards Collective Bargaining Act, 2014",
+   "assented": "2014-04-09",
+   "url": "https://www.ontario.ca/laws/statute/s14005",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2014, c. 6",
+   "title": "Employment Standards Amendment Act (Leaves to Help Families), 2014",
+   "assented": "2014-04-29",
+   "url": "https://www.ontario.ca/laws/statute/s14006",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2014, c. 9",
+   "title": "Fighting Fraud and Reducing Automobile Insurance Rates Act, 2014",
+   "assented": "2014-11-20",
+   "url": "https://www.ontario.ca/laws/statute/s14009",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2014, c. 10",
+   "title": "Stronger Workplaces for a Stronger Economy Act, 2014",
+   "assented": "2014-11-20",
+   "url": "https://www.ontario.ca/laws/statute/s14010",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2015, c. 14",
+   "title": "Transportation Statute Law Amendment Act (Making Ontario's Roads Safer), 2015",
+   "assented": "2015-06-02",
+   "url": "https://www.ontario.ca/laws/statute/s15014",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2015, c. 27",
+   "title": "Strengthening and Improving Government Act, 2015",
+   "assented": "2015-12-03",
+   "url": "https://www.ontario.ca/laws/statute/s15027",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2015, c. 32",
+   "title": "Protecting Employees' Tips Act, 2015",
+   "assented": "2015-12-10",
+   "url": "https://www.ontario.ca/laws/statute/s15032",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2015, c. 38",
+   "title": "Budget Measures Act, 2015",
+   "assented": "2015-12-10",
+   "url": "https://www.ontario.ca/laws/statute/s15038",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2016, c. 2",
+   "title": "Sexual Violence and Harassment Action Plan Act (Supporting Survivors and Challenging Sexual Violence and Harassment), 2016",
+   "assented": "2016-03-08",
+   "url": "https://www.ontario.ca/laws/statute/s16002",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2016, c. 5",
+   "title": "Jobs for Today and Tomorrow Act (Budget Measures), 2016",
+   "assented": "2016-04-19",
+   "url": "https://www.ontario.ca/laws/statute/s16005",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2016, c. 23",
+   "title": "All Families Are Equal Act (Parentage and Related Registrations Statute Law Amendment), 2016",
+   "assented": "2016-12-05",
+   "url": "https://www.ontario.ca/laws/statute/s16023",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2016, c. 25",
+   "title": "Promoting Affordable Housing Act, 2016",
+   "assented": "2016-12-08",
+   "url": "https://www.ontario.ca/laws/statute/s16025",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2016, c. 30",
+   "title": "Patients First Act, 2016",
+   "assented": "2016-12-08",
+   "url": "https://www.ontario.ca/laws/statute/s16030",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2017, c. 2",
+   "title": "Burden Reduction Act, 2017",
+   "assented": "2017-03-22",
+   "url": "https://www.ontario.ca/laws/statute/s17002",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2017, c. 9",
+   "title": "Safer School Zones Act, 2017",
+   "assented": "2017-05-30",
+   "url": "https://www.ontario.ca/laws/statute/s17009",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2017, c. 13",
+   "title": "Rental Fairness Act, 2017",
+   "assented": "2017-05-30",
+   "url": "https://www.ontario.ca/laws/statute/s17013",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2017, c. 14",
+   "title": "Supporting Children, Youth and Families Act, 2017",
+   "assented": "2017-06-01",
+   "url": "https://www.ontario.ca/laws/statute/s17014",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2017, c. 22",
+   "title": "Fair Workplaces, Better Jobs Act, 2017",
+   "assented": "2017-11-27",
+   "url": "https://www.ontario.ca/laws/statute/s17022",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2017, c. 26",
+   "title": "Cannabis, Smoke-Free Ontario and Road Safety Statute Law Amendment Act, 2017",
+   "assented": "2017-12-12",
+   "url": "https://www.ontario.ca/laws/statute/s17026",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2017, c. 34",
+   "title": "Stronger, Fairer Ontario Act (Budget Measures), 2017",
+   "assented": "2017-12-14",
+   "url": "https://www.ontario.ca/laws/statute/s17034",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2018, c. 12",
+   "title": "Cannabis Statute Law Amendment Act, 2018",
+   "assented": "2018-10-17",
+   "url": "https://www.ontario.ca/laws/statute/s18012",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2018, c. 14",
+   "title": "Making Ontario Open for Business Act, 2018",
+   "assented": "2018-11-21",
+   "url": "https://www.ontario.ca/laws/statute/s18014",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2018, c. 17",
+   "title": "Restoring Trust, Transparency and Accountability Act, 2018",
+   "assented": "2018-12-06",
+   "url": "https://www.ontario.ca/laws/statute/s18017",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2019, c. 1",
+   "title": "Comprehensive Ontario Police Services Act, 2019",
+   "assented": "2019-03-26",
+   "url": "https://www.ontario.ca/laws/statute/s19001",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2019, c. 4",
+   "title": "Restoring Ontario's Competitiveness Act, 2019",
+   "assented": "2019-04-03",
+   "url": "https://www.ontario.ca/laws/statute/s19004",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2019, c. 5",
+   "title": "The People's Health Care Act, 2019",
+   "assented": "2019-04-18",
+   "url": "https://www.ontario.ca/laws/statute/s19005",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2019, c. 7",
+   "title": "Protecting What Matters Most Act (Budget Measures), 2019",
+   "assented": "2019-05-29",
+   "url": "https://www.ontario.ca/laws/statute/s19007",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2019, c. 8",
+   "title": "Getting Ontario Moving Act (Transportation Statute Law Amendment), 2019",
+   "assented": "2019-06-06",
+   "url": "https://www.ontario.ca/laws/statute/s19008",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2019, c. 12",
+   "title": "Protecting a Sustainable Public Sector for Future Generations Act, 2019",
+   "assented": "2019-11-07",
+   "url": "https://www.ontario.ca/laws/statute/s19012",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2019, c. 14",
+   "title": "Better for People, Smarter for Business Act, 2019",
+   "assented": "2019-12-10",
+   "url": "https://www.ontario.ca/laws/statute/s19014",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2019, c. 15",
+   "title": "Plan to Build Ontario Together Act, 2019",
+   "assented": "2019-12-10",
+   "url": "https://www.ontario.ca/laws/statute/s19015",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2019, c. 18",
+   "title": "Reserved Parking for Electric Vehicle Charging Act, 2019",
+   "assented": "2019-12-12",
+   "url": "https://www.ontario.ca/laws/statute/s19018",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2020, c. 1",
+   "title": "Trust in Real Estate Services Act, 2020",
+   "assented": "2020-03-04",
+   "url": "https://www.ontario.ca/laws/statute/s20001",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2020, c. 3",
+   "title": "Employment Standards Amendment Act (Infectious Disease Emergencies), 2020",
+   "assented": "2020-03-19",
+   "url": "https://www.ontario.ca/laws/statute/s20003",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2020, c. 16",
+   "title": "Protecting Tenants and Strengthening Community Housing Act, 2020",
+   "assented": "2020-07-21",
+   "url": "https://www.ontario.ca/laws/statute/s20016",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2020, c. 23",
+   "title": "Helping Tenants and Small Businesses Act, 2020",
+   "assented": "2020-10-01",
+   "url": "https://www.ontario.ca/laws/statute/s20023",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2020, c. 29",
+   "title": "Main Street Recovery Act, 2020",
+   "assented": "2020-11-30",
+   "url": "https://www.ontario.ca/laws/statute/s20029",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2020, c. 34",
+   "title": "Better for People, Smarter for Business Act, 2020",
+   "assented": "2020-12-08",
+   "url": "https://www.ontario.ca/laws/statute/s20034",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2020, c. 36",
+   "title": "Protect, Support and Recover from COVID-19 Act (Budget Measures), 2020",
+   "assented": "2020-12-08",
+   "url": "https://www.ontario.ca/laws/statute/s20036",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2021, c. 4",
+   "title": "Accelerating Access to Justice Act, 2021",
+   "assented": "2021-04-19",
+   "url": "https://www.ontario.ca/laws/statute/s21004",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2021, c. 9",
+   "title": "COVID-19 Putting Workers First Act, 2021",
+   "assented": "2021-04-29",
+   "url": "https://www.ontario.ca/laws/statute/s21009",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2021, c. 13",
+   "title": "Safer School Buses Act, 2021",
+   "assented": "2021-05-12",
+   "url": "https://www.ontario.ca/laws/statute/s21013",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2021, c. 25",
+   "title": "Supporting Recovery and Competitiveness Act, 2021",
+   "assented": "2021-06-03",
+   "url": "https://www.ontario.ca/laws/statute/s21025",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2021, c. 26",
+   "title": "Moving Ontarians More Safely Act, 2021",
+   "assented": "2021-06-03",
+   "url": "https://www.ontario.ca/laws/statute/s21026",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2021, c. 35",
+   "title": "Working for Workers Act, 2021",
+   "assented": "2021-12-02",
+   "url": "https://www.ontario.ca/laws/statute/s21035",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2021, c. 39",
+   "title": "Providing More Care, Protecting Seniors, and Building More Beds Act, 2021",
+   "assented": "2021-12-09",
+   "url": "https://www.ontario.ca/laws/statute/s21039",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2021, c. 40",
+   "title": "Build Ontario Act (Budget Measures), 2021",
+   "assented": "2021-12-09",
+   "url": "https://www.ontario.ca/laws/statute/s21040",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2022, c. 2",
+   "title": "Fewer Fees, Better Services Act, 2022",
+   "assented": "2022-03-03",
+   "url": "https://www.ontario.ca/laws/statute/s22002",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2022, c. 7",
+   "title": "Working for Workers Act, 2022",
+   "assented": "2022-04-11",
+   "url": "https://www.ontario.ca/laws/statute/s22007",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2022, c. 10",
+   "title": "Keeping Ontario Open for Business Act, 2022",
+   "assented": "2022-04-14",
+   "url": "https://www.ontario.ca/laws/statute/s22010",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2023, c. 9",
+   "title": "Less Red Tape, Stronger Economy Act, 2023",
+   "assented": "2023-06-08",
+   "url": "https://www.ontario.ca/laws/statute/s23009",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2023, c. 10",
+   "title": "Helping Homebuyers, Protecting Tenants Act, 2023",
+   "assented": "2023-06-08",
+   "url": "https://www.ontario.ca/laws/statute/s23010",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2023, c. 15",
+   "title": "Working for Workers Act, 2023",
+   "assented": "2023-10-26",
+   "url": "https://www.ontario.ca/laws/statute/s23015",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2024, c. 2",
+   "title": "Enhancing Access to Justice Act, 2024",
+   "assented": "2024-03-06",
+   "url": "https://www.ontario.ca/laws/statute/s24002",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2024, c. 3",
+   "title": "Working for Workers Four Act, 2024 ",
+   "assented": "2024-03-21",
+   "url": "https://www.ontario.ca/laws/statute/s24003",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2024, c. 9",
+   "title": "Get It Done Act, 2024",
+   "assented": "2024-05-16",
+   "url": "https://www.ontario.ca/laws/statute/s24009",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2024, c. 19",
+   "title": "Working for Workers Five Act, 2024",
+   "assented": "2024-10-28",
+   "url": "https://www.ontario.ca/laws/statute/s24019",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2024, c. 21",
+   "title": "Safer Roads and Communities Act, 2024",
+   "assented": "2024-11-19",
+   "url": "https://www.ontario.ca/laws/statute/s24021",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2024, c. 25",
+   "title": "Reducing Gridlock, Saving You Time Act, 2024",
+   "assented": "2024-11-25",
+   "url": "https://www.ontario.ca/laws/statute/s24025",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2024, c. 27",
+   "title": "Safer Streets, Stronger Communities Act, 2024",
+   "assented": "2024-12-04",
+   "url": "https://www.ontario.ca/laws/statute/s24027",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2024, c. 28",
+   "title": "Cutting Red Tape, Building Ontario Act, 2024",
+   "assented": "2024-12-04",
+   "url": "https://www.ontario.ca/laws/statute/s24028",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2024, c. 41",
+   "title": "Working for Workers Six Act, 2024",
+   "assented": "2024-12-19",
+   "url": "https://www.ontario.ca/laws/statute/s24041",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2025, c. 6",
+   "title": "Protect Ontario Through Safer Streets and Stronger Communities Act, 2025",
+   "assented": "2025-06-05",
+   "url": "https://www.ontario.ca/laws/statute/s25006",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2025, c. 10",
+   "title": "Plan to Protect Ontario Act (Budget Measures), 2025",
+   "assented": "2025-06-05",
+   "url": "https://www.ontario.ca/laws/statute/s25010",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2025, c. 11",
+   "title": "Building a More Competitive Economy Act, 2025",
+   "assented": "2025-11-03",
+   "url": "https://www.ontario.ca/laws/statute/s25011",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2025, c. 13",
+   "title": "Working for Workers Seven Act, 2025",
+   "assented": "2025-11-27",
+   "url": "https://www.ontario.ca/laws/statute/s25013",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2025, c. 14",
+   "title": "Fighting Delays, Building Faster Act, 2025",
+   "assented": "2025-11-27",
+   "url": "https://www.ontario.ca/laws/statute/s25014",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2025, c. 27",
+   "title": "Buy Ontario Act, 2025",
+   "assented": "2025-12-11",
+   "url": "https://www.ontario.ca/laws/statute/s25027",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  }
+ ]
+}
