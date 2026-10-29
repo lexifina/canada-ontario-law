@@ -1,0 +1,27 @@
+# Ontario Public Service Employees’ Union Pension Act, 1994 (94o17)
+
+<https://www.ontario.ca/laws/statute/94o17>
+
+4 point-in-time versions on e-Laws, from 1996-01-30 (the latest from 2019-06-08). Changes counted without layout-only changes.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Title | [intro.md](intro.md) | 0 |  |
+| s. 1 | [s-001.md](s-001.md) | 1 | 2009-12-15 |
+| s. 2 | [s-002.md](s-002.md) | 1 | 2009-12-15 |
+| s. 3 | [s-003.md](s-003.md) | 0 |  |
+| s. 4 | [s-004.md](s-004.md) | 1 | 2009-12-15 |
+| s. 5 | [s-005.md](s-005.md) | 0 |  |
+| s. 6 | [s-006.md](s-006.md) | 1 | 2009-12-15 |
+| s. 7 | [s-007.md](s-007.md) | 0 |  |
+| s. 8 | [s-008.md](s-008.md) | 1 | 2009-12-15 |
+| s. 9 | [s-009.md](s-009.md) | 0 |  |
+| s. 10 | [s-010.md](s-010.md) | 1 | 2009-12-15 |
+| s. 11 | [s-011.md](s-011.md) | 1 | 2009-12-15 |
+| s. 14 | [s-014.md](s-014.md) | 1 | 2009-12-15 |
+| s. 14.1 | [s-014.1.md](s-014.1.md) | 1 | 2019-06-08 |
+| s. 15-20 | [s-015-020.md](s-015-020.md) | 1 | 2009-12-15 |
+| s. 21 | [s-021.md](s-021.md) | 0 |  |
+| s. 21.1 | [s-021.1.md](s-021.1.md) | 1 | 2009-12-15 |
+| s. 22 | [s-022.md](s-022.md) | 0 |  |
+| s. 23 | [s-023.md](s-023.md) | 0 |  |
