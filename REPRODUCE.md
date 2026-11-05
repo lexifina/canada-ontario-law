@@ -435,7 +435,9 @@ Made by `tools/append/ontario_append.py` (with the parser, evidence rules and me
 | 5 | 2026-11-05 | 80 | 167 | 168 | 0 | none |
 | 6 | 2026-11-05 | 80 | 338 | 336 | 0 | none |
 | 7 | 2026-11-05 | 80 | 1102 | 1268 | 0 | none |
+| 7 | 2026-11-05 | 79 | 1011 | 1143 | 0 | 90m01 |
 
 Version-list repairs in batch 7 (build.version_list's rules):
 
-- 90c14 v22 (2019-05-30): listed from 2019-05-29, before v21 ends (2019-05-29); starts 2019-05-30
+- 90h06 v0 (2023-09-25): last day 2015-06-30 before its first day ignored
+- 90m31 v0 (2021-06-01): last day 2018-12-05 before its first day ignored

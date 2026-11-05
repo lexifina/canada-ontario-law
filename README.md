@@ -11,7 +11,7 @@ This is not an official version (see [Licence](#licence)).
 <!-- appended-batches -->
 ## Appended acts (from 2026-11-05)
 
-Since 2026-11-05 the other statutes on e-Laws are appended to this history, a batch at a time, without changing any commit before them: 562 acts are in the record now (558 appended in 7 batches), of the 1288 statutes e-Laws lists. Each appended act is one block of commits in its own date order, so its dates run backwards from the commits above it; `tools/in_force_on.py` and readers date every version by its `In-force:` trailer, not by commit order. `data/appended.json` lists every batch.
+Since 2026-11-05 the other statutes on e-Laws are appended to this history, a batch at a time, without changing any commit before them: 641 acts are in the record now (637 appended in 8 batches), of the 1288 statutes e-Laws lists. Each appended act is one block of commits in its own date order, so its dates run backwards from the commits above it; `tools/in_force_on.py` and readers date every version by its `In-force:` trailer, not by commit order. `data/appended.json` lists every batch.
 
 ## The questions, as git commands
 
