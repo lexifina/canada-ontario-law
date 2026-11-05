@@ -1,67 +1,236 @@
 act,law,title,kind,assented,in_force,provisions,note,source
 90h08,"S.O. 1994, c. 27",,Act of the Legislative Assembly of Ontario,,2004-01-02,3,,
+02s32,"S.O. 2002, c. 32","Safe Drinking Water Act, 2002",Act of the Legislative Assembly of Ontario,2002-12-13,2004-05-12,3,,https://www.ontario.ca/laws/statute/s02032
+01o31,"S.O. 2004, c. 9","Greenbelt Protection Act, 2004",Act of the Legislative Assembly of Ontario,2004-06-24,2004-06-24,3,,https://www.ontario.ca/laws/statute/s04009
 00e41,"S.O. 2004, c. 15","Employment Standards Amendment Act (Family Medical Leave), 2004",Act of the Legislative Assembly of Ontario,2004-06-29,2004-06-29,4,,https://www.ontario.ca/laws/statute/s04015
+02s32,"S.O. 2002, c. 32","Safe Drinking Water Act, 2002",Act of the Legislative Assembly of Ontario,2002-12-13,2004-08-01,1,,https://www.ontario.ca/laws/statute/s02032
+04c05,"S.O. 2004, c. 5","Commitment to the Future of Medicare Act, 2004",Act of the Legislative Assembly of Ontario,2004-06-17,2004-09-23,15,,https://www.ontario.ca/laws/statute/s04005
+04c05,"S.O. 2004, c. 3","Health Information Protection Act, 2004",Act of the Legislative Assembly of Ontario,2004-05-20,2004-11-01,2,,https://www.ontario.ca/laws/statute/s04003
+04p03,"S.O. 2004, c. 3","Health Information Protection Act, 2004",Act of the Legislative Assembly of Ontario,2004-05-20,2004-11-01,74,,https://www.ontario.ca/laws/statute/s04003
+02l24,"S.O. 2002, c. 24","Justice Statute Law Amendment Act, 2002",Act of the Legislative Assembly of Ontario,2002-12-09,2004-11-04,1,,https://www.ontario.ca/laws/statute/s02024
+02l24,"S.O. 2004, c. 16","Tax Terminology Harmonization Act, 2004",Act of the Legislative Assembly of Ontario,2004-11-04,2004-11-04,1,,https://www.ontario.ca/laws/statute/s04016
+02c30,"S.O. 2002, c. 30","Consumer Protection Statute Law Amendment Act, 2002",Act of the Legislative Assembly of Ontario,2002-12-13,2004-11-30,2,,https://www.ontario.ca/laws/statute/s02030
+02r30,"S.O. 2002, c. 30","Consumer Protection Statute Law Amendment Act, 2002",Act of the Legislative Assembly of Ontario,2002-12-13,2004-11-30,2,,https://www.ontario.ca/laws/statute/s02030
+02l24,"S.O. 2004, c. 31","Budget Measures Act (Fall), 2004",Act of the Legislative Assembly of Ontario,2004-12-16,2004-12-16,1,,https://www.ontario.ca/laws/statute/s04031
+02p08,"S.O. 2004, c. 31","Budget Measures Act (Fall), 2004",Act of the Legislative Assembly of Ontario,2004-12-16,2004-12-16,1,,https://www.ontario.ca/laws/statute/s04031
 90h08,"S.O. 2004, c. 31","Budget Measures Act (Fall), 2004",Act of the Legislative Assembly of Ontario,2004-12-16,2004-12-16,3,,https://www.ontario.ca/laws/statute/s04031
 90h08,"S.O. 2002, c. 18","Government Efficiency Act, 2002",Act of the Legislative Assembly of Ontario,2002-11-26,2005-01-01,1,,https://www.ontario.ca/laws/statute/s02018
+04c05,"S.O. 2004, c. 5","Commitment to the Future of Medicare Act, 2004",Act of the Legislative Assembly of Ontario,2004-06-17,2005-02-03,7,,https://www.ontario.ca/laws/statute/s04005
+01f20,"S.O. 2001, c. 20","Food Safety and Quality Act, 2001",Act of the Legislative Assembly of Ontario,2001-12-05,2005-02-10,56,,https://www.ontario.ca/laws/statute/s01020
+01o31,"S.O. 2005, c. 1","Greenbelt Act, 2005",Act of the Legislative Assembly of Ontario,2005-02-24,2005-02-24,3,,https://www.ontario.ca/laws/statute/s05001
 00e41,"S.O. 2004, c. 21","Employment Standards Amendment Act (Hours of Work and Other Matters), 2004",Act of the Legislative Assembly of Ontario,2004-12-09,2005-03-01,14,,https://www.ontario.ca/laws/statute/s04021
 00e41,"S.O. 2005, c. 5","Spousal Relationships Statute Law Amendment Act, 2005",Act of the Legislative Assembly of Ontario,2005-03-09,2005-03-09,1,,https://www.ontario.ca/laws/statute/s05005
+02d14,"S.O. 2002, c. 14","Emergency Readiness Act, 2002",Act of the Legislative Assembly of Ontario,2002-11-19,2005-03-09,1,,https://www.ontario.ca/laws/statute/s02014
+02d14,"S.O. 2005, c. 5","Spousal Relationships Statute Law Amendment Act, 2005",Act of the Legislative Assembly of Ontario,2005-03-09,2005-03-09,1,,https://www.ontario.ca/laws/statute/s05005
+02p02,"S.O. 2005, c. 5","Spousal Relationships Statute Law Amendment Act, 2005",Act of the Legislative Assembly of Ontario,2005-03-09,2005-03-09,1,,https://www.ontario.ca/laws/statute/s05005
 00e41,"S.O. 2004, c. 15","Employment Standards Amendment Act (Family Medical Leave), 2004",Act of the Legislative Assembly of Ontario,2004-06-29,2005-06-13,3,,https://www.ontario.ca/laws/statute/s04015
+01a10,"S.O. 2005, c. 15","Labour Relations Statute Law Amendment Act, 2005",Act of the Legislative Assembly of Ontario,2005-06-13,2005-06-13,2,,https://www.ontario.ca/laws/statute/s05015
 90h08,"S.O. 2005, c. 14","Highway Traffic Amendment Act (School Crossing Guards), 2005",Act of the Legislative Assembly of Ontario,2005-06-13,2005-06-13,1,,https://www.ontario.ca/laws/statute/s05014
+00a03,"S.O. 2000, c. 3","Arthur Wishart Act (Franchise Disclosure), 2000",Act of the Legislative Assembly of Ontario,2000-06-08,2005-07-01,13,,https://www.ontario.ca/laws/statute/s00003
+00a03,"S.O. 2001, c. 9","Government Efficiency Act, 2001",Act of the Legislative Assembly of Ontario,2001-06-29,2005-07-01,1,,https://www.ontario.ca/laws/statute/s01009
+02c30,"S.O. 2002, c. 30","Consumer Protection Statute Law Amendment Act, 2002",Act of the Legislative Assembly of Ontario,2002-12-13,2005-07-30,89,,https://www.ontario.ca/laws/statute/s02030
+02c30,"S.O. 2004, c. 19","Ministry of Consumer and Business Services Statute Law Amendment Act, 2004",Act of the Legislative Assembly of Ontario,2004-11-30,2005-07-30,35,,https://www.ontario.ca/laws/statute/s04019
+05m09,"S.O. 2005, c. 9","Mandatory Gunshot Wounds Reporting Act, 2005",Act of the Legislative Assembly of Ontario,2005-06-13,2005-09-01,6,,https://www.ontario.ca/laws/statute/s05009
 90h08,"S.O. 2004, c. 22","Highway Traffic Statute Law Amendment Act (Child and Youth Safety), 2004",Act of the Legislative Assembly of Ontario,2004-12-09,2005-09-01,6,,https://www.ontario.ca/laws/statute/s04022
+02o08e,"S.O. 2004, c. 8","Public Accounting Act, 2004",Act of the Legislative Assembly of Ontario,2004-06-17,2005-11-01,1,,https://www.ontario.ca/laws/statute/s04008
+02t28,"S.O. 2004, c. 8","Public Accounting Act, 2004",Act of the Legislative Assembly of Ontario,2004-06-17,2005-11-01,1,,https://www.ontario.ca/laws/statute/s04008
+02u08,"S.O. 2004, c. 8","Public Accounting Act, 2004",Act of the Legislative Assembly of Ontario,2004-06-17,2005-11-01,1,,https://www.ontario.ca/laws/statute/s04008
+04p08,"S.O. 2004, c. 8","Public Accounting Act, 2004",Act of the Legislative Assembly of Ontario,2004-06-17,2005-11-01,46,,https://www.ontario.ca/laws/statute/s04008
+01o32,"S.O. 2005, c. 11","Accessibility for Ontarians with Disabilities Act, 2005",Act of the Legislative Assembly of Ontario,2005-06-13,2005-11-04,1,,https://www.ontario.ca/laws/statute/s05011
+02r30,"S.O. 2004, c. 19","Ministry of Consumer and Business Services Statute Law Amendment Act, 2004",Act of the Legislative Assembly of Ontario,2004-11-30,2005-11-07,3,,https://www.ontario.ca/laws/statute/s04019
+04g20,"S.O. 2004, c. 20","Government Advertising Act, 2004",Act of the Legislative Assembly of Ontario,2004-12-09,2005-11-21,12,,https://www.ontario.ca/laws/statute/s04020
 90h08,"S.O. 2005, c. 26","Transportation Statute Law Amendment Act, 2005",Act of the Legislative Assembly of Ontario,2005-11-21,2005-11-21,13,,https://www.ontario.ca/laws/statute/s05026
 90h08,"S.O. 2005, c. 26","Transportation Statute Law Amendment Act, 2005",Act of the Legislative Assembly of Ontario,2005-11-21,2005-12-01,3,,https://www.ontario.ca/laws/statute/s05026
+01r28,"S.O. 2005, c. 33","Law Enforcement and Forfeited Property Management Statute Law Amendment Act, 2005",Act of the Legislative Assembly of Ontario,2005-12-15,2005-12-15,14,,https://www.ontario.ca/laws/statute/s05033
+02p02,"S.O. 2005, c. 33","Law Enforcement and Forfeited Property Management Statute Law Amendment Act, 2005",Act of the Legislative Assembly of Ontario,2005-12-15,2005-12-15,6,,https://www.ontario.ca/laws/statute/s05033
+02t28,"S.O. 2005, c. 31","Budget Measures Act, 2005 (No. 2) ",Act of the Legislative Assembly of Ontario,2005-12-15,2005-12-15,2,,https://www.ontario.ca/laws/statute/s05031
+03a09,"S.O. 2005, c. 31","Budget Measures Act, 2005 (No. 2) ",Act of the Legislative Assembly of Ontario,2005-12-15,2005-12-15,1,,https://www.ontario.ca/laws/statute/s05031
 90h08,"S.O. 2005, c. 32","Safe Streets Statute Law Amendment Act, 2005",Act of the Legislative Assembly of Ontario,2005-12-15,2005-12-15,1,,https://www.ontario.ca/laws/statute/s05032
+05s07,"S.O. 2005, c. 7","Sabrina's Law, 2005",Act of the Legislative Assembly of Ontario,2005-06-13,2006-01-01,3,,https://www.ontario.ca/laws/statute/s05007
 90h08,"S.O. 2002, c. 18","Government Efficiency Act, 2002",Act of the Legislative Assembly of Ontario,2002-11-26,2006-01-01,19,,https://www.ontario.ca/laws/statute/s02018
 90h08,"S.O. 2002, c. 22","Keeping the Promise for a Strong Economy Act (Budget Measures), 2002",Act of the Legislative Assembly of Ontario,2002-12-09,2006-01-01,0,named only by provisions changed together with another law,https://www.ontario.ca/laws/statute/s02022
 90h08,"S.O. 2005, c. 26","Transportation Statute Law Amendment Act, 2005",Act of the Legislative Assembly of Ontario,2005-11-21,2006-01-01,1,,https://www.ontario.ca/laws/statute/s05026
 90h08,"S.O. 2005, c. 26","Transportation Statute Law Amendment Act, 2005",Act of the Legislative Assembly of Ontario,2005-11-21,2006-02-15,3,,https://www.ontario.ca/laws/statute/s05026
 90h08,"S.O. 2005, c. 31","Budget Measures Act, 2005 (No. 2) ",Act of the Legislative Assembly of Ontario,2005-12-15,2006-03-01,3,,https://www.ontario.ca/laws/statute/s05031
 90h08,"S.O. 2005, c. 26","Transportation Statute Law Amendment Act, 2005",Act of the Legislative Assembly of Ontario,2005-11-21,2006-03-15,5,,https://www.ontario.ca/laws/statute/s05026
+04c05,"S.O. 2006, c. 4","Local Health System Integration Act, 2006",Act of the Legislative Assembly of Ontario,2006-03-28,2006-03-28,1,,https://www.ontario.ca/laws/statute/s06004
+04p03,"S.O. 2006, c. 4","Local Health System Integration Act, 2006",Act of the Legislative Assembly of Ontario,2006-03-28,2006-03-28,4,,https://www.ontario.ca/laws/statute/s06004
+02r30,"S.O. 2002, c. 30","Consumer Protection Statute Law Amendment Act, 2002",Act of the Legislative Assembly of Ontario,2002-12-13,2006-03-31,33,,https://www.ontario.ca/laws/statute/s02030
+02r30,"S.O. 2004, c. 8","Public Accounting Act, 2004",Act of the Legislative Assembly of Ontario,2004-06-17,2006-03-31,0,named only by provisions changed together with another law,https://www.ontario.ca/laws/statute/s04008
+02r30,"S.O. 2004, c. 19","Ministry of Consumer and Business Services Statute Law Amendment Act, 2004",Act of the Legislative Assembly of Ontario,2004-11-30,2006-03-31,17,,https://www.ontario.ca/laws/statute/s04019
 90h08,"S.O. 2005, c. 26","Transportation Statute Law Amendment Act, 2005",Act of the Legislative Assembly of Ontario,2005-11-21,2006-03-31,7,,https://www.ontario.ca/laws/statute/s05026
+04c05,"S.O. 2004, c. 5","Commitment to the Future of Medicare Act, 2004",Act of the Legislative Assembly of Ontario,2004-06-17,2006-06-17,1,,https://www.ontario.ca/laws/statute/s04005
+00c01,"S.O. 2006, c. 19","Good Government Act, 2006",Act of the Legislative Assembly of Ontario,2006-06-22,2006-06-22,1,,https://www.ontario.ca/laws/statute/s06019
 00e41,"S.O. 2006, c. 19","Good Government Act, 2006",Act of the Legislative Assembly of Ontario,2006-06-22,2006-06-22,4,,https://www.ontario.ca/laws/statute/s06019
+00p04,"S.O. 2000, c. 4","Parental Responsibility Act, 2000",Act of the Legislative Assembly of Ontario,2000-06-08,2006-06-22,8,,https://www.ontario.ca/laws/statute/s00004
+00p04,"S.O. 2006, c. 19","Good Government Act, 2006",Act of the Legislative Assembly of Ontario,2006-06-22,2006-06-22,3,,https://www.ontario.ca/laws/statute/s06019
+00t08,"S.O. 2006, c. 19","Good Government Act, 2006",Act of the Legislative Assembly of Ontario,2006-06-22,2006-06-22,1,,https://www.ontario.ca/laws/statute/s06019
+02o08f,"S.O. 2006, c. 19","Good Government Act, 2006",Act of the Legislative Assembly of Ontario,2006-06-22,2006-06-22,2,,https://www.ontario.ca/laws/statute/s06019
+02r30,"S.O. 2006, c. 19","Good Government Act, 2006",Act of the Legislative Assembly of Ontario,2006-06-22,2006-06-22,2,,https://www.ontario.ca/laws/statute/s06019
+02u08,"S.O. 2006, c. 19","Good Government Act, 2006",Act of the Legislative Assembly of Ontario,2006-06-22,2006-06-22,1,,https://www.ontario.ca/laws/statute/s06019
+04p08,"S.O. 2006, c. 19","Good Government Act, 2006",Act of the Legislative Assembly of Ontario,2006-06-22,2006-06-22,2,,https://www.ontario.ca/laws/statute/s06019
 90h08,"S.O. 2006, c. 19","Good Government Act, 2006",Act of the Legislative Assembly of Ontario,2006-06-22,2006-06-22,6,,https://www.ontario.ca/laws/statute/s06019
 90h08,"S.O. 2006, c. 20","Highway Traffic Amendment Act (Licence Suspensions), 2006",Act of the Legislative Assembly of Ontario,2006-06-22,2006-06-22,3,,https://www.ontario.ca/laws/statute/s06020
 00e41,"S.O. 2006, c. 13","Emergency Management Statute Law Amendment Act, 2006",Act of the Legislative Assembly of Ontario,2006-06-20,2006-06-30,4,,https://www.ontario.ca/laws/statute/s06013
+05p28,"S.O. 2005, c. 28","Budget Measures Act, 2005",Act of the Legislative Assembly of Ontario,2005-12-12,2006-09-18,61,,https://www.ontario.ca/laws/statute/s05028
+02l24,"S.O. 2006, c. 21","Access to Justice Act, 2006",Act of the Legislative Assembly of Ontario,2006-10-19,2006-10-19,2,,https://www.ontario.ca/laws/statute/s06021
+04p08,"S.O. 2006, c. 21","Access to Justice Act, 2006",Act of the Legislative Assembly of Ontario,2006-10-19,2006-10-19,1,,https://www.ontario.ca/laws/statute/s06021
 90h08,"S.O. 2006, c. 25","Highway Traffic Amendment Act (Seat Belts), 2006",Act of the Legislative Assembly of Ontario,2006-11-02,2006-12-01,2,,https://www.ontario.ca/laws/statute/s06025
+00t16,"S.O. 2006, c. 34","Ministry of Government Services Consumer Protection and Service Modernization Act, 2006",Act of the Legislative Assembly of Ontario,2006-12-20,2006-12-20,1,,https://www.ontario.ca/laws/statute/s06034
+02f33,"S.O. 2006, c. 34","Ministry of Government Services Consumer Protection and Service Modernization Act, 2006",Act of the Legislative Assembly of Ontario,2006-12-20,2006-12-20,1,,https://www.ontario.ca/laws/statute/s06034
+02l24,"S.O. 2006, c. 32","Municipal Statute Law Amendment Act, 2006",Act of the Legislative Assembly of Ontario,2006-12-20,2006-12-20,1,,https://www.ontario.ca/laws/statute/s06032
+02m30,"S.O. 2002, c. 30","Consumer Protection Statute Law Amendment Act, 2002",Act of the Legislative Assembly of Ontario,2002-12-13,2006-12-20,3,,https://www.ontario.ca/laws/statute/s02030
+02r30,"S.O. 2006, c. 34","Ministry of Government Services Consumer Protection and Service Modernization Act, 2006",Act of the Legislative Assembly of Ontario,2006-12-20,2006-12-20,3,,https://www.ontario.ca/laws/statute/s06034
 90h08,"S.O. 2006, c. 33","Budget Measures Act, 2006 (No. 2)",Act of the Legislative Assembly of Ontario,2006-12-20,2006-12-20,2,,https://www.ontario.ca/laws/statute/s06033
+01o32,"S.O. 2006, c. 32","Municipal Statute Law Amendment Act, 2006",Act of the Legislative Assembly of Ontario,2006-12-20,2007-01-01,1,,https://www.ontario.ca/laws/statute/s06032
+02n04,"S.O. 2006, c. 32","Municipal Statute Law Amendment Act, 2006",Act of the Legislative Assembly of Ontario,2006-12-20,2007-01-01,1,,https://www.ontario.ca/laws/statute/s06032
+02s32,"S.O. 2006, c. 32","Municipal Statute Law Amendment Act, 2006",Act of the Legislative Assembly of Ontario,2006-12-20,2007-01-01,3,,https://www.ontario.ca/laws/statute/s06032
+02t22,"S.O. 2006, c. 32","Municipal Statute Law Amendment Act, 2006",Act of the Legislative Assembly of Ontario,2006-12-20,2007-01-01,2,,https://www.ontario.ca/laws/statute/s06032
+02t28,"S.O. 2006, c. 32","Municipal Statute Law Amendment Act, 2006",Act of the Legislative Assembly of Ontario,2006-12-20,2007-01-01,2,,https://www.ontario.ca/laws/statute/s06032
+05a11,"S.O. 2006, c. 32","Municipal Statute Law Amendment Act, 2006",Act of the Legislative Assembly of Ontario,2006-12-20,2007-01-01,1,,https://www.ontario.ca/laws/statute/s06032
+05g01,"S.O. 2006, c. 23","Planning and Conservation Land Statute Law Amendment Act, 2006",Act of the Legislative Assembly of Ontario,2006-10-19,2007-01-01,1,,https://www.ontario.ca/laws/statute/s06023
+05g01,"S.O. 2006, c. 32","Municipal Statute Law Amendment Act, 2006",Act of the Legislative Assembly of Ontario,2006-12-20,2007-01-01,1,,https://www.ontario.ca/laws/statute/s06032
 90h08,"S.O. 2006, c. 11","Stronger City of Toronto for a Stronger Ontario Act, 2006",Act of the Legislative Assembly of Ontario,2006-06-12,2007-01-01,0,named only by provisions changed together with another law,https://www.ontario.ca/laws/statute/s06011
 90h08,"S.O. 2006, c. 32","Municipal Statute Law Amendment Act, 2006",Act of the Legislative Assembly of Ontario,2006-12-20,2007-01-01,4,,https://www.ontario.ca/laws/statute/s06032
+02c30,"S.O. 2006, c. 17","Residential Tenancies Act, 2006",Act of the Legislative Assembly of Ontario,2006-06-22,2007-01-31,1,,https://www.ontario.ca/laws/statute/s06017
+02r30,"S.O. 2006, c. 17","Residential Tenancies Act, 2006",Act of the Legislative Assembly of Ontario,2006-06-22,2007-01-31,1,,https://www.ontario.ca/laws/statute/s06017
+04p03,"S.O. 2006, c. 17","Residential Tenancies Act, 2006",Act of the Legislative Assembly of Ontario,2006-06-22,2007-01-31,1,,https://www.ontario.ca/laws/statute/s06017
 06r17,"S.O. 2006, c. 17","Residential Tenancies Act, 2006",Act of the Legislative Assembly of Ontario,2006-06-22,2007-01-31,242,,https://www.ontario.ca/laws/statute/s06017
 06r17,"S.O. 2006, c. 32","Municipal Statute Law Amendment Act, 2006",Act of the Legislative Assembly of Ontario,2006-12-20,2007-01-31,2,,https://www.ontario.ca/laws/statute/s06032
+00c01,"S.O. 2006, c. 34","Ministry of Government Services Consumer Protection and Service Modernization Act, 2006",Act of the Legislative Assembly of Ontario,2006-12-20,2007-04-01,1,,https://www.ontario.ca/laws/statute/s06034
 00e41,"S.O. 2006, c. 34","Ministry of Government Services Consumer Protection and Service Modernization Act, 2006",Act of the Legislative Assembly of Ontario,2006-12-20,2007-04-01,2,,https://www.ontario.ca/laws/statute/s06034
+02c30,"S.O. 2006, c. 34","Ministry of Government Services Consumer Protection and Service Modernization Act, 2006",Act of the Legislative Assembly of Ontario,2006-12-20,2007-04-01,5,,https://www.ontario.ca/laws/statute/s06034
+02r30,"S.O. 2006, c. 34","Ministry of Government Services Consumer Protection and Service Modernization Act, 2006",Act of the Legislative Assembly of Ontario,2006-12-20,2007-04-01,5,,https://www.ontario.ca/laws/statute/s06034
+04p03,"S.O. 2006, c. 34","Ministry of Government Services Consumer Protection and Service Modernization Act, 2006",Act of the Legislative Assembly of Ontario,2006-12-20,2007-04-01,1,,https://www.ontario.ca/laws/statute/s06034
+00p04,"S.O. 2006, c. 21","Access to Justice Act, 2006",Act of the Legislative Assembly of Ontario,2006-10-19,2007-05-01,2,,https://www.ontario.ca/laws/statute/s06021
+02n04,"S.O. 2006, c. 21","Access to Justice Act, 2006",Act of the Legislative Assembly of Ontario,2006-10-19,2007-05-01,2,,https://www.ontario.ca/laws/statute/s06021
+02s32,"S.O. 2006, c. 21","Access to Justice Act, 2006",Act of the Legislative Assembly of Ontario,2006-10-19,2007-05-01,1,,https://www.ontario.ca/laws/statute/s06021
+04p03,"S.O. 2006, c. 21","Access to Justice Act, 2006",Act of the Legislative Assembly of Ontario,2006-10-19,2007-05-01,1,,https://www.ontario.ca/laws/statute/s06021
+02s32,"S.O. 2002, c. 32","Safe Drinking Water Act, 2002",Act of the Legislative Assembly of Ontario,2002-12-13,2007-05-07,28,,https://www.ontario.ca/laws/statute/s02032
+01r28,"S.O. 2007, c. 13","Safer Roads for a Safer Ontario Act, 2007",Act of the Legislative Assembly of Ontario,2007-06-04,2007-06-04,13,,https://www.ontario.ca/laws/statute/s07013
+02l24,"S.O. 2007, c. 13","Safer Roads for a Safer Ontario Act, 2007",Act of the Legislative Assembly of Ontario,2007-06-04,2007-06-04,2,,https://www.ontario.ca/laws/statute/s07013
+02p02,"S.O. 2007, c. 13","Safer Roads for a Safer Ontario Act, 2007",Act of the Legislative Assembly of Ontario,2007-06-04,2007-06-04,2,,https://www.ontario.ca/laws/statute/s07013
+02s32,"S.O. 2007, c. 10","Health System Improvements Act, 2007",Act of the Legislative Assembly of Ontario,2007-06-04,2007-06-04,3,,https://www.ontario.ca/laws/statute/s07010
+04p03,"S.O. 2007, c. 10","Health System Improvements Act, 2007",Act of the Legislative Assembly of Ontario,2007-06-04,2007-06-04,22,,https://www.ontario.ca/laws/statute/s07010
 06r17,"S.O. 2007, c. 13","Safer Roads for a Safer Ontario Act, 2007",Act of the Legislative Assembly of Ontario,2007-06-04,2007-06-04,1,,https://www.ontario.ca/laws/statute/s07013
 90h08,"S.O. 2007, c. 13","Safer Roads for a Safer Ontario Act, 2007",Act of the Legislative Assembly of Ontario,2007-06-04,2007-06-04,16,,https://www.ontario.ca/laws/statute/s07013
+03k06,"S.O. 2003, c. 6","Kawartha Highlands Signature Site Park Act, 2003",Act of the Legislative Assembly of Ontario,2003-06-26,2007-06-15,9,,https://www.ontario.ca/laws/statute/s03006
+03k06,"S.O. 2006, c. 12","Provincial Parks and Conservation Reserves Act, 2006",Act of the Legislative Assembly of Ontario,2006-06-20,2007-06-15,11,,https://www.ontario.ca/laws/statute/s06012
 90h08,"S.O. 2005, c. 26","Transportation Statute Law Amendment Act, 2005",Act of the Legislative Assembly of Ontario,2005-11-21,2007-06-15,1,,https://www.ontario.ca/laws/statute/s05026
 90h08,"S.O. 2005, c. 26","Transportation Statute Law Amendment Act, 2005",Act of the Legislative Assembly of Ontario,2005-11-21,2007-07-01,1,,https://www.ontario.ca/laws/statute/s05026
+04c05,"S.O. 2006, c. 4","Local Health System Integration Act, 2006",Act of the Legislative Assembly of Ontario,2006-03-28,2007-07-18,14,,https://www.ontario.ca/laws/statute/s06004
 00e41,"S.O. 2006, c. 21","Access to Justice Act, 2006",Act of the Legislative Assembly of Ontario,2006-10-19,2007-07-25,2,,https://www.ontario.ca/laws/statute/s06021
+00t16,"S.O. 2006, c. 21","Access to Justice Act, 2006",Act of the Legislative Assembly of Ontario,2006-10-19,2007-07-25,1,,https://www.ontario.ca/laws/statute/s06021
+01a10,"S.O. 2006, c. 21","Access to Justice Act, 2006",Act of the Legislative Assembly of Ontario,2006-10-19,2007-07-25,1,,https://www.ontario.ca/laws/statute/s06021
+01o31,"S.O. 2004, c. 9","Greenbelt Protection Act, 2004",Act of the Legislative Assembly of Ontario,2004-06-24,2007-07-25,1,,https://www.ontario.ca/laws/statute/s04009
+01o31,"S.O. 2006, c. 21","Access to Justice Act, 2006",Act of the Legislative Assembly of Ontario,2006-10-19,2007-07-25,2,,https://www.ontario.ca/laws/statute/s06021
+01o32,"S.O. 2006, c. 21","Access to Justice Act, 2006",Act of the Legislative Assembly of Ontario,2006-10-19,2007-07-25,2,,https://www.ontario.ca/laws/statute/s06021
+02c30,"S.O. 2006, c. 21","Access to Justice Act, 2006",Act of the Legislative Assembly of Ontario,2006-10-19,2007-07-25,1,,https://www.ontario.ca/laws/statute/s06021
+02c34,"S.O. 2006, c. 21","Access to Justice Act, 2006",Act of the Legislative Assembly of Ontario,2006-10-19,2007-07-25,1,,https://www.ontario.ca/laws/statute/s06021
+02r30,"S.O. 2006, c. 21","Access to Justice Act, 2006",Act of the Legislative Assembly of Ontario,2006-10-19,2007-07-25,1,,https://www.ontario.ca/laws/statute/s06021
+02s32,"S.O. 2006, c. 21","Access to Justice Act, 2006",Act of the Legislative Assembly of Ontario,2006-10-19,2007-07-25,4,,https://www.ontario.ca/laws/statute/s06021
+05g01,"S.O. 2006, c. 21","Access to Justice Act, 2006",Act of the Legislative Assembly of Ontario,2006-10-19,2007-07-25,2,,https://www.ontario.ca/laws/statute/s06021
+05p13,"S.O. 2006, c. 21","Access to Justice Act, 2006",Act of the Legislative Assembly of Ontario,2006-10-19,2007-07-25,1,,https://www.ontario.ca/laws/statute/s06021
+05p28,"S.O. 2006, c. 21","Access to Justice Act, 2006",Act of the Legislative Assembly of Ontario,2006-10-19,2007-07-25,1,,https://www.ontario.ca/laws/statute/s06021
 06l21,"S.O. 2006, c. 21","Access to Justice Act, 2006",Act of the Legislative Assembly of Ontario,2006-10-19,2007-07-25,100,,https://www.ontario.ca/laws/statute/s06021
 90h08,"S.O. 2006, c. 21","Access to Justice Act, 2006",Act of the Legislative Assembly of Ontario,2006-10-19,2007-07-25,3,,https://www.ontario.ca/laws/statute/s06021
+00t16,"S.O. 2006, c. 34","Ministry of Government Services Consumer Protection and Service Modernization Act, 2006",Act of the Legislative Assembly of Ontario,2006-12-20,2007-08-01,10,,https://www.ontario.ca/laws/statute/s06034
 00e41,"S.O. 2006, c. 35","Public Service of Ontario Statute Law Amendment Act, 2006 ",Act of the Legislative Assembly of Ontario,2006-12-20,2007-08-20,2,,https://www.ontario.ca/laws/statute/s06035
+01f20,"S.O. 2006, c. 35","Public Service of Ontario Statute Law Amendment Act, 2006 ",Act of the Legislative Assembly of Ontario,2006-12-20,2007-08-20,1,,https://www.ontario.ca/laws/statute/s06035
+01o32,"S.O. 2006, c. 35","Public Service of Ontario Statute Law Amendment Act, 2006 ",Act of the Legislative Assembly of Ontario,2006-12-20,2007-08-20,2,,https://www.ontario.ca/laws/statute/s06035
+02n04,"S.O. 2006, c. 35","Public Service of Ontario Statute Law Amendment Act, 2006 ",Act of the Legislative Assembly of Ontario,2006-12-20,2007-08-20,5,,https://www.ontario.ca/laws/statute/s06035
+02s32,"S.O. 2006, c. 35","Public Service of Ontario Statute Law Amendment Act, 2006 ",Act of the Legislative Assembly of Ontario,2006-12-20,2007-08-20,10,,https://www.ontario.ca/laws/statute/s06035
+05a11,"S.O. 2006, c. 35","Public Service of Ontario Statute Law Amendment Act, 2006 ",Act of the Legislative Assembly of Ontario,2006-12-20,2007-08-20,1,,https://www.ontario.ca/laws/statute/s06035
+05p13,"S.O. 2006, c. 35","Public Service of Ontario Statute Law Amendment Act, 2006 ",Act of the Legislative Assembly of Ontario,2006-12-20,2007-08-20,1,,https://www.ontario.ca/laws/statute/s06035
 06r17,"S.O. 2006, c. 35","Public Service of Ontario Statute Law Amendment Act, 2006 ",Act of the Legislative Assembly of Ontario,2006-12-20,2007-08-20,1,,https://www.ontario.ca/laws/statute/s06035
+02u08,"S.O. 2002, c. 8","Keeping the Promise for Growth and Prosperity Act (2002 Budget), 2002",Act of the Legislative Assembly of Ontario,2002-06-27,2007-08-22,1,,https://www.ontario.ca/laws/statute/s02008
+05p34,"S.O. 2005, c. 34","Private Security and Investigative Services Act, 2005",Act of the Legislative Assembly of Ontario,2005-12-15,2007-08-23,52,,https://www.ontario.ca/laws/statute/s05034
+05p34,"S.O. 2006, c. 17","Residential Tenancies Act, 2006",Act of the Legislative Assembly of Ontario,2006-06-22,2007-08-23,1,,https://www.ontario.ca/laws/statute/s06017
+05p34,"S.O. 2006, c. 21","Access to Justice Act, 2006",Act of the Legislative Assembly of Ontario,2006-10-19,2007-08-23,1,,https://www.ontario.ca/laws/statute/s06021
+06a34,"S.O. 2006, c. 34","Ministry of Government Services Consumer Protection and Service Modernization Act, 2006",Act of the Legislative Assembly of Ontario,2006-12-20,2007-09-01,27,,https://www.ontario.ca/laws/statute/s06034
+04p03,"S.O. 2005, c. 25","Adoption Information Disclosure Act, 2005",Act of the Legislative Assembly of Ontario,2005-11-03,2007-09-17,1,,https://www.ontario.ca/laws/statute/s05025
 90h08,"S.O. 2007, c. 13","Safer Roads for a Safer Ontario Act, 2007",Act of the Legislative Assembly of Ontario,2007-06-04,2007-09-30,5,,https://www.ontario.ca/laws/statute/s07013
+02c30,"S.O. 2006, c. 34","Ministry of Government Services Consumer Protection and Service Modernization Act, 2006",Act of the Legislative Assembly of Ontario,2006-12-20,2007-10-01,1,,https://www.ontario.ca/laws/statute/s06034
 00e41,"S.O. 2007, c. 16","Fairness for Military Families Act (Employment Standards and Health Insurance), 2007",Act of the Legislative Assembly of Ontario,2007-12-03,2007-12-03,6,,https://www.ontario.ca/laws/statute/s07016
+02c30,"S.O. 2006, c. 34","Ministry of Government Services Consumer Protection and Service Modernization Act, 2006",Act of the Legislative Assembly of Ontario,2006-12-20,2008-01-01,4,,https://www.ontario.ca/laws/statute/s06034
+00t16,"S.O. 2007, c. 4","Regulatory Modernization Act, 2007",Act of the Legislative Assembly of Ontario,2007-05-17,2008-01-17,1,,https://www.ontario.ca/laws/statute/s07004
+01f20,"S.O. 2007, c. 4","Regulatory Modernization Act, 2007",Act of the Legislative Assembly of Ontario,2007-05-17,2008-01-17,1,,https://www.ontario.ca/laws/statute/s07004
+02c30,"S.O. 2007, c. 4","Regulatory Modernization Act, 2007",Act of the Legislative Assembly of Ontario,2007-05-17,2008-01-17,1,,https://www.ontario.ca/laws/statute/s07004
+02n04,"S.O. 2007, c. 4","Regulatory Modernization Act, 2007",Act of the Legislative Assembly of Ontario,2007-05-17,2008-01-17,1,,https://www.ontario.ca/laws/statute/s07004
+02r30,"S.O. 2007, c. 4","Regulatory Modernization Act, 2007",Act of the Legislative Assembly of Ontario,2007-05-17,2008-01-17,2,,https://www.ontario.ca/laws/statute/s07004
+01r28,"S.O. 2007, c. 13","Safer Roads for a Safer Ontario Act, 2007",Act of the Legislative Assembly of Ontario,2007-06-04,2008-02-20,11,,https://www.ontario.ca/laws/statute/s07013
 90h08,"S.O. 2007, c. 13","Safer Roads for a Safer Ontario Act, 2007",Act of the Legislative Assembly of Ontario,2007-06-04,2008-02-20,2,,https://www.ontario.ca/laws/statute/s07013
 90h08,"S.O. 2002, c. 18","Government Efficiency Act, 2002",Act of the Legislative Assembly of Ontario,2002-11-26,2008-06-16,2,,https://www.ontario.ca/laws/statute/s02018
+03k06,"S.O. 2007, c. 6","Endangered Species Act, 2007",Act of the Legislative Assembly of Ontario,2007-05-17,2008-06-30,1,,https://www.ontario.ca/laws/statute/s07006
+02c30,"S.O. 2006, c. 29","Mortgage Brokerages, Lenders and Administrators Act, 2006",Act of the Legislative Assembly of Ontario,2006-12-20,2008-07-01,1,,https://www.ontario.ca/laws/statute/s06029
 00e41,"S.O. 2008, c. 15","Colleges Collective Bargaining Act, 2008",Act of the Legislative Assembly of Ontario,2008-10-08,2008-10-08,2,,https://www.ontario.ca/laws/statute/s08015
+02l24,"S.O. 2008, c. 19","Budget Measures and Interim Appropriation Act, 2008 (No. 2)",Act of the Legislative Assembly of Ontario,2008-11-27,2008-11-27,6,,https://www.ontario.ca/laws/statute/s08019
+02s32,"S.O. 2007, c. 10","Health System Improvements Act, 2007",Act of the Legislative Assembly of Ontario,2007-06-04,2008-12-01,10,,https://www.ontario.ca/laws/statute/s07010
 90h08,"S.O. 2002, c. 18","Government Efficiency Act, 2002",Act of the Legislative Assembly of Ontario,2002-11-26,2008-12-01,3,,https://www.ontario.ca/laws/statute/s02018
+00c01,"S.O. 2008, c. 3","Christopher's Law (Sex Offender Registry) Amendment Act, 2008",Act of the Legislative Assembly of Ontario,2008-04-27,2008-12-05,8,,https://www.ontario.ca/laws/statute/s08003
+02n04,"S.O. 2006, c. 33","Budget Measures Act, 2006 (No. 2)",Act of the Legislative Assembly of Ontario,2006-12-20,2009-01-01,2,,https://www.ontario.ca/laws/statute/s06033
+02s32,"S.O. 2006, c. 33","Budget Measures Act, 2006 (No. 2)",Act of the Legislative Assembly of Ontario,2006-12-20,2009-01-01,1,,https://www.ontario.ca/laws/statute/s06033
 90h08,"S.O. 2008, c. 8","Highway Traffic Amendment Act (Speed-limiting Systems), 2008",Act of the Legislative Assembly of Ontario,2008-06-18,2009-01-01,1,,https://www.ontario.ca/laws/statute/s08008
 90h08,"S.O. 2008, c. 17","Photo Card Act, 2008",Act of the Legislative Assembly of Ontario,2008-11-27,2009-03-06,23,,https://www.ontario.ca/laws/statute/s08017
 90h08,"S.O. 2009, c. 5","Road Safety Act, 2009",Act of the Legislative Assembly of Ontario,2009-04-23,2009-04-23,33,,https://www.ontario.ca/laws/statute/s09005
 90h08,"S.O. 2007, c. 13","Safer Roads for a Safer Ontario Act, 2007",Act of the Legislative Assembly of Ontario,2007-06-04,2009-05-01,3,,https://www.ontario.ca/laws/statute/s07013
 90h08,"S.O. 2009, c. 5","Road Safety Act, 2009",Act of the Legislative Assembly of Ontario,2009-04-23,2009-05-01,0,named only by provisions changed together with another law,https://www.ontario.ca/laws/statute/s09005
+05g01,"S.O. 2009, c. 12","Green Energy and Green Economy Act, 2009 ",Act of the Legislative Assembly of Ontario,2009-05-14,2009-05-14,5,,https://www.ontario.ca/laws/statute/s09012
+05p13,"S.O. 2009, c. 12","Green Energy and Green Economy Act, 2009 ",Act of the Legislative Assembly of Ontario,2009-05-14,2009-05-14,1,,https://www.ontario.ca/laws/statute/s09012
 00e41,"S.O. 2009, c. 16","Employment Standards Amendment Act (Organ Donor Leave), 2009",Act of the Legislative Assembly of Ontario,2009-06-05,2009-06-26,3,,https://www.ontario.ca/laws/statute/s09016
+02c30,"S.O. 2008, c. 9","Payday Loans Act, 2008",Act of the Legislative Assembly of Ontario,2008-06-18,2009-07-01,8,,https://www.ontario.ca/laws/statute/s08009
 90h08,"S.O. 2009, c. 5","Road Safety Act, 2009",Act of the Legislative Assembly of Ontario,2009-04-23,2009-07-01,1,,https://www.ontario.ca/laws/statute/s09005
+02r30,"S.O. 2007, c. 7","Budget Measures and Interim Appropriation Act, 2007",Act of the Legislative Assembly of Ontario,2007-05-17,2009-10-01,3,,https://www.ontario.ca/laws/statute/s07007
 90h08,"S.O. 2009, c. 5","Road Safety Act, 2009",Act of the Legislative Assembly of Ontario,2009-04-23,2009-10-03,5,,https://www.ontario.ca/laws/statute/s09005
 90h08,"S.O. 2009, c. 4","Countering Distracted Driving and Promoting Green Transportation Act, 2009",Act of the Legislative Assembly of Ontario,2009-04-23,2009-10-26,2,,https://www.ontario.ca/laws/statute/s09004
 00e41,"S.O. 2009, c. 9","Employment Standards Amendment Act (Temporary Help Agencies), 2009",Act of the Legislative Assembly of Ontario,2009-05-06,2009-11-06,45,,https://www.ontario.ca/laws/statute/s09009
+00a03,"S.O. 2009, c. 33","Good Government Act, 2009 ",Act of the Legislative Assembly of Ontario,2009-12-15,2009-12-15,2,,https://www.ontario.ca/laws/statute/s09033
+00c01,"S.O. 2009, c. 33","Good Government Act, 2009 ",Act of the Legislative Assembly of Ontario,2009-12-15,2009-12-15,3,,https://www.ontario.ca/laws/statute/s09033
 00e41,"S.O. 2009, c. 33","Good Government Act, 2009 ",Act of the Legislative Assembly of Ontario,2009-12-15,2009-12-15,3,,https://www.ontario.ca/laws/statute/s09033
+00p13,"S.O. 2009, c. 33","Good Government Act, 2009 ",Act of the Legislative Assembly of Ontario,2009-12-15,2009-12-15,1,,https://www.ontario.ca/laws/statute/s09033
+00p18,"S.O. 2009, c. 33","Good Government Act, 2009 ",Act of the Legislative Assembly of Ontario,2009-12-15,2009-12-15,4,,https://www.ontario.ca/laws/statute/s09033
+00p36,"S.O. 2009, c. 33","Good Government Act, 2009 ",Act of the Legislative Assembly of Ontario,2009-12-15,2009-12-15,3,,https://www.ontario.ca/laws/statute/s09033
+00t16,"S.O. 2009, c. 33","Good Government Act, 2009 ",Act of the Legislative Assembly of Ontario,2009-12-15,2009-12-15,1,,https://www.ontario.ca/laws/statute/s09033
+02l24,"S.O. 2009, c. 33","Good Government Act, 2009 ",Act of the Legislative Assembly of Ontario,2009-12-15,2009-12-15,1,,https://www.ontario.ca/laws/statute/s09033
+02n04,"S.O. 2009, c. 33","Good Government Act, 2009 ",Act of the Legislative Assembly of Ontario,2009-12-15,2009-12-15,5,,https://www.ontario.ca/laws/statute/s09033
+02o08e,"S.O. 2009, c. 33","Good Government Act, 2009 ",Act of the Legislative Assembly of Ontario,2009-12-15,2009-12-15,1,,https://www.ontario.ca/laws/statute/s09033
+02o08f,"S.O. 2009, c. 33","Good Government Act, 2009 ",Act of the Legislative Assembly of Ontario,2009-12-15,2009-12-15,1,,https://www.ontario.ca/laws/statute/s09033
+02r30,"S.O. 2009, c. 33","Good Government Act, 2009 ",Act of the Legislative Assembly of Ontario,2009-12-15,2009-12-15,2,,https://www.ontario.ca/laws/statute/s09033
+02s32,"S.O. 2009, c. 33","Good Government Act, 2009 ",Act of the Legislative Assembly of Ontario,2009-12-15,2009-12-15,4,,https://www.ontario.ca/laws/statute/s09033
+02u08,"S.O. 2009, c. 33","Good Government Act, 2009 ",Act of the Legislative Assembly of Ontario,2009-12-15,2009-12-15,1,,https://www.ontario.ca/laws/statute/s09033
+04a06,"S.O. 2009, c. 33","Good Government Act, 2009 ",Act of the Legislative Assembly of Ontario,2009-12-15,2009-12-15,1,,https://www.ontario.ca/laws/statute/s09033
+04c05,"S.O. 2009, c. 33","Good Government Act, 2009 ",Act of the Legislative Assembly of Ontario,2009-12-15,2009-12-15,2,,https://www.ontario.ca/laws/statute/s09033
+04p03,"S.O. 2009, c. 33","Good Government Act, 2009 ",Act of the Legislative Assembly of Ontario,2009-12-15,2009-12-15,5,,https://www.ontario.ca/laws/statute/s09033
+05a11,"S.O. 2009, c. 33","Good Government Act, 2009 ",Act of the Legislative Assembly of Ontario,2009-12-15,2009-12-15,1,,https://www.ontario.ca/laws/statute/s09033
+05p28,"S.O. 2009, c. 33","Good Government Act, 2009 ",Act of the Legislative Assembly of Ontario,2009-12-15,2009-12-15,5,,https://www.ontario.ca/laws/statute/s09033
+05p34,"S.O. 2009, c. 33","Good Government Act, 2009 ",Act of the Legislative Assembly of Ontario,2009-12-15,2009-12-15,4,,https://www.ontario.ca/laws/statute/s09033
 06l21,"S.O. 2009, c. 33","Good Government Act, 2009 ",Act of the Legislative Assembly of Ontario,2009-12-15,2009-12-15,20,,https://www.ontario.ca/laws/statute/s09033
 06r17,"S.O. 2009, c. 33","Good Government Act, 2009 ",Act of the Legislative Assembly of Ontario,2009-12-15,2009-12-15,7,,https://www.ontario.ca/laws/statute/s09033
 90h08,"S.O. 2009, c. 33","Good Government Act, 2009 ",Act of the Legislative Assembly of Ontario,2009-12-15,2009-12-15,11,,https://www.ontario.ca/laws/statute/s09033
+02m30,"S.O. 2002, c. 30","Consumer Protection Statute Law Amendment Act, 2002",Act of the Legislative Assembly of Ontario,2002-12-13,2010-01-01,25,,https://www.ontario.ca/laws/statute/s02030
+02m30,"S.O. 2004, c. 8","Public Accounting Act, 2004",Act of the Legislative Assembly of Ontario,2004-06-17,2010-01-01,0,named only by provisions changed together with another law,https://www.ontario.ca/laws/statute/s04008
+02m30,"S.O. 2004, c. 19","Ministry of Consumer and Business Services Statute Law Amendment Act, 2004",Act of the Legislative Assembly of Ontario,2004-11-30,2010-01-01,12,,https://www.ontario.ca/laws/statute/s04019
+02m30,"S.O. 2006, c. 21","Access to Justice Act, 2006",Act of the Legislative Assembly of Ontario,2006-10-19,2010-01-01,1,,https://www.ontario.ca/laws/statute/s06021
+02m30,"S.O. 2006, c. 34","Ministry of Government Services Consumer Protection and Service Modernization Act, 2006",Act of the Legislative Assembly of Ontario,2006-12-20,2010-01-01,3,,https://www.ontario.ca/laws/statute/s06034
+02m30,"S.O. 2007, c. 4","Regulatory Modernization Act, 2007",Act of the Legislative Assembly of Ontario,2007-05-17,2010-01-01,0,named only by provisions changed together with another law,https://www.ontario.ca/laws/statute/s07004
+02m30,"S.O. 2009, c. 33","Good Government Act, 2009 ",Act of the Legislative Assembly of Ontario,2009-12-15,2010-01-01,1,,https://www.ontario.ca/laws/statute/s09033
+02n04,"S.O. 2009, c. 19","Toxics Reduction Act, 2009",Act of the Legislative Assembly of Ontario,2009-06-05,2010-01-01,8,,https://www.ontario.ca/laws/statute/s09019
+02s32,"S.O. 2009, c. 19","Toxics Reduction Act, 2009",Act of the Legislative Assembly of Ontario,2009-06-05,2010-01-01,8,,https://www.ontario.ca/laws/statute/s09019
 90h08,"S.O. 2002, c. 30","Consumer Protection Statute Law Amendment Act, 2002",Act of the Legislative Assembly of Ontario,2002-12-13,2010-01-01,1,,https://www.ontario.ca/laws/statute/s02030
 90h08,"S.O. 2009, c. 5","Road Safety Act, 2009",Act of the Legislative Assembly of Ontario,2009-04-23,2010-01-01,5,,https://www.ontario.ca/laws/statute/s09005
 90h08,"S.O. 2009, c. 19","Toxics Reduction Act, 2009",Act of the Legislative Assembly of Ontario,2009-06-05,2010-01-01,1,,https://www.ontario.ca/laws/statute/s09019
+01f20,"S.O. 2009, c. 31","Animal Health Act, 2009 ",Act of the Legislative Assembly of Ontario,2009-12-15,2010-01-21,2,,https://www.ontario.ca/laws/statute/s09031
 00e41,"S.O. 2009, c. 32","Employment Protection for Foreign Nationals Act (Live-in Caregivers and Others), 2009",Act of the Legislative Assembly of Ontario,2009-12-15,2010-03-22,2,,https://www.ontario.ca/laws/statute/s09032
+02o08f,"S.O. 2008, c. 15","Colleges Collective Bargaining Act, 2008",Act of the Legislative Assembly of Ontario,2008-10-08,2010-04-01,3,,https://www.ontario.ca/laws/statute/s08015
+00t16,"S.O. 2009, c. 28","Technical Standards and Safety Statute Law Amendment Act, 2009",Act of the Legislative Assembly of Ontario,2009-12-15,2010-05-01,40,,https://www.ontario.ca/laws/statute/s09028
+02l24,"S.O. 2010, c. 1","Creating the Foundation for Jobs and Growth Act, 2010",Act of the Legislative Assembly of Ontario,2010-05-18,2010-05-18,2,,https://www.ontario.ca/laws/statute/s10001
+04p08,"S.O. 2010, c. 6","Accounting Professions Act, 2010",Act of the Legislative Assembly of Ontario,2010-05-18,2010-05-18,1,,https://www.ontario.ca/laws/statute/s10006
+00p36,"S.O. 2010, c. 12","Post-secondary Education Statute Law Amendment Act, 2010",Act of the Legislative Assembly of Ontario,2010-06-08,2010-06-08,19,,https://www.ontario.ca/laws/statute/s10012
+02o08e,"S.O. 2010, c. 12","Post-secondary Education Statute Law Amendment Act, 2010",Act of the Legislative Assembly of Ontario,2010-06-08,2010-06-08,21,,https://www.ontario.ca/laws/statute/s10012
+04c05,"S.O. 2010, c. 14","Excellent Care for All Act, 2010",Act of the Legislative Assembly of Ontario,2010-06-08,2010-06-08,8,,https://www.ontario.ca/laws/statute/s10014
+05p28,"S.O. 2010, c. 12","Post-secondary Education Statute Law Amendment Act, 2010",Act of the Legislative Assembly of Ontario,2010-06-08,2010-06-08,6,,https://www.ontario.ca/laws/statute/s10012
+04c05,"S.O. 2007, c. 8","Long-Term Care Homes Act, 2007",Act of the Legislative Assembly of Ontario,2007-06-04,2010-07-01,1,,https://www.ontario.ca/laws/statute/s07008
+04p03,"S.O. 2007, c. 8","Long-Term Care Homes Act, 2007",Act of the Legislative Assembly of Ontario,2007-06-04,2010-07-01,4,,https://www.ontario.ca/laws/statute/s07008
 06r17,"S.O. 2007, c. 8","Long-Term Care Homes Act, 2007",Act of the Legislative Assembly of Ontario,2007-06-04,2010-07-01,1,,https://www.ontario.ca/laws/statute/s07008
 06r17,"S.O. 2009, c. 33","Good Government Act, 2009 ",Act of the Legislative Assembly of Ontario,2009-12-15,2010-07-01,2,,https://www.ontario.ca/laws/statute/s09033
 90h08,"S.O. 1994, c. 27",,Act of the Legislative Assembly of Ontario,,2010-07-01,3,,
@@ -71,48 +240,112 @@ act,law,title,kind,assented,in_force,provisions,note,source
 00e41,"S.O. 2010, c. 16","Open for Business Act, 2010",Act of the Legislative Assembly of Ontario,2010-10-25,2010-11-29,10,,https://www.ontario.ca/laws/statute/s10016
 90h08,"S.O. 2009, c. 5","Road Safety Act, 2009",Act of the Legislative Assembly of Ontario,2009-04-23,2010-12-01,2,,https://www.ontario.ca/laws/statute/s09005
 90h08,"S.O. 2010, c. 16","Open for Business Act, 2010",Act of the Legislative Assembly of Ontario,2010-10-25,2010-12-01,0,named only by provisions changed together with another law,https://www.ontario.ca/laws/statute/s10016
+02c30,"S.O. 2010, c. 8","Energy Consumer Protection Act, 2010",Act of the Legislative Assembly of Ontario,2010-05-18,2011-01-01,1,,https://www.ontario.ca/laws/statute/s10008
 06r17,"S.O. 2008, c. 14","Services and Supports to Promote the Social Inclusion of Persons with Developmental Disabilities Act, 2008",Act of the Legislative Assembly of Ontario,2008-10-08,2011-01-01,1,,https://www.ontario.ca/laws/statute/s08014
 06r17,"S.O. 2009, c. 33","Good Government Act, 2009 ",Act of the Legislative Assembly of Ontario,2009-12-15,2011-01-01,0,named only by provisions changed together with another law,https://www.ontario.ca/laws/statute/s09033
 06r17,"S.O. 2010, c. 8","Energy Consumer Protection Act, 2010",Act of the Legislative Assembly of Ontario,2010-05-18,2011-01-01,4,,https://www.ontario.ca/laws/statute/s10008
 90h08,"S.O. 2009, c. 5","Road Safety Act, 2009",Act of the Legislative Assembly of Ontario,2009-04-23,2011-01-01,2,,https://www.ontario.ca/laws/statute/s09005
 00e41,"S.O. 2011, c. 1","Good Government Act, 2011",Act of the Legislative Assembly of Ontario,2011-03-30,2011-03-30,1,,https://www.ontario.ca/laws/statute/s11001
+02m30,"S.O. 2011, c. 1","Good Government Act, 2011",Act of the Legislative Assembly of Ontario,2011-03-30,2011-03-30,1,,https://www.ontario.ca/laws/statute/s11001
+02r30,"S.O. 2011, c. 1","Good Government Act, 2011",Act of the Legislative Assembly of Ontario,2011-03-30,2011-03-30,1,,https://www.ontario.ca/laws/statute/s11001
 06r17,"S.O. 2011, c. 6","Strong Communities through Affordable Housing Act, 2011",Act of the Legislative Assembly of Ontario,2011-05-04,2011-05-04,2,,https://www.ontario.ca/laws/statute/s11006
 90h08,"S.O. 2011, c. 9","Better Tomorrow for Ontario Act (Budget Measures), 2011",Act of the Legislative Assembly of Ontario,2011-05-12,2011-05-12,1,,https://www.ontario.ca/laws/statute/s11009
+00p18,"S.O. 2009, c. 33","Good Government Act, 2009 ",Act of the Legislative Assembly of Ontario,2009-12-15,2011-06-01,1,,https://www.ontario.ca/laws/statute/s09033
+06a34,"S.O. 2009, c. 33","Good Government Act, 2009 ",Act of the Legislative Assembly of Ontario,2009-12-15,2011-06-01,1,,https://www.ontario.ca/laws/statute/s09033
+03k06,"S.O. 2011, c. 9","Better Tomorrow for Ontario Act (Budget Measures), 2011",Act of the Legislative Assembly of Ontario,2011-05-12,2011-06-06,1,,https://www.ontario.ca/laws/statute/s11009
+00c01,"S.O. 2011, c. 8","Christopher's Law (Sex Offender Registry) Amendment Act, 2011",Act of the Legislative Assembly of Ontario,2011-05-04,2011-06-20,7,,https://www.ontario.ca/laws/statute/s11008
 90h08,"S.O. 2009, c. 5","Road Safety Act, 2009",Act of the Legislative Assembly of Ontario,2009-04-23,2011-07-01,4,,https://www.ontario.ca/laws/statute/s09005
 90h08,"S.O. 2010, c. 16","Open for Business Act, 2010",Act of the Legislative Assembly of Ontario,2010-10-25,2011-07-01,1,,https://www.ontario.ca/laws/statute/s10016
 90h08,"S.O. 1996, c. 20",,Act of the Legislative Assembly of Ontario,,2011-07-17,1,,
+02s32,"S.O. 2010, c. 16","Open for Business Act, 2010",Act of the Legislative Assembly of Ontario,2010-10-25,2011-10-31,1,,https://www.ontario.ca/laws/statute/s10016
+01f20,"S.O. 2001, c. 20","Food Safety and Quality Act, 2001",Act of the Legislative Assembly of Ontario,2001-12-05,2011-12-31,5,,https://www.ontario.ca/laws/statute/s01020
 06r17,"S.O. 2011, c. 6","Strong Communities through Affordable Housing Act, 2011",Act of the Legislative Assembly of Ontario,2011-05-04,2012-01-01,2,,https://www.ontario.ca/laws/statute/s11006
 90h08,"S.O. 2009, c. 33","Good Government Act, 2009 ",Act of the Legislative Assembly of Ontario,2009-12-15,2012-03-31,2,,https://www.ontario.ca/laws/statute/s09033
 06r17,"S.O. 2012, c. 6","Residential Tenancies Amendment Act (Rent Increase Guideline), 2012",Act of the Legislative Assembly of Ontario,2012-06-19,2012-06-19,1,,https://www.ontario.ca/laws/statute/s12006
+03k06,"S.O. 2012, c. 8","Strong Action for Ontario Act (Budget Measures), 2012",Act of the Legislative Assembly of Ontario,2012-06-20,2012-06-20,1,,https://www.ontario.ca/laws/statute/s12008
+05p13,"S.O. 2012, c. 8","Strong Action for Ontario Act (Budget Measures), 2012",Act of the Legislative Assembly of Ontario,2012-06-20,2012-06-20,2,,https://www.ontario.ca/laws/statute/s12008
+02f33,"S.O. 2002, c. 33","Funeral, Burial and Cremation Services Act, 2002",Act of the Legislative Assembly of Ontario,2002-12-13,2012-07-01,30,,https://www.ontario.ca/laws/statute/s02033
+02f33,"S.O. 2006, c. 21","Access to Justice Act, 2006",Act of the Legislative Assembly of Ontario,2006-10-19,2012-07-01,0,named only by provisions changed together with another law,https://www.ontario.ca/laws/statute/s06021
+02f33,"S.O. 2006, c. 34","Ministry of Government Services Consumer Protection and Service Modernization Act, 2006",Act of the Legislative Assembly of Ontario,2006-12-20,2012-07-01,77,,https://www.ontario.ca/laws/statute/s06034
+02f33,"S.O. 2007, c. 8","Long-Term Care Homes Act, 2007",Act of the Legislative Assembly of Ontario,2007-06-04,2012-07-01,0,named only by provisions changed together with another law,https://www.ontario.ca/laws/statute/s07008
+02f33,"S.O. 2009, c. 33","Good Government Act, 2009 ",Act of the Legislative Assembly of Ontario,2009-12-15,2012-07-01,2,,https://www.ontario.ca/laws/statute/s09033
+02f33,"S.O. 2012, c. 8","Strong Action for Ontario Act (Budget Measures), 2012",Act of the Legislative Assembly of Ontario,2012-06-20,2012-07-01,0,named only by provisions changed together with another law,https://www.ontario.ca/laws/statute/s12008
 00e41,"S.O. 2000, c. 41","Employment Standards Act, 2000",Act of the Legislative Assembly of Ontario,2000-12-21,2012-11-29,1,,https://www.ontario.ca/laws/statute/s00041
+02i18,"S.O. 2002, c. 18","Government Efficiency Act, 2002",Act of the Legislative Assembly of Ontario,2002-11-26,2012-12-31,15,,https://www.ontario.ca/laws/statute/s02018
+02s32,"S.O. 2002, c. 32","Safe Drinking Water Act, 2002",Act of the Legislative Assembly of Ontario,2002-12-13,2012-12-31,3,,https://www.ontario.ca/laws/statute/s02032
+03a09,"S.O. 2012, c. 8","Strong Action for Ontario Act (Budget Measures), 2012",Act of the Legislative Assembly of Ontario,2012-06-20,2013-01-01,8,,https://www.ontario.ca/laws/statute/s12008
+04p03,"S.O. 2010, c. 11","Retirement Homes Act, 2010",Act of the Legislative Assembly of Ontario,2010-06-08,2013-01-01,1,,https://www.ontario.ca/laws/statute/s10011
+03a09,"S.O. 2013, c. 2","Prosperous and Fair Ontario Act (Budget Measures), 2013",Act of the Legislative Assembly of Ontario,2013-06-13,2013-08-16,14,,https://www.ontario.ca/laws/statute/s13002
+02c30,"S.O. 2013, c. 13","Stronger Protection for Ontario Consumers Act, 2013",Act of the Legislative Assembly of Ontario,2013-12-12,2013-12-12,6,,https://www.ontario.ca/laws/statute/s13013
+02r30,"S.O. 2013, c. 13","Stronger Protection for Ontario Consumers Act, 2013",Act of the Legislative Assembly of Ontario,2013-12-12,2013-12-12,1,,https://www.ontario.ca/laws/statute/s13013
+03k06,"S.O. 2012, c. 8","Strong Action for Ontario Act (Budget Measures), 2012",Act of the Legislative Assembly of Ontario,2012-06-20,2013-12-31,2,,https://www.ontario.ca/laws/statute/s12008
 00e41,"S.O. 2014, c. 5","School Boards Collective Bargaining Act, 2014",Act of the Legislative Assembly of Ontario,2014-04-09,2014-04-24,1,,https://www.ontario.ca/laws/statute/s14005
 06r17,"S.O. 2013, c. 3","Non-profit Housing Co-operatives Statute Law Amendment Act, 2013",Act of the Legislative Assembly of Ontario,2013-09-26,2014-06-01,57,,https://www.ontario.ca/laws/statute/s13003
 00e41,"S.O. 2014, c. 6","Employment Standards Amendment Act (Leaves to Help Families), 2014",Act of the Legislative Assembly of Ontario,2014-04-29,2014-10-29,7,,https://www.ontario.ca/laws/statute/s14006
 00e41,"S.O. 2014, c. 10","Stronger Workplaces for a Stronger Economy Act, 2014",Act of the Legislative Assembly of Ontario,2014-11-20,2014-11-20,3,,https://www.ontario.ca/laws/statute/s14010
 00e41,"S.O. 2013, c. 13","Stronger Protection for Ontario Consumers Act, 2013",Act of the Legislative Assembly of Ontario,2013-12-12,2015-01-01,1,,https://www.ontario.ca/laws/statute/s13013
+00p36,"S.O. 2013, c. 13","Stronger Protection for Ontario Consumers Act, 2013",Act of the Legislative Assembly of Ontario,2013-12-12,2015-01-01,1,,https://www.ontario.ca/laws/statute/s13013
+02s32,"S.O. 2007, c. 12","Safeguarding and Sustaining Ontario's Water Act, 2007",Act of the Legislative Assembly of Ontario,2007-06-04,2015-01-01,4,,https://www.ontario.ca/laws/statute/s07012
+05p28,"S.O. 2013, c. 13","Stronger Protection for Ontario Consumers Act, 2013",Act of the Legislative Assembly of Ontario,2013-12-12,2015-01-01,1,,https://www.ontario.ca/laws/statute/s13013
 00e41,"S.O. 2014, c. 10","Stronger Workplaces for a Stronger Economy Act, 2014",Act of the Legislative Assembly of Ontario,2014-11-20,2015-02-20,2,,https://www.ontario.ca/laws/statute/s14010
+05p28,"S.O. 2014, c. 11","Child Care Modernization Act, 2014",Act of the Legislative Assembly of Ontario,2014-12-04,2015-03-31,1,,https://www.ontario.ca/laws/statute/s14011
+02c30,"S.O. 2013, c. 13","Stronger Protection for Ontario Consumers Act, 2013",Act of the Legislative Assembly of Ontario,2013-12-12,2015-04-01,3,,https://www.ontario.ca/laws/statute/s13013
+02c30,"S.O. 2014, c. 9","Fighting Fraud and Reducing Automobile Insurance Rates Act, 2014",Act of the Legislative Assembly of Ontario,2014-11-20,2015-04-01,7,,https://www.ontario.ca/laws/statute/s14009
 00e41,"S.O. 2014, c. 10","Stronger Workplaces for a Stronger Economy Act, 2014",Act of the Legislative Assembly of Ontario,2014-11-20,2015-05-20,2,,https://www.ontario.ca/laws/statute/s14010
 90h08,"S.O. 2015, c. 14","Transportation Statute Law Amendment Act (Making Ontario's Roads Safer), 2015",Act of the Legislative Assembly of Ontario,2015-06-02,2015-06-02,11,,https://www.ontario.ca/laws/statute/s15014
+02l24,"S.O. 2004, c. 16","Tax Terminology Harmonization Act, 2004",Act of the Legislative Assembly of Ontario,2004-11-04,2015-06-04,0,named only by provisions changed together with another law,https://www.ontario.ca/laws/statute/s04016
+02l24,"S.O. 2004, c. 31","Budget Measures Act (Fall), 2004",Act of the Legislative Assembly of Ontario,2004-12-16,2015-06-04,0,named only by provisions changed together with another law,https://www.ontario.ca/laws/statute/s04031
+02l24,"S.O. 2006, c. 32","Municipal Statute Law Amendment Act, 2006",Act of the Legislative Assembly of Ontario,2006-12-20,2015-06-04,0,named only by provisions changed together with another law,https://www.ontario.ca/laws/statute/s06032
+02l24,"S.O. 2007, c. 13","Safer Roads for a Safer Ontario Act, 2007",Act of the Legislative Assembly of Ontario,2007-06-04,2015-06-04,0,named only by provisions changed together with another law,https://www.ontario.ca/laws/statute/s07013
+02l24,"S.O. 2008, c. 19","Budget Measures and Interim Appropriation Act, 2008 (No. 2)",Act of the Legislative Assembly of Ontario,2008-11-27,2015-06-04,0,named only by provisions changed together with another law,https://www.ontario.ca/laws/statute/s08019
+02l24,"S.O. 2009, c. 13","Tobacco Damages and Health Care Costs Recovery Act, 2009",Act of the Legislative Assembly of Ontario,2009-05-14,2015-06-04,0,named only by provisions changed together with another law,https://www.ontario.ca/laws/statute/s09013
+02l24,"S.O. 2009, c. 33","Good Government Act, 2009 ",Act of the Legislative Assembly of Ontario,2009-12-15,2015-06-04,0,named only by provisions changed together with another law,https://www.ontario.ca/laws/statute/s09033
+02l24,"S.O. 2010, c. 16","Open for Business Act, 2010",Act of the Legislative Assembly of Ontario,2010-10-25,2015-06-04,0,named only by provisions changed together with another law,https://www.ontario.ca/laws/statute/s10016
+02l24,"S.O. 2015, c. 20","Building Ontario Up Act (Budget Measures), 2015",Act of the Legislative Assembly of Ontario,2015-06-04,2015-06-04,0,named only by provisions changed together with another law,https://www.ontario.ca/laws/statute/s15020
 90h08,"S.O. 2015, c. 14","Transportation Statute Law Amendment Act (Making Ontario's Roads Safer), 2015",Act of the Legislative Assembly of Ontario,2015-06-02,2015-06-08,1,,https://www.ontario.ca/laws/statute/s15014
+04g20,"S.O. 2015, c. 20","Building Ontario Up Act (Budget Measures), 2015",Act of the Legislative Assembly of Ontario,2015-06-04,2015-06-16,13,,https://www.ontario.ca/laws/statute/s15020
+00e17,"S.O. 2013, c. 2","Prosperous and Fair Ontario Act (Budget Measures), 2013",Act of the Legislative Assembly of Ontario,2013-06-13,2015-07-01,3,,https://www.ontario.ca/laws/statute/s13002
+02r30,"S.O. 2013, c. 13","Stronger Protection for Ontario Consumers Act, 2013",Act of the Legislative Assembly of Ontario,2013-12-12,2015-07-01,1,,https://www.ontario.ca/laws/statute/s13013
+04p03,"S.O. 2007, c. 10","Health System Improvements Act, 2007",Act of the Legislative Assembly of Ontario,2007-06-04,2015-07-01,1,,https://www.ontario.ca/laws/statute/s07010
 06r17,"S.O. 2011, c. 6","Strong Communities through Affordable Housing Act, 2011",Act of the Legislative Assembly of Ontario,2011-05-04,2015-07-01,4,,https://www.ontario.ca/laws/statute/s11006
 90h08,"S.O. 2012, c. 8","Strong Action for Ontario Act (Budget Measures), 2012",Act of the Legislative Assembly of Ontario,2012-06-20,2015-07-01,1,,https://www.ontario.ca/laws/statute/s12008
+02c34,"S.O. 2014, c. 13","Public Sector and MPP Accountability and Transparency Act, 2014",Act of the Legislative Assembly of Ontario,2014-12-11,2015-08-01,8,,https://www.ontario.ca/laws/statute/s14013
 90h08,"S.O. 2015, c. 14","Transportation Statute Law Amendment Act (Making Ontario's Roads Safer), 2015",Act of the Legislative Assembly of Ontario,2015-06-02,2015-09-01,6,,https://www.ontario.ca/laws/statute/s15014
 00e41,"S.O. 2014, c. 10","Stronger Workplaces for a Stronger Economy Act, 2014",Act of the Legislative Assembly of Ontario,2014-11-20,2015-10-01,1,,https://www.ontario.ca/laws/statute/s14010
 00e41,"S.O. 2014, c. 10","Stronger Workplaces for a Stronger Economy Act, 2014",Act of the Legislative Assembly of Ontario,2014-11-20,2015-11-20,4,,https://www.ontario.ca/laws/statute/s14010
+01o32,"S.O. 2005, c. 11","Accessibility for Ontarians with Disabilities Act, 2005",Act of the Legislative Assembly of Ontario,2005-06-13,2015-12-01,15,,https://www.ontario.ca/laws/statute/s05011
 00e41,"S.O. 2015, c. 27","Strengthening and Improving Government Act, 2015",Act of the Legislative Assembly of Ontario,2015-12-03,2015-12-03,1,,https://www.ontario.ca/laws/statute/s15027
+02o08f,"S.O. 2015, c. 27","Strengthening and Improving Government Act, 2015",Act of the Legislative Assembly of Ontario,2015-12-03,2015-12-03,1,,https://www.ontario.ca/laws/statute/s15027
+04c05,"S.O. 2010, c. 14","Excellent Care for All Act, 2010",Act of the Legislative Assembly of Ontario,2010-06-08,2015-12-03,3,,https://www.ontario.ca/laws/statute/s10014
+04c05,"S.O. 2015, c. 27","Strengthening and Improving Government Act, 2015",Act of the Legislative Assembly of Ontario,2015-12-03,2015-12-03,1,,https://www.ontario.ca/laws/statute/s15027
+05p34,"S.O. 2006, c. 21","Access to Justice Act, 2006",Act of the Legislative Assembly of Ontario,2006-10-19,2015-12-03,1,,https://www.ontario.ca/laws/statute/s06021
 90h08,"S.O. 2015, c. 27","Strengthening and Improving Government Act, 2015",Act of the Legislative Assembly of Ontario,2015-12-03,2015-12-03,21,,https://www.ontario.ca/laws/statute/s15027
+04g20,"S.O. 2015, c. 38","Budget Measures Act, 2015",Act of the Legislative Assembly of Ontario,2015-12-10,2015-12-10,1,,https://www.ontario.ca/laws/statute/s15038
+02c34,"S.O. 2014, c. 13","Public Sector and MPP Accountability and Transparency Act, 2014",Act of the Legislative Assembly of Ontario,2014-12-11,2016-01-01,4,,https://www.ontario.ca/laws/statute/s14013
 90h08,"S.O. 2015, c. 14","Transportation Statute Law Amendment Act (Making Ontario's Roads Safer), 2015",Act of the Legislative Assembly of Ontario,2015-06-02,2016-01-01,5,,https://www.ontario.ca/laws/statute/s15014
 90h08,"S.O. 2015, c. 14","Transportation Statute Law Amendment Act (Making Ontario's Roads Safer), 2015",Act of the Legislative Assembly of Ontario,2015-06-02,2016-02-05,1,,https://www.ontario.ca/laws/statute/s15014
+02l24,"S.O. 2016, c. 2","Sexual Violence and Harassment Action Plan Act (Supporting Survivors and Challenging Sexual Violence and Harassment), 2016",Act of the Legislative Assembly of Ontario,2016-03-08,2016-03-08,5,,https://www.ontario.ca/laws/statute/s16002
+05a11,"S.O. 2016, c. 5","Jobs for Today and Tomorrow Act (Budget Measures), 2016",Act of the Legislative Assembly of Ontario,2016-04-19,2016-04-19,8,,https://www.ontario.ca/laws/statute/s16005
 90h08,"S.O. 2015, c. 14","Transportation Statute Law Amendment Act (Making Ontario's Roads Safer), 2015",Act of the Legislative Assembly of Ontario,2015-06-02,2016-04-19,1,,https://www.ontario.ca/laws/statute/s15014
 90h08,"S.O. 2016, c. 5","Jobs for Today and Tomorrow Act (Budget Measures), 2016",Act of the Legislative Assembly of Ontario,2016-04-19,2016-04-19,1,,https://www.ontario.ca/laws/statute/s16005
+04p03,"S.O. 2016, c. 6","Health Information Protection Act, 2016",Act of the Legislative Assembly of Ontario,2016-05-18,2016-06-03,9,,https://www.ontario.ca/laws/statute/s16006
 00e41,"S.O. 2015, c. 32","Protecting Employees' Tips Act, 2015",Act of the Legislative Assembly of Ontario,2015-12-10,2016-06-10,5,,https://www.ontario.ca/laws/statute/s15032
 06r17,"S.O. 2016, c. 2","Sexual Violence and Harassment Action Plan Act (Supporting Survivors and Challenging Sexual Violence and Harassment), 2016",Act of the Legislative Assembly of Ontario,2016-03-08,2016-09-08,7,,https://www.ontario.ca/laws/statute/s16002
 90h08,"S.O. 2015, c. 14","Transportation Statute Law Amendment Act (Making Ontario's Roads Safer), 2015",Act of the Legislative Assembly of Ontario,2015-06-02,2016-10-02,9,,https://www.ontario.ca/laws/statute/s15014
 90h08,"S.O. 2015, c. 27","Strengthening and Improving Government Act, 2015",Act of the Legislative Assembly of Ontario,2015-12-03,2016-10-02,1,,https://www.ontario.ca/laws/statute/s15027
 00e41,"S.O. 2016, c. 23","All Families Are Equal Act (Parentage and Related Registrations Statute Law Amendment), 2016",Act of the Legislative Assembly of Ontario,2016-12-05,2016-12-05,3,,https://www.ontario.ca/laws/statute/s16023
+02f33,"S.O. 2016, c. 23","All Families Are Equal Act (Parentage and Related Registrations Statute Law Amendment), 2016",Act of the Legislative Assembly of Ontario,2016-12-05,2016-12-05,1,,https://www.ontario.ca/laws/statute/s16023
+04p03,"S.O. 2016, c. 23","All Families Are Equal Act (Parentage and Related Registrations Statute Law Amendment), 2016",Act of the Legislative Assembly of Ontario,2016-12-05,2016-12-05,3,,https://www.ontario.ca/laws/statute/s16023
 00e41,"S.O. 2016, c. 30","Patients First Act, 2016",Act of the Legislative Assembly of Ontario,2016-12-08,2016-12-08,2,,https://www.ontario.ca/laws/statute/s16030
+04c05,"S.O. 2016, c. 30","Patients First Act, 2016",Act of the Legislative Assembly of Ontario,2016-12-08,2016-12-08,16,,https://www.ontario.ca/laws/statute/s16030
 06r17,"S.O. 2016, c. 25","Promoting Affordable Housing Act, 2016",Act of the Legislative Assembly of Ontario,2016-12-08,2016-12-08,2,,https://www.ontario.ca/laws/statute/s16025
+01r28,"S.O. 2015, c. 38","Budget Measures Act, 2015",Act of the Legislative Assembly of Ontario,2015-12-10,2016-12-10,1,,https://www.ontario.ca/laws/statute/s15038
+02p02,"S.O. 2015, c. 38","Budget Measures Act, 2015",Act of the Legislative Assembly of Ontario,2015-12-10,2016-12-10,1,,https://www.ontario.ca/laws/statute/s15038
 06r17,"S.O. 2015, c. 38","Budget Measures Act, 2015",Act of the Legislative Assembly of Ontario,2015-12-10,2016-12-10,1,,https://www.ontario.ca/laws/statute/s15038
+00p04,"S.O. 2016, c. 23","All Families Are Equal Act (Parentage and Related Registrations Statute Law Amendment), 2016",Act of the Legislative Assembly of Ontario,2016-12-05,2017-01-01,1,,https://www.ontario.ca/laws/statute/s16023
+02c30,"S.O. 2014, c. 9","Fighting Fraud and Reducing Automobile Insurance Rates Act, 2014",Act of the Legislative Assembly of Ontario,2014-11-20,2017-01-01,24,,https://www.ontario.ca/laws/statute/s14009
+04g20,"S.O. 2016, c. 22","Election Finances Statute Law Amendment Act, 2016",Act of the Legislative Assembly of Ontario,2016-12-05,2017-01-01,1,,https://www.ontario.ca/laws/statute/s16022
+05p28,"S.O. 2016, c. 2","Sexual Violence and Harassment Action Plan Act (Supporting Survivors and Challenging Sexual Violence and Harassment), 2016",Act of the Legislative Assembly of Ontario,2016-03-08,2017-01-01,3,,https://www.ontario.ca/laws/statute/s16002
 06l21,"S.O. 2016, c. 23","All Families Are Equal Act (Parentage and Related Registrations Statute Law Amendment), 2016",Act of the Legislative Assembly of Ontario,2016-12-05,2017-01-01,1,,https://www.ontario.ca/laws/statute/s16023
 06r17,"S.O. 2016, c. 23","All Families Are Equal Act (Parentage and Related Registrations Statute Law Amendment), 2016",Act of the Legislative Assembly of Ontario,2016-12-05,2017-01-01,2,,https://www.ontario.ca/laws/statute/s16023
 90h08,"S.O. 2014, c. 9","Fighting Fraud and Reducing Automobile Insurance Rates Act, 2014",Act of the Legislative Assembly of Ontario,2014-11-20,2017-01-01,45,,https://www.ontario.ca/laws/statute/s14009
@@ -120,6 +353,15 @@ act,law,title,kind,assented,in_force,provisions,note,source
 00e41,"S.O. 2000, c. 41","Employment Standards Act, 2000",Act of the Legislative Assembly of Ontario,2000-12-21,2017-02-20,1,,https://www.ontario.ca/laws/statute/s00041
 00e41,"S.O. 2006, c. 21","Access to Justice Act, 2006",Act of the Legislative Assembly of Ontario,2006-10-19,2017-02-20,1,,https://www.ontario.ca/laws/statute/s06021
 00e41,"S.O. 2014, c. 10","Stronger Workplaces for a Stronger Economy Act, 2014",Act of the Legislative Assembly of Ontario,2014-11-20,2017-02-20,2,,https://www.ontario.ca/laws/statute/s14010
+00p18,"S.O. 2017, c. 2","Burden Reduction Act, 2017",Act of the Legislative Assembly of Ontario,2017-03-22,2017-03-22,1,,https://www.ontario.ca/laws/statute/s17002
+00t16,"S.O. 2017, c. 2","Burden Reduction Act, 2017",Act of the Legislative Assembly of Ontario,2017-03-22,2017-03-22,3,,https://www.ontario.ca/laws/statute/s17002
+02c30,"S.O. 2002, c. 30","Consumer Protection Statute Law Amendment Act, 2002",Act of the Legislative Assembly of Ontario,2002-12-13,2017-03-22,1,,https://www.ontario.ca/laws/statute/s02030
+02c30,"S.O. 2017, c. 2","Burden Reduction Act, 2017",Act of the Legislative Assembly of Ontario,2017-03-22,2017-03-22,4,,https://www.ontario.ca/laws/statute/s17002
+02l24,"S.O. 2017, c. 2","Burden Reduction Act, 2017",Act of the Legislative Assembly of Ontario,2017-03-22,2017-03-22,3,,https://www.ontario.ca/laws/statute/s17002
+02n04,"S.O. 2002, c. 4","Nutrient Management Act, 2002",Act of the Legislative Assembly of Ontario,2002-06-27,2017-03-22,1,,https://www.ontario.ca/laws/statute/s02004
+02n04,"S.O. 2017, c. 2","Burden Reduction Act, 2017",Act of the Legislative Assembly of Ontario,2017-03-22,2017-03-22,2,,https://www.ontario.ca/laws/statute/s17002
+02p08,"S.O. 2017, c. 2","Burden Reduction Act, 2017",Act of the Legislative Assembly of Ontario,2017-03-22,2017-03-22,1,,https://www.ontario.ca/laws/statute/s17002
+02s32,"S.O. 2017, c. 2","Burden Reduction Act, 2017",Act of the Legislative Assembly of Ontario,2017-03-22,2017-03-22,8,,https://www.ontario.ca/laws/statute/s17002
 06l21,"S.O. 2006, c. 21","Access to Justice Act, 2006",Act of the Legislative Assembly of Ontario,2006-10-19,2017-03-22,1,,https://www.ontario.ca/laws/statute/s06021
 06l21,"S.O. 2017, c. 2","Burden Reduction Act, 2017",Act of the Legislative Assembly of Ontario,2017-03-22,2017-03-22,1,,https://www.ontario.ca/laws/statute/s17002
 90h08,"S.O. 1993, c. 34",,Act of the Legislative Assembly of Ontario,,2017-03-22,1,,
@@ -127,21 +369,41 @@ act,law,title,kind,assented,in_force,provisions,note,source
 90h08,"S.O. 2006, c. 19","Good Government Act, 2006",Act of the Legislative Assembly of Ontario,2006-06-22,2017-03-22,0,named only by provisions changed together with another law,https://www.ontario.ca/laws/statute/s06019
 90h08,"S.O. 2016, c. 5","Jobs for Today and Tomorrow Act (Budget Measures), 2016",Act of the Legislative Assembly of Ontario,2016-04-19,2017-03-22,0,named only by provisions changed together with another law,https://www.ontario.ca/laws/statute/s16005
 90h08,"S.O. 2017, c. 2","Burden Reduction Act, 2017",Act of the Legislative Assembly of Ontario,2017-03-22,2017-03-22,13,,https://www.ontario.ca/laws/statute/s17002
+02c30,"S.O. 2017, c. 5","Putting Consumers First Act (Consumer Protection Statute Law Amendment), 2017",Act of the Legislative Assembly of Ontario,2017-04-13,2017-04-13,4,,https://www.ontario.ca/laws/statute/s17005
 90h08,"S.O. 2015, c. 14","Transportation Statute Law Amendment Act (Making Ontario's Roads Safer), 2015",Act of the Legislative Assembly of Ontario,2015-06-02,2017-05-01,1,,https://www.ontario.ca/laws/statute/s15014
+04p08,"S.O. 2017, c. 8","Stronger, Healthier Ontario Act (Budget Measures), 2017",Act of the Legislative Assembly of Ontario,2017-05-17,2017-05-17,8,,https://www.ontario.ca/laws/statute/s17008
 06r17,"S.O. 2006, c. 17","Residential Tenancies Act, 2006",Act of the Legislative Assembly of Ontario,2006-06-22,2017-05-30,2,,https://www.ontario.ca/laws/statute/s06017
 06r17,"S.O. 2017, c. 13","Rental Fairness Act, 2017",Act of the Legislative Assembly of Ontario,2017-05-30,2017-05-30,14,,https://www.ontario.ca/laws/statute/s17013
 90h08,"S.O. 2016, c. 5","Jobs for Today and Tomorrow Act (Budget Measures), 2016",Act of the Legislative Assembly of Ontario,2016-04-19,2017-07-01,8,,https://www.ontario.ca/laws/statute/s16005
 06r17,"S.O. 2017, c. 13","Rental Fairness Act, 2017",Act of the Legislative Assembly of Ontario,2017-05-30,2017-09-01,14,,https://www.ontario.ca/laws/statute/s17013
 00e41,"S.O. 2016, c. 30","Patients First Act, 2016",Act of the Legislative Assembly of Ontario,2016-12-08,2017-11-01,1,,https://www.ontario.ca/laws/statute/s16030
+04p03,"S.O. 2016, c. 30","Patients First Act, 2016",Act of the Legislative Assembly of Ontario,2016-12-08,2017-11-01,4,,https://www.ontario.ca/laws/statute/s16030
+00a03,"S.O. 2017, c. 20","Cutting Unnecessary Red Tape Act, 2017",Act of the Legislative Assembly of Ontario,2017-11-14,2017-11-14,2,,https://www.ontario.ca/laws/statute/s17020
+02i13,"S.O. 2017, c. 20","Cutting Unnecessary Red Tape Act, 2017",Act of the Legislative Assembly of Ontario,2017-11-14,2017-11-14,25,,https://www.ontario.ca/laws/statute/s17020
+02i18,"S.O. 2017, c. 20","Cutting Unnecessary Red Tape Act, 2017",Act of the Legislative Assembly of Ontario,2017-11-14,2017-11-14,4,,https://www.ontario.ca/laws/statute/s17020
 00e41,"S.O. 2017, c. 22","Fair Workplaces, Better Jobs Act, 2017",Act of the Legislative Assembly of Ontario,2017-11-27,2017-11-27,2,,https://www.ontario.ca/laws/statute/s17022
 00e41,"S.O. 2017, c. 22","Fair Workplaces, Better Jobs Act, 2017",Act of the Legislative Assembly of Ontario,2017-11-27,2017-12-03,5,,https://www.ontario.ca/laws/statute/s17022
 90h08,"S.O. 2017, c. 26","Cannabis, Smoke-Free Ontario and Road Safety Statute Law Amendment Act, 2017",Act of the Legislative Assembly of Ontario,2017-12-12,2017-12-12,1,,https://www.ontario.ca/laws/statute/s17026
+02f33,"S.O. 2017, c. 33","Strengthening Protection for Ontario Consumers Act, 2017",Act of the Legislative Assembly of Ontario,2017-12-14,2017-12-14,3,,https://www.ontario.ca/laws/statute/s17033
+02l24,"S.O. 2017, c. 34","Stronger, Fairer Ontario Act (Budget Measures), 2017",Act of the Legislative Assembly of Ontario,2017-12-14,2017-12-14,1,,https://www.ontario.ca/laws/statute/s17034
+02m30,"S.O. 2017, c. 33","Strengthening Protection for Ontario Consumers Act, 2017",Act of the Legislative Assembly of Ontario,2017-12-14,2017-12-14,3,,https://www.ontario.ca/laws/statute/s17033
+02r30,"S.O. 2017, c. 33","Strengthening Protection for Ontario Consumers Act, 2017",Act of the Legislative Assembly of Ontario,2017-12-14,2017-12-14,3,,https://www.ontario.ca/laws/statute/s17033
 00e41,"S.O. 2017, c. 22","Fair Workplaces, Better Jobs Act, 2017",Act of the Legislative Assembly of Ontario,2017-11-27,2018-01-01,62,,https://www.ontario.ca/laws/statute/s17022
+02c30,"S.O. 2016, c. 34","Protecting Rewards Points Act (Consumer Protection Amendment), 2016",Act of the Legislative Assembly of Ontario,2016-12-08,2018-01-01,3,,https://www.ontario.ca/laws/statute/s16034
+02h10,"S.O. 2017, c. 34","Stronger, Fairer Ontario Act (Budget Measures), 2017",Act of the Legislative Assembly of Ontario,2017-12-14,2018-01-01,2,,https://www.ontario.ca/laws/statute/s17034
+05h28,"S.O. 2017, c. 34","Stronger, Fairer Ontario Act (Budget Measures), 2017",Act of the Legislative Assembly of Ontario,2017-12-14,2018-01-01,6,,https://www.ontario.ca/laws/statute/s17034
+05r20,"S.O. 2017, c. 10","Modernizing Ontario's Municipal Legislation Act, 2017",Act of the Legislative Assembly of Ontario,2017-05-30,2018-01-01,2,,https://www.ontario.ca/laws/statute/s17010
 06r17,"S.O. 2017, c. 13","Rental Fairness Act, 2017",Act of the Legislative Assembly of Ontario,2017-05-30,2018-01-01,10,,https://www.ontario.ca/laws/statute/s17013
 06r17,"S.O. 2017, c. 34","Stronger, Fairer Ontario Act (Budget Measures), 2017",Act of the Legislative Assembly of Ontario,2017-12-14,2018-01-01,1,,https://www.ontario.ca/laws/statute/s17034
+02c30,"S.O. 2017, c. 5","Putting Consumers First Act (Consumer Protection Statute Law Amendment), 2017",Act of the Legislative Assembly of Ontario,2017-04-13,2018-03-01,4,,https://www.ontario.ca/laws/statute/s17005
 00e41,"S.O. 2017, c. 22","Fair Workplaces, Better Jobs Act, 2017",Act of the Legislative Assembly of Ontario,2017-11-27,2018-04-01,8,,https://www.ontario.ca/laws/statute/s17022
+00c01,"S.O. 2017, c. 14","Supporting Children, Youth and Families Act, 2017",Act of the Legislative Assembly of Ontario,2017-06-01,2018-04-30,1,,https://www.ontario.ca/laws/statute/s17014
+04p03,"S.O. 2017, c. 14","Supporting Children, Youth and Families Act, 2017",Act of the Legislative Assembly of Ontario,2017-06-01,2018-04-30,3,,https://www.ontario.ca/laws/statute/s17014
 06r17,"S.O. 2017, c. 14","Supporting Children, Youth and Families Act, 2017",Act of the Legislative Assembly of Ontario,2017-06-01,2018-04-30,1,,https://www.ontario.ca/laws/statute/s17014
 90h08,"S.O. 2017, c. 9","Safer School Zones Act, 2017",Act of the Legislative Assembly of Ontario,2017-05-30,2018-05-01,1,,https://www.ontario.ca/laws/statute/s17009
+00t16,"S.O. 2018, c. 7","Access to Consumer Credit Reports and Elevator Availability Act, 2018",Act of the Legislative Assembly of Ontario,2018-05-07,2018-05-07,7,,https://www.ontario.ca/laws/statute/s18007
+02c30,"S.O. 2017, c. 5","Putting Consumers First Act (Consumer Protection Statute Law Amendment), 2017",Act of the Legislative Assembly of Ontario,2017-04-13,2018-07-01,6,,https://www.ontario.ca/laws/statute/s17005
+02l24,"S.O. 2017, c. 24","Construction Lien Amendment Act, 2017",Act of the Legislative Assembly of Ontario,2017-12-12,2018-07-01,1,,https://www.ontario.ca/laws/statute/s17024
 06r17,"S.O. 2016, c. 25","Promoting Affordable Housing Act, 2016",Act of the Legislative Assembly of Ontario,2016-12-08,2018-07-01,15,,https://www.ontario.ca/laws/statute/s16025
 90h08,"S.O. 2015, c. 14","Transportation Statute Law Amendment Act (Making Ontario's Roads Safer), 2015",Act of the Legislative Assembly of Ontario,2015-06-02,2018-07-01,14,,https://www.ontario.ca/laws/statute/s15014
 90h08,"S.O. 2017, c. 2","Burden Reduction Act, 2017",Act of the Legislative Assembly of Ontario,2017-03-22,2018-07-01,2,,https://www.ontario.ca/laws/statute/s17002
@@ -149,106 +411,247 @@ act,law,title,kind,assented,in_force,provisions,note,source
 90h08,"S.O. 2017, c. 26","Cannabis, Smoke-Free Ontario and Road Safety Statute Law Amendment Act, 2017",Act of the Legislative Assembly of Ontario,2017-12-12,2018-09-01,5,,https://www.ontario.ca/laws/statute/s17026
 90h08,"S.O. 2017, c. 26","Cannabis, Smoke-Free Ontario and Road Safety Statute Law Amendment Act, 2017",Act of the Legislative Assembly of Ontario,2017-12-12,2018-10-17,0,named only by provisions changed together with another law,https://www.ontario.ca/laws/statute/s17026
 90h08,"S.O. 2018, c. 12","Cannabis Statute Law Amendment Act, 2018",Act of the Legislative Assembly of Ontario,2018-10-17,2018-10-17,0,named only by provisions changed together with another law,https://www.ontario.ca/laws/statute/s18012
+05p34,"S.O. 2015, c. 30","Police Record Checks Reform Act, 2015",Act of the Legislative Assembly of Ontario,2015-12-03,2018-11-01,1,,https://www.ontario.ca/laws/statute/s15030
 90h08,"S.O. 2018, c. 12","Cannabis Statute Law Amendment Act, 2018",Act of the Legislative Assembly of Ontario,2018-10-17,2018-11-16,1,,https://www.ontario.ca/laws/statute/s18012
+01o32,"S.O. 2018, c. 17","Restoring Trust, Transparency and Accountability Act, 2018",Act of the Legislative Assembly of Ontario,2018-12-06,2018-12-06,1,,https://www.ontario.ca/laws/statute/s18017
+01r28,"S.O. 2018, c. 17","Restoring Trust, Transparency and Accountability Act, 2018",Act of the Legislative Assembly of Ontario,2018-12-06,2018-12-06,1,,https://www.ontario.ca/laws/statute/s18017
+06a34,"S.O. 2018, c. 17","Restoring Trust, Transparency and Accountability Act, 2018",Act of the Legislative Assembly of Ontario,2018-12-06,2018-12-06,1,,https://www.ontario.ca/laws/statute/s18017
 06r17,"S.O. 2018, c. 17","Restoring Trust, Transparency and Accountability Act, 2018",Act of the Legislative Assembly of Ontario,2018-12-06,2018-12-06,1,,https://www.ontario.ca/laws/statute/s18017
 00e41,"S.O. 2017, c. 22","Fair Workplaces, Better Jobs Act, 2017",Act of the Legislative Assembly of Ontario,2017-11-27,2019-01-01,0,named only by provisions changed together with another law,https://www.ontario.ca/laws/statute/s17022
 00e41,"S.O. 2018, c. 14","Making Ontario Open for Business Act, 2018",Act of the Legislative Assembly of Ontario,2018-11-21,2019-01-01,24,,https://www.ontario.ca/laws/statute/s18014
 90h08,"S.O. 2017, c. 26","Cannabis, Smoke-Free Ontario and Road Safety Statute Law Amendment Act, 2017",Act of the Legislative Assembly of Ontario,2017-12-12,2019-01-01,3,,https://www.ontario.ca/laws/statute/s17026
+02l24,"S.O. 2017, c. 10","Modernizing Ontario's Municipal Legislation Act, 2017",Act of the Legislative Assembly of Ontario,2017-05-30,2019-03-01,1,,https://www.ontario.ca/laws/statute/s17010
+01a10,"S.O. 2018, c. 3","Safer Ontario Act, 2018",Act of the Legislative Assembly of Ontario,2018-03-08,2019-03-26,0,named only by provisions changed together with another law,https://www.ontario.ca/laws/statute/s18003
+01a10,"S.O. 2019, c. 1","Comprehensive Ontario Police Services Act, 2019",Act of the Legislative Assembly of Ontario,2019-03-26,2019-03-26,0,named only by provisions changed together with another law,https://www.ontario.ca/laws/statute/s19001
+05p34,"S.O. 2018, c. 3","Safer Ontario Act, 2018",Act of the Legislative Assembly of Ontario,2018-03-08,2019-03-26,0,named only by provisions changed together with another law,https://www.ontario.ca/laws/statute/s18003
+05p34,"S.O. 2019, c. 1","Comprehensive Ontario Police Services Act, 2019",Act of the Legislative Assembly of Ontario,2019-03-26,2019-03-26,1,,https://www.ontario.ca/laws/statute/s19001
 00e41,"S.O. 2019, c. 4","Restoring Ontario's Competitiveness Act, 2019",Act of the Legislative Assembly of Ontario,2019-04-03,2019-04-03,11,,https://www.ontario.ca/laws/statute/s19004
+00t16,"S.O. 2019, c. 4","Restoring Ontario's Competitiveness Act, 2019",Act of the Legislative Assembly of Ontario,2019-04-03,2019-04-03,39,,https://www.ontario.ca/laws/statute/s19004
+02a16,"S.O. 2019, c. 4","Restoring Ontario's Competitiveness Act, 2019",Act of the Legislative Assembly of Ontario,2019-04-03,2019-04-03,3,,https://www.ontario.ca/laws/statute/s19004
+05p28,"S.O. 2019, c. 4","Restoring Ontario's Competitiveness Act, 2019",Act of the Legislative Assembly of Ontario,2019-04-03,2019-04-03,3,,https://www.ontario.ca/laws/statute/s19004
 90h08,"S.O. 2019, c. 4","Restoring Ontario's Competitiveness Act, 2019",Act of the Legislative Assembly of Ontario,2019-04-03,2019-04-03,4,,https://www.ontario.ca/laws/statute/s19004
+02i13,"S.O. 2017, c. 20","Cutting Unnecessary Red Tape Act, 2017",Act of the Legislative Assembly of Ontario,2017-11-14,2019-05-14,2,,https://www.ontario.ca/laws/statute/s17020
+06a34,"S.O. 2019, c. 7","Protecting What Matters Most Act (Budget Measures), 2019",Act of the Legislative Assembly of Ontario,2019-05-29,2019-05-29,11,,https://www.ontario.ca/laws/statute/s19007
+01r28,"S.O. 2019, c. 8","Getting Ontario Moving Act (Transportation Statute Law Amendment), 2019",Act of the Legislative Assembly of Ontario,2019-06-06,2019-06-06,1,,https://www.ontario.ca/laws/statute/s19008
+04p03,"S.O. 2019, c. 5","The People's Health Care Act, 2019",Act of the Legislative Assembly of Ontario,2019-04-18,2019-06-06,4,,https://www.ontario.ca/laws/statute/s19005
 90h08,"S.O. 2019, c. 8","Getting Ontario Moving Act (Transportation Statute Law Amendment), 2019",Act of the Legislative Assembly of Ontario,2019-06-06,2019-06-06,19,,https://www.ontario.ca/laws/statute/s19008
+02p08,"S.O. 2019, c. 7","Protecting What Matters Most Act (Budget Measures), 2019",Act of the Legislative Assembly of Ontario,2019-05-29,2019-06-08,1,,https://www.ontario.ca/laws/statute/s19007
+03a09,"S.O. 2018, c. 17","Restoring Trust, Transparency and Accountability Act, 2018",Act of the Legislative Assembly of Ontario,2018-12-06,2019-06-08,11,,https://www.ontario.ca/laws/statute/s18017
+00c01,"S.O. 2019, c. 7","Protecting What Matters Most Act (Budget Measures), 2019",Act of the Legislative Assembly of Ontario,2019-05-29,2019-07-01,1,,https://www.ontario.ca/laws/statute/s19007
+00t16,"S.O. 2019, c. 4","Restoring Ontario's Competitiveness Act, 2019",Act of the Legislative Assembly of Ontario,2019-04-03,2019-07-01,3,,https://www.ontario.ca/laws/statute/s19004
+00t16,"S.O. 2019, c. 7","Protecting What Matters Most Act (Budget Measures), 2019",Act of the Legislative Assembly of Ontario,2019-05-29,2019-07-01,2,,https://www.ontario.ca/laws/statute/s19007
+01f20,"S.O. 2019, c. 7","Protecting What Matters Most Act (Budget Measures), 2019",Act of the Legislative Assembly of Ontario,2019-05-29,2019-07-01,1,,https://www.ontario.ca/laws/statute/s19007
+01i18,"S.O. 2019, c. 7","Protecting What Matters Most Act (Budget Measures), 2019",Act of the Legislative Assembly of Ontario,2019-05-29,2019-07-01,1,,https://www.ontario.ca/laws/statute/s19007
+01r28,"S.O. 2019, c. 7","Protecting What Matters Most Act (Budget Measures), 2019",Act of the Legislative Assembly of Ontario,2019-05-29,2019-07-01,1,,https://www.ontario.ca/laws/statute/s19007
+02i13,"S.O. 2019, c. 7","Protecting What Matters Most Act (Budget Measures), 2019",Act of the Legislative Assembly of Ontario,2019-05-29,2019-07-01,1,,https://www.ontario.ca/laws/statute/s19007
+02n04,"S.O. 2019, c. 7","Protecting What Matters Most Act (Budget Measures), 2019",Act of the Legislative Assembly of Ontario,2019-05-29,2019-07-01,1,,https://www.ontario.ca/laws/statute/s19007
+02s32,"S.O. 2019, c. 7","Protecting What Matters Most Act (Budget Measures), 2019",Act of the Legislative Assembly of Ontario,2019-05-29,2019-07-01,1,,https://www.ontario.ca/laws/statute/s19007
+04p03,"S.O. 2019, c. 7","Protecting What Matters Most Act (Budget Measures), 2019",Act of the Legislative Assembly of Ontario,2019-05-29,2019-07-01,1,,https://www.ontario.ca/laws/statute/s19007
+05h28,"S.O. 2019, c. 7","Protecting What Matters Most Act (Budget Measures), 2019",Act of the Legislative Assembly of Ontario,2019-05-29,2019-07-01,1,,https://www.ontario.ca/laws/statute/s19007
+05p34,"S.O. 2019, c. 7","Protecting What Matters Most Act (Budget Measures), 2019",Act of the Legislative Assembly of Ontario,2019-05-29,2019-07-01,1,,https://www.ontario.ca/laws/statute/s19007
+06a34,"S.O. 2019, c. 7","Protecting What Matters Most Act (Budget Measures), 2019",Act of the Legislative Assembly of Ontario,2019-05-29,2019-07-01,1,,https://www.ontario.ca/laws/statute/s19007
 06r17,"S.O. 2019, c. 7","Protecting What Matters Most Act (Budget Measures), 2019",Act of the Legislative Assembly of Ontario,2019-05-29,2019-07-01,1,,https://www.ontario.ca/laws/statute/s19007
 90h08,"S.O. 2019, c. 7","Protecting What Matters Most Act (Budget Measures), 2019",Act of the Legislative Assembly of Ontario,2019-05-29,2019-07-01,6,,https://www.ontario.ca/laws/statute/s19007
 90h08,"S.O. 2019, c. 8","Getting Ontario Moving Act (Transportation Statute Law Amendment), 2019",Act of the Legislative Assembly of Ontario,2019-06-06,2019-07-01,1,,https://www.ontario.ca/laws/statute/s19008
+02l24,"S.O. 2017, c. 24","Construction Lien Amendment Act, 2017",Act of the Legislative Assembly of Ontario,2017-12-12,2019-10-01,1,,https://www.ontario.ca/laws/statute/s17024
 00e41,"S.O. 2019, c. 12","Protecting a Sustainable Public Sector for Future Generations Act, 2019",Act of the Legislative Assembly of Ontario,2019-11-07,2019-11-08,1,,https://www.ontario.ca/laws/statute/s19012
 90h08,"S.O. 2019, c. 8","Getting Ontario Moving Act (Transportation Statute Law Amendment), 2019",Act of the Legislative Assembly of Ontario,2019-06-06,2019-11-29,3,,https://www.ontario.ca/laws/statute/s19008
 90h08,"S.O. 2017, c. 9","Safer School Zones Act, 2017",Act of the Legislative Assembly of Ontario,2017-05-30,2019-12-01,12,,https://www.ontario.ca/laws/statute/s17009
 90h08,"S.O. 2017, c. 34","Stronger, Fairer Ontario Act (Budget Measures), 2017",Act of the Legislative Assembly of Ontario,2017-12-14,2019-12-01,0,named only by provisions changed together with another law,https://www.ontario.ca/laws/statute/s17034
+00t16,"S.O. 2019, c. 14","Better for People, Smarter for Business Act, 2019",Act of the Legislative Assembly of Ontario,2019-12-10,2019-12-10,4,,https://www.ontario.ca/laws/statute/s19014
+01f20,"S.O. 2019, c. 14","Better for People, Smarter for Business Act, 2019",Act of the Legislative Assembly of Ontario,2019-12-10,2019-12-10,1,,https://www.ontario.ca/laws/statute/s19014
+02c30,"S.O. 2019, c. 14","Better for People, Smarter for Business Act, 2019",Act of the Legislative Assembly of Ontario,2019-12-10,2019-12-10,2,,https://www.ontario.ca/laws/statute/s19014
+02f33,"S.O. 2019, c. 14","Better for People, Smarter for Business Act, 2019",Act of the Legislative Assembly of Ontario,2019-12-10,2019-12-10,3,,https://www.ontario.ca/laws/statute/s19014
+02m30,"S.O. 2019, c. 14","Better for People, Smarter for Business Act, 2019",Act of the Legislative Assembly of Ontario,2019-12-10,2019-12-10,3,,https://www.ontario.ca/laws/statute/s19014
+02n04,"S.O. 2019, c. 14","Better for People, Smarter for Business Act, 2019",Act of the Legislative Assembly of Ontario,2019-12-10,2019-12-10,8,,https://www.ontario.ca/laws/statute/s19014
+02s32,"S.O. 2019, c. 14","Better for People, Smarter for Business Act, 2019",Act of the Legislative Assembly of Ontario,2019-12-10,2019-12-10,18,,https://www.ontario.ca/laws/statute/s19014
+05h28,"S.O. 2019, c. 15","Plan to Build Ontario Together Act, 2019",Act of the Legislative Assembly of Ontario,2019-12-10,2019-12-10,1,,https://www.ontario.ca/laws/statute/s19015
 06l21,"S.O. 2019, c. 14","Better for People, Smarter for Business Act, 2019",Act of the Legislative Assembly of Ontario,2019-12-10,2019-12-10,1,,https://www.ontario.ca/laws/statute/s19014
+02l24,"S.O. 2019, c. 17","Foundations for Promoting and Protecting Mental Health and Addictions Services Act, 2019",Act of the Legislative Assembly of Ontario,2019-12-12,2019-12-12,1,,https://www.ontario.ca/laws/statute/s19017
+04c05,"S.O. 2009, c. 26","Regulated Health Professions Statute Law Amendment Act, 2009",Act of the Legislative Assembly of Ontario,2009-12-15,2019-12-31,0,named only by provisions changed together with another law,https://www.ontario.ca/laws/statute/s09026
+04c05,"S.O. 2010, c. 14","Excellent Care for All Act, 2010",Act of the Legislative Assembly of Ontario,2010-06-08,2019-12-31,0,named only by provisions changed together with another law,https://www.ontario.ca/laws/statute/s10014
 90h08,"S.O. 2019, c. 8","Getting Ontario Moving Act (Transportation Statute Law Amendment), 2019",Act of the Legislative Assembly of Ontario,2019-06-06,2020-01-01,2,,https://www.ontario.ca/laws/statute/s19008
 00e41,"S.O. 2020, c. 3","Employment Standards Amendment Act (Infectious Disease Emergencies), 2020",Act of the Legislative Assembly of Ontario,2020-03-19,2020-03-19,4,,https://www.ontario.ca/laws/statute/s20003
+04p03,"S.O. 2019, c. 5","The People's Health Care Act, 2019",Act of the Legislative Assembly of Ontario,2019-04-18,2020-03-25,0,named only by provisions changed together with another law,https://www.ontario.ca/laws/statute/s19005
+04p03,"S.O. 2020, c. 5","Economic and Fiscal Update Act, 2020",Act of the Legislative Assembly of Ontario,2020-03-25,2020-03-25,18,,https://www.ontario.ca/laws/statute/s20005
+04c05,"S.O. 2019, c. 5","The People's Health Care Act, 2019",Act of the Legislative Assembly of Ontario,2019-04-18,2020-04-01,1,,https://www.ontario.ca/laws/statute/s19005
+00e17,"S.O. 2019, c. 7","Protecting What Matters Most Act (Budget Measures), 2019",Act of the Legislative Assembly of Ontario,2019-05-29,2020-05-15,1,,https://www.ontario.ca/laws/statute/s19007
+02o08e,"S.O. 2019, c. 14","Better for People, Smarter for Business Act, 2019",Act of the Legislative Assembly of Ontario,2019-12-10,2020-06-17,1,,https://www.ontario.ca/laws/statute/s19014
 90h08,"S.O. 2019, c. 14","Better for People, Smarter for Business Act, 2019",Act of the Legislative Assembly of Ontario,2019-12-10,2020-07-01,1,,https://www.ontario.ca/laws/statute/s19014
+01r28,"S.O. 2020, c. 11","Smarter and Stronger Justice Act, 2020",Act of the Legislative Assembly of Ontario,2020-07-08,2020-07-08,14,,https://www.ontario.ca/laws/statute/s20011
+02l24,"S.O. 2020, c. 11","Smarter and Stronger Justice Act, 2020",Act of the Legislative Assembly of Ontario,2020-07-08,2020-07-08,2,,https://www.ontario.ca/laws/statute/s20011
+00t16,"S.O. 2020, c. 14","Rebuilding Consumer Confidence Act, 2020",Act of the Legislative Assembly of Ontario,2020-07-14,2020-07-14,20,,https://www.ontario.ca/laws/statute/s20014
+02c30,"S.O. 2020, c. 14","Rebuilding Consumer Confidence Act, 2020",Act of the Legislative Assembly of Ontario,2020-07-14,2020-07-14,3,,https://www.ontario.ca/laws/statute/s20014
+02s32,"S.O. 2020, c. 18","COVID-19 Economic Recovery Act, 2020",Act of the Legislative Assembly of Ontario,2020-07-21,2020-07-21,2,,https://www.ontario.ca/laws/statute/s20018
+03k06,"S.O. 2006, c. 12","Provincial Parks and Conservation Reserves Act, 2006",Act of the Legislative Assembly of Ontario,2006-06-20,2020-07-21,1,,https://www.ontario.ca/laws/statute/s06012
 06r17,"S.O. 2020, c. 16","Protecting Tenants and Strengthening Community Housing Act, 2020",Act of the Legislative Assembly of Ontario,2020-07-21,2020-07-21,25,,https://www.ontario.ca/laws/statute/s20016
+04p03,"S.O. 2019, c. 15","Plan to Build Ontario Together Act, 2019",Act of the Legislative Assembly of Ontario,2019-12-10,2020-07-31,7,,https://www.ontario.ca/laws/statute/s19015
+00a03,"S.O. 2017, c. 20","Cutting Unnecessary Red Tape Act, 2017",Act of the Legislative Assembly of Ontario,2017-11-14,2020-09-01,2,,https://www.ontario.ca/laws/statute/s17020
 90h08,"S.O. 2002, c. 24","Justice Statute Law Amendment Act, 2002",Act of the Legislative Assembly of Ontario,2002-12-09,2020-09-01,1,,https://www.ontario.ca/laws/statute/s02024
 90h08,"S.O. 2017, c. 26","Cannabis, Smoke-Free Ontario and Road Safety Statute Law Amendment Act, 2017",Act of the Legislative Assembly of Ontario,2017-12-12,2020-09-01,5,,https://www.ontario.ca/laws/statute/s17026
+01f05,"S.O. 2020, c. 21","Franco-Ontarian Emblem Amendment Act, 2020",Act of the Legislative Assembly of Ontario,2020-09-24,2020-09-24,1,,https://www.ontario.ca/laws/statute/s20021
+02r30,"S.O. 2020, c. 1","Trust in Real Estate Services Act, 2020",Act of the Legislative Assembly of Ontario,2020-03-04,2020-10-01,15,,https://www.ontario.ca/laws/statute/s20001
+04p03,"S.O. 2016, c. 6","Health Information Protection Act, 2016",Act of the Legislative Assembly of Ontario,2016-05-18,2020-10-01,11,,https://www.ontario.ca/laws/statute/s16006
+04p03,"S.O. 2019, c. 15","Plan to Build Ontario Together Act, 2019",Act of the Legislative Assembly of Ontario,2019-12-10,2020-10-01,0,named only by provisions changed together with another law,https://www.ontario.ca/laws/statute/s19015
+04p03,"S.O. 2020, c. 5","Economic and Fiscal Update Act, 2020",Act of the Legislative Assembly of Ontario,2020-03-25,2020-10-01,1,,https://www.ontario.ca/laws/statute/s20005
 06r17,"S.O. 2020, c. 23","Helping Tenants and Small Businesses Act, 2020",Act of the Legislative Assembly of Ontario,2020-10-01,2020-10-01,3,,https://www.ontario.ca/laws/statute/s20023
+00i37,"S.O. 2020, c. 11","Smarter and Stronger Justice Act, 2020",Act of the Legislative Assembly of Ontario,2020-07-08,2020-10-08,1,,https://www.ontario.ca/laws/statute/s20011
 90h08,"S.O. 2020, c. 29","Main Street Recovery Act, 2020",Act of the Legislative Assembly of Ontario,2020-11-30,2020-11-30,1,,https://www.ontario.ca/laws/statute/s20029
 90h08,"S.O. 2019, c. 8","Getting Ontario Moving Act (Transportation Statute Law Amendment), 2019",Act of the Legislative Assembly of Ontario,2019-06-06,2020-12-01,20,,https://www.ontario.ca/laws/statute/s19008
 90h08,"S.O. 2002, c. 22","Keeping the Promise for a Strong Economy Act (Budget Measures), 2002",Act of the Legislative Assembly of Ontario,2002-12-09,2020-12-08,4,,https://www.ontario.ca/laws/statute/s02022
 90h08,"S.O. 2019, c. 8","Getting Ontario Moving Act (Transportation Statute Law Amendment), 2019",Act of the Legislative Assembly of Ontario,2019-06-06,2021-01-01,1,,https://www.ontario.ca/laws/statute/s19008
 90h08,"S.O. 2019, c. 18","Reserved Parking for Electric Vehicle Charging Act, 2019",Act of the Legislative Assembly of Ontario,2019-12-12,2021-01-01,4,,https://www.ontario.ca/laws/statute/s19018
+01r28,"S.O. 2019, c. 7","Protecting What Matters Most Act (Budget Measures), 2019",Act of the Legislative Assembly of Ontario,2019-05-29,2021-03-01,0,named only by provisions changed together with another law,https://www.ontario.ca/laws/statute/s19007
+01r28,"S.O. 2020, c. 11","Smarter and Stronger Justice Act, 2020",Act of the Legislative Assembly of Ontario,2020-07-08,2021-03-01,17,,https://www.ontario.ca/laws/statute/s20011
 90h08,"S.O. 2019, c. 15","Plan to Build Ontario Together Act, 2019",Act of the Legislative Assembly of Ontario,2019-12-10,2021-03-01,8,,https://www.ontario.ca/laws/statute/s19015
 06l21,"S.O. 2020, c. 34","Better for People, Smarter for Business Act, 2020",Act of the Legislative Assembly of Ontario,2020-12-08,2021-03-31,6,,https://www.ontario.ca/laws/statute/s20034
 06r17,"S.O. 2020, c. 16","Protecting Tenants and Strengthening Community Housing Act, 2020",Act of the Legislative Assembly of Ontario,2020-07-21,2021-03-31,1,,https://www.ontario.ca/laws/statute/s20016
+01r28,"S.O. 2020, c. 11","Smarter and Stronger Justice Act, 2020",Act of the Legislative Assembly of Ontario,2020-07-08,2021-04-01,2,,https://www.ontario.ca/laws/statute/s20011
 00e41,"S.O. 2021, c. 4","Accelerating Access to Justice Act, 2021",Act of the Legislative Assembly of Ontario,2021-04-19,2021-04-19,8,,https://www.ontario.ca/laws/statute/s21004
+00p04,"S.O. 2021, c. 4","Accelerating Access to Justice Act, 2021",Act of the Legislative Assembly of Ontario,2021-04-19,2021-04-19,5,,https://www.ontario.ca/laws/statute/s21004
+04p03,"S.O. 2021, c. 4","Accelerating Access to Justice Act, 2021",Act of the Legislative Assembly of Ontario,2021-04-19,2021-04-19,3,,https://www.ontario.ca/laws/statute/s21004
+05s07,"S.O. 2021, c. 4","Accelerating Access to Justice Act, 2021",Act of the Legislative Assembly of Ontario,2021-04-19,2021-04-19,1,,https://www.ontario.ca/laws/statute/s21004
 06r17,"S.O. 2021, c. 4","Accelerating Access to Justice Act, 2021",Act of the Legislative Assembly of Ontario,2021-04-19,2021-04-19,4,,https://www.ontario.ca/laws/statute/s21004
 00e41,"S.O. 2021, c. 9","COVID-19 Putting Workers First Act, 2021",Act of the Legislative Assembly of Ontario,2021-04-29,2021-04-29,6,,https://www.ontario.ca/laws/statute/s21009
+04p08,"S.O. 2010, c. 15","Not-for-Profit Corporations Act, 2010",Act of the Legislative Assembly of Ontario,2010-10-25,2021-04-30,0,named only by provisions changed together with another law,https://www.ontario.ca/laws/statute/s10015
+04p08,"S.O. 2021, c. 4","Accelerating Access to Justice Act, 2021",Act of the Legislative Assembly of Ontario,2021-04-19,2021-04-30,23,,https://www.ontario.ca/laws/statute/s21004
+00t05,"S.O. 2021, c. 4","Accelerating Access to Justice Act, 2021",Act of the Legislative Assembly of Ontario,2021-04-19,2021-06-01,1,,https://www.ontario.ca/laws/statute/s21004
+01o31,"S.O. 2021, c. 4","Accelerating Access to Justice Act, 2021",Act of the Legislative Assembly of Ontario,2021-04-19,2021-06-01,3,,https://www.ontario.ca/laws/statute/s21004
+02f33,"S.O. 2021, c. 4","Accelerating Access to Justice Act, 2021",Act of the Legislative Assembly of Ontario,2021-04-19,2021-06-01,1,,https://www.ontario.ca/laws/statute/s21004
+02n04,"S.O. 2021, c. 4","Accelerating Access to Justice Act, 2021",Act of the Legislative Assembly of Ontario,2021-04-19,2021-06-01,3,,https://www.ontario.ca/laws/statute/s21004
+02s32,"S.O. 2021, c. 4","Accelerating Access to Justice Act, 2021",Act of the Legislative Assembly of Ontario,2021-04-19,2021-06-01,5,,https://www.ontario.ca/laws/statute/s21004
+05g01,"S.O. 2021, c. 4","Accelerating Access to Justice Act, 2021",Act of the Legislative Assembly of Ontario,2021-04-19,2021-06-01,2,,https://www.ontario.ca/laws/statute/s21004
+05p13,"S.O. 2021, c. 4","Accelerating Access to Justice Act, 2021",Act of the Legislative Assembly of Ontario,2021-04-19,2021-06-01,1,,https://www.ontario.ca/laws/statute/s21004
 06l21,"S.O. 2021, c. 4","Accelerating Access to Justice Act, 2021",Act of the Legislative Assembly of Ontario,2021-04-19,2021-06-01,1,,https://www.ontario.ca/laws/statute/s21004
 00e41,"S.O. 2021, c. 25","Supporting Recovery and Competitiveness Act, 2021",Act of the Legislative Assembly of Ontario,2021-06-03,2021-06-03,4,,https://www.ontario.ca/laws/statute/s21025
 90h08,"S.O. 2021, c. 26","Moving Ontarians More Safely Act, 2021",Act of the Legislative Assembly of Ontario,2021-06-03,2021-06-03,8,,https://www.ontario.ca/laws/statute/s21026
+00t16,"S.O. 2020, c. 14","Rebuilding Consumer Confidence Act, 2020",Act of the Legislative Assembly of Ontario,2020-07-14,2021-07-01,4,,https://www.ontario.ca/laws/statute/s20014
+05p28,"S.O. 2020, c. 34","Better for People, Smarter for Business Act, 2020",Act of the Legislative Assembly of Ontario,2020-12-08,2021-07-01,3,,https://www.ontario.ca/laws/statute/s20034
 90h08,"S.O. 2020, c. 34","Better for People, Smarter for Business Act, 2020",Act of the Legislative Assembly of Ontario,2020-12-08,2021-07-01,17,,https://www.ontario.ca/laws/statute/s20034
 90h08,"S.O. 2020, c. 36","Protect, Support and Recover from COVID-19 Act (Budget Measures), 2020",Act of the Legislative Assembly of Ontario,2020-12-08,2021-07-01,1,,https://www.ontario.ca/laws/statute/s20036
 90h08,"S.O. 2021, c. 26","Moving Ontarians More Safely Act, 2021",Act of the Legislative Assembly of Ontario,2021-06-03,2021-07-01,3,,https://www.ontario.ca/laws/statute/s21026
 06r17,"S.O. 2020, c. 16","Protecting Tenants and Strengthening Community Housing Act, 2020",Act of the Legislative Assembly of Ontario,2020-07-21,2021-09-01,12,,https://www.ontario.ca/laws/statute/s20016
 90h08,"S.O. 2021, c. 26","Moving Ontarians More Safely Act, 2021",Act of the Legislative Assembly of Ontario,2021-06-03,2021-09-12,1,,https://www.ontario.ca/laws/statute/s21026
 00e41,"S.O. 2010, c. 15","Not-for-Profit Corporations Act, 2010",Act of the Legislative Assembly of Ontario,2010-10-25,2021-10-19,1,,https://www.ontario.ca/laws/statute/s10015
+00p13,"S.O. 2017, c. 20","Cutting Unnecessary Red Tape Act, 2017",Act of the Legislative Assembly of Ontario,2017-11-14,2021-10-19,2,,https://www.ontario.ca/laws/statute/s17020
+00p18,"S.O. 2017, c. 20","Cutting Unnecessary Red Tape Act, 2017",Act of the Legislative Assembly of Ontario,2017-11-14,2021-10-19,2,,https://www.ontario.ca/laws/statute/s17020
+00t16,"S.O. 2010, c. 15","Not-for-Profit Corporations Act, 2010",Act of the Legislative Assembly of Ontario,2010-10-25,2021-10-19,2,,https://www.ontario.ca/laws/statute/s10015
+02l24,"S.O. 2020, c. 36","Protect, Support and Recover from COVID-19 Act (Budget Measures), 2020",Act of the Legislative Assembly of Ontario,2020-12-08,2021-10-19,1,,https://www.ontario.ca/laws/statute/s20036
+02o08e,"S.O. 2017, c. 20","Cutting Unnecessary Red Tape Act, 2017",Act of the Legislative Assembly of Ontario,2017-11-14,2021-10-19,1,,https://www.ontario.ca/laws/statute/s17020
+02o08f,"S.O. 2017, c. 20","Cutting Unnecessary Red Tape Act, 2017",Act of the Legislative Assembly of Ontario,2017-11-14,2021-10-19,1,,https://www.ontario.ca/laws/statute/s17020
+02r30,"S.O. 2017, c. 20","Cutting Unnecessary Red Tape Act, 2017",Act of the Legislative Assembly of Ontario,2017-11-14,2021-10-19,1,,https://www.ontario.ca/laws/statute/s17020
+02t28,"S.O. 2017, c. 20","Cutting Unnecessary Red Tape Act, 2017",Act of the Legislative Assembly of Ontario,2017-11-14,2021-10-19,6,,https://www.ontario.ca/laws/statute/s17020
+02u08,"S.O. 2017, c. 20","Cutting Unnecessary Red Tape Act, 2017",Act of the Legislative Assembly of Ontario,2017-11-14,2021-10-19,1,,https://www.ontario.ca/laws/statute/s17020
+05h28,"S.O. 2017, c. 20","Cutting Unnecessary Red Tape Act, 2017",Act of the Legislative Assembly of Ontario,2017-11-14,2021-10-19,1,,https://www.ontario.ca/laws/statute/s17020
 90h08,"S.O. 2017, c. 34","Stronger, Fairer Ontario Act (Budget Measures), 2017",Act of the Legislative Assembly of Ontario,2017-12-14,2021-11-01,7,,https://www.ontario.ca/laws/statute/s17034
 90h08,"S.O. 2021, c. 26","Moving Ontarians More Safely Act, 2021",Act of the Legislative Assembly of Ontario,2021-06-03,2021-11-28,2,,https://www.ontario.ca/laws/statute/s21026
 00e41,"S.O. 2019, c. 15","Plan to Build Ontario Together Act, 2019",Act of the Legislative Assembly of Ontario,2019-12-10,2021-11-29,1,,https://www.ontario.ca/laws/statute/s19015
+01f20,"S.O. 2019, c. 15","Plan to Build Ontario Together Act, 2019",Act of the Legislative Assembly of Ontario,2019-12-10,2021-11-29,1,,https://www.ontario.ca/laws/statute/s19015
+02l24,"S.O. 2019, c. 15","Plan to Build Ontario Together Act, 2019",Act of the Legislative Assembly of Ontario,2019-12-10,2021-11-29,1,,https://www.ontario.ca/laws/statute/s19015
 90h08,"S.O. 2019, c. 15","Plan to Build Ontario Together Act, 2019",Act of the Legislative Assembly of Ontario,2019-12-10,2021-11-29,1,,https://www.ontario.ca/laws/statute/s19015
 00e41,"S.O. 2021, c. 35","Working for Workers Act, 2021",Act of the Legislative Assembly of Ontario,2021-12-02,2021-12-02,8,,https://www.ontario.ca/laws/statute/s21035
+00p18,"S.O. 2021, c. 34","Supporting People and Businesses Act, 2021",Act of the Legislative Assembly of Ontario,2021-12-02,2021-12-02,3,,https://www.ontario.ca/laws/statute/s21034
 00e41,"S.O. 2021, c. 40","Build Ontario Act (Budget Measures), 2021",Act of the Legislative Assembly of Ontario,2021-12-09,2022-01-01,2,,https://www.ontario.ca/laws/statute/s21040
+02l24,"S.O. 2021, c. 34","Supporting People and Businesses Act, 2021",Act of the Legislative Assembly of Ontario,2021-12-02,2022-01-01,1,,https://www.ontario.ca/laws/statute/s21034
+02p02,"S.O. 2019, c. 7","Protecting What Matters Most Act (Budget Measures), 2019",Act of the Legislative Assembly of Ontario,2019-05-29,2022-01-01,1,,https://www.ontario.ca/laws/statute/s19007
 06r17,"S.O. 2020, c. 16","Protecting Tenants and Strengthening Community Housing Act, 2020",Act of the Legislative Assembly of Ontario,2020-07-21,2022-01-01,3,,https://www.ontario.ca/laws/statute/s20016
+02c30,"S.O. 2020, c. 36","Protect, Support and Recover from COVID-19 Act (Budget Measures), 2020",Act of the Legislative Assembly of Ontario,2020-12-08,2022-03-01,3,,https://www.ontario.ca/laws/statute/s20036
+02f33,"S.O. 2020, c. 36","Protect, Support and Recover from COVID-19 Act (Budget Measures), 2020",Act of the Legislative Assembly of Ontario,2020-12-08,2022-03-01,1,,https://www.ontario.ca/laws/statute/s20036
+02m30,"S.O. 2020, c. 36","Protect, Support and Recover from COVID-19 Act (Budget Measures), 2020",Act of the Legislative Assembly of Ontario,2020-12-08,2022-03-01,2,,https://www.ontario.ca/laws/statute/s20036
+02p08,"S.O. 2020, c. 36","Protect, Support and Recover from COVID-19 Act (Budget Measures), 2020",Act of the Legislative Assembly of Ontario,2020-12-08,2022-03-01,2,,https://www.ontario.ca/laws/statute/s20036
+02r30,"S.O. 2020, c. 36","Protect, Support and Recover from COVID-19 Act (Budget Measures), 2020",Act of the Legislative Assembly of Ontario,2020-12-08,2022-03-01,3,,https://www.ontario.ca/laws/statute/s20036
 90h08,"S.O. 2019, c. 15","Plan to Build Ontario Together Act, 2019",Act of the Legislative Assembly of Ontario,2019-12-10,2022-03-01,1,,https://www.ontario.ca/laws/statute/s19015
 90h08,"S.O. 2022, c. 2","Fewer Fees, Better Services Act, 2022",Act of the Legislative Assembly of Ontario,2022-03-03,2022-03-13,1,,https://www.ontario.ca/laws/statute/s22002
 90h08,"S.O. 2015, c. 14","Transportation Statute Law Amendment Act (Making Ontario's Roads Safer), 2015",Act of the Legislative Assembly of Ontario,2015-06-02,2022-04-01,9,,https://www.ontario.ca/laws/statute/s15014
 90h08,"S.O. 2019, c. 7","Protecting What Matters Most Act (Budget Measures), 2019",Act of the Legislative Assembly of Ontario,2019-05-29,2022-04-01,0,named only by provisions changed together with another law,https://www.ontario.ca/laws/statute/s19007
 90h08,"S.O. 2019, c. 14","Better for People, Smarter for Business Act, 2019",Act of the Legislative Assembly of Ontario,2019-12-10,2022-04-01,3,,https://www.ontario.ca/laws/statute/s19014
 90h08,"S.O. 2021, c. 26","Moving Ontarians More Safely Act, 2021",Act of the Legislative Assembly of Ontario,2021-06-03,2022-04-01,1,,https://www.ontario.ca/laws/statute/s21026
+02r30,"S.O. 2020, c. 1","Trust in Real Estate Services Act, 2020",Act of the Legislative Assembly of Ontario,2020-03-04,2022-04-04,1,,https://www.ontario.ca/laws/statute/s20001
 00e41,"S.O. 2022, c. 7","Working for Workers Act, 2022",Act of the Legislative Assembly of Ontario,2022-04-11,2022-04-11,4,,https://www.ontario.ca/laws/statute/s22007
+04p03,"S.O. 2021, c. 39","Providing More Care, Protecting Seniors, and Building More Beds Act, 2021",Act of the Legislative Assembly of Ontario,2021-12-09,2022-04-11,1,,https://www.ontario.ca/laws/statute/s21039
 06r17,"S.O. 2021, c. 39","Providing More Care, Protecting Seniors, and Building More Beds Act, 2021",Act of the Legislative Assembly of Ontario,2021-12-09,2022-04-11,1,,https://www.ontario.ca/laws/statute/s21039
+01r28,"S.O. 2022, c. 10","Keeping Ontario Open for Business Act, 2022",Act of the Legislative Assembly of Ontario,2022-04-14,2022-04-14,3,,https://www.ontario.ca/laws/statute/s22010
+04p03,"S.O. 2022, c. 11","Pandemic and Emergency Preparedness Act, 2022",Act of the Legislative Assembly of Ontario,2022-04-14,2022-04-14,2,,https://www.ontario.ca/laws/statute/s22011
 90h08,"S.O. 2022, c. 10","Keeping Ontario Open for Business Act, 2022",Act of the Legislative Assembly of Ontario,2022-04-14,2022-04-14,1,,https://www.ontario.ca/laws/statute/s22010
 00e41,"S.O. 2019, c. 5","The People's Health Care Act, 2019",Act of the Legislative Assembly of Ontario,2019-04-18,2022-05-01,2,,https://www.ontario.ca/laws/statute/s19005
+04p03,"S.O. 2020, c. 13","Connecting People to Home and Community Care Act, 2020",Act of the Legislative Assembly of Ontario,2020-07-08,2022-05-01,7,,https://www.ontario.ca/laws/statute/s20013
 90h08,"S.O. 2019, c. 15","Plan to Build Ontario Together Act, 2019",Act of the Legislative Assembly of Ontario,2019-12-10,2022-06-12,1,,https://www.ontario.ca/laws/statute/s19015
+00t16,"S.O. 2018, c. 7","Access to Consumer Credit Reports and Elevator Availability Act, 2018",Act of the Legislative Assembly of Ontario,2018-05-07,2022-07-01,8,,https://www.ontario.ca/laws/statute/s18007
+00t16,"S.O. 2019, c. 4","Restoring Ontario's Competitiveness Act, 2019",Act of the Legislative Assembly of Ontario,2019-04-03,2022-07-01,0,named only by provisions changed together with another law,https://www.ontario.ca/laws/statute/s19004
 90h08,"S.O. 2014, c. 9","Fighting Fraud and Reducing Automobile Insurance Rates Act, 2014",Act of the Legislative Assembly of Ontario,2014-11-20,2022-07-01,2,,https://www.ontario.ca/laws/statute/s14009
 90h08,"S.O. 2019, c. 8","Getting Ontario Moving Act (Transportation Statute Law Amendment), 2019",Act of the Legislative Assembly of Ontario,2019-06-06,2022-07-01,1,,https://www.ontario.ca/laws/statute/s19008
 90h08,"S.O. 2021, c. 13","Safer School Buses Act, 2021",Act of the Legislative Assembly of Ontario,2021-05-12,2022-07-01,1,,https://www.ontario.ca/laws/statute/s21013
 90h08,"S.O. 2021, c. 26","Moving Ontarians More Safely Act, 2021",Act of the Legislative Assembly of Ontario,2021-06-03,2022-07-01,4,,https://www.ontario.ca/laws/statute/s21026
 00e41,"S.O. 2022, c. 7","Working for Workers Act, 2022",Act of the Legislative Assembly of Ontario,2022-04-11,2023-01-01,3,,https://www.ontario.ca/laws/statute/s22007
 90h08,"S.O. 2021, c. 26","Moving Ontarians More Safely Act, 2021",Act of the Legislative Assembly of Ontario,2021-06-03,2023-01-01,2,,https://www.ontario.ca/laws/statute/s21026
+03k06,"S.O. 2020, c. 18","COVID-19 Economic Recovery Act, 2020",Act of the Legislative Assembly of Ontario,2020-07-21,2023-05-15,3,,https://www.ontario.ca/laws/statute/s20018
+02i13,"S.O. 2023, c. 9","Less Red Tape, Stronger Economy Act, 2023",Act of the Legislative Assembly of Ontario,2023-06-08,2023-06-08,4,,https://www.ontario.ca/laws/statute/s23009
 00e41,"S.O. 2021, c. 35","Working for Workers Act, 2021",Act of the Legislative Assembly of Ontario,2021-12-02,2023-07-01,37,,https://www.ontario.ca/laws/statute/s21035
+05p28,"S.O. 2022, c. 22","Strengthening Post-secondary Institutions and Students Act, 2022",Act of the Legislative Assembly of Ontario,2022-12-08,2023-07-01,1,,https://www.ontario.ca/laws/statute/s22022
+05p28,"S.O. 2023, c. 9","Less Red Tape, Stronger Economy Act, 2023",Act of the Legislative Assembly of Ontario,2023-06-08,2023-07-01,0,named only by provisions changed together with another law,https://www.ontario.ca/laws/statute/s23009
 90h08,"S.O. 2021, c. 26","Moving Ontarians More Safely Act, 2021",Act of the Legislative Assembly of Ontario,2021-06-03,2023-07-01,2,,https://www.ontario.ca/laws/statute/s21026
+04c05,"S.O. 2023, c. 4","Your Health Act, 2023",Act of the Legislative Assembly of Ontario,2023-05-18,2023-07-24,1,,https://www.ontario.ca/laws/statute/s23004
 90h08,"S.O. 2023, c. 9","Less Red Tape, Stronger Economy Act, 2023",Act of the Legislative Assembly of Ontario,2023-06-08,2023-09-15,1,,https://www.ontario.ca/laws/statute/s23009
+04c05,"S.O. 2023, c. 4","Your Health Act, 2023",Act of the Legislative Assembly of Ontario,2023-05-18,2023-09-25,3,,https://www.ontario.ca/laws/statute/s23004
+04p03,"S.O. 2023, c. 4","Your Health Act, 2023",Act of the Legislative Assembly of Ontario,2023-05-18,2023-09-25,1,,https://www.ontario.ca/laws/statute/s23004
 00e41,"S.O. 2023, c. 15","Working for Workers Act, 2023",Act of the Legislative Assembly of Ontario,2023-10-26,2023-10-26,8,,https://www.ontario.ca/laws/statute/s23015
+02r30,"S.O. 2020, c. 1","Trust in Real Estate Services Act, 2020",Act of the Legislative Assembly of Ontario,2020-03-04,2023-12-01,22,,https://www.ontario.ca/laws/statute/s20001
 06r17,"S.O. 2020, c. 1","Trust in Real Estate Services Act, 2020",Act of the Legislative Assembly of Ontario,2020-03-04,2023-12-01,1,,https://www.ontario.ca/laws/statute/s20001
+02l24,"S.O. 2023, c. 21","Building a Strong Ontario Together Act (Budget Measures), 2023",Act of the Legislative Assembly of Ontario,2023-12-04,2023-12-04,1,,https://www.ontario.ca/laws/statute/s23021
+02m30,"S.O. 2023, c. 20","Less Red Tape, More Common Sense Act, 2023",Act of the Legislative Assembly of Ontario,2023-12-04,2023-12-04,3,,https://www.ontario.ca/laws/statute/s23020
+02o08e,"S.O. 2023, c. 20","Less Red Tape, More Common Sense Act, 2023",Act of the Legislative Assembly of Ontario,2023-12-04,2023-12-04,1,,https://www.ontario.ca/laws/statute/s23020
+02u08,"S.O. 2023, c. 20","Less Red Tape, More Common Sense Act, 2023",Act of the Legislative Assembly of Ontario,2023-12-04,2023-12-04,1,,https://www.ontario.ca/laws/statute/s23020
+01o31,"S.O. 2023, c. 22","Greenbelt Statute Law Amendment Act, 2023",Act of the Legislative Assembly of Ontario,2023-12-06,2023-12-06,4,,https://www.ontario.ca/laws/statute/s23022
+05g01,"S.O. 2023, c. 22","Greenbelt Statute Law Amendment Act, 2023",Act of the Legislative Assembly of Ontario,2023-12-06,2023-12-06,5,,https://www.ontario.ca/laws/statute/s23022
 00e41,"S.O. 2023, c. 9","Less Red Tape, Stronger Economy Act, 2023",Act of the Legislative Assembly of Ontario,2023-06-08,2024-01-01,1,,https://www.ontario.ca/laws/statute/s23009
+02c30,"S.O. 2019, c. 1","Comprehensive Ontario Police Services Act, 2019",Act of the Legislative Assembly of Ontario,2019-03-26,2024-01-01,0,named only by provisions changed together with another law,https://www.ontario.ca/laws/statute/s19001
+02c30,"S.O. 2021, c. 26","Moving Ontarians More Safely Act, 2021",Act of the Legislative Assembly of Ontario,2021-06-03,2024-01-01,5,,https://www.ontario.ca/laws/statute/s21026
+05p28,"S.O. 2023, c. 9","Less Red Tape, Stronger Economy Act, 2023",Act of the Legislative Assembly of Ontario,2023-06-08,2024-01-01,41,,https://www.ontario.ca/laws/statute/s23009
 90h08,"S.O. 2021, c. 26","Moving Ontarians More Safely Act, 2021",Act of the Legislative Assembly of Ontario,2021-06-03,2024-01-01,2,,https://www.ontario.ca/laws/statute/s21026
+02i13,"S.O. 2023, c. 9","Less Red Tape, Stronger Economy Act, 2023",Act of the Legislative Assembly of Ontario,2023-06-08,2024-02-01,14,,https://www.ontario.ca/laws/statute/s23009
+02s32,"S.O. 2020, c. 18","COVID-19 Economic Recovery Act, 2020",Act of the Legislative Assembly of Ontario,2020-07-21,2024-02-22,2,,https://www.ontario.ca/laws/statute/s20018
+05p13,"S.O. 2020, c. 18","COVID-19 Economic Recovery Act, 2020",Act of the Legislative Assembly of Ontario,2020-07-21,2024-02-22,1,,https://www.ontario.ca/laws/statute/s20018
 00e41,"S.O. 2019, c. 12","Protecting a Sustainable Public Sector for Future Generations Act, 2019",Act of the Legislative Assembly of Ontario,2019-11-07,2024-02-23,2,,https://www.ontario.ca/laws/statute/s19012
 06l21,"S.O. 2024, c. 2","Enhancing Access to Justice Act, 2024",Act of the Legislative Assembly of Ontario,2024-03-06,2024-03-06,20,,https://www.ontario.ca/laws/statute/s24002
 00e41,"S.O. 2024, c. 3","Working for Workers Four Act, 2024 ",Act of the Legislative Assembly of Ontario,2024-03-21,2024-03-21,3,,https://www.ontario.ca/laws/statute/s24003
+00c01,"S.O. 2019, c. 1","Comprehensive Ontario Police Services Act, 2019",Act of the Legislative Assembly of Ontario,2019-03-26,2024-04-01,11,,https://www.ontario.ca/laws/statute/s19001
 00e41,"S.O. 2019, c. 1","Comprehensive Ontario Police Services Act, 2019",Act of the Legislative Assembly of Ontario,2019-03-26,2024-04-01,3,,https://www.ontario.ca/laws/statute/s19001
+01f20,"S.O. 2019, c. 1","Comprehensive Ontario Police Services Act, 2019",Act of the Legislative Assembly of Ontario,2019-03-26,2024-04-01,3,,https://www.ontario.ca/laws/statute/s19001
+02n04,"S.O. 2019, c. 1","Comprehensive Ontario Police Services Act, 2019",Act of the Legislative Assembly of Ontario,2019-03-26,2024-04-01,2,,https://www.ontario.ca/laws/statute/s19001
+02s32,"S.O. 2019, c. 1","Comprehensive Ontario Police Services Act, 2019",Act of the Legislative Assembly of Ontario,2019-03-26,2024-04-01,5,,https://www.ontario.ca/laws/statute/s19001
+05m09,"S.O. 2019, c. 1","Comprehensive Ontario Police Services Act, 2019",Act of the Legislative Assembly of Ontario,2019-03-26,2024-04-01,2,,https://www.ontario.ca/laws/statute/s19001
 90h08,"S.O. 2019, c. 1","Comprehensive Ontario Police Services Act, 2019",Act of the Legislative Assembly of Ontario,2019-03-26,2024-04-01,10,,https://www.ontario.ca/laws/statute/s19001
 90h08,"S.O. 2024, c. 9","Get It Done Act, 2024",Act of the Legislative Assembly of Ontario,2024-05-16,2024-05-16,4,,https://www.ontario.ca/laws/statute/s24009
 00e41,"S.O. 2024, c. 3","Working for Workers Four Act, 2024 ",Act of the Legislative Assembly of Ontario,2024-03-21,2024-06-21,6,,https://www.ontario.ca/laws/statute/s24003
+04p03,"S.O. 2019, c. 5","The People's Health Care Act, 2019",Act of the Legislative Assembly of Ontario,2019-04-18,2024-06-28,3,,https://www.ontario.ca/laws/statute/s19005
+04p03,"S.O. 2020, c. 5","Economic and Fiscal Update Act, 2020",Act of the Legislative Assembly of Ontario,2020-03-25,2024-06-28,2,,https://www.ontario.ca/laws/statute/s20005
 00e41,"S.O. 2021, c. 35","Working for Workers Act, 2021",Act of the Legislative Assembly of Ontario,2021-12-02,2024-07-01,2,,https://www.ontario.ca/laws/statute/s21035
 90h08,"S.O. 2024, c. 9","Get It Done Act, 2024",Act of the Legislative Assembly of Ontario,2024-05-16,2024-07-01,4,,https://www.ontario.ca/laws/statute/s24009
 90h08,"S.O. 2024, c. 2","Enhancing Access to Justice Act, 2024",Act of the Legislative Assembly of Ontario,2024-03-06,2024-10-16,1,,https://www.ontario.ca/laws/statute/s24002
 00e41,"S.O. 2024, c. 19","Working for Workers Five Act, 2024",Act of the Legislative Assembly of Ontario,2024-10-28,2024-10-28,2,,https://www.ontario.ca/laws/statute/s24019
 90h08,"S.O. 2024, c. 21","Safer Roads and Communities Act, 2024",Act of the Legislative Assembly of Ontario,2024-11-19,2024-11-19,11,,https://www.ontario.ca/laws/statute/s24021
 90h08,"S.O. 2024, c. 25","Reducing Gridlock, Saving You Time Act, 2024",Act of the Legislative Assembly of Ontario,2024-11-25,2024-11-25,18,,https://www.ontario.ca/laws/statute/s24025
+04p03,"S.O. 2021, c. 27","Advancing Oversight and Planning in Ontario's Health System Act, 2021",Act of the Legislative Assembly of Ontario,2021-06-03,2024-12-01,4,,https://www.ontario.ca/laws/statute/s21027
+00c01,"S.O. 2024, c. 27","Safer Streets, Stronger Communities Act, 2024",Act of the Legislative Assembly of Ontario,2024-12-04,2024-12-04,2,,https://www.ontario.ca/laws/statute/s24027
+02l24,"S.O. 2024, c. 27","Safer Streets, Stronger Communities Act, 2024",Act of the Legislative Assembly of Ontario,2024-12-04,2024-12-04,1,,https://www.ontario.ca/laws/statute/s24027
 06r17,"S.O. 2024, c. 28","Cutting Red Tape, Building Ontario Act, 2024",Act of the Legislative Assembly of Ontario,2024-12-04,2024-12-04,1,,https://www.ontario.ca/laws/statute/s24028
 90h08,"S.O. 2024, c. 27","Safer Streets, Stronger Communities Act, 2024",Act of the Legislative Assembly of Ontario,2024-12-04,2024-12-04,6,,https://www.ontario.ca/laws/statute/s24027
 00e41,"S.O. 2024, c. 41","Working for Workers Six Act, 2024",Act of the Legislative Assembly of Ontario,2024-12-19,2024-12-19,1,,https://www.ontario.ca/laws/statute/s24041
 06l21,"S.O. 2024, c. 2","Enhancing Access to Justice Act, 2024",Act of the Legislative Assembly of Ontario,2024-03-06,2025-01-01,7,,https://www.ontario.ca/laws/statute/s24002
 90h08,"S.O. 2015, c. 14","Transportation Statute Law Amendment Act (Making Ontario's Roads Safer), 2015",Act of the Legislative Assembly of Ontario,2015-06-02,2025-04-01,4,,https://www.ontario.ca/laws/statute/s15014
 90h08,"S.O. 2024, c. 28","Cutting Red Tape, Building Ontario Act, 2024",Act of the Legislative Assembly of Ontario,2024-12-04,2025-04-01,0,named only by provisions changed together with another law,https://www.ontario.ca/laws/statute/s24028
+04p03,"S.O. 2025, c. 7","More Convenient Care Act, 2025 ",Act of the Legislative Assembly of Ontario,2025-06-05,2025-06-05,1,,https://www.ontario.ca/laws/statute/s25007
 90h08,"S.O. 2025, c. 10","Plan to Protect Ontario Act (Budget Measures), 2025",Act of the Legislative Assembly of Ontario,2025-06-05,2025-06-05,9,,https://www.ontario.ca/laws/statute/s25010
 00e41,"S.O. 2024, c. 41","Working for Workers Six Act, 2024",Act of the Legislative Assembly of Ontario,2024-12-19,2025-06-19,2,,https://www.ontario.ca/laws/statute/s24041
 90h08,"S.O. 2025, c. 11","Building a More Competitive Economy Act, 2025",Act of the Legislative Assembly of Ontario,2025-11-03,2025-11-03,1,,https://www.ontario.ca/laws/statute/s25011
 90h08,"S.O. 2025, c. 11","Building a More Competitive Economy Act, 2025",Act of the Legislative Assembly of Ontario,2025-11-03,2025-11-14,17,,https://www.ontario.ca/laws/statute/s25011
 00e41,"S.O. 2025, c. 13","Working for Workers Seven Act, 2025",Act of the Legislative Assembly of Ontario,2025-11-27,2025-11-27,7,,https://www.ontario.ca/laws/statute/s25013
+02t28,"S.O. 2025, c. 14","Fighting Delays, Building Faster Act, 2025",Act of the Legislative Assembly of Ontario,2025-11-27,2025-11-27,3,,https://www.ontario.ca/laws/statute/s25014
+04g20,"S.O. 2025, c. 15","Plan to Protect Ontario Act (Budget Measures), 2025 (No. 2) ",Act of the Legislative Assembly of Ontario,2025-11-27,2025-11-27,1,,https://www.ontario.ca/laws/statute/s25015
 06l21,"S.O. 2025, c. 14","Fighting Delays, Building Faster Act, 2025",Act of the Legislative Assembly of Ontario,2025-11-27,2025-11-27,1,,https://www.ontario.ca/laws/statute/s25014
 90h08,"S.O. 2025, c. 14","Fighting Delays, Building Faster Act, 2025",Act of the Legislative Assembly of Ontario,2025-11-27,2025-11-27,7,,https://www.ontario.ca/laws/statute/s25014
+00c01,"S.O. 2025, c. 24","Protect Ontario by Cutting Red Tape Act, 2025",Act of the Legislative Assembly of Ontario,2025-12-11,2025-12-11,1,,https://www.ontario.ca/laws/statute/s25024
+02f33,"S.O. 2025, c. 24","Protect Ontario by Cutting Red Tape Act, 2025",Act of the Legislative Assembly of Ontario,2025-12-11,2025-12-11,32,,https://www.ontario.ca/laws/statute/s25024
 06l21,"S.O. 2025, c. 27","Buy Ontario Act, 2025",Act of the Legislative Assembly of Ontario,2025-12-11,2025-12-11,1,,https://www.ontario.ca/laws/statute/s25027
 90h08,"S.O. 2025, c. 27","Buy Ontario Act, 2025",Act of the Legislative Assembly of Ontario,2025-12-11,2025-12-11,3,,https://www.ontario.ca/laws/statute/s25027
 90h08,"S.O. 2015, c. 14","Transportation Statute Law Amendment Act (Making Ontario's Roads Safer), 2015",Act of the Legislative Assembly of Ontario,2015-06-02,2025-12-31,1,,https://www.ontario.ca/laws/statute/s15014
@@ -256,13 +659,22 @@ act,law,title,kind,assented,in_force,provisions,note,source
 00e41,"S.O. 2024, c. 3","Working for Workers Four Act, 2024 ",Act of the Legislative Assembly of Ontario,2024-03-21,2026-01-01,3,,https://www.ontario.ca/laws/statute/s24003
 00e41,"S.O. 2024, c. 19","Working for Workers Five Act, 2024",Act of the Legislative Assembly of Ontario,2024-10-28,2026-01-01,3,,https://www.ontario.ca/laws/statute/s24019
 00e41,"S.O. 2025, c. 13","Working for Workers Seven Act, 2025",Act of the Legislative Assembly of Ontario,2025-11-27,2026-01-01,1,,https://www.ontario.ca/laws/statute/s25013
+04p03,"S.O. 2025, c. 7","More Convenient Care Act, 2025 ",Act of the Legislative Assembly of Ontario,2025-06-05,2026-01-01,25,,https://www.ontario.ca/laws/statute/s25007
 90h08,"S.O. 2024, c. 21","Safer Roads and Communities Act, 2024",Act of the Legislative Assembly of Ontario,2024-11-19,2026-01-01,15,,https://www.ontario.ca/laws/statute/s24021
 90h08,"S.O. 2024, c. 27","Safer Streets, Stronger Communities Act, 2024",Act of the Legislative Assembly of Ontario,2024-12-04,2026-01-01,1,,https://www.ontario.ca/laws/statute/s24027
 90h08,"S.O. 2025, c. 6","Protect Ontario Through Safer Streets and Stronger Communities Act, 2025",Act of the Legislative Assembly of Ontario,2025-06-05,2026-01-01,1,,https://www.ontario.ca/laws/statute/s25006
+03k06,"S.O. 2025, c. 11","Building a More Competitive Economy Act, 2025",Act of the Legislative Assembly of Ontario,2025-11-03,2026-03-30,1,,https://www.ontario.ca/laws/statute/s25011
+00c01,"S.O. 2024, c. 27","Safer Streets, Stronger Communities Act, 2024",Act of the Legislative Assembly of Ontario,2024-12-04,2026-04-01,10,,https://www.ontario.ca/laws/statute/s24027
+00c01,"S.O. 2025, c. 6","Protect Ontario Through Safer Streets and Stronger Communities Act, 2025",Act of the Legislative Assembly of Ontario,2025-06-05,2026-04-01,0,named only by provisions changed together with another law,https://www.ontario.ca/laws/statute/s25006
+00c01,"S.O. 2025, c. 24","Protect Ontario by Cutting Red Tape Act, 2025",Act of the Legislative Assembly of Ontario,2025-12-11,2026-04-01,0,named only by provisions changed together with another law,https://www.ontario.ca/laws/statute/s25024
+02i13,"S.O. 2024, c. 28","Cutting Red Tape, Building Ontario Act, 2024",Act of the Legislative Assembly of Ontario,2024-12-04,2026-05-01,1,,https://www.ontario.ca/laws/statute/s24028
+05h28,"S.O. 2026, c. 4","Putting Student Achievement First Act, 2026",Act of the Legislative Assembly of Ontario,2026-05-07,2026-05-07,7,,https://www.ontario.ca/laws/statute/s26004
 90h08,"S.O. 2024, c. 21","Safer Roads and Communities Act, 2024",Act of the Legislative Assembly of Ontario,2024-11-19,2026-05-19,1,,https://www.ontario.ca/laws/statute/s24021
 90h08,"S.O. 2024, c. 25","Reducing Gridlock, Saving You Time Act, 2024",Act of the Legislative Assembly of Ontario,2024-11-25,2026-05-19,0,named only by provisions changed together with another law,https://www.ontario.ca/laws/statute/s24025
+02s32,"S.O. 2026, c. 8","Building Homes and Improving Transportation Infrastructure Act, 2026",Act of the Legislative Assembly of Ontario,2026-06-02,2026-06-02,1,,https://www.ontario.ca/laws/statute/s26008
 90h08,"S.O. 2024, c. 25","Reducing Gridlock, Saving You Time Act, 2024",Act of the Legislative Assembly of Ontario,2024-11-25,2026-06-25,1,,https://www.ontario.ca/laws/statute/s24025
 90h08,"S.O. 2024, c. 27","Safer Streets, Stronger Communities Act, 2024",Act of the Legislative Assembly of Ontario,2024-12-04,2026-06-25,2,,https://www.ontario.ca/laws/statute/s24027
+00c01,"S.O. 2024, c. 27","Safer Streets, Stronger Communities Act, 2024",Act of the Legislative Assembly of Ontario,2024-12-04,2026-07-01,1,,https://www.ontario.ca/laws/statute/s24027
 06r17,"S.O. 2023, c. 10","Helping Homebuyers, Protecting Tenants Act, 2023",Act of the Legislative Assembly of Ontario,2023-06-08,2026-07-01,5,,https://www.ontario.ca/laws/statute/s23010
 06r17,"S.O. 2025, c. 14","Fighting Delays, Building Faster Act, 2025",Act of the Legislative Assembly of Ontario,2025-11-27,2026-07-01,3,,https://www.ontario.ca/laws/statute/s25014
 90h08,"S.O. 2024, c. 21","Safer Roads and Communities Act, 2024",Act of the Legislative Assembly of Ontario,2024-11-19,2026-07-01,1,,https://www.ontario.ca/laws/statute/s24021

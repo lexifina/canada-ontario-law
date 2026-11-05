@@ -420,3 +420,17 @@ was not reviewed line by line by a lawyer. This is not an official version (see 
 - e-Laws itself, whose "Versions" tab shows each point-in-time version; it has no change-by-change view.
 - Lexifina's other corpora, whose rules this one follows, and `lexifina/canada-law` (federal Acts), whose builder this
   one adapts.
+
+<!-- appended-batches -->
+## Appended batches
+
+Made by `tools/append/ontario_append.py` (with the parser, evidence rules and messages of `tools/build.py`, extended to every statute e-Laws lists in `tools/append/acts.json`: version-list repairs, repealed acts, acts enacted in their first version) on a clone of the published main, then checked before a plain push: every point-in-time version of each appended act read back from git on its day, file by file and by letters and digits against the raw source (`tools/check_repo.py`'s checks); global-law's `tools/check_corpus.py` with the published head as the pin (append-only); and a privacy audit of everything the push adds. An act that fails is held out of the batch and listed here. New commits use the corpus standard's trailers (Kind: law, baseline, unexplained for the standard uncredited, printing; Text-source for the version page; Retroactive for a change in force before Royal Assent).
+
+| Batch | Day | Acts | Commits | Versions checked | Mismatches | Held |
+| ---: | --- | ---: | ---: | ---: | ---: | --- |
+| 1 | 2026-11-05 | 78 | 604 | 645 | 0 | 01m25, 02t30 |
+
+Version-list repairs in batch 1 (build.version_list's rules):
+
+- 01a10 v0 (2019-03-26): last day 2008-11-30 before its first day ignored
+- 01r28 v0 (2024-04-01): listed from 2022-04-14, before v14 ends (2024-03-31); starts 2024-04-01
