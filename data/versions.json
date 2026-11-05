@@ -29617,6 +29617,2521 @@
      "sha256": "fa507af499cef542ebd2d395fa3d1af514085ed0bd411d25dfb1cb08a4ebd88d"
     }
    ]
+  },
+  {
+   "id": "20i36a",
+   "title": "Innovation Centre Governance Act, 2020",
+   "short": "Innovation Centre Governance Act, 2020",
+   "state": "current",
+   "enacted_by": "S.O. 2020, c. 36",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2020-12-08",
+     "to": "2021-10-18",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/20i36a/v1",
+     "api": "en/doc-search/statute/20i36a/v1",
+     "sha256": "bc53438e189a8a55b193ba8d5e66d4328d465f3eed29531b93cd07b07ae54ff9"
+    },
+    {
+     "n": 0,
+     "from": "2021-10-19",
+     "to": null,
+     "state": "current",
+     "laws": [
+      "S.O. 2020, c. 36"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/20i36a",
+     "api": "en/doc-search/statute/20i36a",
+     "sha256": "7cbe649458f4d14fb9b2bb69dfc4749d506dc9b196bc501b7c586389867152db"
+    }
+   ]
+  },
+  {
+   "id": "20l11",
+   "title": "Legal Aid Services Act, 2020",
+   "short": "Legal Aid Services Act, 2020",
+   "state": "current",
+   "enacted_by": "S.O. 2020, c. 11",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2020-07-08",
+     "to": "2020-12-07",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/20l11/v1",
+     "api": "en/doc-search/statute/20l11/v1",
+     "sha256": "29975e155301a737c4e62204a393b7ae5f86f9ee9cf6572d4ab2637ca1cea25b"
+    },
+    {
+     "n": 2,
+     "from": "2020-12-08",
+     "to": "2021-10-17",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/20l11/v2",
+     "api": "en/doc-search/statute/20l11/v2",
+     "sha256": "8dd8896772a624779ec5789cbd01a951d529f53033eb4c792daf7ea368664d05"
+    },
+    {
+     "n": 3,
+     "from": "2021-10-18",
+     "to": "2021-10-18",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/20l11/v3",
+     "api": "en/doc-search/statute/20l11/v3",
+     "sha256": "dbc8b5ed8df46ca6cc4743217d202560d22a42ddc21f844e80d88d6e9041518a"
+    },
+    {
+     "n": 4,
+     "from": "2021-10-19",
+     "to": "2022-02-28",
+     "state": "historical",
+     "laws": [
+      "S.O. 2020, c. 11"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/20l11/v4",
+     "api": "en/doc-search/statute/20l11/v4",
+     "sha256": "c04699b915104cd70b1415be834869b005baa626ba81d0751da7171f2baee11e"
+    },
+    {
+     "n": 0,
+     "from": "2022-03-01",
+     "to": null,
+     "state": "current",
+     "laws": [
+      "S.O. 2020, c. 36"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/20l11",
+     "api": "en/doc-search/statute/20l11",
+     "sha256": "b40fd94d5e373ae115d863266250888cd06652c8667540c8fe5566d9df5fe15e"
+    }
+   ]
+  },
+  {
+   "id": "20m18",
+   "title": "Modernizing Ontario for People and Businesses Act, 2020",
+   "short": "Modernizing Ontario for People and Businesses Act, 2020",
+   "state": "current",
+   "enacted_by": "S.O. 2020, c. 18",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2020-07-21",
+     "to": "2020-12-31",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/20m18/v1",
+     "api": "en/doc-search/statute/20m18/v1",
+     "sha256": "171240b8a38e9e9ba5ba76d4296e68f74d95db18d45ba85322ee9e9f8cf7f879"
+    },
+    {
+     "n": 2,
+     "from": "2021-01-01",
+     "to": "2021-06-02",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/20m18/v2",
+     "api": "en/doc-search/statute/20m18/v2",
+     "sha256": "bd8b70b5c5c56faa217cd1cab7a1d47110bcbc0d13f3fb201ac158d83d57cf13"
+    },
+    {
+     "n": 3,
+     "from": "2021-06-03",
+     "to": "2021-06-30",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/20m18/v3",
+     "api": "en/doc-search/statute/20m18/v3",
+     "sha256": "79ee7bd8368a0e072cdf90f7f27055804bbe6368b9949b9ee4dcb90a0d5ae036"
+    },
+    {
+     "n": 4,
+     "from": "2021-07-01",
+     "to": "2023-12-03",
+     "state": "historical",
+     "laws": [
+      "S.O. 2021, c. 25"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/20m18/v4",
+     "api": "en/doc-search/statute/20m18/v4",
+     "sha256": "efba767eba0fa147ae8fa61d940e0c476bb0f0183dc968a78125965d6cd22379"
+    },
+    {
+     "n": 5,
+     "from": "2023-12-04",
+     "to": "2024-12-03",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/20m18/v5",
+     "api": "en/doc-search/statute/20m18/v5",
+     "sha256": "2a9a5a7486690ec2575e072a7fbcd1026c6f4c2764f3914edcb56689a57a8282"
+    },
+    {
+     "n": 6,
+     "from": "2024-12-04",
+     "to": "2025-06-30",
+     "state": "historical",
+     "laws": [
+      "S.O. 2024, c. 28"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/20m18/v6",
+     "api": "en/doc-search/statute/20m18/v6",
+     "sha256": "313709effeab43554ebcca0b160f7ee440940029f40c8155cff32eb1a6048233"
+    },
+    {
+     "n": 7,
+     "from": "2025-07-01",
+     "to": "2025-12-10",
+     "state": "historical",
+     "laws": [
+      "S.O. 2023, c. 20"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/20m18/v7",
+     "api": "en/doc-search/statute/20m18/v7",
+     "sha256": "318cfbc6032e99dc019124ba7524af34e4f99f3bd94324e8447d98cb6ef9e470"
+    },
+    {
+     "n": 0,
+     "from": "2025-12-11",
+     "to": null,
+     "state": "current",
+     "laws": [
+      "S.O. 2025, c. 24"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/20m18",
+     "api": "en/doc-search/statute/20m18",
+     "sha256": "96ef9ab000d978f0cce57bf4d0a2dd4aebd4f64fabc13d816e1911a993b26be6"
+    }
+   ]
+  },
+  {
+   "id": "20m27",
+   "title": "Magna Carta Day Act (In Memory of Julia Munro, MPP), 2020",
+   "short": "Magna Carta Day Act (In Memory of Julia Munro, MPP), 2020",
+   "state": "current",
+   "enacted_by": "S.O. 2020, c. 27",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2020-11-30",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/20m27",
+     "api": "en/doc-search/statute/20m27",
+     "sha256": "f3516ac806819dd3857edaa00993e6de954cf26a8441d8f5c8047de7e34e99cf"
+    }
+   ]
+  },
+  {
+   "id": "20o05",
+   "title": "Ontario Loan Act, 2020",
+   "short": "Ontario Loan Act, 2020",
+   "state": "current",
+   "enacted_by": "S.O. 2020, c. 5",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2020-03-25",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/20o05",
+     "api": "en/doc-search/statute/20o05",
+     "sha256": "5dfbe4a647c936b1e5be73c4678b183c25cb1b4e69debcb8f7350c446d08e06a"
+    }
+   ]
+  },
+  {
+   "id": "20o16",
+   "title": "Ontario Mortgage and Housing Corporation Repeal Act, 2020",
+   "short": "Ontario Mortgage and Housing Corporation Repeal Act, 2020",
+   "state": "current",
+   "enacted_by": "S.O. 2020, c. 16",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2020-07-21",
+     "to": "2021-03-30",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/20o16/v1",
+     "api": "en/doc-search/statute/20o16/v1",
+     "sha256": "ff3ddcbae013e50e611cb760c0ecdac4defb0b7bb158ab8d66abe5a718ad9b18"
+    },
+    {
+     "n": 0,
+     "from": "2021-03-31",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/20o16",
+     "api": "en/doc-search/statute/20o16",
+     "sha256": "9a78a5c2bae5924b89fbdb46240e6f645258c911bed6979568c7f1d1b11ca0ca"
+    }
+   ]
+  },
+  {
+   "id": "20o34",
+   "title": "Ontario Highway Transport Board Repeal Act, 2020",
+   "short": "Ontario Highway Transport Board Repeal Act, 2020",
+   "state": "current",
+   "enacted_by": "S.O. 2020, c. 34",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2020-12-08",
+     "to": "2021-06-30",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/20o34/v1",
+     "api": "en/doc-search/statute/20o34/v1",
+     "sha256": "123ffc2bb3844784611e184eedaf552da1551546b799f86c090b4ed88bf61ae8"
+    },
+    {
+     "n": 0,
+     "from": "2021-07-01",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/20o34",
+     "api": "en/doc-search/statute/20o34",
+     "sha256": "23f34685fe905753393c504ae73c72ffbe181e7b4a39c3bacef41f7ea66e317a"
+    }
+   ]
+  },
+  {
+   "id": "20o36",
+   "title": "Ontario Loan Act, 2020 (No. 2)",
+   "short": "Ontario Loan Act, 2020 (No. 2)",
+   "state": "current",
+   "enacted_by": "S.O. 2020, c. 36",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2020-12-08",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/20o36",
+     "api": "en/doc-search/statute/20o36",
+     "sha256": "584d1d66496396ad3e4a491e09de9a205db628f8f2a4be3c355294c05414b384"
+    }
+   ]
+  },
+  {
+   "id": "20p34",
+   "title": "Public Vehicles Repeal Act, 2020",
+   "short": "Public Vehicles Repeal Act, 2020",
+   "state": "current",
+   "enacted_by": "S.O. 2020, c. 34",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2020-12-08",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/20p34",
+     "api": "en/doc-search/statute/20p34",
+     "sha256": "7948f3bd53cf06a0825a670f18449a204510d27ba8952b200d6e5380a3ba44c8"
+    }
+   ]
+  },
+  {
+   "id": "20r17",
+   "title": "Reopening Ontario (A Flexible Response to COVID-19) Act, 2020",
+   "short": "Reopening Ontario (A Flexible Response to COVID-19) Act, 2020",
+   "state": "current",
+   "enacted_by": "S.O. 2020, c. 17",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2020-07-21",
+     "to": "2020-07-23",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/20r17/v1",
+     "api": "en/doc-search/statute/20r17/v1",
+     "sha256": "155d9105c8bc6f47732fc7d8a27f522610e47984e9e696975b191acc72f647e8"
+    },
+    {
+     "n": 2,
+     "from": "2020-07-24",
+     "to": "2020-09-30",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/20r17/v2",
+     "api": "en/doc-search/statute/20r17/v2",
+     "sha256": "4ebdd6b21c8a7a8e97424ac9b8f439e4ed18bf91b6ed9de785ab9d10752cdd04"
+    },
+    {
+     "n": 0,
+     "from": "2020-10-01",
+     "to": null,
+     "state": "current",
+     "laws": [
+      "S.O. 2020, c. 23"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/20r17",
+     "api": "en/doc-search/statute/20r17",
+     "sha256": "6cf316eb9106c4855c241517fc265c413591f2143563fc29678acff6954e9850"
+    }
+   ]
+  },
+  {
+   "id": "20s09",
+   "title": "Security from Trespass and Protecting Food Safety Act, 2020",
+   "short": "Security from Trespass and Protecting Food Safety Act, 2020",
+   "state": "current",
+   "enacted_by": "S.O. 2020, c. 9",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2020-06-18",
+     "to": "2020-09-01",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/20s09/v1",
+     "api": "en/doc-search/statute/20s09/v1",
+     "sha256": "4967d3579e6abf62a356136a64892801337db1350b4ac3125cc33052d37e3da9"
+    },
+    {
+     "n": 2,
+     "from": "2020-09-02",
+     "to": "2020-12-04",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/20s09/v2",
+     "api": "en/doc-search/statute/20s09/v2",
+     "sha256": "27d4052ae851cf7fb691a75640fb78acd5664a28588d0189b87b3a39825d3865"
+    },
+    {
+     "n": 0,
+     "from": "2020-12-05",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/20s09",
+     "api": "en/doc-search/statute/20s09",
+     "sha256": "d830cff2c412aca48a8171bd161140e1d6b6a8d2e2949a9013513b52a19d97d9"
+    }
+   ]
+  },
+  {
+   "id": "20s20",
+   "title": "Stop Cyberbullying in Ontario Day Act, 2020",
+   "short": "Stop Cyberbullying in Ontario Day Act, 2020",
+   "state": "current",
+   "enacted_by": "S.O. 2020, c. 20",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2020-09-24",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/20s20",
+     "api": "en/doc-search/statute/20s20",
+     "sha256": "fd9fb838ed3b6693656d3704e142a1c1e83ecca7880b6bd10f517f731b662b77"
+    }
+   ]
+  },
+  {
+   "id": "20s22",
+   "title": "Somali Heritage Week Act, 2020",
+   "short": "Somali Heritage Week Act, 2020",
+   "state": "current",
+   "enacted_by": "S.O. 2020, c. 22",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2020-10-01",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/20s22",
+     "api": "en/doc-search/statute/20s22",
+     "sha256": "a8c3885f72054db3d43fcf5a6ff72652dc46483b606484b6924c42d097402abe"
+    }
+   ]
+  },
+  {
+   "id": "20s24",
+   "title": "Soldiers’ Aid Commission Act, 2020",
+   "short": "Soldiers' Aid Commission Act, 2020",
+   "state": "current",
+   "enacted_by": "S.O. 2020, c. 24",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2020-11-12",
+     "to": "2020-12-31",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/20s24/v1",
+     "api": "en/doc-search/statute/20s24/v1",
+     "sha256": "300cb4d0efdc5b6f0a8f5e2870ebbd9874a8ba1c02dad34d87b0becc272c25b2"
+    },
+    {
+     "n": 2,
+     "from": "2021-01-01",
+     "to": "2021-10-18",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/20s24/v2",
+     "api": "en/doc-search/statute/20s24/v2",
+     "sha256": "3febcdedc8642634a537350779cc35a6bad41c519fb0b5c5bd466a2057db6d88"
+    },
+    {
+     "n": 3,
+     "from": "2021-10-19",
+     "to": "2024-11-18",
+     "state": "historical",
+     "laws": [
+      "S.O. 2020, c. 24"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/20s24/v3",
+     "api": "en/doc-search/statute/20s24/v3",
+     "sha256": "76707e0c4bdd989b976616f27cbb0dd176f57b6c4e0c1fa2076d3e18ce90e4b2"
+    },
+    {
+     "n": 0,
+     "from": "2024-11-19",
+     "to": null,
+     "state": "current",
+     "laws": [
+      "S.O. 2024, c. 22"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/20s24",
+     "api": "en/doc-search/statute/20s24",
+     "sha256": "63f2d592503b001519f2272ff1480efd02c69f03e5744b36809d97b22dfcefd6"
+    }
+   ]
+  },
+  {
+   "id": "20s26",
+   "title": "Supporting Ontario’s Recovery Act, 2020",
+   "short": "Supporting Ontario's Recovery Act, 2020",
+   "state": "current",
+   "enacted_by": "S.O. 2020, c. 26",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2020-11-20",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/20s26",
+     "api": "en/doc-search/statute/20s26",
+     "sha256": "b21473030856c7c33ecd6bc12429476d81cc87d8852e9d7d00e92a248e56d412"
+    }
+   ]
+  },
+  {
+   "id": "20s31",
+   "title": "Supporting Local Restaurants Act, 2020",
+   "short": "Supporting Local Restaurants Act, 2020",
+   "state": "current",
+   "enacted_by": "S.O. 2020, c. 31",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2020-12-02",
+     "to": "2020-12-18",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/20s31/v1",
+     "api": "en/doc-search/statute/20s31/v1",
+     "sha256": "9039284abed42e0f868a84264f338fafd2b0bcfb2c450b7f97166ba16b5d15a1"
+    },
+    {
+     "n": 0,
+     "from": "2020-12-19",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/20s31",
+     "api": "en/doc-search/statute/20s31",
+     "sha256": "a91374c7cfa737fda1b41757fedf8023866e7c33a4bb17c98bd604b55ba6651f"
+    }
+   ]
+  },
+  {
+   "id": "20t18",
+   "title": "Transit-Oriented Communities Act, 2020",
+   "short": "Transit-Oriented Communities Act, 2020",
+   "state": "current",
+   "enacted_by": "S.O. 2020, c. 18",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2020-07-21",
+     "to": "2020-12-07",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/20t18/v1",
+     "api": "en/doc-search/statute/20t18/v1",
+     "sha256": "7f80c69497d3b883293db1bc5710f8fb27914d58399d6509d8cf710d7f9e3499"
+    },
+    {
+     "n": 2,
+     "from": "2020-12-08",
+     "to": "2021-04-18",
+     "state": "historical",
+     "laws": [
+      "S.O. 2020, c. 35"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/20t18/v2",
+     "api": "en/doc-search/statute/20t18/v2",
+     "sha256": "230ab32937a06296a70ae7d274c51bc9e244ef994a05a2c6367ba179fbfbc991"
+    },
+    {
+     "n": 3,
+     "from": "2021-04-19",
+     "to": "2025-06-04",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/20t18/v3",
+     "api": "en/doc-search/statute/20t18/v3",
+     "sha256": "7479c1a5d26279d3defcc48c7a992b5beb2a788c417ae64bf33e8d0b02c76d20"
+    },
+    {
+     "n": 4,
+     "from": "2025-06-05",
+     "to": "2025-11-26",
+     "state": "historical",
+     "laws": [
+      "S.O. 2025, c. 9"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/20t18/v4",
+     "api": "en/doc-search/statute/20t18/v4",
+     "sha256": "c8c1937df460233364d0f250c95d3423f197eb8318e0f3209d514156bc60e0a8"
+    },
+    {
+     "n": 0,
+     "from": "2025-11-27",
+     "to": null,
+     "state": "current",
+     "laws": [
+      "S.O. 2025, c. 14"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/20t18",
+     "api": "en/doc-search/statute/20t18",
+     "sha256": "48b5409e29b8965b6d0cb2b57653029e6ea6b837715d357118da9d021535ec0e"
+    }
+   ]
+  },
+  {
+   "id": "20t19",
+   "title": "Tibetan Heritage Month Act, 2020",
+   "short": "Tibetan Heritage Month Act, 2020",
+   "state": "current",
+   "enacted_by": "S.O. 2020, c. 19",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2020-09-24",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/20t19",
+     "api": "en/doc-search/statute/20t19",
+     "sha256": "0575bfd2a85406ece4bab6518d8bea613ee757642449fd21d4b59ae27333ed6f"
+    }
+   ]
+  },
+  {
+   "id": "21a21a",
+   "title": "Accommodation Sector Registration of Guests Act, 2021",
+   "short": "Accommodation Sector Registration of Guests Act, 2021",
+   "state": "current",
+   "enacted_by": "S.O. 2021, c. 21",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2021-06-03",
+     "to": "2025-12-31",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21a21a/v1",
+     "api": "en/doc-search/statute/21a21a/v1",
+     "sha256": "659fa46267076291a4601e75f158955a5d6909d11b7e21d92af1bc1345832cf0"
+    },
+    {
+     "n": 0,
+     "from": "2026-01-01",
+     "to": null,
+     "state": "current",
+     "laws": [
+      "S.O. 2021, c. 21"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/21a21a",
+     "api": "en/doc-search/statute/21a21a",
+     "sha256": "9f2cb1131c491588dfe0247e268f9323ff36b0a426b3cab8e031e419fe86fff5"
+    }
+   ]
+  },
+  {
+   "id": "21a21b",
+   "title": "Anti-Human Trafficking Strategy Act, 2021",
+   "short": "Anti-Human Trafficking Strategy Act, 2021",
+   "state": "current",
+   "enacted_by": "S.O. 2021, c. 21",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2021-06-03",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21a21b",
+     "api": "en/doc-search/statute/21a21b",
+     "sha256": "94ea16517b653e0fbebfe439e8c9bed4c159829d8cc763a3aca3ea565ce3731e"
+    }
+   ]
+  },
+  {
+   "id": "21a38",
+   "title": "Anti-Asian Racism Education Month Act, 2021",
+   "short": "Anti-Asian Racism Education Month Act, 2021",
+   "state": "current",
+   "enacted_by": "S.O. 2021, c. 38",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2021-12-09",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21a38",
+     "api": "en/doc-search/statute/21a38",
+     "sha256": "ca8bca1ae0efd1f3840f2acc2850b5f936026e149172dff5ceb98ed9552041af"
+    }
+   ]
+  },
+  {
+   "id": "21b02",
+   "title": "Building Broadband Faster Act, 2021",
+   "short": "Building Broadband Faster Act, 2021",
+   "state": "current",
+   "enacted_by": "S.O. 2021, c. 2",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2021-04-12",
+     "to": "2021-04-18",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21b02/v1",
+     "api": "en/doc-search/statute/21b02/v1",
+     "sha256": "c2340d793dbef83759753fe3ae69cd6f49f230d79d48d196cb4e94c5eb9e4246"
+    },
+    {
+     "n": 2,
+     "from": "2021-04-19",
+     "to": "2021-05-31",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21b02/v2",
+     "api": "en/doc-search/statute/21b02/v2",
+     "sha256": "ced69ccfaff85b8e061effbada7d9cb8efbb491787f743c4ad7962cf69665233"
+    },
+    {
+     "n": 3,
+     "from": "2021-06-01",
+     "to": "2022-04-13",
+     "state": "historical",
+     "laws": [
+      "S.O. 2021, c. 2"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/21b02/v3",
+     "api": "en/doc-search/statute/21b02/v3",
+     "sha256": "b0d18443fcdf0bbb4f69b560ede3d09af08ec33776a68ed1cfef8bf2484ca5be"
+    },
+    {
+     "n": 4,
+     "from": "2022-04-14",
+     "to": "2023-06-07",
+     "state": "historical",
+     "laws": [
+      "S.O. 2022, c. 9"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/21b02/v4",
+     "api": "en/doc-search/statute/21b02/v4",
+     "sha256": "110d529805a3d38c64b2f2b9c5ea46cc8381c582efa77c8b85beba5234781b15"
+    },
+    {
+     "n": 5,
+     "from": "2023-06-08",
+     "to": "2024-11-24",
+     "state": "historical",
+     "laws": [
+      "S.O. 2023, c. 9"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/21b02/v5",
+     "api": "en/doc-search/statute/21b02/v5",
+     "sha256": "f06017fc9cfe2feb0c4f10edfab4fb77aa3dd922db9785f1f1091f7421146c23"
+    },
+    {
+     "n": 6,
+     "from": "2024-11-25",
+     "to": "2026-03-31",
+     "state": "historical",
+     "laws": [
+      "S.O. 2024, c. 25"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/21b02/v6",
+     "api": "en/doc-search/statute/21b02/v6",
+     "sha256": "e769207815fee91fac05292379d9b10569fbbc50f36f0ce8b850602b55dc815f"
+    },
+    {
+     "n": 0,
+     "from": "2026-04-01",
+     "to": null,
+     "state": "current",
+     "laws": [
+      "S.O. 2024, c. 25"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/21b02",
+     "api": "en/doc-search/statute/21b02",
+     "sha256": "dc19cfa2dc7f273e3115a4d9a17e2148bd6bf7a8551e5fe9a205f2622a4dd4bb"
+    }
+   ]
+  },
+  {
+   "id": "21b28",
+   "title": "Building Opportunities in the Skilled Trades Act, 2021",
+   "short": "Building Opportunities in the Skilled Trades Act, 2021",
+   "state": "current",
+   "enacted_by": "S.O. 2021, c. 28",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2021-06-03",
+     "to": "2021-12-31",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21b28/v1",
+     "api": "en/doc-search/statute/21b28/v1",
+     "sha256": "1e878b2aaca7a7d4ff8b4400dce5c591c712773ebeb1d6bc2963292c1701b1a6"
+    },
+    {
+     "n": 2,
+     "from": "2022-01-01",
+     "to": "2023-05-17",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21b28/v2",
+     "api": "en/doc-search/statute/21b28/v2",
+     "sha256": "47ec525b709b4377c1dd2d7328da93ed8d3e8cf0d871a4c34d434ba9d20289b7"
+    },
+    {
+     "n": 3,
+     "from": "2023-05-18",
+     "to": "2024-03-31",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21b28/v3",
+     "api": "en/doc-search/statute/21b28/v3",
+     "sha256": "c166f67c92571a94d1feaab9913fc10241048e97e01669add9c13a344de60a4c"
+    },
+    {
+     "n": 4,
+     "from": "2024-04-01",
+     "to": "2024-06-05",
+     "state": "historical",
+     "laws": [
+      "S.O. 2023, c. 5"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/21b28/v4",
+     "api": "en/doc-search/statute/21b28/v4",
+     "sha256": "484ac222574891294d7582a03e3fc2339fda3443d787de0219a2470f017d53c5"
+    },
+    {
+     "n": 5,
+     "from": "2024-06-06",
+     "to": "2024-10-27",
+     "state": "historical",
+     "laws": [
+      "S.O. 2024, c. 16"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/21b28/v5",
+     "api": "en/doc-search/statute/21b28/v5",
+     "sha256": "818f1fcfecac8418d806d55083420c59c7584a0680d85ba03c3f30cc0c77658c"
+    },
+    {
+     "n": 6,
+     "from": "2024-10-28",
+     "to": "2024-11-18",
+     "state": "historical",
+     "laws": [
+      "S.O. 2024, c. 19"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/21b28/v6",
+     "api": "en/doc-search/statute/21b28/v6",
+     "sha256": "96d71a312be9b03ef616dc2729d9965ab6b7a0cbaf43a606edc05359c90ff748"
+    },
+    {
+     "n": 7,
+     "from": "2024-11-19",
+     "to": "2025-04-01",
+     "state": "historical",
+     "laws": [
+      "S.O. 2024, c. 22"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/21b28/v7",
+     "api": "en/doc-search/statute/21b28/v7",
+     "sha256": "45eb3886efac32f326eab885face402ccc96c4e6c440e8cb0f9f49504b38af42"
+    },
+    {
+     "n": 0,
+     "from": "2025-04-02",
+     "to": null,
+     "state": "current",
+     "laws": [
+      "S.O. 2021, c. 28",
+      "S.O. 2024, c. 19"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/21b28",
+     "api": "en/doc-search/statute/21b28",
+     "sha256": "1d7bd11cc8f28be35f7b51a4d176dc9bc27acd46616e725c9da83daa46712de4"
+    }
+   ]
+  },
+  {
+   "id": "21c17",
+   "title": "Convenience Store Week Act, 2021",
+   "short": "Convenience Store Week Act, 2021",
+   "state": "current",
+   "enacted_by": "S.O. 2021, c. 17",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2021-05-20",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21c17",
+     "api": "en/doc-search/statute/21c17",
+     "sha256": "395499d41a7951061e4e58c60fe259e0d85bb78dd9af59a3f56cfe3a66ae6dbc"
+    }
+   ]
+  },
+  {
+   "id": "21c18",
+   "title": "COPD Awareness Day Act, 2021",
+   "short": "COPD Awareness Day Act, 2021",
+   "state": "current",
+   "enacted_by": "S.O. 2021, c. 18",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2021-06-03",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21c18",
+     "api": "en/doc-search/statute/21c18",
+     "sha256": "87f52e1579d1f33440b1d2ad01c8cf3852d2d2a3053a562b30d66f7c741dd95b"
+    }
+   ]
+  },
+  {
+   "id": "21c27",
+   "title": "Covid-19 Vaccination Reporting Act, 2021",
+   "short": "Covid-19 Vaccination Reporting Act, 2021",
+   "state": "current",
+   "enacted_by": "S.O. 2021, c. 27",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2021-06-03",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21c27",
+     "api": "en/doc-search/statute/21c27",
+     "sha256": "2d48fe65d7a3ff3b5c00612f98152053b1a1983e97db352dba134f598026d606"
+    }
+   ]
+  },
+  {
+   "id": "21e41",
+   "title": "Endometriosis Awareness Month Act, 2021",
+   "short": "Endometriosis Awareness Month Act, 2021",
+   "state": "current",
+   "enacted_by": "S.O. 2021, c. 41",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2021-12-09",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21e41",
+     "api": "en/doc-search/statute/21e41",
+     "sha256": "1bf64dfd280dddfec89496ea63eaa477b6ec11075b5db13de3e8c0a44bac2054"
+    }
+   ]
+  },
+  {
+   "id": "21e42",
+   "title": "Emancipation Month Act, 2021",
+   "short": "Emancipation Month Act, 2021",
+   "state": "current",
+   "enacted_by": "S.O. 2021, c. 42",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2021-12-09",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21e42",
+     "api": "en/doc-search/statute/21e42",
+     "sha256": "169cb5965ca670164561989e86bec0a41bf271e5fea481b0a6f939bb5d2c8101"
+    }
+   ]
+  },
+  {
+   "id": "21f15",
+   "title": "Filipino Heritage Month Act, 2021",
+   "short": "Filipino Heritage Month Act, 2021",
+   "state": "current",
+   "enacted_by": "S.O. 2021, c. 15",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2021-05-20",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21f15",
+     "api": "en/doc-search/statute/21f15",
+     "sha256": "a95eab6b7356f11d9eb76e98d84fc0674c3987ee63f6b14cc543332ed18e1a90"
+    }
+   ]
+  },
+  {
+   "id": "21f20",
+   "title": "Front-line and Essential Service Worker Week Act, 2021",
+   "short": "Front-line and Essential Service Worker Week Act, 2021",
+   "state": "current",
+   "enacted_by": "S.O. 2021, c. 20",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2021-06-03",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21f20",
+     "api": "en/doc-search/statute/21f20",
+     "sha256": "2fb300eacb09b3c8c0149e17128481892b38465499caff36a3127ed324bb6c73"
+    }
+   ]
+  },
+  {
+   "id": "21f30",
+   "title": "Food Day Canada in Ontario (in Honour of Anita Stewart) Act, 2021",
+   "short": "Food Day Canada in Ontario (in Honour of Anita Stewart) Act, 2021",
+   "state": "current",
+   "enacted_by": "S.O. 2021, c. 30",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2021-06-03",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21f30",
+     "api": "en/doc-search/statute/21f30",
+     "sha256": "1956e4053935bec55fae468a7249fc6dbecade75afa2843b88469335032a3116"
+    }
+   ]
+  },
+  {
+   "id": "21f39",
+   "title": "Fixing Long-Term Care Act, 2021",
+   "short": "Fixing Long-Term Care Act, 2021",
+   "state": "current",
+   "enacted_by": "S.O. 2021, c. 39",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2021-12-09",
+     "to": "2022-04-10",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21f39/v1",
+     "api": "en/doc-search/statute/21f39/v1",
+     "sha256": "eb2d1c2191669abcedad85c7096cc120b3102963764dbf1503c8bad2517a62b2"
+    },
+    {
+     "n": 2,
+     "from": "2022-04-11",
+     "to": "2022-08-30",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21f39/v2",
+     "api": "en/doc-search/statute/21f39/v2",
+     "sha256": "abaaca6120f2b376dd5cc0c2b99b373f9c1e0bba102c5f68d2dfe47f7180c585"
+    },
+    {
+     "n": 3,
+     "from": "2022-08-31",
+     "to": "2022-09-20",
+     "state": "historical",
+     "laws": [
+      "S.O. 2021, c. 39",
+      "S.O. 2022, c. 16"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/21f39/v3",
+     "api": "en/doc-search/statute/21f39/v3",
+     "sha256": "cc6b5db81222f027ba7b14c2062f4f3d05480ff714de28e63430df557e2d7246"
+    },
+    {
+     "n": 4,
+     "from": "2022-09-21",
+     "to": "2023-05-17",
+     "state": "historical",
+     "laws": [
+      "S.O. 2022, c. 16"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/21f39/v4",
+     "api": "en/doc-search/statute/21f39/v4",
+     "sha256": "03771984472efed91417800a23278f283b7a999814dbb33decc40b43ecfa75d7"
+    },
+    {
+     "n": 5,
+     "from": "2023-05-18",
+     "to": "2023-07-23",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21f39/v5",
+     "api": "en/doc-search/statute/21f39/v5",
+     "sha256": "a0936e01456bd9dcf4a1944c2887c3863651b7fbb4be165064e7b28ad41ed37e"
+    },
+    {
+     "n": 6,
+     "from": "2023-07-24",
+     "to": "2024-06-27",
+     "state": "historical",
+     "laws": [
+      "S.O. 2023, c. 4"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/21f39/v6",
+     "api": "en/doc-search/statute/21f39/v6",
+     "sha256": "29d41d069811e201ef12cebc3cf2cf6f8a3ab2d2c11bcf0779d9da27414cc4f8"
+    },
+    {
+     "n": 7,
+     "from": "2024-06-28",
+     "to": "2025-12-10",
+     "state": "historical",
+     "laws": [
+      "S.O. 2021, c. 39"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/21f39/v7",
+     "api": "en/doc-search/statute/21f39/v7",
+     "sha256": "ba81b18b824500118ead093752126c3c57e08e497def3492e1302dad2ba06be1"
+    },
+    {
+     "n": 0,
+     "from": "2025-12-11",
+     "to": null,
+     "state": "current",
+     "laws": [
+      "S.O. 2025, c. 24"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/21f39",
+     "api": "en/doc-search/statute/21f39",
+     "sha256": "0e357f7a95fa3835d2a51330f69c217d7415b75f18822caf09aa103d0f8254b1"
+    }
+   ]
+  },
+  {
+   "id": "21h27",
+   "title": "Health and Supportive Care Providers Oversight Authority Act, 2021",
+   "short": "Health and Supportive Care Providers Oversight Authority Act, 2021",
+   "state": "current",
+   "enacted_by": "S.O. 2021, c. 27",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2021-06-03",
+     "to": "2021-10-25",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21h27/v1",
+     "api": "en/doc-search/statute/21h27/v1",
+     "sha256": "c14f6b4f14232f3ebe104fcb62572bc87430ab5668d2ff63b11e13041ef8b216"
+    },
+    {
+     "n": 2,
+     "from": "2021-10-26",
+     "to": "2024-11-30",
+     "state": "historical",
+     "laws": [
+      "S.O. 2021, c. 27"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/21h27/v2",
+     "api": "en/doc-search/statute/21h27/v2",
+     "sha256": "fc14ca32699bdc99b56922af058136a275e952071c823d66c22feb9648e85c2f"
+    },
+    {
+     "n": 0,
+     "from": "2024-12-01",
+     "to": null,
+     "state": "current",
+     "laws": [
+      "S.O. 2021, c. 27"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/21h27",
+     "api": "en/doc-search/statute/21h27",
+     "sha256": "c15da6b1f82678ec1ac4dde96c7c6f7af3160df6b5c74192c7e96f40b2f0fa0a"
+    }
+   ]
+  },
+  {
+   "id": "21i08",
+   "title": "Invest Ontario Act, 2021",
+   "short": "Invest Ontario Act, 2021",
+   "state": "current",
+   "enacted_by": "S.O. 2021, c. 8",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2021-04-27",
+     "to": "2022-02-28",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21i08/v1",
+     "api": "en/doc-search/statute/21i08/v1",
+     "sha256": "06e317aeb788e2ed64483c22bf0ca80c364ad0577d47530105a795979eaea6c6"
+    },
+    {
+     "n": 0,
+     "from": "2022-03-01",
+     "to": null,
+     "state": "current",
+     "laws": [
+      "S.O. 2021, c. 8"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/21i08",
+     "api": "en/doc-search/statute/21i08",
+     "sha256": "dc6252281d28405040f2599c5b62ecb2b4f3032a2765611b9e630e292b228f08"
+    }
+   ]
+  },
+  {
+   "id": "21k16",
+   "title": "Keeping Polystyrene Out of Ontario's Lakes and Rivers Act, 2021",
+   "short": "Keeping Polystyrene Out of Ontario's Lakes and Rivers Act, 2021",
+   "state": "current",
+   "enacted_by": "S.O. 2021, c. 16",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2021-05-20",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21k16",
+     "api": "en/doc-search/statute/21k16",
+     "sha256": "71464efb56d198f6457cc2b3540b369cef2ee3312a61db5ffad2f255bbb43ca1"
+    }
+   ]
+  },
+  {
+   "id": "21l12",
+   "title": "Lupus Awareness Day Act, 2021",
+   "short": "Lupus Awareness Day Act, 2021",
+   "state": "current",
+   "enacted_by": "S.O. 2021, c. 12",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2021-05-12",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21l12",
+     "api": "en/doc-search/statute/21l12",
+     "sha256": "98db39df687fc15dc4c06680edc6fc26b003ca12e4927b24a6f015f87f9104af"
+    }
+   ]
+  },
+  {
+   "id": "21n25",
+   "title": "Northern Ontario School of Medicine University Act, 2021",
+   "short": "Northern Ontario School of Medicine University Act, 2021",
+   "state": "current",
+   "enacted_by": "S.O. 2021, c. 25",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2021-06-03",
+     "to": "2022-03-31",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21n25/v1",
+     "api": "en/doc-search/statute/21n25/v1",
+     "sha256": "41f1d304b5546c9470a68623c55ceab328398c9c63b3085f0aad99a504c558a3"
+    },
+    {
+     "n": 0,
+     "from": "2022-04-01",
+     "to": null,
+     "state": "current",
+     "laws": [
+      "S.O. 2021, c. 25"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/21n25",
+     "api": "en/doc-search/statute/21n25",
+     "sha256": "0f324b28afb8267107ba0e6506228a2631f825a746570a0b1a19490beb622d85"
+    }
+   ]
+  },
+  {
+   "id": "21n29",
+   "title": "Nikola Tesla Day Act, 2021",
+   "short": "Nikola Tesla Day Act, 2021",
+   "state": "current",
+   "enacted_by": "S.O. 2021, c. 29",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2021-06-03",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21n29",
+     "api": "en/doc-search/statute/21n29",
+     "sha256": "ee89073ae75a98e518ca0a7680a1af0f98391c225de74ed66a98c3bd0a6d951f"
+    }
+   ]
+  },
+  {
+   "id": "21n36",
+   "title": "Non-Profit Sector Appreciation Week Act, 2021",
+   "short": "Non-Profit Sector Appreciation Week Act, 2021",
+   "state": "current",
+   "enacted_by": "S.O. 2021, c. 36",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2021-12-09",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21n36",
+     "api": "en/doc-search/statute/21n36",
+     "sha256": "bd0631aeed25cff61f69a035e0f4f4062046be757ffa0a05c68caf46dea1591f"
+    }
+   ]
+  },
+  {
+   "id": "21o04",
+   "title": "Ontario Land Tribunal Act, 2021",
+   "short": "Ontario Land Tribunal Act, 2021",
+   "state": "current",
+   "enacted_by": "S.O. 2021, c. 4",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2021-04-19",
+     "to": "2021-05-31",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21o04/v1",
+     "api": "en/doc-search/statute/21o04/v1",
+     "sha256": "d6ef65951ef5f7b7d2adc83618810eef74108e39ef3c85398f70526f4afb1063"
+    },
+    {
+     "n": 2,
+     "from": "2021-06-01",
+     "to": "2022-11-27",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21o04/v2",
+     "api": "en/doc-search/statute/21o04/v2",
+     "sha256": "4d936daa09eef402dea84bcea370768cbf5a71ac592a15f86bc4e44cbd9fdad5"
+    },
+    {
+     "n": 0,
+     "from": "2022-11-28",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21o04",
+     "api": "en/doc-search/statute/21o04",
+     "sha256": "598160c3e7631b2bafc3250622ab3b4cb5f8008d65c69a24ee79502928f3420f"
+    }
+   ]
+  },
+  {
+   "id": "21o06",
+   "title": "Occupational Safety and Health Day Act, 2021",
+   "short": "Occupational Safety and Health Day Act, 2021",
+   "state": "current",
+   "enacted_by": "S.O. 2021, c. 6",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2021-04-27",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21o06",
+     "api": "en/doc-search/statute/21o06",
+     "sha256": "41efa05e3f27e4b53a814521a901fd9e3151af0b73de8848252a3c39468706ff"
+    }
+   ]
+  },
+  {
+   "id": "21o07",
+   "title": "Ontario Day Act, 2021",
+   "short": "Ontario Day Act, 2021",
+   "state": "current",
+   "enacted_by": "S.O. 2021, c. 7",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2021-04-27",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21o07",
+     "api": "en/doc-search/statute/21o07",
+     "sha256": "4766518e17699497f646f7d130449e85465f89268875adc7363655e7b9987e42"
+    }
+   ]
+  },
+  {
+   "id": "21o08",
+   "title": "Ontario Loan Act, 2021",
+   "short": "Ontario Loan Act, 2021",
+   "state": "current",
+   "enacted_by": "S.O. 2021, c. 8",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2021-04-27",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21o08",
+     "api": "en/doc-search/statute/21o08",
+     "sha256": "8f4c4d792e3afc6747591bec16d74e29d4d4ff56cc6b871109f0a9ed833eeb20"
+    }
+   ]
+  },
+  {
+   "id": "21p24",
+   "title": "Persian Heritage Month Act, 2021",
+   "short": "Persian Heritage Month Act, 2021",
+   "state": "current",
+   "enacted_by": "S.O. 2021, c. 24",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2021-06-03",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21p24",
+     "api": "en/doc-search/statute/21p24",
+     "sha256": "ecb3a5fc489b615cdd7cb1b8ba58eeb28a180f5be8b505bdd2bfdcd81420b480"
+    }
+   ]
+  },
+  {
+   "id": "21p27",
+   "title": "Psychology and Applied Behaviour Analysis Act, 2021",
+   "short": "Psychology and Applied Behaviour Analysis Act, 2021",
+   "state": "current",
+   "enacted_by": "S.O. 2021, c. 27",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2021-06-03",
+     "to": "2024-06-30",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21p27/v1",
+     "api": "en/doc-search/statute/21p27/v1",
+     "sha256": "6921242606ef5a67a76bef27119c798be1ed78f0cc5784be26a02861a96b1070"
+    },
+    {
+     "n": 2,
+     "from": "2024-07-01",
+     "to": "2025-11-02",
+     "state": "historical",
+     "laws": [
+      "S.O. 2021, c. 27"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/21p27/v2",
+     "api": "en/doc-search/statute/21p27/v2",
+     "sha256": "5e43a2ee1b176c4e954656e0f635ee757ea968482ff6b54d04bba57324244341"
+    },
+    {
+     "n": 3,
+     "from": "2025-11-03",
+     "to": "2025-12-31",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21p27/v3",
+     "api": "en/doc-search/statute/21p27/v3",
+     "sha256": "7eb8e3ca65527dad162c94bd9696abacabda011f7c3a43ea635a81b63a2e5b41"
+    },
+    {
+     "n": 0,
+     "from": "2026-01-01",
+     "to": null,
+     "state": "current",
+     "laws": [
+      "S.O. 2025, c. 11"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/21p27",
+     "api": "en/doc-search/statute/21p27",
+     "sha256": "0f2dc7502c20f631da7883661f6948cf1101858a156e89a231c9b80796484277"
+    }
+   ]
+  },
+  {
+   "id": "21p37",
+   "title": "Polish Heritage Month Act, 2021",
+   "short": "Polish Heritage Month Act, 2021",
+   "state": "current",
+   "enacted_by": "S.O. 2021, c. 37",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2021-12-09",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21p37",
+     "api": "en/doc-search/statute/21p37",
+     "sha256": "84b5d7194f1373be08b792005e2d5c41d07674ab31cfcff44e4f7bc6691189c7"
+    }
+   ]
+  },
+  {
+   "id": "21r14",
+   "title": "Recovery Month Act, 2021",
+   "short": "Recovery Month Act, 2021",
+   "state": "current",
+   "enacted_by": "S.O. 2021, c. 14",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2021-05-12",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21r14",
+     "api": "en/doc-search/statute/21r14",
+     "sha256": "afc4f05c56b098678329e6c2a977e323ed57cfa166b00c0cdf64bd8990eae51e"
+    }
+   ]
+  },
+  {
+   "id": "21s08",
+   "title": "Securities Commission Act, 2021",
+   "short": "Securities Commission Act, 2021",
+   "state": "current",
+   "enacted_by": "S.O. 2021, c. 8",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2021-04-27",
+     "to": "2021-12-08",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21s08/v1",
+     "api": "en/doc-search/statute/21s08/v1",
+     "sha256": "4ac47a71e01aca5a9c166aa6c7da21e676687d9ce0b9df4ee514bf04bbdffb51"
+    },
+    {
+     "n": 2,
+     "from": "2021-12-09",
+     "to": "2022-04-28",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21s08/v2",
+     "api": "en/doc-search/statute/21s08/v2",
+     "sha256": "96511df6c7a0d420f2af5efac0a2ea311aaf5671ea69581302a5a5949fc33f00"
+    },
+    {
+     "n": 3,
+     "from": "2022-04-29",
+     "to": "2023-05-17",
+     "state": "historical",
+     "laws": [
+      "S.O. 2021, c. 8",
+      "S.O. 2021, c. 40"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/21s08/v3",
+     "api": "en/doc-search/statute/21s08/v3",
+     "sha256": "e3e7904f182e2b59646beb7329d2c45ce9d03b1e10d80bf5680f0ac3b1fe312d"
+    },
+    {
+     "n": 4,
+     "from": "2023-05-18",
+     "to": "2023-12-03",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21s08/v4",
+     "api": "en/doc-search/statute/21s08/v4",
+     "sha256": "54b04982beb3efc4f08229e806533e42322ac58ed7d56f214c31c6831428df1e"
+    },
+    {
+     "n": 5,
+     "from": "2023-12-04",
+     "to": "2024-03-31",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21s08/v5",
+     "api": "en/doc-search/statute/21s08/v5",
+     "sha256": "83b51f4e5dc8faa04af56cd56671eb0b9490e8148de66c3d14cd850bca211d0a"
+    },
+    {
+     "n": 6,
+     "from": "2024-04-01",
+     "to": "2025-08-31",
+     "state": "historical",
+     "laws": [
+      "S.O. 2023, c. 5"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/21s08/v6",
+     "api": "en/doc-search/statute/21s08/v6",
+     "sha256": "c7780e93dd1fc898c90b7aa411e2d5f17f6efa8074baf3cacd9284e9760ebe18"
+    },
+    {
+     "n": 0,
+     "from": "2025-09-01",
+     "to": null,
+     "state": "current",
+     "laws": [
+      "S.O. 2023, c. 21"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/21s08",
+     "api": "en/doc-search/statute/21s08",
+     "sha256": "06d79caee0bccb583e5f5cf93e4f0c7625ba8fd5c9127a36aefd439412413ce7"
+    }
+   ]
+  },
+  {
+   "id": "21s19",
+   "title": "Scottish Heritage Day Act, 2021",
+   "short": "Scottish Heritage Day Act, 2021",
+   "state": "current",
+   "enacted_by": "S.O. 2021, c. 19",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2021-06-03",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21s19",
+     "api": "en/doc-search/statute/21s19",
+     "sha256": "b052c137f6864c1c0c31e33f01577883f59f4f965216fc57489c903b9662f72b"
+    }
+   ]
+  },
+  {
+   "id": "21s22",
+   "title": "Sickle Cell Disease Awareness Day and Thalassemia Awareness Day Act, 2021",
+   "short": "Sickle Cell Disease Awareness Day and Thalassemia Awareness Day Act, 2021",
+   "state": "current",
+   "enacted_by": "S.O. 2021, c. 22",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2021-06-03",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21s22",
+     "api": "en/doc-search/statute/21s22",
+     "sha256": "d007697ad478f0121faf74d0c4b16bd40c6d4a081f7ce8e4b23c36bbce818cb6"
+    }
+   ]
+  },
+  {
+   "id": "21s23",
+   "title": "Senior Volunteer Appreciation Week Act, 2021",
+   "short": "Senior Volunteer Appreciation Week Act, 2021",
+   "state": "current",
+   "enacted_by": "S.O. 2021, c. 23",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2021-06-03",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21s23",
+     "api": "en/doc-search/statute/21s23",
+     "sha256": "507df2e47a62d399734f6999dfc134e458242dd06198aa94720a467eac9a302f"
+    }
+   ]
+  },
+  {
+   "id": "21t11",
+   "title": "Tamil Genocide Education Week Act, 2021",
+   "short": "Tamil Genocide Education Week Act, 2021",
+   "state": "current",
+   "enacted_by": "S.O. 2021, c. 11",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2021-05-12",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21t11",
+     "api": "en/doc-search/statute/21t11",
+     "sha256": "7f5110ee72b6e83a27dc1b9955b4b828637134dc5e340739b323e0e438713013"
+    }
+   ]
+  },
+  {
+   "id": "21t26",
+   "title": "Towing and Storage Safety and Enforcement Act, 2021",
+   "short": "Towing and Storage Safety and Enforcement Act, 2021",
+   "state": "current",
+   "enacted_by": "S.O. 2021, c. 26",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2021-06-03",
+     "to": "2022-06-30",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21t26/v1",
+     "api": "en/doc-search/statute/21t26/v1",
+     "sha256": "71cc577d974deb9caccc4e932ce679ff0c45391294b345750782568417a36ca6"
+    },
+    {
+     "n": 2,
+     "from": "2022-07-01",
+     "to": "2023-06-07",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21t26/v2",
+     "api": "en/doc-search/statute/21t26/v2",
+     "sha256": "5373b2394c564914f6a3889cfa7644d847b31907c0023c9f2541c51456e66c0a"
+    },
+    {
+     "n": 3,
+     "from": "2023-06-08",
+     "to": "2023-06-30",
+     "state": "historical",
+     "laws": [
+      "S.O. 2021, c. 26"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/21t26/v3",
+     "api": "en/doc-search/statute/21t26/v3",
+     "sha256": "25332f56f01a2c0b41e1290b054089bb13efe0fdfd0c1f2c858515e7405b52dd"
+    },
+    {
+     "n": 4,
+     "from": "2023-07-01",
+     "to": "2023-12-31",
+     "state": "historical",
+     "laws": [
+      "S.O. 2021, c. 26",
+      "S.O. 2023, c. 9"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/21t26/v4",
+     "api": "en/doc-search/statute/21t26/v4",
+     "sha256": "4651c29aaf784bc0c2a58f9a43858323a3b7e65eda7106c232889a9b541bc1bc"
+    },
+    {
+     "n": 5,
+     "from": "2024-01-01",
+     "to": "2024-11-24",
+     "state": "historical",
+     "laws": [
+      "S.O. 2023, c. 9"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/21t26/v5",
+     "api": "en/doc-search/statute/21t26/v5",
+     "sha256": "1d1d39f1f89cdc145a742c3d20b85d9adaf6199086a183ac1c042ad8d5f3d9b3"
+    },
+    {
+     "n": 6,
+     "from": "2024-11-25",
+     "to": "2025-11-26",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21t26/v6",
+     "api": "en/doc-search/statute/21t26/v6",
+     "sha256": "73c769617e19b9c7d41e1b246b3032fcb0444ea7754a4024c7e3f7563263d5b3"
+    },
+    {
+     "n": 7,
+     "from": "2025-11-27",
+     "to": "2026-03-31",
+     "state": "historical",
+     "laws": [
+      "S.O. 2025, c. 14"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/21t26/v7",
+     "api": "en/doc-search/statute/21t26/v7",
+     "sha256": "632f9315e69699c5f2d2ce471c3f75e0bbab4f1600bfa5d45c0fb1d5a8d78fec"
+    },
+    {
+     "n": 8,
+     "from": "2026-04-01",
+     "to": "2026-06-30",
+     "state": "historical",
+     "laws": [
+      "S.O. 2023, c. 9",
+      "S.O. 2024, c. 25"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/21t26/v8",
+     "api": "en/doc-search/statute/21t26/v8",
+     "sha256": "b2e80a0570e523c53decdb5355ace68ac292bad65977159a606756da9b3b51d2"
+    },
+    {
+     "n": 0,
+     "from": "2026-07-01",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21t26",
+     "api": "en/doc-search/statute/21t26",
+     "sha256": "79d6440ff4189692b59c7e2c5bd2b9347c59997d9b2931bd33d152f65c4e672b"
+    }
+   ]
+  },
+  {
+   "id": "21u25",
+   "title": "Université de Hearst Act, 2021",
+   "short": "Université de Hearst Act, 2021",
+   "state": "current",
+   "enacted_by": "S.O. 2021, c. 25",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2021-06-03",
+     "to": "2022-03-31",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21u25/v1",
+     "api": "en/doc-search/statute/21u25/v1",
+     "sha256": "0a01d25926d29f1d0c845e512eaa1246fd3334320ae785326092dfee129db6d4"
+    },
+    {
+     "n": 2,
+     "from": "2022-04-01",
+     "to": "2024-06-05",
+     "state": "historical",
+     "laws": [
+      "S.O. 2021, c. 25"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/21u25/v2",
+     "api": "en/doc-search/statute/21u25/v2",
+     "sha256": "979fbd7a96888486818460bbdda4974d5c6ab36cc5006e9eaf4432f8d4e9e2b5"
+    },
+    {
+     "n": 0,
+     "from": "2024-06-06",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/21u25",
+     "api": "en/doc-search/statute/21u25",
+     "sha256": "c78b4537037fc6834765a0dda95529ce7b523cff1b5ef63015ba547108e543b7"
+    }
+   ]
+  },
+  {
+   "id": "22a02",
+   "title": "At Your Service Act, 2022",
+   "short": "At Your Service Act, 2022",
+   "state": "current",
+   "enacted_by": "S.O. 2022, c. 2",
+   "versions": [
+    {
+     "n": 2,
+     "from": "2022-03-03",
+     "to": "2025-12-10",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/22a02/v2",
+     "api": "en/doc-search/statute/22a02/v2",
+     "sha256": "f0b940d27d1ba2a7b8b3dc4c10772a38723f09c7a9353b92fef93d3443b2ba92"
+    },
+    {
+     "n": 0,
+     "from": "2025-12-11",
+     "to": null,
+     "state": "current",
+     "laws": [
+      "S.O. 2025, c. 24"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/22a02",
+     "api": "en/doc-search/statute/22a02",
+     "sha256": "ebb0d5a14073d3241a84cd6572adec4bc26a67b0974af7353c47111a966d1101"
+    }
+   ]
+  },
+  {
+   "id": "22a04",
+   "title": "Armenian Heritage Month Act, 2022",
+   "short": "Armenian Heritage Month Act, 2022",
+   "state": "current",
+   "enacted_by": "S.O. 2022, c. 4",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2022-03-31",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/22a04",
+     "api": "en/doc-search/statute/22a04",
+     "sha256": "d744551f98d43be1531daea1282b9b8b2e54fc294248cdb035980721cfe2e038"
+    }
+   ]
+  },
+  {
+   "id": "22d07",
+   "title": "Digital Platform Workers’ Rights Act, 2022",
+   "short": "Digital Platform Workers' Rights Act, 2022",
+   "state": "current",
+   "enacted_by": "S.O. 2022, c. 7",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2022-04-11",
+     "to": "2024-03-20",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/22d07/v1",
+     "api": "en/doc-search/statute/22d07/v1",
+     "sha256": "93173e57c060c20ad57763c17ab918e82a94d4804c8d748c5cd254dbe7725fb1"
+    },
+    {
+     "n": 2,
+     "from": "2024-03-21",
+     "to": "2025-06-30",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/22d07/v2",
+     "api": "en/doc-search/statute/22d07/v2",
+     "sha256": "3a10a776b3ffdd46c8a28b44857b54343533b8066fce1d0f3decba2187f8cb3e"
+    },
+    {
+     "n": 0,
+     "from": "2025-07-01",
+     "to": null,
+     "state": "current",
+     "laws": [
+      "S.O. 2024, c. 3"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/22d07",
+     "api": "en/doc-search/statute/22d07",
+     "sha256": "3f1d4b8ae4928405ab06ff31b9c0693765a4ddf68527ee1fb40d43ce8194248a"
+    }
+   ]
+  },
+  {
+   "id": "22g08",
+   "title": "Green Shirt Day Act, 2022",
+   "short": "Green Shirt Day Act, 2022",
+   "state": "current",
+   "enacted_by": "S.O. 2022, c. 8",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2022-04-11",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/22g08",
+     "api": "en/doc-search/statute/22g08",
+     "sha256": "273d8a777d59649abb1055f40cf6065b09132e37ba0a7ccbd75cdd40cac7f036"
+    }
+   ]
+  },
+  {
+   "id": "22h06",
+   "title": "Hungarian Heritage Month Act, 2022",
+   "short": "Hungarian Heritage Month Act, 2022",
+   "state": "current",
+   "enacted_by": "S.O. 2022, c. 6",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2022-04-11",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/22h06",
+     "api": "en/doc-search/statute/22h06",
+     "sha256": "8569c608bbf2e679978f8eecb9437b6ecc9023fa3603677c98548d7a08ecda07"
+    }
+   ]
+  },
+  {
+   "id": "22k10",
+   "title": "Keeping Ontario Open for Business Act, 2022",
+   "short": "Keeping Ontario Open for Business Act, 2022",
+   "state": "current",
+   "enacted_by": "S.O. 2022, c. 10",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2022-04-14",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/22k10",
+     "api": "en/doc-search/statute/22k10",
+     "sha256": "97af0607d9188d80323aed6567054a5e49eed01a3f9804ea0fe2f981fb170be5"
+    }
+   ]
+  },
+  {
+   "id": "22k20",
+   "title": "Keeping Students in Class Repeal Act, 2022",
+   "short": "Keeping Students in Class Repeal Act, 2022",
+   "state": "current",
+   "enacted_by": "S.O. 2022, c. 20",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2022-11-14",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/22k20",
+     "api": "en/doc-search/statute/22k20",
+     "sha256": "fb7ed862c4e08228c2e27046e3c14d3b310e00275a05206aad56a1be76546486"
+    }
+   ]
+  },
+  {
+   "id": "22m14",
+   "title": "Myasthenia Gravis Month Act, 2022",
+   "short": "Myasthenia Gravis Month Act, 2022",
+   "state": "current",
+   "enacted_by": "S.O. 2022, c. 14",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2022-04-14",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/22m14",
+     "api": "en/doc-search/statute/22m14",
+     "sha256": "83fb05f783b8db7c5fb146fae1ca26340f9d57868afc1c0d9916e918430e4806"
+    }
+   ]
+  },
+  {
+   "id": "22o05",
+   "title": "Ontario Cadets Week Act, 2022",
+   "short": "Ontario Cadets Week Act, 2022",
+   "state": "current",
+   "enacted_by": "S.O. 2022, c. 5",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2022-04-11",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/22o05",
+     "api": "en/doc-search/statute/22o05",
+     "sha256": "c2de7a8b3fe0dc5ab4685815ac01b56cc09b644c291cead0f6aacdd5ce2e41be"
+    }
+   ]
+  },
+  {
+   "id": "22o17",
+   "title": "Ontario Loan Act, 2022",
+   "short": "Ontario Loan Act, 2022",
+   "state": "current",
+   "enacted_by": "S.O. 2022, c. 17",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2022-09-08",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/22o17",
+     "api": "en/doc-search/statute/22o17",
+     "sha256": "b02374adada38629387cae46bd90a511dc76dbfaaa23b8741d7de46bd54551d0"
+    }
+   ]
+  },
+  {
+   "id": "22p01",
+   "title": "Provincial Day of Service Act, 2022",
+   "short": "Provincial Day of Service Act, 2022",
+   "state": "current",
+   "enacted_by": "S.O. 2022, c. 1",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2022-03-03",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/22p01",
+     "api": "en/doc-search/statute/22p01",
+     "sha256": "25b0b3a7a92a41a3fb453fa8008eba8c73472d9b7b6b6533bd166fd1c8dfa5f0"
+    }
+   ]
+  },
+  {
+   "id": "22p11",
+   "title": "Personal Protective Equipment Supply and Production Act, 2022",
+   "short": "Personal Protective Equipment Supply and Production Act, 2022",
+   "state": "current",
+   "enacted_by": "S.O. 2022, c. 11",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2022-04-14",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/22p11",
+     "api": "en/doc-search/statute/22p11",
+     "sha256": "7b444144f227c9a5d330b28a725a032d39b1ef0f721ebeacee4aac65b022ce26"
+    }
+   ]
+  },
+  {
+   "id": "22s11",
+   "title": "Supporting Retention in Public Services Act, 2022",
+   "short": "Supporting Retention in Public Services Act, 2022",
+   "state": "current",
+   "enacted_by": "S.O. 2022, c. 11",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2022-04-14",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/22s11",
+     "api": "en/doc-search/statute/22s11",
+     "sha256": "2729619e1e28461748a2f5ddb5e0aba3b3be1aced2ebbbc6b65675dc395a0902"
+    }
+   ]
+  },
+  {
+   "id": "22s21",
+   "title": "Supporting Growth and Housing in York and Durham Regions Act, 2022",
+   "short": "Supporting Growth and Housing in York and Durham Regions Act, 2022",
+   "state": "current",
+   "enacted_by": "S.O. 2022, c. 21",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2022-11-28",
+     "to": "2024-03-31",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/22s21/v1",
+     "api": "en/doc-search/statute/22s21/v1",
+     "sha256": "c7affa8838736e5bf599ecbcd9940bde4663d60fbacae496561cd26cfca1cc18"
+    },
+    {
+     "n": 2,
+     "from": "2024-04-01",
+     "to": "2025-10-30",
+     "state": "historical",
+     "laws": [
+      "S.O. 2022, c. 21"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/22s21/v2",
+     "api": "en/doc-search/statute/22s21/v2",
+     "sha256": "3aebf5a7f3eb0e829180c91cdb4c3d36dd14a6c5bc303d3673d77509970a13f5"
+    },
+    {
+     "n": 0,
+     "from": "2025-10-31",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/22s21",
+     "api": "en/doc-search/statute/22s21",
+     "sha256": "4a60de0cf278da104249bb025208c467ef319fcb98e77b1cc0b9c005ce37f0f6"
+    }
+   ]
+  },
+  {
+   "id": "23c23",
+   "title": "Consumer Protection Act, 2023",
+   "short": "Consumer Protection Act, 2023",
+   "state": "current",
+   "enacted_by": "S.O. 2023, c. 23",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2023-12-06",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/23c23",
+     "api": "en/doc-search/statute/23c23",
+     "sha256": "fbc9a5dad599ecf6a1292cc49175d347cdf49744a70d27fd1df9ed7b4e14c599"
+    }
+   ]
+  },
+  {
+   "id": "23d22",
+   "title": "Duffins Rouge Agricultural Preserve Act, 2023",
+   "short": "Duffins Rouge Agricultural Preserve Act, 2023",
+   "state": "current",
+   "enacted_by": "S.O. 2023, c. 22",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2023-12-06",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/23d22",
+     "api": "en/doc-search/statute/23d22",
+     "sha256": "df20051aab79c5005a524528c74679c16c037997bb720e71da1dc3e85831afd7"
+    }
+   ]
+  },
+  {
+   "id": "23g17",
+   "title": "GO Transit Station Funding Act, 2023",
+   "short": "GO Transit Station Funding Act, 2023",
+   "state": "current",
+   "enacted_by": "S.O. 2023, c. 17",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2023-12-04",
+     "to": "2025-11-26",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/23g17/v1",
+     "api": "en/doc-search/statute/23g17/v1",
+     "sha256": "9892348a521ce51baccc680bfb83b5c5ff84c7d4a485d8c1ffa9061f900e25ea"
+    },
+    {
+     "n": 0,
+     "from": "2025-11-27",
+     "to": null,
+     "state": "current",
+     "laws": [
+      "S.O. 2025, c. 14"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/23g17",
+     "api": "en/doc-search/statute/23g17",
+     "sha256": "abb4e661bdf7c1da366f4adc7e037b09cc693aa820a4118ce5cc87896aef8c4a"
+    }
+   ]
+  },
+  {
+   "id": "23h13",
+   "title": "Hazel McCallion Act (Peel Restructuring), 2023",
+   "short": "Hazel McCallion Act (Peel Restructuring), 2023",
+   "state": "current",
+   "enacted_by": "S.O. 2023, c. 13",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2023-06-08",
+     "to": "2024-06-05",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/23h13/v1",
+     "api": "en/doc-search/statute/23h13/v1",
+     "sha256": "f48a5c4e193a5f00347d4f7b5c7c8af167379dcc70d825d7327f2e67a1c7bca1"
+    },
+    {
+     "n": 0,
+     "from": "2024-06-06",
+     "to": null,
+     "state": "current",
+     "laws": [
+      "S.O. 2024, c. 16"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/23h13",
+     "api": "en/doc-search/statute/23h13",
+     "sha256": "67fdb4ae2dc8cc16275a081a78357d4d3d0d0d63f8345f362b8e20d77ca04934"
+    }
+   ]
+  },
+  {
+   "id": "23i04",
+   "title": "Integrated Community Health Services Centres Act, 2023",
+   "short": "Integrated Community Health Services Centres Act, 2023",
+   "state": "current",
+   "enacted_by": "S.O. 2023, c. 4",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2023-05-18",
+     "to": "2023-09-24",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/23i04/v1",
+     "api": "en/doc-search/statute/23i04/v1",
+     "sha256": "bc8e499ac9cffe9e1a666482ce76cbb5cee91d8be7e2e272026186a79677c972"
+    },
+    {
+     "n": 0,
+     "from": "2023-09-25",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/23i04",
+     "api": "en/doc-search/statute/23i04",
+     "sha256": "1d0b621afa551462f09c524cf1e6cf79a45a8080571a782ad28cfbced63000b8"
+    }
+   ]
+  },
+  {
+   "id": "23i09",
+   "title": "International Recovery of Child Support and Family Maintenance Convention Act, 2023",
+   "short": "International Recovery of Child Support and Family Maintenance Convention Act, 2023",
+   "state": "current",
+   "enacted_by": "S.O. 2023, c. 9",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2023-06-08",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/23i09",
+     "api": "en/doc-search/statute/23i09",
+     "sha256": "7a7e14371aa8964ee41691221308437069a7dbcdbe11fca96189396e84c0d41a"
+    }
+   ]
+  },
+  {
+   "id": "23o24",
+   "title": "Official Plan Adjustments Act, 2023",
+   "short": "Official Plan Adjustments Act, 2023",
+   "state": "current",
+   "enacted_by": "S.O. 2023, c. 24",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2023-12-06",
+     "to": "2024-05-15",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/23o24/v1",
+     "api": "en/doc-search/statute/23o24/v1",
+     "sha256": "538b8f0d3e6f7efb18aab9caa87c2311582658341491645d787dd9a2e2e4e319"
+    },
+    {
+     "n": 0,
+     "from": "2024-05-16",
+     "to": null,
+     "state": "current",
+     "laws": [
+      "S.O. 2024, c. 9"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/23o24",
+     "api": "en/doc-search/statute/23o24",
+     "sha256": "fa4e22c2053465da7ebc29b40ec7f5adc844cbd30a8611530a8ffee79af5ed1c"
+    }
+   ]
+  },
+  {
+   "id": "23p09",
+   "title": "Protecting Farmers from Non-Payment Act (Regulating Agricultural Product Dealers and Storage Operators), 2023",
+   "short": "Protecting Farmers from Non-Payment Act (Regulating Agricultural Product Dealers and Storage Operators), 2023",
+   "state": "current",
+   "enacted_by": "S.O. 2023, c. 9",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2023-06-08",
+     "to": "2025-12-31",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/23p09/v1",
+     "api": "en/doc-search/statute/23p09/v1",
+     "sha256": "2c8b46f8f6fd9a92a7624bd0ed23874c18ac85f299b45b453f58d19e139a601e"
+    },
+    {
+     "n": 0,
+     "from": "2026-01-01",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/23p09",
+     "api": "en/doc-search/statute/23p09",
+     "sha256": "6d6edf8e80ec9e3b34cef067fb75ab2526ae586f33fb787d33472872348d0d8e"
+    }
+   ]
+  },
+  {
+   "id": "23q07",
+   "title": "Queen's Park Restoration Secretariat Act, 2023",
+   "short": "Queen's Park Restoration Secretariat Act, 2023",
+   "state": "current",
+   "enacted_by": "S.O. 2023, c. 7",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2023-05-18",
+     "to": "2023-07-30",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/23q07/v1",
+     "api": "en/doc-search/statute/23q07/v1",
+     "sha256": "795a0f87f1a1cc702f1d4fc89f1039237d4fcadbfd71c4cd587c721761308398"
+    },
+    {
+     "n": 0,
+     "from": "2023-07-31",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/23q07",
+     "api": "en/doc-search/statute/23q07",
+     "sha256": "838042fbbb11023c0eaaecc2a8e40f010a5347eb6da9d0d8cf647b9c929b5a5c"
+    }
+   ]
+  },
+  {
+   "id": "23r25a",
+   "title": "Recovery Through Growth Act (City of Toronto), 2023",
+   "short": "Recovery Through Growth Act (City of Toronto), 2023",
+   "state": "current",
+   "enacted_by": "S.O. 2023, c. 25",
+   "versions": [
+    {
+     "n": 0,
+     "from": "2023-12-06",
+     "to": null,
+     "state": "current",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/23r25a",
+     "api": "en/doc-search/statute/23r25a",
+     "sha256": "12da6a50f37391a3512eb2e778ee4e5532280a4a85a295a0997c5da6960986b6"
+    }
+   ]
+  },
+  {
+   "id": "23r25b",
+   "title": "Rebuilding Ontario Place Act, 2023",
+   "short": "Rebuilding Ontario Place Act, 2023",
+   "state": "current",
+   "enacted_by": "S.O. 2023, c. 25",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2023-12-06",
+     "to": "2024-02-21",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/23r25b/v1",
+     "api": "en/doc-search/statute/23r25b/v1",
+     "sha256": "ca050ec6392737a897aa8d093982cda3deba491eb9c01ebd2ad60e3131cbc70a"
+    },
+    {
+     "n": 2,
+     "from": "2024-02-22",
+     "to": "2025-06-04",
+     "state": "historical",
+     "laws": [
+      "S.O. 2023, c. 25"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/23r25b/v2",
+     "api": "en/doc-search/statute/23r25b/v2",
+     "sha256": "0dcc0c5f786ff4d13e2eaf1017c067b02dd12fa857f3cf61b8bc797bbef90dcc"
+    },
+    {
+     "n": 3,
+     "from": "2025-06-05",
+     "to": "2025-11-26",
+     "state": "historical",
+     "laws": [
+      "S.O. 2025, c. 4"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/23r25b/v3",
+     "api": "en/doc-search/statute/23r25b/v3",
+     "sha256": "724218dca6a583a99d44153d74998434669e425f9bc5bd319526be08224312dd"
+    },
+    {
+     "n": 0,
+     "from": "2025-11-27",
+     "to": null,
+     "state": "current",
+     "laws": [
+      "S.O. 2025, c. 15"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/23r25b",
+     "api": "en/doc-search/statute/23r25b",
+     "sha256": "c93e1aa684b594cacdeaa3db9800f82d502de72b021f7861f2e38b0a95e237f8"
+    }
+   ]
+  },
+  {
+   "id": "23s01",
+   "title": "Supporting Manufacturing in St. Thomas Act, 2023",
+   "short": "Supporting Manufacturing in St. Thomas Act, 2023",
+   "state": "current",
+   "enacted_by": "S.O. 2023, c. 1",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2023-03-02",
+     "to": "2023-11-01",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/23s01/v1",
+     "api": "en/doc-search/statute/23s01/v1",
+     "sha256": "b58a5df9b827ba7b8340a8a647c660dbc0deb1c4fa8b446cb2bb7eae77ae9d55"
+    },
+    {
+     "n": 2,
+     "from": "2023-11-02",
+     "to": "2023-12-03",
+     "state": "historical",
+     "laws": [
+      "S.O. 2023, c. 1"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/23s01/v2",
+     "api": "en/doc-search/statute/23s01/v2",
+     "sha256": "0c443f98a97f31465fb3bb72e72e63f37466cdb14c5c496473cb564cf0ebd3a7"
+    },
+    {
+     "n": 0,
+     "from": "2023-12-04",
+     "to": null,
+     "state": "current",
+     "laws": [
+      "S.O. 2023, c. 18"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/23s01",
+     "api": "en/doc-search/statute/23s01",
+     "sha256": "ae4586bb2306147d61416e5e99582778afd9f70c18eba160aa635ecd29bc3a33"
+    }
+   ]
   }
  ],
  "laws": [
@@ -32050,6 +34565,13 @@
    "kind": "Act of the Legislative Assembly of Ontario"
   },
   {
+   "key": "S.O. 2020, c. 9",
+   "title": "Security from Trespass and Protecting Food Safety Act, 2020",
+   "assented": "2020-06-18",
+   "url": "https://www.ontario.ca/laws/statute/s20009",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
    "key": "S.O. 2020, c. 11",
    "title": "Smarter and Stronger Justice Act, 2020",
    "assented": "2020-07-08",
@@ -32092,10 +34614,31 @@
    "kind": "Act of the Legislative Assembly of Ontario"
   },
   {
+   "key": "S.O. 2020, c. 17",
+   "title": "Reopening Ontario (A Flexible Response to COVID-19) Act, 2020",
+   "assented": "2020-07-21",
+   "url": "https://www.ontario.ca/laws/statute/s20017",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
    "key": "S.O. 2020, c. 18",
    "title": "COVID-19 Economic Recovery Act, 2020",
    "assented": "2020-07-21",
    "url": "https://www.ontario.ca/laws/statute/s20018",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2020, c. 19",
+   "title": "Tibetan Heritage Month Act, 2020",
+   "assented": "2020-09-24",
+   "url": "https://www.ontario.ca/laws/statute/s20019",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2020, c. 20",
+   "title": "Stop Cyberbullying in Ontario Day Act, 2020",
+   "assented": "2020-09-24",
+   "url": "https://www.ontario.ca/laws/statute/s20020",
    "kind": "Act of the Legislative Assembly of Ontario"
   },
   {
@@ -32106,6 +34649,13 @@
    "kind": "Act of the Legislative Assembly of Ontario"
   },
   {
+   "key": "S.O. 2020, c. 22",
+   "title": "Somali Heritage Week Act, 2020",
+   "assented": "2020-10-01",
+   "url": "https://www.ontario.ca/laws/statute/s20022",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
    "key": "S.O. 2020, c. 23",
    "title": "Helping Tenants and Small Businesses Act, 2020",
    "assented": "2020-10-01",
@@ -32113,10 +34663,31 @@
    "kind": "Act of the Legislative Assembly of Ontario"
   },
   {
+   "key": "S.O. 2020, c. 24",
+   "title": "Soldiers' Aid Commission Act, 2020",
+   "assented": "2020-11-12",
+   "url": "https://www.ontario.ca/laws/statute/s20024",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
    "key": "S.O. 2020, c. 25",
    "title": "Moving Ontario Family Law Forward Act, 2020",
    "assented": "2020-11-20",
    "url": "https://www.ontario.ca/laws/statute/s20025",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2020, c. 26",
+   "title": "Supporting Ontario's Recovery and Municipal Elections Act, 2020",
+   "assented": "2020-11-20",
+   "url": "https://www.ontario.ca/laws/statute/s20026",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2020, c. 27",
+   "title": "Magna Carta Day Act (In Memory of Julia Munro, MPP), 2020",
+   "assented": "2020-11-30",
+   "url": "https://www.ontario.ca/laws/statute/s20027",
    "kind": "Act of the Legislative Assembly of Ontario"
   },
   {
@@ -32131,6 +34702,13 @@
    "title": "Compassionate Care Act, 2020",
    "assented": "2020-12-02",
    "url": "https://www.ontario.ca/laws/statute/s20030",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2020, c. 31",
+   "title": "Supporting Local Restaurants Act, 2020",
+   "assented": "2020-12-02",
+   "url": "https://www.ontario.ca/laws/statute/s20031",
    "kind": "Act of the Legislative Assembly of Ontario"
   },
   {
@@ -32176,6 +34754,20 @@
    "kind": "Act of the Legislative Assembly of Ontario"
   },
   {
+   "key": "S.O. 2021, c. 6",
+   "title": "Occupational Safety and Health Day Act, 2021",
+   "assented": "2021-04-27",
+   "url": "https://www.ontario.ca/laws/statute/s21006",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2021, c. 7",
+   "title": "Ontario Day Act, 2021",
+   "assented": "2021-04-27",
+   "url": "https://www.ontario.ca/laws/statute/s21007",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
    "key": "S.O. 2021, c. 8",
    "title": "Protecting the People of Ontario Act (Budget Measures), 2021",
    "assented": "2021-04-27",
@@ -32190,6 +34782,20 @@
    "kind": "Act of the Legislative Assembly of Ontario"
   },
   {
+   "key": "S.O. 2021, c. 11",
+   "title": "Tamil Genocide Education Week Act, 2021",
+   "assented": "2021-05-12",
+   "url": "https://www.ontario.ca/laws/statute/s21011",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2021, c. 12",
+   "title": "Lupus Awareness Day Act, 2021",
+   "assented": "2021-05-12",
+   "url": "https://www.ontario.ca/laws/statute/s21012",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
    "key": "S.O. 2021, c. 13",
    "title": "Safer School Buses Act, 2021",
    "assented": "2021-05-12",
@@ -32197,10 +34803,80 @@
    "kind": "Act of the Legislative Assembly of Ontario"
   },
   {
+   "key": "S.O. 2021, c. 14",
+   "title": "Recovery Month Act, 2021",
+   "assented": "2021-05-12",
+   "url": "https://www.ontario.ca/laws/statute/s21014",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2021, c. 15",
+   "title": "Filipino Heritage Month Act, 2021",
+   "assented": "2021-05-20",
+   "url": "https://www.ontario.ca/laws/statute/s21015",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2021, c. 16",
+   "title": "Keeping Polystyrene Out of Ontario's Lakes and Rivers Act, 2021",
+   "assented": "2021-05-20",
+   "url": "https://www.ontario.ca/laws/statute/s21016",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2021, c. 17",
+   "title": "Convenience Store Week Act, 2021",
+   "assented": "2021-05-20",
+   "url": "https://www.ontario.ca/laws/statute/s21017",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2021, c. 18",
+   "title": "COPD Awareness Day Act, 2021",
+   "assented": "2021-06-03",
+   "url": "https://www.ontario.ca/laws/statute/s21018",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2021, c. 19",
+   "title": "Scottish Heritage Day Act, 2021",
+   "assented": "2021-06-03",
+   "url": "https://www.ontario.ca/laws/statute/s21019",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2021, c. 20",
+   "title": "Front-line and Essential Service Worker Week Act, 2021",
+   "assented": "2021-06-03",
+   "url": "https://www.ontario.ca/laws/statute/s21020",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
    "key": "S.O. 2021, c. 21",
    "title": "Combating Human Trafficking Act, 2021",
    "assented": "2021-06-03",
    "url": "https://www.ontario.ca/laws/statute/s21021",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2021, c. 22",
+   "title": "Sickle Cell Disease Awareness Day and Thalassemia Awareness Day Act, 2021",
+   "assented": "2021-06-03",
+   "url": "https://www.ontario.ca/laws/statute/s21022",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2021, c. 23",
+   "title": "Senior Volunteer Appreciation Week Act, 2021",
+   "assented": "2021-06-03",
+   "url": "https://www.ontario.ca/laws/statute/s21023",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2021, c. 24",
+   "title": "Persian Heritage Month Act, 2021",
+   "assented": "2021-06-03",
+   "url": "https://www.ontario.ca/laws/statute/s21024",
    "kind": "Act of the Legislative Assembly of Ontario"
   },
   {
@@ -32232,6 +34908,20 @@
    "kind": "Act of the Legislative Assembly of Ontario"
   },
   {
+   "key": "S.O. 2021, c. 29",
+   "title": "Nikola Tesla Day Act, 2021",
+   "assented": "2021-06-03",
+   "url": "https://www.ontario.ca/laws/statute/s21029",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2021, c. 30",
+   "title": "Food Day Canada in Ontario (in Honour of Anita Stewart) Act, 2021",
+   "assented": "2021-06-03",
+   "url": "https://www.ontario.ca/laws/statute/s21030",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
    "key": "S.O. 2021, c. 33",
    "title": "Remembrance Week Amendment Act, 2021",
    "assented": "2021-11-09",
@@ -32253,6 +34943,27 @@
    "kind": "Act of the Legislative Assembly of Ontario"
   },
   {
+   "key": "S.O. 2021, c. 36",
+   "title": "Non-Profit Sector Appreciation Week Act, 2021 ",
+   "assented": "2021-12-09",
+   "url": "https://www.ontario.ca/laws/statute/s21036",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2021, c. 37",
+   "title": "Polish Heritage Month Act, 2021",
+   "assented": "2021-12-09",
+   "url": "https://www.ontario.ca/laws/statute/s21037",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2021, c. 38",
+   "title": "Anti-Asian Racism Education Month Act, 2021 ",
+   "assented": "2021-12-09",
+   "url": "https://www.ontario.ca/laws/statute/s21038",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
    "key": "S.O. 2021, c. 39",
    "title": "Providing More Care, Protecting Seniors, and Building More Beds Act, 2021",
    "assented": "2021-12-09",
@@ -32267,6 +34978,27 @@
    "kind": "Act of the Legislative Assembly of Ontario"
   },
   {
+   "key": "S.O. 2021, c. 41",
+   "title": "Endometriosis Awareness Month Act, 2021",
+   "assented": "2021-12-09",
+   "url": "https://www.ontario.ca/laws/statute/s21041",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2021, c. 42",
+   "title": "Emancipation Month Act, 2021",
+   "assented": "2021-12-09",
+   "url": "https://www.ontario.ca/laws/statute/s21042",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2022, c. 1",
+   "title": "Provincial Day of Service Act, 2022",
+   "assented": "2022-03-03",
+   "url": "https://www.ontario.ca/laws/statute/s22001",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
    "key": "S.O. 2022, c. 2",
    "title": "Fewer Fees, Better Services Act, 2022",
    "assented": "2022-03-03",
@@ -32274,10 +35006,38 @@
    "kind": "Act of the Legislative Assembly of Ontario"
   },
   {
+   "key": "S.O. 2022, c. 4",
+   "title": "Armenian Heritage Month Act, 2022",
+   "assented": "2022-03-31",
+   "url": "https://www.ontario.ca/laws/statute/s22004",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2022, c. 5",
+   "title": "Ontario Cadets Week Act, 2022",
+   "assented": "2022-04-11",
+   "url": "https://www.ontario.ca/laws/statute/s22005",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2022, c. 6",
+   "title": "Hungarian Heritage Month Act, 2022",
+   "assented": "2022-04-11",
+   "url": "https://www.ontario.ca/laws/statute/s22006",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
    "key": "S.O. 2022, c. 7",
    "title": "Working for Workers Act, 2022",
    "assented": "2022-04-11",
    "url": "https://www.ontario.ca/laws/statute/s22007",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2022, c. 8",
+   "title": "Green Shirt Day Act, 2022",
+   "assented": "2022-04-11",
+   "url": "https://www.ontario.ca/laws/statute/s22008",
    "kind": "Act of the Legislative Assembly of Ontario"
   },
   {
@@ -32309,6 +35069,20 @@
    "kind": "Act of the Legislative Assembly of Ontario"
   },
   {
+   "key": "S.O. 2022, c. 14",
+   "title": "Myasthenia Gravis Month Act, 2022",
+   "assented": "2022-04-14",
+   "url": "https://www.ontario.ca/laws/statute/s22014",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2022, c. 16",
+   "title": "More Beds, Better Care Act, 2022",
+   "assented": "2022-08-31",
+   "url": "https://www.ontario.ca/laws/statute/s22016",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
    "key": "S.O. 2022, c. 17",
    "title": "Plan to Build Act (Budget Measures), 2022 ",
    "assented": "2022-09-08",
@@ -32320,6 +35094,13 @@
    "title": "Strong Mayors, Building Homes Act, 2022",
    "assented": "2022-09-08",
    "url": "https://www.ontario.ca/laws/statute/s22018",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2022, c. 20",
+   "title": "Keeping Students in Class Repeal Act, 2022",
+   "assented": "2022-11-14",
+   "url": "https://www.ontario.ca/laws/statute/s22020",
    "kind": "Act of the Legislative Assembly of Ontario"
   },
   {
@@ -32351,6 +35132,13 @@
    "kind": "Act of the Legislative Assembly of Ontario"
   },
   {
+   "key": "S.O. 2023, c. 1",
+   "title": "St. Thomas - Central Elgin Boundary Adjustment Act, 2023",
+   "assented": "2023-03-02",
+   "url": "https://www.ontario.ca/laws/statute/s23001",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
    "key": "S.O. 2023, c. 2",
    "title": "Less Red Tape, Stronger Ontario Act, 2023",
    "assented": "2023-03-22",
@@ -32369,6 +35157,13 @@
    "title": "Reducing Inefficiencies Act (Infrastructure Statute Law Amendments), 2023",
    "assented": "2023-05-18",
    "url": "https://www.ontario.ca/laws/statute/s23005",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2023, c. 7",
+   "title": "Queen's Park Restoration Act, 2023",
+   "assented": "2023-05-18",
+   "url": "https://www.ontario.ca/laws/statute/s23007",
    "kind": "Act of the Legislative Assembly of Ontario"
   },
   {
@@ -32407,6 +35202,13 @@
    "kind": "Act of the Legislative Assembly of Ontario"
   },
   {
+   "key": "S.O. 2023, c. 13",
+   "title": "Hazel McCallion Act (Peel Dissolution), 2023",
+   "assented": "2023-06-08",
+   "url": "https://www.ontario.ca/laws/statute/s23013",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
    "key": "S.O. 2023, c. 14",
    "title": "Honouring Our Veterans Act, 2023",
    "assented": "2023-10-26",
@@ -32425,6 +35227,13 @@
    "title": "Transportation for the Future Act, 2023",
    "assented": "2023-12-04",
    "url": "https://www.ontario.ca/laws/statute/s23017",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2023, c. 18",
+   "title": "Affordable Homes and Good Jobs Act, 2023",
+   "assented": "2023-12-04",
+   "url": "https://www.ontario.ca/laws/statute/s23018",
    "kind": "Act of the Legislative Assembly of Ontario"
   },
   {
@@ -32453,6 +35262,20 @@
    "title": "Greenbelt Statute Law Amendment Act, 2023",
    "assented": "2023-12-06",
    "url": "https://www.ontario.ca/laws/statute/s23022",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2023, c. 23",
+   "title": "Better for Consumers, Better for Businesses Act, 2023",
+   "assented": "2023-12-06",
+   "url": "https://www.ontario.ca/laws/statute/s23023",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2023, c. 24",
+   "title": "Planning Statute Law Amendment Act, 2023",
+   "assented": "2023-12-06",
+   "url": "https://www.ontario.ca/laws/statute/s23024",
    "kind": "Act of the Legislative Assembly of Ontario"
   },
   {
@@ -32600,6 +35423,13 @@
    "title": "Protect Ontario Through Free Trade Within Canada Act, 2025",
    "assented": "2025-06-05",
    "url": "https://www.ontario.ca/laws/statute/s25003",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2025, c. 4",
+   "title": "Protect Ontario by Unleashing our Economy Act, 2025",
+   "assented": "2025-06-05",
+   "url": "https://www.ontario.ca/laws/statute/s25004",
    "kind": "Act of the Legislative Assembly of Ontario"
   },
   {

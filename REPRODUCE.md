@@ -432,8 +432,4 @@ Made by `tools/append/ontario_append.py` (with the parser, evidence rules and me
 | 2 | 2026-11-05 | 80 | 763 | 812 | 0 | none |
 | 3 | 2026-11-05 | 80 | 349 | 349 | 0 | none |
 | 4 | 2026-11-05 | 80 | 289 | 304 | 0 | none |
-
-Version-list repairs in batch 4 (build.version_list's rules):
-
-- 19s07 v4 (2023-09-25): text not served (404) for v2 from 2019-08-06, v3 from 2023-05-18; the version before stays in force until this one
-- 19s07 v0 (2024-06-28): text not served (404) for v5 from 2023-12-04; the version before stays in force until this one
+| 5 | 2026-11-05 | 80 | 167 | 168 | 0 | none |
