@@ -433,3 +433,8 @@ Made by `tools/append/ontario_append.py` (with the parser, evidence rules and me
 | 3 | 2026-11-05 | 80 | 349 | 349 | 0 | none |
 | 4 | 2026-11-05 | 80 | 289 | 304 | 0 | none |
 | 5 | 2026-11-05 | 80 | 167 | 168 | 0 | none |
+| 6 | 2026-11-05 | 80 | 338 | 336 | 0 | none |
+
+Version-list repairs in batch 6 (build.version_list's rules):
+
+- 90a31 v47 (2024-11-06): text not served (404) for v46 from 2023-01-01; the version before stays in force until this one
