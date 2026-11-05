@@ -431,7 +431,9 @@ Made by `tools/append/ontario_append.py` (with the parser, evidence rules and me
 | 1 | 2026-11-05 | 78 | 604 | 645 | 0 | 01m25, 02t30 |
 | 2 | 2026-11-05 | 80 | 763 | 812 | 0 | none |
 | 3 | 2026-11-05 | 80 | 349 | 349 | 0 | none |
+| 4 | 2026-11-05 | 80 | 289 | 304 | 0 | none |
 
-Version-list repairs in batch 3 (build.version_list's rules):
+Version-list repairs in batch 4 (build.version_list's rules):
 
-- 14c11 v19 (2025-06-06): gap: v17 ends 2024-06-05, this version starts 2025-06-06 (a version between them is not listed); v17 stays in force until then
+- 19s07 v4 (2023-09-25): text not served (404) for v2 from 2019-08-06, v3 from 2023-05-18; the version before stays in force until this one
+- 19s07 v0 (2024-06-28): text not served (404) for v5 from 2023-12-04; the version before stays in force until this one
