@@ -430,8 +430,8 @@ Made by `tools/append/ontario_append.py` (with the parser, evidence rules and me
 | ---: | --- | ---: | ---: | ---: | ---: | --- |
 | 1 | 2026-11-05 | 78 | 604 | 645 | 0 | 01m25, 02t30 |
 | 2 | 2026-11-05 | 80 | 763 | 812 | 0 | none |
+| 3 | 2026-11-05 | 80 | 349 | 349 | 0 | none |
 
-Version-list repairs in batch 2 (build.version_list's rules):
+Version-list repairs in batch 3 (build.version_list's rules):
 
-- 06f31 v16 (2021-06-03): text not served (404) for v15 from 2018-05-08; the version before stays in force until this one
-- 08p17 v5 (2019-07-01): gap: v3 ends 2019-06-05, this version starts 2019-07-01 (a version between them is not listed); v3 stays in force until then
+- 14c11 v19 (2025-06-06): gap: v17 ends 2024-06-05, this version starts 2025-06-06 (a version between them is not listed); v17 stays in force until then
