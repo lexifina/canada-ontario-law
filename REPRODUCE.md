@@ -429,8 +429,9 @@ Made by `tools/append/ontario_append.py` (with the parser, evidence rules and me
 | Batch | Day | Acts | Commits | Versions checked | Mismatches | Held |
 | ---: | --- | ---: | ---: | ---: | ---: | --- |
 | 1 | 2026-11-05 | 78 | 604 | 645 | 0 | 01m25, 02t30 |
+| 2 | 2026-11-05 | 80 | 763 | 812 | 0 | none |
 
-Version-list repairs in batch 1 (build.version_list's rules):
+Version-list repairs in batch 2 (build.version_list's rules):
 
-- 01a10 v0 (2019-03-26): last day 2008-11-30 before its first day ignored
-- 01r28 v0 (2024-04-01): listed from 2022-04-14, before v14 ends (2024-03-31); starts 2024-04-01
+- 06f31 v16 (2021-06-03): text not served (404) for v15 from 2018-05-08; the version before stays in force until this one
+- 08p17 v5 (2019-07-01): gap: v3 ends 2019-06-05, this version starts 2019-07-01 (a version between them is not listed); v3 stays in force until then
