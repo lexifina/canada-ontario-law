@@ -1,5 +1,7 @@
 # Ontario statutes, change by change
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Ontario, Canada, which global-law reads at `canada/ontario/acts/`.
+
 Four Ontario statutes as a git repository: the Highway Traffic Act (R.S.O. 1990, c. H.8), the Residential Tenancies
 Act, 2006 (S.O. 2006, c. 17), the Employment Standards Act, 2000 (S.O. 2000, c. 41) and the Legislation Act, 2006
 (S.O. 2006, c. 21, Sched. F). Each amending act is one commit, credited to that act and dated the day its change took
