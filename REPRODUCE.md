@@ -437,9 +437,4 @@ Made by `tools/append/ontario_append.py` (with the parser, evidence rules and me
 | 7 | 2026-11-05 | 80 | 1102 | 1268 | 0 | none |
 | 7 | 2026-11-05 | 79 | 1011 | 1143 | 0 | 90m01 |
 | 8 | 2026-11-05 | 79 | 1037 | 1093 | 0 | 90p08 |
-
-Version-list repairs in batch 8 (build.version_list's rules):
-
-- 90n02 v0 (2026-04-01): last day 2018-12-05 before its first day ignored
-- 90p35 v8 (2024-12-04): text not served (404) for v7 from 2014-04-24; the version before stays in force until this one
-- 90p51 v10 (2019-07-01): gap: v8 ends 2019-05-28, this version starts 2019-07-01 (a version between them is not listed); v8 stays in force until then
+| 9 | 2026-11-06 | 80 | 787 | 843 | 0 | none |
