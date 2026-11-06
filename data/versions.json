@@ -120643,6 +120643,2682 @@
      "note": "Note: This Act was repealed on January 1, 2005. See: 2001, c. 20, ss. 57, 61 (2). See also 2002, c. 35, ss. 1, 2; 2004, c. 4, ss. 1, 2."
     }
    ]
+  },
+  {
+   "id": "90e04",
+   "title": "Elderly Persons Centres Act",
+   "short": "Elderly Persons Centres Act",
+   "state": "rrs",
+   "enacted_by": "",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2003-01-01",
+     "to": "2010-10-24",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90e04/v1",
+     "api": "en/doc-search/statute/90e04/v1",
+     "sha256": "32222a386977396e092edcb148cfe99e40ccdb6e12741383828aa0a15ada8dc2"
+    },
+    {
+     "n": 2,
+     "from": "2010-10-25",
+     "to": "2017-05-29",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90e04/v2",
+     "api": "en/doc-search/statute/90e04/v2",
+     "sha256": "144d96500ebf7478cbd55302d79a8e2f345e4ec57075dc88208a12c8643b923b"
+    },
+    {
+     "n": 3,
+     "from": "2017-05-30",
+     "to": "2017-09-30",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90e04/v3",
+     "api": "en/doc-search/statute/90e04/v3",
+     "sha256": "70b92f321b709b44570986d95d9541c05cc86c09e1d46ec357dd0f7a83b40a29"
+    },
+    {
+     "n": 0,
+     "from": "2017-10-01",
+     "to": null,
+     "state": "rrs",
+     "laws": [
+      "S.O. 2017, c. 11"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90e04",
+     "api": "en/doc-search/statute/90e04",
+     "sha256": "9d55fe8a2f1bb042587366c82e353e0c9c801927eaf9b0670800b78ade2f182f",
+     "note": "Note: This Act was repealed on October 1, 2017. (See: 2017, c. 11, Sched. 6, s. 15 (1))"
+    }
+   ]
+  },
+  {
+   "id": "90e05",
+   "title": "Elderly Persons’ Housing Aid Act",
+   "short": "Elderly Persons' Housing Aid Act",
+   "state": "rrs",
+   "enacted_by": "",
+   "versions": [
+    {
+     "n": 1,
+     "from": "1990-12-31",
+     "to": "2016-12-07",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90e05/v1",
+     "api": "en/doc-search/statute/90e05/v1",
+     "sha256": "8d9107ec35c42e4ddece01c510a685f77d7f1ff41cba372523d75212c3339c03"
+    },
+    {
+     "n": 0,
+     "from": "2016-12-08",
+     "to": null,
+     "state": "rrs",
+     "laws": [
+      "S.O. 2016, c. 25"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90e05",
+     "api": "en/doc-search/statute/90e05",
+     "sha256": "23da00d3baa3095dd07e11783466b0f318113d1a83e47f354a8a280ac4e7c2a6",
+     "note": "Note: This Act was repealed on December 8, 2016. (See: 2016, c. 25, Sched. 2)"
+    }
+   ]
+  },
+  {
+   "id": "90e12",
+   "title": "Employers and Employees Act",
+   "short": "Employers and Employees Act",
+   "state": "rrs",
+   "enacted_by": "",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2004-01-01",
+     "to": "2006-06-21",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90e12/v1",
+     "api": "en/doc-search/statute/90e12/v1",
+     "sha256": "c317a8cf4b6a4ca56b2c1898e9415c708e8eb1f10e831c9c397d3816a34e41aa"
+    },
+    {
+     "n": 2,
+     "from": "2006-06-22",
+     "to": "2017-11-13",
+     "state": "historical",
+     "laws": [
+      "S.O. 2006, c. 19"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90e12/v2",
+     "api": "en/doc-search/statute/90e12/v2",
+     "sha256": "a3fea0052e113abb14d67ff143cd746cc0a84f453ec61deaf90f2718d2d23cf4"
+    },
+    {
+     "n": 0,
+     "from": "2017-11-14",
+     "to": null,
+     "state": "rrs",
+     "laws": [
+      "S.O. 2017, c. 20"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90e12",
+     "api": "en/doc-search/statute/90e12",
+     "sha256": "5911a049ebf379a77a8424034b45f88f6b75d4b8f52b6232ed6cafff9ab4d179",
+     "note": "Note: This Act was repealed on November 14, 2017. (See: 2017, c. 20, Sched. 3, s. 1)"
+    }
+   ]
+  },
+  {
+   "id": "90e15",
+   "title": "Endangered Species Act",
+   "short": "Endangered Species Act",
+   "state": "rrs",
+   "enacted_by": "",
+   "versions": [
+    {
+     "n": 1,
+     "from": "1999-01-01",
+     "to": "2007-05-16",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90e15/v1",
+     "api": "en/doc-search/statute/90e15/v1",
+     "sha256": "989f15b44d6558b18b390b442f21100fff6e04a7e1c0f1bfb941929d5203d765"
+    },
+    {
+     "n": 2,
+     "from": "2007-05-17",
+     "to": "2008-06-29",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90e15/v2",
+     "api": "en/doc-search/statute/90e15/v2",
+     "sha256": "fe286967535f4ebf0c5ae3a57c0875e08fd83a3de39b6cf072971180479141d0"
+    },
+    {
+     "n": 0,
+     "from": "2008-06-30",
+     "to": null,
+     "state": "rrs",
+     "laws": [
+      "S.O. 2007, c. 6"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90e15",
+     "api": "en/doc-search/statute/90e15",
+     "sha256": "752541fde5c7497ec89bca5540350fa94bb951428a598e55c380fa7b088e7257",
+     "note": "Note: This Act was repealed on June 30, 2008. See: 2007, c. 6, ss. 59, 63 (1)."
+    }
+   ]
+  },
+  {
+   "id": "90e17",
+   "title": "Energy Efficiency Act",
+   "short": "Energy Efficiency Act",
+   "state": "rrs",
+   "enacted_by": "",
+   "versions": [
+    {
+     "n": 1,
+     "from": "1990-12-31",
+     "to": "2009-05-13",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90e17/v1",
+     "api": "en/doc-search/statute/90e17/v1",
+     "sha256": "91632de6ee9d4de2410c0939e990f97ba6dbdcd19c2b1183cc07dc3e25e78c65"
+    },
+    {
+     "n": 2,
+     "from": "2009-05-14",
+     "to": "2009-09-08",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90e17/v2",
+     "api": "en/doc-search/statute/90e17/v2",
+     "sha256": "025c120a63bcb43c71186dabb2a09e4b5b080b50553a12a51a870e74aa82c2c4"
+    },
+    {
+     "n": 0,
+     "from": "2009-09-09",
+     "to": null,
+     "state": "rrs",
+     "laws": [
+      "S.O. 2009, c. 12"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90e17",
+     "api": "en/doc-search/statute/90e17",
+     "sha256": "ff7d170fe0c5dbfd60765a8b25b4ea9e2eb9b1e1fb6d3fdfdd860bff69ddfa81",
+     "note": "Note: This Act was repealed on September 9, 2009. See: 2009, c. 12, Sched. A, s. 18 (2), 19."
+    }
+   ]
+  },
+  {
+   "id": "90e20",
+   "title": "Escheats Act",
+   "short": "Escheats Act",
+   "state": "rrs",
+   "enacted_by": "",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2002-11-26",
+     "to": "2007-05-16",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90e20/v1",
+     "api": "en/doc-search/statute/90e20/v1",
+     "sha256": "01c94e7c602bc513e7df4ee8ea51128c91ec3c2ad1b05cff1efd25e81ecd93bb"
+    },
+    {
+     "n": 2,
+     "from": "2007-05-17",
+     "to": "2009-12-14",
+     "state": "historical",
+     "laws": [
+      "S.O. 2007, c. 7"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90e20/v2",
+     "api": "en/doc-search/statute/90e20/v2",
+     "sha256": "040ff920d41265d064aea19cefe78d7e865ec850dc93fb77514507b57d68c6b4"
+    },
+    {
+     "n": 3,
+     "from": "2009-12-15",
+     "to": "2015-12-09",
+     "state": "historical",
+     "laws": [
+      "S.O. 2009, c. 33"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90e20/v3",
+     "api": "en/doc-search/statute/90e20/v3",
+     "sha256": "79294cee6a0aa67aabbd02eeafd37c92cddeedc344c137479d6ad21e1e101672"
+    },
+    {
+     "n": 4,
+     "from": "2015-12-10",
+     "to": "2016-12-09",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90e20/v4",
+     "api": "en/doc-search/statute/90e20/v4",
+     "sha256": "73ab468faad3f3df397cfdb059922a060f51b91ba3b58da63c414e2e83ee67c1"
+    },
+    {
+     "n": 0,
+     "from": "2016-12-10",
+     "to": null,
+     "state": "rrs",
+     "laws": [
+      "S.O. 2015, c. 38"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90e20",
+     "api": "en/doc-search/statute/90e20",
+     "sha256": "adf21afa6aa9824b47b62f46b4eb5f35a6b44ea54555c8ad8788ed4e9d782776",
+     "note": "Note: This Act was repealed on December 10, 2016. (See: 2015, c. 38, Sched. 4, s. 31)"
+    }
+   ]
+  },
+  {
+   "id": "90f02",
+   "title": "Family Benefits Act",
+   "short": "Family Benefits Act",
+   "state": "rrs",
+   "enacted_by": "",
+   "versions": [
+    {
+     "n": 1,
+     "from": "1997-11-28",
+     "to": "2006-06-21",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90f02/v1",
+     "api": "en/doc-search/statute/90f02/v1",
+     "sha256": "c4196be7e363cca6d2e581b1c9d74b259957ae151cfa0486351e9206981d701f"
+    },
+    {
+     "n": 2,
+     "from": "2006-06-22",
+     "to": "2006-12-19",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90f02/v2",
+     "api": "en/doc-search/statute/90f02/v2",
+     "sha256": "e2ee818ade78a9308747eb93c24177424743e3f352869ee5d4393ed6bd94723f"
+    },
+    {
+     "n": 3,
+     "from": "2006-12-20",
+     "to": "2007-08-19",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90f02/v3",
+     "api": "en/doc-search/statute/90f02/v3",
+     "sha256": "36a22f34f8e7929bd72d8e2610a62b7523481aaaef14b30d7ed557daa699af73"
+    },
+    {
+     "n": 4,
+     "from": "2007-08-20",
+     "to": "2009-12-14",
+     "state": "historical",
+     "laws": [
+      "S.O. 2006, c. 35"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90f02/v4",
+     "api": "en/doc-search/statute/90f02/v4",
+     "sha256": "8b81c240eef187599b2a6b108bc340803c224b5a73e8a6e53c5be74f57e59f69"
+    },
+    {
+     "n": 5,
+     "from": "2009-12-15",
+     "to": "2010-12-31",
+     "state": "historical",
+     "laws": [
+      "S.O. 2009, c. 33"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90f02/v5",
+     "api": "en/doc-search/statute/90f02/v5",
+     "sha256": "25f9d8c6828f06b16cb9900843037cfeed538e9d45e9af133347d5b1c1543276"
+    },
+    {
+     "n": 0,
+     "from": "2011-01-01",
+     "to": null,
+     "state": "rrs",
+     "laws": [
+      "S.O. 1997, c. 25"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90f02",
+     "api": "en/doc-search/statute/90f02",
+     "sha256": "b5ea455735d65a896abfa6804f38f79a83407190705f87483b073eea737bf7a2",
+     "note": "Note: This Act was repealed on January 1, 2011. See: 1997, c. 25, s. 4 (1, 5)."
+    }
+   ]
+  },
+  {
+   "id": "90f08",
+   "title": "Farm Products Grades and Sales Act",
+   "short": "Farm Products Grades and Sales Act",
+   "state": "rrs",
+   "enacted_by": "",
+   "versions": [
+    {
+     "n": 1,
+     "from": "1997-04-01",
+     "to": "2009-12-14",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90f08/v1",
+     "api": "en/doc-search/statute/90f08/v1",
+     "sha256": "6c9651d740e71c4cdf0f87d5722f821ba22ec9cb84b1fc7f8057701ffbbf9ce9"
+    },
+    {
+     "n": 2,
+     "from": "2009-12-15",
+     "to": "2019-12-09",
+     "state": "historical",
+     "laws": [
+      "S.O. 2009, c. 33"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90f08/v2",
+     "api": "en/doc-search/statute/90f08/v2",
+     "sha256": "6e5c75be50358ffdfc114f8bfe274f127e1e1fe0e0303ae02ffaac85f6e7b474"
+    },
+    {
+     "n": 0,
+     "from": "2019-12-10",
+     "to": null,
+     "state": "rrs",
+     "laws": [
+      "S.O. 2019, c. 14"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90f08",
+     "api": "en/doc-search/statute/90f08",
+     "sha256": "64250cdb817503820ad9a0aafddeeeda7863ed485313c696edbb864458401379",
+     "note": "Note: This Act was repealed on December 10, 2019. (See: 2019, c. 14, Sched. 3, s. 19)"
+    }
+   ]
+  },
+  {
+   "id": "90f10",
+   "title": "Farm Products Payments Act",
+   "short": "Farm Products Payments Act",
+   "state": "rrs",
+   "enacted_by": "",
+   "versions": [
+    {
+     "n": 1,
+     "from": "1994-12-09",
+     "to": "2004-11-29",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90f10/v1",
+     "api": "en/doc-search/statute/90f10/v1",
+     "sha256": "174eaf89ce7b90fb34bda6f1b4e68e55a53c03752e5ff3ceda4e088af414c2f7"
+    },
+    {
+     "n": 2,
+     "from": "2004-11-30",
+     "to": "2006-12-19",
+     "state": "historical",
+     "laws": [
+      "S.O. 2004, c. 17"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90f10/v2",
+     "api": "en/doc-search/statute/90f10/v2",
+     "sha256": "8bf6fcfff457dfa070e4c7b2dac2c3064969932f6f307ffb997f4f72cc86e048"
+    },
+    {
+     "n": 3,
+     "from": "2006-12-20",
+     "to": "2007-08-19",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90f10/v3",
+     "api": "en/doc-search/statute/90f10/v3",
+     "sha256": "3e538b8dc0a0711ba8b5690fbe8478c1948bf6b81c72b4a634557a0aaa3d89ba"
+    },
+    {
+     "n": 4,
+     "from": "2007-08-20",
+     "to": "2009-12-14",
+     "state": "historical",
+     "laws": [
+      "S.O. 2006, c. 35"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90f10/v4",
+     "api": "en/doc-search/statute/90f10/v4",
+     "sha256": "3b0b3754e1a25bdd38538552468e3ea42b061af25ac6aef2635847c19ca2e075"
+    },
+    {
+     "n": 5,
+     "from": "2009-12-15",
+     "to": "2010-10-24",
+     "state": "historical",
+     "laws": [
+      "S.O. 2009, c. 33"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90f10/v5",
+     "api": "en/doc-search/statute/90f10/v5",
+     "sha256": "a68cea4be36bf314cc393bf527f98633fb705430c0f74fe6323bdee57584fa29"
+    },
+    {
+     "n": 6,
+     "from": "2010-10-25",
+     "to": "2011-06-30",
+     "state": "historical",
+     "laws": [
+      "S.O. 2010, c. 16"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90f10/v6",
+     "api": "en/doc-search/statute/90f10/v6",
+     "sha256": "7525cc8f89df2dcc8c3edefa2572161741a74d907020a56dd9769d685745f08f"
+    },
+    {
+     "n": 7,
+     "from": "2011-07-01",
+     "to": "2017-03-21",
+     "state": "historical",
+     "laws": [
+      "S.O. 2010, c. 16"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90f10/v7",
+     "api": "en/doc-search/statute/90f10/v7",
+     "sha256": "765c59e454cfe79f41142e5649c4194bcb5f88ca0d0181818b3c240ecc5a9684"
+    },
+    {
+     "n": 8,
+     "from": "2017-03-22",
+     "to": "2017-11-13",
+     "state": "historical",
+     "laws": [
+      "S.O. 2017, c. 2"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90f10/v8",
+     "api": "en/doc-search/statute/90f10/v8",
+     "sha256": "b77aa4b86828be99b37a7251ddb086f246bf640da16e8cda61d0b0913aa8264e"
+    },
+    {
+     "n": 9,
+     "from": "2017-11-14",
+     "to": "2017-12-13",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90f10/v9",
+     "api": "en/doc-search/statute/90f10/v9",
+     "sha256": "847b3ccf7bacf4b1eec4e44648e33a1f04497bf618a4fbae7d44ccdda51422e2"
+    },
+    {
+     "n": 10,
+     "from": "2017-12-14",
+     "to": "2017-12-31",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90f10/v10",
+     "api": "en/doc-search/statute/90f10/v10",
+     "sha256": "778a431c457f7ff52b9097e2bf71eb5a34bac9bde382333074f77a312e48eb37"
+    },
+    {
+     "n": 11,
+     "from": "2018-01-01",
+     "to": "2019-05-28",
+     "state": "historical",
+     "laws": [
+      "S.O. 2017, c. 34"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90f10/v11",
+     "api": "en/doc-search/statute/90f10/v11",
+     "sha256": "35c69f006374f6159b869e8d99aa818ea654448677607ef71cb5191e5d7ec84f"
+    },
+    {
+     "n": 12,
+     "from": "2019-05-29",
+     "to": "2019-12-09",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90f10/v12",
+     "api": "en/doc-search/statute/90f10/v12",
+     "sha256": "9ce306425b62152cfd9760e4131245a22f909d235aa0a95ced07e3557b2d9b23"
+    },
+    {
+     "n": 13,
+     "from": "2019-12-10",
+     "to": "2019-12-31",
+     "state": "historical",
+     "laws": [
+      "S.O. 2019, c. 14"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90f10/v13",
+     "api": "en/doc-search/statute/90f10/v13",
+     "sha256": "1fd45d29ee5f58d323ac0c18cf41cab696c571e90f9b3f2b7f2e8b5c53a6acda"
+    },
+    {
+     "n": 14,
+     "from": "2020-01-01",
+     "to": "2021-10-18",
+     "state": "historical",
+     "laws": [
+      "S.O. 2019, c. 7"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90f10/v14",
+     "api": "en/doc-search/statute/90f10/v14",
+     "sha256": "156c35d806054b95bfccc174911ee618b76554dcbca89b23e7be6d8d325a77e6"
+    },
+    {
+     "n": 15,
+     "from": "2021-10-19",
+     "to": "2023-06-07",
+     "state": "historical",
+     "laws": [
+      "S.O. 2017, c. 20"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90f10/v15",
+     "api": "en/doc-search/statute/90f10/v15",
+     "sha256": "224127a0e6a57d6ad5d6ab67235a69b3bc9949b2406f2ba46c65012a07f54ca9"
+    },
+    {
+     "n": 16,
+     "from": "2023-06-08",
+     "to": "2025-12-31",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90f10/v16",
+     "api": "en/doc-search/statute/90f10/v16",
+     "sha256": "cbce27bf79dd106e67564a4c27e509a50e16f50164c9432820324195934eeb94"
+    },
+    {
+     "n": 0,
+     "from": "2026-01-01",
+     "to": null,
+     "state": "rrs",
+     "laws": [
+      "S.O. 2023, c. 9"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90f10",
+     "api": "en/doc-search/statute/90f10",
+     "sha256": "f9fedfb3ad72639e5636bf99ae7bcf238b43dc2cf9f076fa23b53e613da19c60",
+     "note": "Note: This Act was repealed on January 1, 2026. (See: 2023, c. 9, Sched. 30, s. 120)"
+    }
+   ]
+  },
+  {
+   "id": "90f18",
+   "title": "Fish Inspection Act",
+   "short": "Fish Inspection Act",
+   "state": "rrs",
+   "enacted_by": "",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2001-12-05",
+     "to": "2011-12-30",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90f18/v1",
+     "api": "en/doc-search/statute/90f18/v1",
+     "sha256": "5fe25a69c3856738a46edfeba98a2c024df4d8d9e1be0b9820ed4b7bd2cd7e0e"
+    },
+    {
+     "n": 2,
+     "from": "2011-12-31",
+     "to": "2019-12-09",
+     "state": "historical",
+     "laws": [
+      "S.O. 1999, c. 12"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90f18/v2",
+     "api": "en/doc-search/statute/90f18/v2",
+     "sha256": "0467d9e64619d0782d72e6905d6df51127cae0ed3c4d1566a3102da645863ee8"
+    },
+    {
+     "n": 3,
+     "from": "2019-12-10",
+     "to": "2020-12-31",
+     "state": "historical",
+     "laws": [
+      "S.O. 2019, c. 14"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90f18/v3",
+     "api": "en/doc-search/statute/90f18/v3",
+     "sha256": "6274b14725e51dd9114a33133a2c81955f59efc3159193f1164ec0ebef011165"
+    },
+    {
+     "n": 0,
+     "from": "2021-01-01",
+     "to": null,
+     "state": "rrs",
+     "laws": [
+      "S.O. 2019, c. 14"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90f18",
+     "api": "en/doc-search/statute/90f18",
+     "sha256": "d773bd3b3a4ac87ff3c06d9db447c78acc213a92de6aaceb3034b1a2798abefe",
+     "note": "Note: This Act was repealed on January 1, 2021. (See: 2019, c. 14, Sched. 3, s. 38)"
+    }
+   ]
+  },
+  {
+   "id": "90f23",
+   "title": "Foreign Cultural Objects Immunity from Seizure Act",
+   "short": "Foreign Cultural Objects Immunity from Seizure Act",
+   "state": "rrs",
+   "enacted_by": "",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2002-11-26",
+     "to": "2019-12-09",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90f23/v1",
+     "api": "en/doc-search/statute/90f23/v1",
+     "sha256": "debbb3faba6442358013e31ff8715e064a73aa0abbe17e71f458264ade2c1755"
+    },
+    {
+     "n": 2,
+     "from": "2019-12-10",
+     "to": "2022-04-06",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90f23/v2",
+     "api": "en/doc-search/statute/90f23/v2",
+     "sha256": "79d25f8decb5ca03cb3baa6ac1f1ce96a0e9183ce3a46fa7a9162b7882e60080"
+    },
+    {
+     "n": 0,
+     "from": "2022-04-07",
+     "to": null,
+     "state": "rrs",
+     "laws": [
+      "S.O. 2019, c. 14"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90f23",
+     "api": "en/doc-search/statute/90f23",
+     "sha256": "499feabefb7e96f31cd476d7184265d4501fabd545f0ab71bb2fe345fa0bf277",
+     "note": "Note: This Act was repealed on April 7, 2022. (See: 2019, c. 14, Sched. 1, s. 5)"
+    }
+   ]
+  },
+  {
+   "id": "90f33",
+   "title": "Freshwater Fish Marketing Act (Ontario)",
+   "short": "Freshwater Fish Marketing Act (Ontario)",
+   "state": "rrs",
+   "enacted_by": "",
+   "versions": [
+    {
+     "n": 1,
+     "from": "1990-12-31",
+     "to": "2019-12-09",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90f33/v1",
+     "api": "en/doc-search/statute/90f33/v1",
+     "sha256": "ff542f6e5cecca8eb5ad4078f5c587fee9058c320f3261b1876d43c39137cb3f"
+    },
+    {
+     "n": 0,
+     "from": "2019-12-10",
+     "to": null,
+     "state": "rrs",
+     "laws": [
+      "S.O. 2019, c. 14"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90f33",
+     "api": "en/doc-search/statute/90f33",
+     "sha256": "931f50b6fe09bf9527fea47b79ef0ff712bb1cb39b53748ceafa0e399db35884",
+     "note": "Note: This Act was repealed on December 10, 2019. (See: 2019, c. 14, Sched. 15, s. 43)"
+    }
+   ]
+  },
+  {
+   "id": "90f36",
+   "title": "Board of Funeral Services Act",
+   "short": "Board of Funeral Services Act",
+   "state": "rrs",
+   "enacted_by": "",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2002-12-13",
+     "to": "2005-01-04",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90f36/v1",
+     "api": "en/doc-search/statute/90f36/v1",
+     "sha256": "40a424744b666513e2c270ce3dc5fa16f3896ee8803db496c7352b5cf105fbd6"
+    },
+    {
+     "n": 2,
+     "from": "2005-01-05",
+     "to": "2006-12-19",
+     "state": "historical",
+     "laws": [
+      "S.O. 2002, c. 8"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90f36/v2",
+     "api": "en/doc-search/statute/90f36/v2",
+     "sha256": "ed9039dc75ea9ba18910660dd38ccdd0f9b133dd8466aaf4dfa9cdbd4c5c9165"
+    },
+    {
+     "n": 3,
+     "from": "2006-12-20",
+     "to": "2007-05-16",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90f36/v3",
+     "api": "en/doc-search/statute/90f36/v3",
+     "sha256": "6931a11db41b22b717aef3ba23f5957aa71c1457fca1aeb2024d82e6f31e3f73"
+    },
+    {
+     "n": 4,
+     "from": "2007-05-17",
+     "to": "2007-06-03",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90f36/v4",
+     "api": "en/doc-search/statute/90f36/v4",
+     "sha256": "fa36ae957eb3e1fa2fab5acede2fac631b12e730f4bdda9440c9401edaae13cb"
+    },
+    {
+     "n": 5,
+     "from": "2007-06-04",
+     "to": "2008-01-16",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90f36/v5",
+     "api": "en/doc-search/statute/90f36/v5",
+     "sha256": "c61f881c20970e00303a4dca33944c1e56431539ebe18f01200f1306112c8020"
+    },
+    {
+     "n": 6,
+     "from": "2008-01-17",
+     "to": "2009-08-31",
+     "state": "historical",
+     "laws": [
+      "S.O. 2007, c. 4"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90f36/v6",
+     "api": "en/doc-search/statute/90f36/v6",
+     "sha256": "6554677ca47fb2a441b9f017cf1433910d8c301cdf070a13c6570fae64e4a212"
+    },
+    {
+     "n": 7,
+     "from": "2009-09-01",
+     "to": "2010-06-30",
+     "state": "historical",
+     "laws": [
+      "S.O. 2006, c. 34"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90f36/v7",
+     "api": "en/doc-search/statute/90f36/v7",
+     "sha256": "51de156dafeaaf3953279a2bf8cc2a3cb381441b904d60442995bf17e2ba26be"
+    },
+    {
+     "n": 8,
+     "from": "2010-07-01",
+     "to": "2012-06-19",
+     "state": "historical",
+     "laws": [
+      "S.O. 2007, c. 8"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90f36/v8",
+     "api": "en/doc-search/statute/90f36/v8",
+     "sha256": "773cefba5b1ca17e8518fdc1b9e14ad46b227d7b971e666642c04f99e581a687"
+    },
+    {
+     "n": 9,
+     "from": "2012-06-20",
+     "to": "2012-06-30",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90f36/v9",
+     "api": "en/doc-search/statute/90f36/v9",
+     "sha256": "69bff2ce685f83ed37dc24acc5db4a5123410336eb980086d90990cca7d6e16d"
+    },
+    {
+     "n": 10,
+     "from": "2012-07-01",
+     "to": "2016-03-31",
+     "state": "historical",
+     "laws": [
+      "S.O. 2002, c. 33",
+      "S.O. 2006, c. 34",
+      "S.O. 2012, c. 8"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90f36/v10",
+     "api": "en/doc-search/statute/90f36/v10",
+     "sha256": "4edd09b39597bc62a3ce6ccb83e1dc198b716655f8534492a60004f5f937952d"
+    },
+    {
+     "n": 0,
+     "from": "2016-04-01",
+     "to": null,
+     "state": "rrs",
+     "laws": [
+      "S.O. 2002, c. 33"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90f36",
+     "api": "en/doc-search/statute/90f36",
+     "sha256": "d551030b317b8313fb16df99c6659a1d2ba4ab7f9497f0cbbd20ca44abad5897",
+     "note": "Note: This Act was repealed on April 1, 2016. (See: 2002, c. 33, s. 139)"
+    }
+   ]
+  },
+  {
+   "id": "90g09",
+   "title": "Grain Corn Marketing Act",
+   "short": "Grain Corn Marketing Act",
+   "state": "rrs",
+   "enacted_by": "",
+   "versions": [
+    {
+     "n": 1,
+     "from": "1990-12-31",
+     "to": "2009-12-14",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90g09/v1",
+     "api": "en/doc-search/statute/90g09/v1",
+     "sha256": "4ea981200bdb21c9e44053d078ddca5a75d222474aed12e9e705e968b611d98c"
+    },
+    {
+     "n": 2,
+     "from": "2009-12-15",
+     "to": "2010-01-31",
+     "state": "historical",
+     "laws": [
+      "S.O. 2009, c. 33"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90g09/v2",
+     "api": "en/doc-search/statute/90g09/v2",
+     "sha256": "1fd2cdc2418a25ddb495847761841bb0b88efcfafcb7fb40a300b2d771b51d00"
+    },
+    {
+     "n": 0,
+     "from": "2010-02-01",
+     "to": null,
+     "state": "rrs",
+     "laws": [
+      "S.O. 2009, c. 33"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90g09",
+     "api": "en/doc-search/statute/90g09",
+     "sha256": "5d9ad134033c45e928d9527d300e96bb2b45f6315eeb7c27307b23e6ba3aa5c4",
+     "note": "Note: This Act was repealed on February 1, 2010. See: 2009, c. 33, Sched. 1, ss. 14 (2), 28 (2)."
+    }
+   ]
+  },
+  {
+   "id": "90g10",
+   "title": "Grains Act",
+   "short": "Grains Act",
+   "state": "rrs",
+   "enacted_by": "",
+   "versions": [
+    {
+     "n": 1,
+     "from": "1999-12-22",
+     "to": "2006-06-21",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90g10/v1",
+     "api": "en/doc-search/statute/90g10/v1",
+     "sha256": "4f0334eeb759be9f48011b70183394c6d348097d25984e7ab86b5395e5937aed"
+    },
+    {
+     "n": 2,
+     "from": "2006-06-22",
+     "to": "2009-12-14",
+     "state": "historical",
+     "laws": [
+      "S.O. 2006, c. 19"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90g10/v2",
+     "api": "en/doc-search/statute/90g10/v2",
+     "sha256": "5c8cee07c2e71c0c6ee3bb600ba2a2a26c33a644bc49508b8e647e328e455d6b"
+    },
+    {
+     "n": 3,
+     "from": "2009-12-15",
+     "to": "2023-06-07",
+     "state": "historical",
+     "laws": [
+      "S.O. 2009, c. 33"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90g10/v3",
+     "api": "en/doc-search/statute/90g10/v3",
+     "sha256": "478fafaec402d61cdba6a87e3acd1462f20b1b08ff95690e9056e99a55d10049"
+    },
+    {
+     "n": 4,
+     "from": "2023-06-08",
+     "to": "2025-12-31",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90g10/v4",
+     "api": "en/doc-search/statute/90g10/v4",
+     "sha256": "dbd225cfc9fa275491c0ff79ddc8dc72f2681f51a40b6565f4f6cdace14c75e3"
+    },
+    {
+     "n": 0,
+     "from": "2026-01-01",
+     "to": null,
+     "state": "rrs",
+     "laws": [
+      "S.O. 2023, c. 9"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90g10",
+     "api": "en/doc-search/statute/90g10",
+     "sha256": "0722d228c4a1f6ea6edb22c9af2c1452288155cfd0aefed008cb0ae688ca376e",
+     "note": "Note: This Act was repealed on January 1, 2026. (See: 2023, c. 9, Sched. 30, s. 121)"
+    }
+   ]
+  },
+  {
+   "id": "90h03",
+   "title": "Health Care Accessibility Act",
+   "short": "Health Care Accessibility Act",
+   "state": "rrs",
+   "enacted_by": "",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2002-11-26",
+     "to": "2004-05-19",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90h03/v1",
+     "api": "en/doc-search/statute/90h03/v1",
+     "sha256": "8823ffbcefca7540e68dc8c40e79c9ba484f64f111015ffa0e1fc805f6fedbbe"
+    },
+    {
+     "n": 2,
+     "from": "2004-05-20",
+     "to": "2004-06-16",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90h03/v2",
+     "api": "en/doc-search/statute/90h03/v2",
+     "sha256": "4207d77ebcfbcedaaa49fb4091bdc2a07c507b91e8e40d677391c5a9f9c71391"
+    },
+    {
+     "n": 3,
+     "from": "2004-06-17",
+     "to": "2004-09-22",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90h03/v3",
+     "api": "en/doc-search/statute/90h03/v3",
+     "sha256": "f494006a489358f3317d68aeddf755937e6336fc6b1c3db0d7967e23466b15fb"
+    },
+    {
+     "n": 0,
+     "from": "2004-09-23",
+     "to": null,
+     "state": "rrs",
+     "laws": [
+      "S.O. 2004, c. 5"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h03",
+     "api": "en/doc-search/statute/90h03",
+     "sha256": "316f968cc25b0d82c4924ff9c6264f538468dd729f485a3f28318a304828b6d0",
+     "note": "Note: This Act was repealed on September 23, 2004. See: 2004, c. 5, ss. 44, 45 (2)."
+    }
+   ]
+  },
+  {
+   "id": "90h13",
+   "title": "Homes for the Aged and Rest Homes Act",
+   "short": "Homes for the Aged and Rest Homes Act",
+   "state": "rrs",
+   "enacted_by": "",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2003-01-01",
+     "to": "2004-05-19",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90h13/v1",
+     "api": "en/doc-search/statute/90h13/v1",
+     "sha256": "9879c908f021fed7ff4f902fa3d082eb4f02f6fd3498f76cf819e81e5e276aea"
+    },
+    {
+     "n": 2,
+     "from": "2004-05-20",
+     "to": "2004-10-31",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90h13/v2",
+     "api": "en/doc-search/statute/90h13/v2",
+     "sha256": "39f0e5cfd6f238b936ccbf6e23755f57d592418b91ebb2aa1846d91d14f508ac"
+    },
+    {
+     "n": 3,
+     "from": "2004-11-01",
+     "to": "2005-03-08",
+     "state": "historical",
+     "laws": [
+      "S.O. 2004, c. 3"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h13/v3",
+     "api": "en/doc-search/statute/90h13/v3",
+     "sha256": "224c981429019e185bbc6c7d34ea4b8d1894b32b4efa58186e14f7fcb0d3209d"
+    },
+    {
+     "n": 4,
+     "from": "2005-03-09",
+     "to": "2006-03-27",
+     "state": "historical",
+     "laws": [
+      "S.O. 2005, c. 5"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h13/v4",
+     "api": "en/doc-search/statute/90h13/v4",
+     "sha256": "cda4dc0d52945b82c475b8042a2e67326d232f100c32488c736fef484a2011fa"
+    },
+    {
+     "n": 5,
+     "from": "2006-03-28",
+     "to": "2006-06-21",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90h13/v5",
+     "api": "en/doc-search/statute/90h13/v5",
+     "sha256": "f87164ae8f50e86229d4b3f425119315c53a4df5c201c1080ab5785063b3e4f5"
+    },
+    {
+     "n": 6,
+     "from": "2006-06-22",
+     "to": "2006-12-19",
+     "state": "historical",
+     "laws": [
+      "S.O. 2006, c. 19"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h13/v6",
+     "api": "en/doc-search/statute/90h13/v6",
+     "sha256": "55b7a4861de244d1f6388b342d5d74a44f23e3b32f4f781d7f56b5578749635f"
+    },
+    {
+     "n": 7,
+     "from": "2006-12-20",
+     "to": "2006-12-31",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90h13/v7",
+     "api": "en/doc-search/statute/90h13/v7",
+     "sha256": "40b02b6565860b93b6a59216ea2486bf6c255d23294a5ddbf4201da782d33567"
+    },
+    {
+     "n": 8,
+     "from": "2007-01-01",
+     "to": "2007-06-03",
+     "state": "historical",
+     "laws": [
+      "S.O. 2006, c. 32"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h13/v8",
+     "api": "en/doc-search/statute/90h13/v8",
+     "sha256": "754e73d368c1cfd368bdf65f87738792a82b2b9a5a601528b9263432572848a4"
+    },
+    {
+     "n": 9,
+     "from": "2007-06-04",
+     "to": "2009-12-14",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90h13/v9",
+     "api": "en/doc-search/statute/90h13/v9",
+     "sha256": "254f151164204c5999c3791afd9410651dea9a37467f76cfe8357ddc11ca7435"
+    },
+    {
+     "n": 10,
+     "from": "2009-12-15",
+     "to": "2010-06-30",
+     "state": "historical",
+     "laws": [
+      "S.O. 2009, c. 33"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h13/v10",
+     "api": "en/doc-search/statute/90h13/v10",
+     "sha256": "4497527a982a6e26f7446a448c7d5c7f89d7df0450ffbabe71e454a4463baa73"
+    },
+    {
+     "n": 0,
+     "from": "2010-07-01",
+     "to": null,
+     "state": "rrs",
+     "laws": [
+      "S.O. 2007, c. 8"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h13",
+     "api": "en/doc-search/statute/90h13",
+     "sha256": "545564ead2707919cd950fa37a2c71f7392c5705349dfd82799359242e4726db",
+     "note": "Note: This Act was repealed on July 1, 2010. See: 2007, c. 8, ss. 194, 232 (2)."
+    }
+   ]
+  },
+  {
+   "id": "90h17",
+   "title": "Hotel Registration of Guests Act",
+   "short": "Hotel Registration of Guests Act",
+   "state": "rrs",
+   "enacted_by": "",
+   "versions": [
+    {
+     "n": 1,
+     "from": "1990-12-31",
+     "to": "2021-06-02",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90h17/v1",
+     "api": "en/doc-search/statute/90h17/v1",
+     "sha256": "8517dc0fcc0c32cb489f021c199a2e106153309cbb2529c880d3deca79e916a2"
+    },
+    {
+     "n": 2,
+     "from": "2021-06-03",
+     "to": "2025-12-31",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90h17/v2",
+     "api": "en/doc-search/statute/90h17/v2",
+     "sha256": "d9a2b8d92cc7efcd231b054cd7ccc1b8ec15194dc6bf846f03f3bb318e269935"
+    },
+    {
+     "n": 0,
+     "from": "2026-01-01",
+     "to": null,
+     "state": "rrs",
+     "laws": [
+      "S.O. 2021, c. 21"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90h17",
+     "api": "en/doc-search/statute/90h17",
+     "sha256": "4492420aadbbc246eb9b546e695126c6d3bd8e6d6fbeb53aa67a53f853021a6c",
+     "note": "Note: This Act was repealed on January 1, 2026. (See: 2021, c. 21, Sched. 1, s. 10)"
+    }
+   ]
+  },
+  {
+   "id": "90i03",
+   "title": "Independent Health Facilities Act",
+   "short": "Independent Health Facilities Act",
+   "state": "rrs",
+   "enacted_by": "",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2002-11-26",
+     "to": "2004-05-19",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90i03/v1",
+     "api": "en/doc-search/statute/90i03/v1",
+     "sha256": "4cf0b681efbce04b547fb75cec13725d8e796a47e266c3bf53b626e88654abad"
+    },
+    {
+     "n": 2,
+     "from": "2004-05-20",
+     "to": "2004-10-31",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90i03/v2",
+     "api": "en/doc-search/statute/90i03/v2",
+     "sha256": "6bcb1f8033f68dd1be4b0d14259bd0e78a4c9a62bf43164a946d00d55deed29d"
+    },
+    {
+     "n": 3,
+     "from": "2004-11-01",
+     "to": "2005-03-08",
+     "state": "historical",
+     "laws": [
+      "S.O. 2004, c. 3"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90i03/v3",
+     "api": "en/doc-search/statute/90i03/v3",
+     "sha256": "22aa533730167ce72931e1a9036e4101a90135441287aade841ceb543e3499d6"
+    },
+    {
+     "n": 4,
+     "from": "2005-03-09",
+     "to": "2006-06-21",
+     "state": "historical",
+     "laws": [
+      "S.O. 2005, c. 5"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90i03/v4",
+     "api": "en/doc-search/statute/90i03/v4",
+     "sha256": "2018fe38a7a544156db603330da3639a1d1c5ccad3caa3980538b07685437dd6"
+    },
+    {
+     "n": 5,
+     "from": "2006-06-22",
+     "to": "2006-10-18",
+     "state": "historical",
+     "laws": [
+      "S.O. 2006, c. 19"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90i03/v5",
+     "api": "en/doc-search/statute/90i03/v5",
+     "sha256": "e70586ca8cbede629df04399aab649fda846f040b38318d8cbb5800aedb5b5a6"
+    },
+    {
+     "n": 6,
+     "from": "2006-10-19",
+     "to": "2006-12-19",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90i03/v6",
+     "api": "en/doc-search/statute/90i03/v6",
+     "sha256": "7ecbd215dc3483009df7588fff491298f449e4e95e3648d543deda502813e202"
+    },
+    {
+     "n": 7,
+     "from": "2006-12-20",
+     "to": "2007-04-30",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90i03/v7",
+     "api": "en/doc-search/statute/90i03/v7",
+     "sha256": "0c4cb265349a588beb7c7da7b67003bfca62e19be849cdce9891f957a5080dd1"
+    },
+    {
+     "n": 8,
+     "from": "2007-05-01",
+     "to": "2007-07-24",
+     "state": "historical",
+     "laws": [
+      "S.O. 2006, c. 21"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90i03/v8",
+     "api": "en/doc-search/statute/90i03/v8",
+     "sha256": "10358f27b3169ad83a32ea94a8efc94cc945fd90473fd4bf771d6276c9479a27"
+    },
+    {
+     "n": 9,
+     "from": "2007-07-25",
+     "to": "2007-08-19",
+     "state": "historical",
+     "laws": [
+      "S.O. 2006, c. 21"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90i03/v9",
+     "api": "en/doc-search/statute/90i03/v9",
+     "sha256": "59f1ef5b85f860932a9d7d47eaa94d76ff7ca3c52944302b984f8b40ca90af5d"
+    },
+    {
+     "n": 10,
+     "from": "2007-08-20",
+     "to": "2009-12-14",
+     "state": "historical",
+     "laws": [
+      "S.O. 2006, c. 35"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90i03/v10",
+     "api": "en/doc-search/statute/90i03/v10",
+     "sha256": "3e5cd3c3315c66ef55f57e6b2cd3486e437a1fb0ec708d1bd3b1b8d9fae7e5d2"
+    },
+    {
+     "n": 11,
+     "from": "2009-12-15",
+     "to": "2010-10-24",
+     "state": "historical",
+     "laws": [
+      "S.O. 2009, c. 33"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90i03/v11",
+     "api": "en/doc-search/statute/90i03/v11",
+     "sha256": "624edcb0cfcc796f41faf7840aeed335ccb1c6f5070295bb7d23347633341469"
+    },
+    {
+     "n": 12,
+     "from": "2010-10-25",
+     "to": "2011-03-29",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90i03/v12",
+     "api": "en/doc-search/statute/90i03/v12",
+     "sha256": "9ec351e907637ef0771ee2cc5be0ffdfff96b0eb3d80a9da5e54ad6d80e8cda6"
+    },
+    {
+     "n": 13,
+     "from": "2011-03-30",
+     "to": "2017-12-11",
+     "state": "historical",
+     "laws": [
+      "S.O. 2011, c. 1"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90i03/v13",
+     "api": "en/doc-search/statute/90i03/v13",
+     "sha256": "c623d482e210d0d185886bf13c14cda407a1443b6b7ec66446fa3b5665f6a218"
+    },
+    {
+     "n": 14,
+     "from": "2017-12-12",
+     "to": "2019-05-28",
+     "state": "historical",
+     "laws": [
+      "S.O. 2017, c. 25"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90i03/v14",
+     "api": "en/doc-search/statute/90i03/v14",
+     "sha256": "b878b8c358094d92dc11619a6b2c64b07d47a8195541eecf674d1e39ba4c3603"
+    },
+    {
+     "n": 15,
+     "from": "2019-05-29",
+     "to": "2019-06-30",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90i03/v15",
+     "api": "en/doc-search/statute/90i03/v15",
+     "sha256": "ff52225d33e5b3725ee2b4d90d16920441bb206fc7329b6bba3845cf737c2b42"
+    },
+    {
+     "n": 16,
+     "from": "2019-07-01",
+     "to": "2019-12-09",
+     "state": "historical",
+     "laws": [
+      "S.O. 2019, c. 7"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90i03/v16",
+     "api": "en/doc-search/statute/90i03/v16",
+     "sha256": "3f6d38cdcca01e41154520f4f8a26bf1d120b5db2745cb04953ea257ecfe293b"
+    },
+    {
+     "n": 17,
+     "from": "2019-12-10",
+     "to": "2021-10-18",
+     "state": "historical",
+     "laws": [
+      "S.O. 2019, c. 15"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90i03/v17",
+     "api": "en/doc-search/statute/90i03/v17",
+     "sha256": "88d230423df32480589cb6ca5c037eb12d7e5fe0e8a72a2824cda0175f0f5e30"
+    },
+    {
+     "n": 18,
+     "from": "2021-10-19",
+     "to": "2023-05-17",
+     "state": "historical",
+     "laws": [
+      "S.O. 2010, c. 15"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90i03/v18",
+     "api": "en/doc-search/statute/90i03/v18",
+     "sha256": "b343e8bb9b76c654731874565967fc9a4a03a8b0811881cd3ab07e93073b109b"
+    },
+    {
+     "n": 19,
+     "from": "2023-05-18",
+     "to": "2023-09-24",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90i03/v19",
+     "api": "en/doc-search/statute/90i03/v19",
+     "sha256": "120598568e162d287ec0b2ee979c2605928ae18c0fe5e59b0e87c0b424fd1cfe"
+    },
+    {
+     "n": 0,
+     "from": "2023-09-25",
+     "to": null,
+     "state": "rrs",
+     "laws": [
+      "S.O. 2023, c. 4"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90i03",
+     "api": "en/doc-search/statute/90i03",
+     "sha256": "5f7bdda6e347ed62c1f90299d1920c3e307707ed96589dde5ae68db963c51c13",
+     "note": "Note: This Act was repealed on September 25, 2023. (See: 2023, c. 4, Sched. 1, s. 66 (1))"
+    }
+   ]
+  },
+  {
+   "id": "90i09",
+   "title": "International Commercial Arbitration Act",
+   "short": "International Commercial Arbitration Act",
+   "state": "rrs",
+   "enacted_by": "",
+   "versions": [
+    {
+     "n": 1,
+     "from": "1990-12-31",
+     "to": "2006-06-21",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90i09/v1",
+     "api": "en/doc-search/statute/90i09/v1",
+     "sha256": "79dd2164403c9e91826862260c0c8f630d5fb79388a2b263b8a1e9d5ddc07677"
+    },
+    {
+     "n": 2,
+     "from": "2006-06-22",
+     "to": "2017-03-21",
+     "state": "historical",
+     "laws": [
+      "S.O. 2006, c. 19"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90i09/v2",
+     "api": "en/doc-search/statute/90i09/v2",
+     "sha256": "4cce8379adf23e641b49a1af525d72bffc8a74169d9067f097331c9007930fcb"
+    },
+    {
+     "n": 0,
+     "from": "2017-03-22",
+     "to": null,
+     "state": "rrs",
+     "laws": [
+      "S.O. 2017, c. 2"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90i09",
+     "api": "en/doc-search/statute/90i09",
+     "sha256": "8ae327314cf7a730e60aed23e312c4320d090776eeae236a0d38a90c68ca86f9",
+     "note": "Note: This Act was repealed on March 22, 2017. (See: 2017, c. 2, Sched. 5, s. 15)"
+    }
+   ]
+  },
+  {
+   "id": "90i11",
+   "title": "Interpretation Act",
+   "short": "Interpretation Act",
+   "state": "rrs",
+   "enacted_by": "",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2003-01-01",
+     "to": "2004-01-30",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90i11/v1",
+     "api": "en/doc-search/statute/90i11/v1",
+     "sha256": "8fc465cd426308a612433ecc5fa4fcb99187fe0531101c60cb1d7c47d6d743ef"
+    },
+    {
+     "n": 2,
+     "from": "2004-01-31",
+     "to": "2006-06-21",
+     "state": "historical",
+     "laws": [
+      "S.O. 2002, c. 18"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90i11/v2",
+     "api": "en/doc-search/statute/90i11/v2",
+     "sha256": "a6e1842726b26813da0396b42d93ed0cccc9c2361ef28862621ad9c64d9aed78"
+    },
+    {
+     "n": 3,
+     "from": "2006-06-22",
+     "to": "2006-10-18",
+     "state": "historical",
+     "laws": [
+      "S.O. 2006, c. 19"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90i11/v3",
+     "api": "en/doc-search/statute/90i11/v3",
+     "sha256": "275259f60d0ed92a06fd73315693f615b2f3f6a017c6914b32c47bda892072d8"
+    },
+    {
+     "n": 4,
+     "from": "2006-10-19",
+     "to": "2007-07-24",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90i11/v4",
+     "api": "en/doc-search/statute/90i11/v4",
+     "sha256": "0c44b6fb1882595a791a796b0b0863969f2f71c8fd40b516f7e48953a8b38e8e"
+    },
+    {
+     "n": 0,
+     "from": "2007-07-25",
+     "to": null,
+     "state": "rrs",
+     "laws": [
+      "S.O. 2006, c. 21"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90i11",
+     "api": "en/doc-search/statute/90i11",
+     "sha256": "00d311d7171d3e32e5b721aff325e8ea0a4e3166a1c285ab1e3883090d76bf66",
+     "note": "Note: This Act was repealed on July 25, 2007. See: 2006, c. 21, Sched. F, ss. 134, 143 (1)."
+    }
+   ]
+  },
+  {
+   "id": "90l14",
+   "title": "Lightning Rods Act",
+   "short": "Lightning Rods Act",
+   "state": "rrs",
+   "enacted_by": "",
+   "versions": [
+    {
+     "n": 1,
+     "from": "1997-05-27",
+     "to": "2006-06-21",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90l14/v1",
+     "api": "en/doc-search/statute/90l14/v1",
+     "sha256": "70a49086b857672ff537ee8a6f9ebade6185945d3a9b4888380d5d906819a9a5"
+    },
+    {
+     "n": 2,
+     "from": "2006-06-22",
+     "to": "2010-12-31",
+     "state": "historical",
+     "laws": [
+      "S.O. 2006, c. 19"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90l14/v2",
+     "api": "en/doc-search/statute/90l14/v2",
+     "sha256": "5d0c2724203130eaabf66dd17fbf8831eb8b4f2896eaf5a3586800c13cdc2464"
+    },
+    {
+     "n": 0,
+     "from": "2011-01-01",
+     "to": null,
+     "state": "rrs",
+     "laws": [
+      "S.O. 1997, c. 4"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90l14",
+     "api": "en/doc-search/statute/90l14",
+     "sha256": "de7d9e8e07c1fac2fa1eff403ec4d2d31fed8ffe7a0dfd31590593b1be7a96e9",
+     "note": "Note: This Act was repealed on January 1, 2011. See: 1997, c. 4, ss. 93, 94."
+    }
+   ]
+  },
+  {
+   "id": "90l19",
+   "title": "Liquor Licence Act",
+   "short": "Liquor Licence Act",
+   "state": "rrs",
+   "enacted_by": "",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2003-02-28",
+     "to": "2004-06-23",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90l19/v1",
+     "api": "en/doc-search/statute/90l19/v1",
+     "sha256": "1fd7bb9264834af1e0c1642d666a2cc43045ba3f1a3bc35e686397c62b5655f5"
+    },
+    {
+     "n": 2,
+     "from": "2004-06-24",
+     "to": "2004-12-15",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90l19/v2",
+     "api": "en/doc-search/statute/90l19/v2",
+     "sha256": "98b860360c17d6b3c1b3b72918d8133ba4c91ab37613731f855bd3e9f6b34ed3"
+    },
+    {
+     "n": 3,
+     "from": "2004-12-16",
+     "to": "2005-01-23",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90l19/v3",
+     "api": "en/doc-search/statute/90l19/v3",
+     "sha256": "28ec98ea4014e5750e248212c08aabc0f1b9f23d02a366713e7c183cd648dcb2"
+    },
+    {
+     "n": 4,
+     "from": "2005-01-24",
+     "to": "2005-01-31",
+     "state": "historical",
+     "laws": [
+      "S.O. 1993, c. 31",
+      "S.O. 1994, c. 18",
+      "S.O. 1994, c. 37",
+      "S.O. 1996, c. 26",
+      "S.O. 1997, c. 10",
+      "S.O. 1998, c. 24",
+      "S.O. 2002, c. 18",
+      "S.O. 2004, c. 28"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90l19/v4",
+     "api": "en/doc-search/statute/90l19/v4",
+     "sha256": "9eb5ee6f7e58e1729ee130f572da819f6cde642a8a92335ffd0e4b05e5c30a84"
+    },
+    {
+     "n": 5,
+     "from": "2005-02-01",
+     "to": "2006-06-11",
+     "state": "historical",
+     "laws": [
+      "R.S.O. 1990, c. L.19",
+      "S.O. 1993, c. 38",
+      "S.O. 1994, c. 18",
+      "S.O. 1994, c. 27",
+      "S.O. 1994, c. 37",
+      "S.O. 1996, c. 2",
+      "S.O. 1996, c. 26",
+      "S.O. 1996, c. 32",
+      "S.O. 1998, c. 18",
+      "S.O. 1998, c. 24",
+      "S.O. 2002, c. 18",
+      "S.O. 2004, c. 12"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90l19/v5",
+     "api": "en/doc-search/statute/90l19/v5",
+     "sha256": "05aea7dd048244c58f522fdbdff9d7c19ebc12f13a394266cc352ba2a88975fd"
+    },
+    {
+     "n": 6,
+     "from": "2006-06-12",
+     "to": "2006-12-19",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90l19/v6",
+     "api": "en/doc-search/statute/90l19/v6",
+     "sha256": "8db7e6467d29b00defbbebb1f1bfbe6e8a4cf6b3ca2747bb7b37d13aadd9ae62"
+    },
+    {
+     "n": 7,
+     "from": "2006-12-20",
+     "to": "2006-12-31",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90l19/v7",
+     "api": "en/doc-search/statute/90l19/v7",
+     "sha256": "03469bed0e58f5de05a073fcb9c173a677dd933eba4bd13b06b56d157041340a"
+    },
+    {
+     "n": 8,
+     "from": "2007-01-01",
+     "to": "2007-06-30",
+     "state": "historical",
+     "laws": [
+      "S.O. 2006, c. 11"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90l19/v8",
+     "api": "en/doc-search/statute/90l19/v8",
+     "sha256": "e8fa12a7501a1a1a93697b7bff2839fe3716b9dee0009fb511a5c06f5122d2e7"
+    },
+    {
+     "n": 9,
+     "from": "2007-07-01",
+     "to": "2009-12-14",
+     "state": "historical",
+     "laws": [
+      "S.O. 2006, c. 34"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90l19/v9",
+     "api": "en/doc-search/statute/90l19/v9",
+     "sha256": "e20ee8902f463a450a989d273a6994509449d24e3b69ec7fbfc86d486ce812cf"
+    },
+    {
+     "n": 10,
+     "from": "2009-12-15",
+     "to": "2010-06-30",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90l19/v10",
+     "api": "en/doc-search/statute/90l19/v10",
+     "sha256": "7e227d2ad7dc716ec29d8f9610f5219602a1b9362892afae289c12a987570a74"
+    },
+    {
+     "n": 11,
+     "from": "2010-07-01",
+     "to": "2010-10-24",
+     "state": "historical",
+     "laws": [
+      "S.O. 2009, c. 34"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90l19/v11",
+     "api": "en/doc-search/statute/90l19/v11",
+     "sha256": "0e92b594e01df209dcd78cb9daf004198561b17509d74146ba66c26934be775b"
+    },
+    {
+     "n": 12,
+     "from": "2010-10-25",
+     "to": "2011-03-29",
+     "state": "historical",
+     "laws": [
+      "S.O. 2010, c. 16"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90l19/v12",
+     "api": "en/doc-search/statute/90l19/v12",
+     "sha256": "30fdda07b9bacdfd72c5fcfe9307b5fe0a86b62c649b3054f2dca9b9a711b71f"
+    },
+    {
+     "n": 13,
+     "from": "2011-03-30",
+     "to": "2011-05-31",
+     "state": "historical",
+     "laws": [
+      "S.O. 2011, c. 1"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90l19/v13",
+     "api": "en/doc-search/statute/90l19/v13",
+     "sha256": "4900d8c1c0243a09640d5a234b275915b2787404e8169e30d390910f5fc08ca0"
+    },
+    {
+     "n": 14,
+     "from": "2011-06-01",
+     "to": "2011-06-30",
+     "state": "historical",
+     "laws": [
+      "S.O. 2010, c. 16"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90l19/v14",
+     "api": "en/doc-search/statute/90l19/v14",
+     "sha256": "74454cf4cd9d87a963acee643ab47b4be46152d46d8a8bfa1add7bd9387a17e3"
+    },
+    {
+     "n": 15,
+     "from": "2011-07-01",
+     "to": "2016-12-30",
+     "state": "historical",
+     "laws": [
+      "S.O. 2011, c. 1"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90l19/v15",
+     "api": "en/doc-search/statute/90l19/v15",
+     "sha256": "9c62237adc6be86222512c0dfeef5aa47c40a78bf4fccd91cf129d7e0aa7e8ed"
+    },
+    {
+     "n": 16,
+     "from": "2016-12-31",
+     "to": "2017-12-11",
+     "state": "historical",
+     "laws": [
+      "S.O. 2002, c. 17",
+      "S.O. 2006, c. 32"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90l19/v16",
+     "api": "en/doc-search/statute/90l19/v16",
+     "sha256": "b250d875c7b27e359022ece7bf492f5b984ee62e15b83192cb44951942b38b48"
+    },
+    {
+     "n": 17,
+     "from": "2017-12-12",
+     "to": "2018-10-16",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90l19/v17",
+     "api": "en/doc-search/statute/90l19/v17",
+     "sha256": "617f8a4ad3203585df9a41021b0e1b7ad95e2c417c1b641aeb16e9a371b0b171"
+    },
+    {
+     "n": 18,
+     "from": "2018-10-17",
+     "to": "2018-11-15",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90l19/v18",
+     "api": "en/doc-search/statute/90l19/v18",
+     "sha256": "e04dc1118e4ca96cffe0d8e7daa15d4048f76294b79022a2a264ad301221228f"
+    },
+    {
+     "n": 19,
+     "from": "2018-11-16",
+     "to": "2019-05-28",
+     "state": "historical",
+     "laws": [
+      "S.O. 2018, c. 12"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90l19/v19",
+     "api": "en/doc-search/statute/90l19/v19",
+     "sha256": "e23f4cf2efc81ac79dc14d0b054b2ca44068295942f522fbb635edb54fa9cc50"
+    },
+    {
+     "n": 20,
+     "from": "2019-05-29",
+     "to": "2019-06-13",
+     "state": "historical",
+     "laws": [
+      "S.O. 2019, c. 7"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90l19/v20",
+     "api": "en/doc-search/statute/90l19/v20",
+     "sha256": "f44096959e54e10fc6d31177470f778dee070bcf5be4d03685d93a604d7b0de5"
+    },
+    {
+     "n": 21,
+     "from": "2019-06-14",
+     "to": "2019-12-09",
+     "state": "historical",
+     "laws": [
+      "S.O. 2019, c. 7"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90l19/v21",
+     "api": "en/doc-search/statute/90l19/v21",
+     "sha256": "4ff062a5a59a3e00702531ec9099d9045a64def859a069a0b70fd91e981f1a1d"
+    },
+    {
+     "n": 22,
+     "from": "2019-12-10",
+     "to": "2021-04-18",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90l19/v22",
+     "api": "en/doc-search/statute/90l19/v22",
+     "sha256": "b3c323e6b2e98f37ff53da7c14a3b16a4f838b73eee275701e6485a92550ac7f"
+    },
+    {
+     "n": 23,
+     "from": "2021-04-19",
+     "to": "2021-11-28",
+     "state": "historical",
+     "laws": [
+      "S.O. 2021, c. 4"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90l19/v23",
+     "api": "en/doc-search/statute/90l19/v23",
+     "sha256": "33dd2516fd9db5a3f92015d6c19a65ccca651306e42b4be482a968433d102922"
+    },
+    {
+     "n": 0,
+     "from": "2021-11-29",
+     "to": null,
+     "state": "rrs",
+     "laws": [
+      "S.O. 2019, c. 15"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90l19",
+     "api": "en/doc-search/statute/90l19",
+     "sha256": "73bb10a66721ca0f7196e6b33587a7fa8253263dddd2243584c5d3bcdb804d69",
+     "note": "Note: This Act was repealed on November 29, 2021. (See: 2019, c. 15, Sched. 22, s. 85)"
+    }
+   ]
+  },
+  {
+   "id": "90l20",
+   "title": "Livestock and Livestock Products Act",
+   "short": "Livestock and Livestock Products Act",
+   "state": "rrs",
+   "enacted_by": "",
+   "versions": [
+    {
+     "n": 1,
+     "from": "1999-12-22",
+     "to": "2006-06-21",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90l20/v1",
+     "api": "en/doc-search/statute/90l20/v1",
+     "sha256": "deac7790b6d8dd8685e8b27a16643ee47538f4bd6cf3c36fe8294f72ffbd415d"
+    },
+    {
+     "n": 2,
+     "from": "2006-06-22",
+     "to": "2009-12-14",
+     "state": "historical",
+     "laws": [
+      "S.O. 2006, c. 19"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90l20/v2",
+     "api": "en/doc-search/statute/90l20/v2",
+     "sha256": "176d8342ad9e7fd13f16ea2f4be4ac0ba9c0e55aa1aa89808063d338ed662da9"
+    },
+    {
+     "n": 3,
+     "from": "2009-12-15",
+     "to": "2019-12-09",
+     "state": "historical",
+     "laws": [
+      "S.O. 2009, c. 33"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90l20/v3",
+     "api": "en/doc-search/statute/90l20/v3",
+     "sha256": "6a8d3a281d27d5c5738d992e919a37cd2be9c04f5c1942a25b3f1abd801f424d"
+    },
+    {
+     "n": 4,
+     "from": "2019-12-10",
+     "to": "2023-06-07",
+     "state": "historical",
+     "laws": [
+      "S.O. 2019, c. 14"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90l20/v4",
+     "api": "en/doc-search/statute/90l20/v4",
+     "sha256": "81153a93736953970df24b43e66dc484c42b920fb576302ed76e7e58c3a85167"
+    },
+    {
+     "n": 5,
+     "from": "2023-06-08",
+     "to": "2025-12-31",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90l20/v5",
+     "api": "en/doc-search/statute/90l20/v5",
+     "sha256": "63fac354df7f05d1eadbe081a1fbf665cb61cbc102487ae188a87a5c49af55f6"
+    },
+    {
+     "n": 0,
+     "from": "2026-01-01",
+     "to": null,
+     "state": "rrs",
+     "laws": [
+      "S.O. 2023, c. 9"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90l20",
+     "api": "en/doc-search/statute/90l20",
+     "sha256": "3a223d8332cb5dd3daeda2aecb866a49d8a69e12e686cfb469a8dededb887d09",
+     "note": "Note: This Act was repealed on January 1, 2026. (See: 2023, c. 9, Sched. 30, s. 122)"
+    }
+   ]
+  },
+  {
+   "id": "90l23",
+   "title": "Livestock Medicines Act",
+   "short": "Livestock Medicines Act",
+   "state": "rrs",
+   "enacted_by": "",
+   "versions": [
+    {
+     "n": 1,
+     "from": "1999-12-22",
+     "to": "2006-06-21",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90l23/v1",
+     "api": "en/doc-search/statute/90l23/v1",
+     "sha256": "01179d0657e44198e4b422a4133f746543125f0473ebb86fb2303539468c5500"
+    },
+    {
+     "n": 2,
+     "from": "2006-06-22",
+     "to": "2006-12-19",
+     "state": "historical",
+     "laws": [
+      "S.O. 2006, c. 19"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90l23/v2",
+     "api": "en/doc-search/statute/90l23/v2",
+     "sha256": "ccbf370cd9183e4140d63d4438bc4ce491e127546d5da71477e2150cd4a9c433"
+    },
+    {
+     "n": 3,
+     "from": "2006-12-20",
+     "to": "2007-08-19",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90l23/v3",
+     "api": "en/doc-search/statute/90l23/v3",
+     "sha256": "7ce92d4f086af90d21f16161a2f0f57fd443b4df532d12b3799f70b9325feff9"
+    },
+    {
+     "n": 4,
+     "from": "2007-08-20",
+     "to": "2009-12-14",
+     "state": "historical",
+     "laws": [
+      "S.O. 2006, c. 35"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90l23/v4",
+     "api": "en/doc-search/statute/90l23/v4",
+     "sha256": "5b83b30d54a9ef659592bb251bcee6fe305abf693782bb3b65104c911ef9ff31"
+    },
+    {
+     "n": 5,
+     "from": "2009-12-15",
+     "to": "2019-12-09",
+     "state": "historical",
+     "laws": [
+      "S.O. 2009, c. 33"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90l23/v5",
+     "api": "en/doc-search/statute/90l23/v5",
+     "sha256": "bb7ffff3171d3fde248f505196574128c6969be1b2630981942e5bf7c16df626"
+    },
+    {
+     "n": 6,
+     "from": "2019-12-10",
+     "to": "2020-12-31",
+     "state": "historical",
+     "laws": [
+      "S.O. 2019, c. 14"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90l23/v6",
+     "api": "en/doc-search/statute/90l23/v6",
+     "sha256": "6e7fbec93482dd01ca4fdfddc22ab6ec0771130b8677d330517b3d14c6ae2113"
+    },
+    {
+     "n": 0,
+     "from": "2021-01-01",
+     "to": null,
+     "state": "rrs",
+     "laws": [
+      "S.O. 2019, c. 14"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90l23",
+     "api": "en/doc-search/statute/90l23",
+     "sha256": "7d7d047b54d4accbe2a8aff1659d179df32e2919ae870168e90400a74c3799b7",
+     "note": "Note: This Act was repealed on January 1, 2021. (See: 2019, c. 14, Sched. 3, s. 14)"
+    }
+   ]
+  },
+  {
+   "id": "90m02",
+   "title": "Marine Insurance Act",
+   "short": "Marine Insurance Act",
+   "state": "rrs",
+   "enacted_by": "",
+   "versions": [
+    {
+     "n": 1,
+     "from": "1993-12-02",
+     "to": "2015-06-03",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90m02/v1",
+     "api": "en/doc-search/statute/90m02/v1",
+     "sha256": "5041af36bce17e2d08a087bcac7073736a20836159d999685f1f85d396cd8202"
+    },
+    {
+     "n": 0,
+     "from": "2015-06-04",
+     "to": null,
+     "state": "rrs",
+     "laws": [
+      "S.O. 2015, c. 20"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90m02",
+     "api": "en/doc-search/statute/90m02",
+     "sha256": "06e729427210634e1133041741c6b55a32c83a79add396a82f096adb11c109ea",
+     "note": "Note: This Act was repealed on June 4, 2015. (See: 2015, c. 20, Sched. 24, s. 1)"
+    }
+   ]
+  },
+  {
+   "id": "90m05",
+   "title": "Meat Inspection Act (Ontario)",
+   "short": "Meat Inspection Act (Ontario)",
+   "state": "rrs",
+   "enacted_by": "",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2001-12-05",
+     "to": "2005-05-31",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90m05/v1",
+     "api": "en/doc-search/statute/90m05/v1",
+     "sha256": "7ea2d6b77a9dcd778213a59a8765e5716284d13c565ab524c3bcfb69f5a350de"
+    },
+    {
+     "n": 0,
+     "from": "2005-06-01",
+     "to": null,
+     "state": "rrs",
+     "laws": [
+      "S.O. 2001, c. 20"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90m05",
+     "api": "en/doc-search/statute/90m05",
+     "sha256": "50c77e723f50de2f35708f7732d787e61f26ab68cde7f3d21ff31ee56a8936b8",
+     "note": "Note: This Act was repealed on June 1, 2005. See: 2001, c. 20, ss. 59, 61 (1)."
+    }
+   ]
+  },
+  {
+   "id": "90m08",
+   "title": "Mental Hospitals Act",
+   "short": "Mental Hospitals Act",
+   "state": "rrs",
+   "enacted_by": "",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2004-01-01",
+     "to": "2005-03-08",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90m08/v1",
+     "api": "en/doc-search/statute/90m08/v1",
+     "sha256": "97379a6336097eb8a85f5980d5feb13cdd032f877cc1fd33bd33e93095f6a838"
+    },
+    {
+     "n": 2,
+     "from": "2005-03-09",
+     "to": "2006-06-21",
+     "state": "historical",
+     "laws": [
+      "S.O. 2005, c. 5"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90m08/v2",
+     "api": "en/doc-search/statute/90m08/v2",
+     "sha256": "70922f4ca0f8b8f2f994b8dfa9e3b14ee251b067668f86f869143728cd45c4c6"
+    },
+    {
+     "n": 3,
+     "from": "2006-06-22",
+     "to": "2009-12-14",
+     "state": "historical",
+     "laws": [
+      "S.O. 2006, c. 19"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90m08/v3",
+     "api": "en/doc-search/statute/90m08/v3",
+     "sha256": "7d7bd332662f2f038a11e8ff99b193156c06425c63388fdb3367b8414703a44a"
+    },
+    {
+     "n": 0,
+     "from": "2009-12-15",
+     "to": null,
+     "state": "rrs",
+     "laws": [
+      "S.O. 2009, c. 33"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90m08",
+     "api": "en/doc-search/statute/90m08",
+     "sha256": "caa2607efe19494342b52559f3e5c1213cc36dd4e47ab2ac26ae384c4d014315",
+     "note": "Note: This Act was repealed on December 15, 2009. See: 2009, c. 33, Sched. 18, ss. 16 (1), 35 (1)."
+    }
+   ]
+  },
+  {
+   "id": "90m23",
+   "title": "Ministry of Energy and Infrastructure Act",
+   "short": "Ministry of Energy and Infrastructure Act",
+   "state": "rrs",
+   "enacted_by": "",
+   "versions": [
+    {
+     "n": 1,
+     "from": "1999-04-01",
+     "to": "2004-06-16",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90m23/v1",
+     "api": "en/doc-search/statute/90m23/v1",
+     "sha256": "6745a4deb03b5c289af6eb10a34e2ff798fedfb3e65d37f0568dd2a36f6b1408"
+    },
+    {
+     "n": 2,
+     "from": "2004-06-17",
+     "to": "2005-10-31",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90m23/v2",
+     "api": "en/doc-search/statute/90m23/v2",
+     "sha256": "224b9cf9639b947f2a9b5f77de3e57ed1cc5987d449a7e56fb9976b56a1b2d9d"
+    },
+    {
+     "n": 3,
+     "from": "2005-11-01",
+     "to": "2006-12-19",
+     "state": "historical",
+     "laws": [
+      "S.O. 2004, c. 8"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90m23/v3",
+     "api": "en/doc-search/statute/90m23/v3",
+     "sha256": "6eaaee787c643226dc1ab9bdcc4d7977564d4ff0c37c545d4225049eb662a903"
+    },
+    {
+     "n": 4,
+     "from": "2006-12-20",
+     "to": "2007-08-19",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90m23/v4",
+     "api": "en/doc-search/statute/90m23/v4",
+     "sha256": "a778d188776d9249928f9f2c780837609771aedff39bc51c4111fa68e398c8bb"
+    },
+    {
+     "n": 5,
+     "from": "2007-08-20",
+     "to": "2009-05-13",
+     "state": "historical",
+     "laws": [
+      "S.O. 2006, c. 35"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90m23/v5",
+     "api": "en/doc-search/statute/90m23/v5",
+     "sha256": "ab478093120ca0367d4f017040ce2ad65179b5ab87f796b1308514f782130a23"
+    },
+    {
+     "n": 6,
+     "from": "2009-05-14",
+     "to": "2009-09-08",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90m23/v6",
+     "api": "en/doc-search/statute/90m23/v6",
+     "sha256": "f9386a77873a362ee73d31edb97568658c3a2a3c28327a8c5c9515e455fca1cf"
+    },
+    {
+     "n": 7,
+     "from": "2009-09-09",
+     "to": "2011-05-11",
+     "state": "historical",
+     "laws": [
+      "S.O. 2009, c. 12"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90m23/v7",
+     "api": "en/doc-search/statute/90m23/v7",
+     "sha256": "67a4a70aa1ed29ec8d94acf5efb940c73738d950e45189a08a091b29cb882473"
+    },
+    {
+     "n": 8,
+     "from": "2011-05-12",
+     "to": "2011-06-05",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90m23/v8",
+     "api": "en/doc-search/statute/90m23/v8",
+     "sha256": "8c08888a1d5fbf67673002dc7d5e617a778f18afa600b356539de84b42ac2ac4"
+    },
+    {
+     "n": 0,
+     "from": "2011-06-06",
+     "to": null,
+     "state": "rrs",
+     "laws": [
+      "S.O. 2011, c. 9"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90m23",
+     "api": "en/doc-search/statute/90m23",
+     "sha256": "bc1a6f09f1726709b650202baa46bbfacc6eed6a0fbff1be4ed0c10d78a0031c",
+     "note": "Note: This Act was repealed on June 6, 2011. See: 2011, c. 9, Sched. 27, ss. 32, 42."
+    }
+   ]
+  },
+  {
+   "id": "90m37",
+   "title": "Ministry of Treasury and Economics Act",
+   "short": "Ministry of Treasury and Economics Act",
+   "state": "rrs",
+   "enacted_by": "",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2002-12-09",
+     "to": "2004-11-29",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90m37/v1",
+     "api": "en/doc-search/statute/90m37/v1",
+     "sha256": "afd197d2c50f01b079bac1551b86b0e7688aad84151b99a1a4631587b2068d23"
+    },
+    {
+     "n": 2,
+     "from": "2004-11-30",
+     "to": "2008-05-13",
+     "state": "historical",
+     "laws": [
+      "S.O. 2004, c. 17"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90m37/v2",
+     "api": "en/doc-search/statute/90m37/v2",
+     "sha256": "55784f5bfc256eebbe2bebf5ef71fc9b43e15c78637d795a86f72e4d2bc6d543"
+    },
+    {
+     "n": 3,
+     "from": "2008-05-14",
+     "to": "2009-12-14",
+     "state": "historical",
+     "laws": [
+      "S.O. 2008, c. 6",
+      "S.O. 2008, c. 7"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90m37/v3",
+     "api": "en/doc-search/statute/90m37/v3",
+     "sha256": "087e6af5eed6c4ce988e238f64ab558baf0d17115ac678687944b78f81a8e175"
+    },
+    {
+     "n": 0,
+     "from": "2009-12-15",
+     "to": null,
+     "state": "rrs",
+     "laws": [
+      "S.O. 2009, c. 34"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90m37",
+     "api": "en/doc-search/statute/90m37",
+     "sha256": "95f3bd18afd0b2cf595e6f61ac1de5b141e5a99bb179f5cfb9611c3054907ce6",
+     "note": "Note: This Act was repealed on December 15, 2009. See: 2009, c. 34, Sched. J, ss. 24, 33."
+    }
+   ]
+  },
+  {
+   "id": "90m39",
+   "title": "Mortgage Brokers Act",
+   "short": "Mortgage Brokers Act",
+   "state": "rrs",
+   "enacted_by": "",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2002-12-13",
+     "to": "2004-06-16",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90m39/v1",
+     "api": "en/doc-search/statute/90m39/v1",
+     "sha256": "7316b221fd3479072d88344d4110fd4e335ef17fb52bd91e7b35a858e0dffbc2"
+    },
+    {
+     "n": 2,
+     "from": "2004-06-17",
+     "to": "2005-10-31",
+     "state": "historical",
+     "laws": [
+      "S.O. 1997, c. 19",
+      "S.O. 1997, c. 28"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90m39/v2",
+     "api": "en/doc-search/statute/90m39/v2",
+     "sha256": "c05d36b42c744adab98a0169b2d3f737cbbbedf7ff0de85d3c267e0ec63f30f9"
+    },
+    {
+     "n": 3,
+     "from": "2005-11-01",
+     "to": "2005-12-14",
+     "state": "historical",
+     "laws": [
+      "S.O. 2004, c. 8"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90m39/v3",
+     "api": "en/doc-search/statute/90m39/v3",
+     "sha256": "c1e1256711efd202cd9e613984d9973285965998650b5b60edb55448c2e5d9a3"
+    },
+    {
+     "n": 4,
+     "from": "2005-12-15",
+     "to": "2005-12-31",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90m39/v4",
+     "api": "en/doc-search/statute/90m39/v4",
+     "sha256": "e0b8deaab71ddf67a524771be1f7318a49178ec021200ce006668f7614a532f4"
+    },
+    {
+     "n": 5,
+     "from": "2006-01-01",
+     "to": "2006-03-30",
+     "state": "historical",
+     "laws": [
+      "S.O. 1994, c. 27",
+      "S.O. 1997, c. 19",
+      "S.O. 1997, c. 28",
+      "S.O. 1999, c. 12",
+      "S.O. 2001, c. 8"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90m39/v5",
+     "api": "en/doc-search/statute/90m39/v5",
+     "sha256": "c1e24475774d101736e2ac3eeffa3020ef4e8d44639bf416141138c44bfdebeb"
+    },
+    {
+     "n": 6,
+     "from": "2006-03-31",
+     "to": "2006-06-21",
+     "state": "historical",
+     "laws": [
+      "S.O. 1997, c. 19",
+      "S.O. 1997, c. 28",
+      "S.O. 1999, c. 12",
+      "S.O. 2002, c. 30"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90m39/v6",
+     "api": "en/doc-search/statute/90m39/v6",
+     "sha256": "2648fba555fb85bde9854be5bdb55bd8e0a0bb61b59573a9b68d35743377dfef"
+    },
+    {
+     "n": 7,
+     "from": "2006-06-22",
+     "to": "2006-12-19",
+     "state": "historical",
+     "laws": [
+      "S.O. 1994, c. 27",
+      "S.O. 1997, c. 19",
+      "S.O. 1997, c. 28",
+      "S.O. 2006, c. 19"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90m39/v7",
+     "api": "en/doc-search/statute/90m39/v7",
+     "sha256": "907cc4317b6089704c77bc5588eb616291aa706c46c63443cdb2fcb4a0052b02"
+    },
+    {
+     "n": 8,
+     "from": "2006-12-20",
+     "to": "2008-06-30",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90m39/v8",
+     "api": "en/doc-search/statute/90m39/v8",
+     "sha256": "c809711253cf3dece3de3ff4454c3946e5ec4d4c1c54e1b1513b79f5c6379ca5"
+    },
+    {
+     "n": 0,
+     "from": "2008-07-01",
+     "to": null,
+     "state": "rrs",
+     "laws": [
+      "S.O. 2006, c. 29"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90m39",
+     "api": "en/doc-search/statute/90m39",
+     "sha256": "7c17f5140a47ddaf9f02edeaf8b5d64fe80143f434c7552105de63ea356b4e04",
+     "note": "Note: This Act was repealed on July 1, 2008. See: 2006, c. 29, ss. 58, 66 (2)."
+    }
+   ]
+  },
+  {
+   "id": "90m42",
+   "title": "Motor Vehicle Dealers Act",
+   "short": "Motor Vehicle Dealers Act",
+   "state": "rrs",
+   "enacted_by": "",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2002-12-13",
+     "to": "2004-06-16",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90m42/v1",
+     "api": "en/doc-search/statute/90m42/v1",
+     "sha256": "e125667764004c463b4bd609be97d6cc71856101a066187d3330a1c864e3f2c0"
+    },
+    {
+     "n": 2,
+     "from": "2004-06-17",
+     "to": "2005-10-31",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90m42/v2",
+     "api": "en/doc-search/statute/90m42/v2",
+     "sha256": "fd14714d03d50447d15bf9b62b7b7b38b29bb0a9a9b4eaa0a8de5fb1d130196e"
+    },
+    {
+     "n": 3,
+     "from": "2005-11-01",
+     "to": "2007-05-16",
+     "state": "historical",
+     "laws": [
+      "S.O. 2004, c. 8"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90m42/v3",
+     "api": "en/doc-search/statute/90m42/v3",
+     "sha256": "4a6fe2398bf9e0b4f9534c82da102da67d376efbd10ecb0ea34862b4c11cd51a"
+    },
+    {
+     "n": 4,
+     "from": "2007-05-17",
+     "to": "2008-01-16",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90m42/v4",
+     "api": "en/doc-search/statute/90m42/v4",
+     "sha256": "ca24731d2a4e472867e2ed25a104daa5a8b59a09e7b3016eb9cbc4bf50fb047f"
+    },
+    {
+     "n": 5,
+     "from": "2008-01-17",
+     "to": "2009-12-14",
+     "state": "historical",
+     "laws": [
+      "S.O. 2007, c. 4"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90m42/v5",
+     "api": "en/doc-search/statute/90m42/v5",
+     "sha256": "c56f4b2c641b2d8e5d9f5991154af2e360d47f23929baf262a56c81149a2faf5"
+    },
+    {
+     "n": 6,
+     "from": "2009-12-15",
+     "to": "2009-12-31",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90m42/v6",
+     "api": "en/doc-search/statute/90m42/v6",
+     "sha256": "fd5e2c306f4cc6eb60e28dfcdae8b35d51aff5a4437bb9e6c0b4d214f6d52bb9"
+    },
+    {
+     "n": 0,
+     "from": "2010-01-01",
+     "to": null,
+     "state": "rrs",
+     "laws": [
+      "S.O. 2002, c. 30"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90m42",
+     "api": "en/doc-search/statute/90m42",
+     "sha256": "cd4302a6f576377196f4df9b46e8299cfe729866b7c12263538c941303bbb0c2",
+     "note": "Note: This Act was repealed on January 1, 2010. See: 2002, c. 30, Sched. E, ss. 12, 22."
+    }
+   ]
+  },
+  {
+   "id": "90m43",
+   "title": "Motor Vehicle Repair Act",
+   "short": "Motor Vehicle Repair Act",
+   "state": "rrs",
+   "enacted_by": "",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2002-12-13",
+     "to": "2005-07-29",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90m43/v1",
+     "api": "en/doc-search/statute/90m43/v1",
+     "sha256": "fd8cf43ea59c2a5ef69d45abc8cead8a7617ec06ae9ad76ff518d817e9617258"
+    },
+    {
+     "n": 0,
+     "from": "2005-07-30",
+     "to": null,
+     "state": "rrs",
+     "laws": [
+      "S.O. 2002, c. 30"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90m43",
+     "api": "en/doc-search/statute/90m43",
+     "sha256": "28c02880f4ddae7439d20c919764ecc8ccb27eff581eb8fe575e7de10f6df736",
+     "note": "Note: This Act was repealed on July 30, 2005. See: 2002, c. 30, Sched. E, ss. 13, 22."
+    }
+   ]
+  },
+  {
+   "id": "90m57",
+   "title": "Municipal Health Services Act",
+   "short": "Municipal Health Services Act",
+   "state": "rrs",
+   "enacted_by": "",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2003-01-01",
+     "to": "2005-03-08",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90m57/v1",
+     "api": "en/doc-search/statute/90m57/v1",
+     "sha256": "041d7391bc5f853fe94046fd1b742c7d646d88d388f5bbdd0d413d2529b8aca4"
+    },
+    {
+     "n": 2,
+     "from": "2005-03-09",
+     "to": "2006-06-21",
+     "state": "historical",
+     "laws": [
+      "R.S.O. 1990, c. M.57",
+      "S.O. 1999, c. 6",
+      "S.O. 2002, c. 17",
+      "S.O. 2005, c. 5"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90m57/v2",
+     "api": "en/doc-search/statute/90m57/v2",
+     "sha256": "48f0ead6aa3f028ed0748d6359485ba3822ca3327074aa290d386d31de297ebf"
+    },
+    {
+     "n": 3,
+     "from": "2006-06-22",
+     "to": "2006-12-19",
+     "state": "historical",
+     "laws": [
+      "S.O. 2006, c. 19"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90m57/v3",
+     "api": "en/doc-search/statute/90m57/v3",
+     "sha256": "3d00b2ec3533a4c30ca956b9b1a834ebc68fed61652791303423023b97ab324e"
+    },
+    {
+     "n": 4,
+     "from": "2006-12-20",
+     "to": "2006-12-31",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/90m57/v4",
+     "api": "en/doc-search/statute/90m57/v4",
+     "sha256": "8298ff0c03fc6c81386cc48f5a36b557c85e116d11b4e67e1031129438a3da34"
+    },
+    {
+     "n": 5,
+     "from": "2007-01-01",
+     "to": "2008-12-31",
+     "state": "historical",
+     "laws": [
+      "S.O. 2006, c. 32"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90m57/v5",
+     "api": "en/doc-search/statute/90m57/v5",
+     "sha256": "b92ed6c74eaf392e77bcdc5501b54d8a4a5f81c15b37f775d9a45108ee93973e"
+    },
+    {
+     "n": 6,
+     "from": "2009-01-01",
+     "to": "2009-12-14",
+     "state": "historical",
+     "laws": [
+      "S.O. 2006, c. 33"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90m57/v6",
+     "api": "en/doc-search/statute/90m57/v6",
+     "sha256": "b69d62ac9427759884d3869238634995335d0ee9ac05eb9d775e7f41eacd8eb7"
+    },
+    {
+     "n": 0,
+     "from": "2009-12-15",
+     "to": null,
+     "state": "rrs",
+     "laws": [
+      "S.O. 2009, c. 33"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/90m57",
+     "api": "en/doc-search/statute/90m57",
+     "sha256": "0767c9b9d23448daac16e880f026941ca451ccac088686a7f9276f0bcc7f5c0d",
+     "note": "Note: This Act was repealed on December 15, 2009. See: 2009, c. 33, Sched. 18, ss. 18, 35 (1)."
+    }
+   ]
   }
  ],
  "laws": [
@@ -120850,6 +123526,13 @@
    "kind": "Act of the Legislative Assembly of Ontario"
   },
   {
+   "key": "R.S.O. 1990, c. L.19",
+   "title": "",
+   "assented": "",
+   "url": "",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
    "key": "R.S.O. 1990, c. L.28",
    "title": "",
    "assented": "",
@@ -120914,6 +123597,13 @@
   },
   {
    "key": "R.S.O. 1990, c. M.44",
+   "title": "",
+   "assented": "",
+   "url": "",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "R.S.O. 1990, c. M.57",
    "title": "",
    "assented": "",
    "url": "",
@@ -121536,6 +124226,13 @@
    "kind": "Act of the Legislative Assembly of Ontario"
   },
   {
+   "key": "S.O. 1993, c. 31",
+   "title": "",
+   "assented": "",
+   "url": "",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
    "key": "S.O. 1993, c. 34",
    "title": "",
    "assented": "",
@@ -121620,6 +124317,13 @@
    "kind": "Act of the Legislative Assembly of Ontario"
   },
   {
+   "key": "S.O. 1994, c. 18",
+   "title": "",
+   "assented": "",
+   "url": "",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
    "key": "S.O. 1994, c. 19",
    "title": "",
    "assented": "",
@@ -121663,6 +124367,13 @@
   },
   {
    "key": "S.O. 1994, c. 32",
+   "title": "",
+   "assented": "",
+   "url": "",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 1994, c. 37",
    "title": "",
    "assented": "",
    "url": "",
@@ -122111,6 +124822,13 @@
   },
   {
    "key": "S.O. 1998, c. 20",
+   "title": "",
+   "assented": "",
+   "url": "",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 1998, c. 24",
    "title": "",
    "assented": "",
    "url": "",
@@ -122964,6 +125682,13 @@
    "kind": "Act of the Legislative Assembly of Ontario"
   },
   {
+   "key": "S.O. 2004, c. 12",
+   "title": "Sandy's Law (Liquor Licence Amendment), 2004",
+   "assented": "2004-06-24",
+   "url": "https://www.ontario.ca/laws/statute/s04012",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
    "key": "S.O. 2004, c. 13",
    "title": "Transitional Physician Payment Review Act, 2004",
    "assented": "2004-06-24",
@@ -123066,6 +125791,13 @@
    "title": "Fiscal Transparency and Accountability Act, 2004",
    "assented": "2004-12-16",
    "url": "https://www.ontario.ca/laws/statute/s04027",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 2004, c. 28",
+   "title": "Liquor Licence Amendment Act, 2004",
+   "assented": "2004-12-16",
+   "url": "https://www.ontario.ca/laws/statute/s04028",
    "kind": "Act of the Legislative Assembly of Ontario"
   },
   {
@@ -127311,6 +130043,328 @@
    "reason": "repealed before its first point-in-time version",
    "repealed_on": "2003-01-01",
    "note": "Note: This Act was repealed on January 1, 2003. See: 2001, c. 25, ss. 484 (2), 485 (1)."
+  },
+  {
+   "id": "90e03",
+   "title": "Egress from Public Buildings Act, R.S.O. 1990, c. E.3",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "1997-10-29",
+   "note": "Note: This Act was repealed on October 29, 1997. See: 1997, c. 4, s. 86, 94."
+  },
+  {
+   "id": "90e08",
+   "title": "Elevating Devices Act, R.S.O. 1990, c. E.8",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "2001-06-27",
+   "note": "Note: This Act was repealed on June 27, 2001. See: 2000, c. 16, ss. 45 (1), 47."
+  },
+  {
+   "id": "90e10",
+   "title": "Employee Share Ownership Plan Act, R.S.O. 1990, c. E.10",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "1997-10-10",
+   "note": "Note: This Act was repealed on October 10, 1997. See: 1997, c. 19, s. 43 (1)."
+  },
+  {
+   "id": "90e13",
+   "title": "Employment Agencies Act, R.S.O. 1990, c. E.13",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "2001-03-31",
+   "note": "Note: This Act was repealed on March 31, 2001. See: 2000, c. 41, ss. 144 (4), 145."
+  },
+  {
+   "id": "90e14",
+   "title": "Employment Standards Act, R.S.O. 1990, c. E.14",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "2001-09-04",
+   "note": "Note: This Act was repealed on September 4, 2001. See: 2000, c. 41, ss. 142, 144 (1), 145."
+  },
+  {
+   "id": "90e16",
+   "title": "Energy Act, R.S.O. 1990, c. E.16",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "2001-06-27",
+   "note": "Note: This Act was repealed on June 27, 2001. See: 2000, c. 16, ss. 45 (1), 47."
+  },
+  {
+   "id": "90f05",
+   "title": "Farm Income Stabilization Act, R.S.O. 1990, c. F.5",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "1997-01-01",
+   "note": "Note: This Act was repealed on January 1, 1997. See: 1996, c. 17, Sched. J, ss. 1 (3), 2."
+  },
+  {
+   "id": "90f06",
+   "title": "Farm Practices Protection Act, R.S.O. 1990, c. F.6",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "1998-05-11",
+   "note": "Note: This Act was repealed on May 11. 1998. See: 1998, c. 1, s. 11."
+  },
+  {
+   "id": "90f11",
+   "title": "Ferries Act, R.S.O. 1990, c. F.11",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "2003-01-01",
+   "note": "Note: This Act was repealed on January 1, 2003. See: 2001, c. 25, ss. 484 (2), 485 (1)."
+  },
+  {
+   "id": "90f14",
+   "title": "Fire Accidents Act, R.S.O. 1990, c. F.14",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "1997-10-29",
+   "note": "Note: This Act was repealed on October 29, 1997. See: 1997, c. 4, ss. 87, 94."
+  },
+  {
+   "id": "90f15",
+   "title": "Fire Departments Act, R.S.O. 1990, c. F.15",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "1997-10-29",
+   "note": "Note: This Act was repealed on October 29, 1997. See: 1997, c. 4, ss. 88 (1), 94."
+  },
+  {
+   "id": "90f16",
+   "title": "Firefighters Exemption Act, R.S.O. 1990, c. F.16",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "1997-10-29",
+   "note": "Note: This Act was repealed on October 29, 1997. See: 1997, c. 4, ss. 89, 94."
+  },
+  {
+   "id": "90f17",
+   "title": "Fire Marshals Act, R.S.O. 1990, c. F.17",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "1997-10-29",
+   "note": "Note: This Act was repealed on October 29, 1997. See: 1997, c. 4, ss. 91 (1), 94."
+  },
+  {
+   "id": "90f25",
+   "title": "Forest Tree Pest Control Act, R.S.O. 1990, c. F.25",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "1998-12-18",
+   "note": "Note: This Act was repealed on December 18, 1998. See: 1998, c. 18, Sched. I, s. 65."
+  },
+  {
+   "id": "90f27",
+   "title": "Forestry Workers Employment Act, R.S.O. 1990, c. F.27",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "1998-12-18",
+   "note": "Note: This Act was repealed on December 18, 1998. See: 1998, c. 18, Sched. I, s. 65."
+  },
+  {
+   "id": "90f37",
+   "title": "Fur Farms Act, R.S.O. 1990, c. F.37",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "1997-03-01",
+   "note": "Note: This Act was repealed on March 1, 1997. See: 1996, c. 17, Sched. J, ss. 1 (4), 2."
+  },
+  {
+   "id": "90g01",
+   "title": "Game and Fish Act, R.S.O. 1990, c. G.1",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "1999-01-01",
+   "note": "Note: This Act was repealed on January 1, 1999. See: 1997, c. 41, ss. 119 (1), 127."
+  },
+  {
+   "id": "90g04",
+   "title": "Gasoline Handling Act, R.S.O. 1990, c. G.4",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "2001-06-27",
+   "note": "Note: This Act was repealed on June 27, 2001. See: 2000, c. 16, ss. 45 (1), 47."
+  },
+  {
+   "id": "90g06",
+   "title": "General Welfare Assistance Act, R.S.O. 1990, c. G.6",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "1998-05-01",
+   "note": "Note: This Act was repealed on May 1, 1998. See: 1997, c. 25, s. 4 (2, 5)."
+  },
+  {
+   "id": "90g08",
+   "title": "Government Contracts Hours and Wages Act, R.S.O. 1990, c. G.8",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "2001-09-04",
+   "note": "Note: This Act was repealed on September 4, 2001. See: 2000, c. 41, ss. 144 (3), 145."
+  },
+  {
+   "id": "90g11",
+   "title": "Guarantee Companies Securities Act, R.S.O. 1990, c. G.11",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "1997-10-10",
+   "note": "Note: This Act was repealed on October 10, 1997. See: 1997, c. 19, s. 43 (1)."
+  },
+  {
+   "id": "90h11",
+   "title": "Homes for Retarded Persons Act, R.S.O. 1990, c. H.11",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "2001-11-30",
+   "note": "Note: This Act was repealed on November 30, 2001. See: 2001, c. 13, ss. 1, 35."
+  },
+  {
+   "id": "90h16",
+   "title": "Hotel Fire Safety Act, R.S.O. 1990, c. H.16",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "1998-07-31",
+   "note": "Note: This Act was repealed on July 31, 1998. See: 1997, c. 4, ss. 92, 94."
+  },
+  {
+   "id": "90h21",
+   "title": "Hunter Damage Compensation Act, R.S.O. 1990, c. H.21",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "2000-12-06",
+   "note": "Note: This Act was repealed on December 6, 2000. See: 2000, c. 26, ss. 1 (4), 2."
+  },
+  {
+   "id": "90h22",
+   "title": "Hypnosis Act, R.S.O. 1990, c. H.22",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "1997-10-10",
+   "note": "Note: This Act was repealed on October 10, 1997. See: 1997, c. 15, s. 17."
+  },
+  {
+   "id": "90i06",
+   "title": "Industrial Standards Act, R.S.O. 1990, c. I.6",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "2001-09-04",
+   "note": "Note: This Act was repealed on September 4, 2001. See: 2000, c. 41, ss. 144 (5), 145."
+  },
+  {
+   "id": "90i13",
+   "title": "Intervenor Funding Project Act, R.S.O. 1990, c. I.13",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "1996-04-01",
+   "note": "Note: This Act was repealed on April, 1, 1996. See: 1990, c. I.13, s. 16 (1)."
+  },
+  {
+   "id": "90i14",
+   "title": "Investment Contracts Act, R.S.O. 1990, c. I.14",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "1997-10-10",
+   "note": "Note: This Act was repealed on October 10, 1997. See: 1997, c. 19, s. 43 (1)."
+  },
+  {
+   "id": "90j02",
+   "title": "Junior Farmer Establishment Act, R.S.O. 1990, c. J.2",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "2000-09-01",
+   "note": "Note: This Act was repealed on September 1, 2000. See: 1996, c. 17, Sched. J, s. 1 (5)."
+  },
+  {
+   "id": "90l02",
+   "title": "Labour Relations Act, R.S.O. 1990, c. L.2",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "1995-11-10",
+   "note": "Note: This Act was repealed on November 10, 1995. See: 1995, c. 1, s. 1 (2)."
+  },
+  {
+   "id": "90l09",
+   "title": "Legal Aid Act, R.S.O. 1990, c. L.9",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "1999-04-01",
+   "note": "Note: This Act was repealed on April 1, 1999. See: 1998, c. 26, ss. 109 (1), 110 (2)."
+  },
+  {
+   "id": "90l11",
+   "title": "Legislative Assembly Retirement Allowances Act, R.S.O. 1990, c. L.11",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "1992-01-01",
+   "note": "Note: This Act was repealed on January 1, 1992. See: 1996, c. 6, s. 1."
+  },
+  {
+   "id": "90l26",
+   "title": "Local Improvement Act, R.S.O. 1990, c. L.26",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "2003-01-01",
+   "note": "Note: This Act was repealed on January 1, 2003. See: 2001, c. 25, ss. 484 (2), 485 (1)."
+  },
+  {
+   "id": "90m06",
+   "title": "Members' Conflict of Interest Act, R.S.O. 1990, c. M.6",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "1995-10-06",
+   "note": "Note: This Act was repealed on October 6, 1995. See: 1994, c. 38, s. 35."
+  },
+  {
+   "id": "90m09",
+   "title": "Mental Incompetency Act, R.S.O. 1990, c. M.9",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "1995-04-03",
+   "note": "Note: This Act was repealed on April 3, 1995. See: 1992, c. 32, s. 21."
+  },
+  {
+   "id": "90m38",
+   "title": "Minors' Protection Act, R.S.O. 1990, c. M.38",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "1994-11-30",
+   "note": "Note: This Act was repealed on November 30, 1994. See: 1994, c. 10, s. 24."
+  },
+  {
+   "id": "90m45",
+   "title": "Municipal Act, R.S.O. 1990, c. M.45",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "2003-01-01",
+   "note": "Note: This Act was repealed on January 1, 2003. See: 2001, c. 25, ss. 484 (1), 485 (1)."
+  },
+  {
+   "id": "90m47",
+   "title": "Municipal and School Board Payments Adjustment Act, R.S.O. 1990, c. M.47",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "1998-01-01",
+   "note": "Note: This Act was repealed on January 1, 1998. See: 1997, c. 31, s. 158."
+  },
+  {
+   "id": "90m49",
+   "title": "Municipal Boundary Negotiations Act, R.S.O. 1990, c. M.49",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "2003-01-01",
+   "note": "Note: This Act was repealed on January 1, 2003. See: 2001, c. 25, ss. 484 (2), 485 (1)."
+  },
+  {
+   "id": "90m52",
+   "title": "Municipal Elderly Residents' Assistance Act, R.S.O. 1990, c. M.52",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "2003-01-01",
+   "note": "Note: This Act was repealed on January 1, 2003. See: 2002, c. 17, ss. 7, 8 (1)."
+  },
+  {
+   "id": "90m53",
+   "title": "Municipal Elections Act, R.S.O. 1990, c. M.53",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "1996-12-19",
+   "note": "Note: This Act was repealed on December 19, 1996. See: 1996, c. 32, s. 1 (2)."
+  },
+  {
+   "id": "90m58",
+   "title": "Municipal Interest and Discount Rates Act, R.S.O. 1990, c. M.58",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "2003-01-01",
+   "note": "Note: This Act was repealed on January 1, 2003. See: 2001, c. 25, ss. 484 (2), 485 (1)."
+  },
+  {
+   "id": "90m60",
+   "title": "Municipal Tax Sales Act, R.S.O. 1990, c. M.60",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "2003-01-01",
+   "note": "Note: This Act was repealed on January 1, 2003. See: 2001, c. 25, ss. 484 (2), 485 (1)."
+  },
+  {
+   "id": "90m61",
+   "title": "Municipal Unemployment Relief Act, R.S.O. 1990, c. M.61",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "2003-01-01",
+   "note": "Note: This Act was repealed on January 1, 2003. See: 2002, c. 17, ss. 7, 8 (1)."
+  },
+  {
+   "id": "90m62",
+   "title": "Municipality of Metropolitan Toronto Act, R.S.O. 1990, c. M.62",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "2000-12-06",
+   "note": "Note: This Act was repealed on December 6, 2000. See: 2000, c. 26, Sched. K, s. 4."
+  },
+  {
+   "id": "90n04",
+   "title": "Non-resident Agricultural Land Interests Registration Act, R.S.O. 1990, c. N.4",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "1997-03-01",
+   "note": "Note: This Act was repealed on March 1, 1997. See: 1996, c. 17, Sched. J, ss. 1 (6), 2."
   }
  ],
  "updated": "2026-11-06"

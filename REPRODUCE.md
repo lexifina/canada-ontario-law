@@ -441,3 +441,4 @@ Made by `tools/append/ontario_append.py` (with the parser, evidence rules and me
 | 10 | 2026-11-06 | 78 | 974 | 1084 | 0 | none |
 | 11 | 2026-11-06 | 79 | 367 | 370 | 0 | none |
 | 12 | 2026-11-06 | 59 | 227 | 261 | 0 | none |
+| 13 | 2026-11-06 | 34 | 192 | 206 | 0 | none |
