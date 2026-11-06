@@ -438,3 +438,8 @@ Made by `tools/append/ontario_append.py` (with the parser, evidence rules and me
 | 7 | 2026-11-05 | 79 | 1011 | 1143 | 0 | 90m01 |
 | 8 | 2026-11-05 | 79 | 1037 | 1093 | 0 | 90p08 |
 | 9 | 2026-11-06 | 80 | 787 | 843 | 0 | none |
+| 10 | 2026-11-06 | 78 | 974 | 1084 | 0 | none |
+
+Version-list repairs in batch 10 (build.version_list's rules):
+
+- 98c19 v0 (2025-12-31): last day 2015-12-02 before its first day ignored

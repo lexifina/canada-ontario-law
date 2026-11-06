@@ -1,0 +1,32 @@
+# Back to School (Toronto Catholic Elementary) and Education and Provincial Schools Negotiations Amendment Act, 2003 (03b02)
+
+<https://www.ontario.ca/laws/statute/03b02>
+
+2 point-in-time versions on e-Laws, from 2003-06-03 (the latest from 2009-12-15). Changes counted without layout-only changes.
+
+Repealed from 2009-12-15: every file of the act was removed by that commit. The e-Laws note: "Note: This Act was repealed on December 15, 2009. See: 2009, c. 33, Sched. 20, ss. 5 (1), 6."
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Title | [intro.md](intro.md) | 1 | 2009-12-15 |
+| s. 1 | [s-001.md](s-001.md) | 1 | 2009-12-15 |
+| s. 2 | [s-002.md](s-002.md) | 1 | 2009-12-15 |
+| s. 3 | [s-003.md](s-003.md) | 1 | 2009-12-15 |
+| s. 4 | [s-004.md](s-004.md) | 1 | 2009-12-15 |
+| s. 5 | [s-005.md](s-005.md) | 1 | 2009-12-15 |
+| s. 6 | [s-006.md](s-006.md) | 1 | 2009-12-15 |
+| s. 7 | [s-007.md](s-007.md) | 1 | 2009-12-15 |
+| s. 8 | [s-008.md](s-008.md) | 1 | 2009-12-15 |
+| s. 9 | [s-009.md](s-009.md) | 1 | 2009-12-15 |
+| s. 10 | [s-010.md](s-010.md) | 1 | 2009-12-15 |
+| s. 11 | [s-011.md](s-011.md) | 1 | 2009-12-15 |
+| s. 12 | [s-012.md](s-012.md) | 1 | 2009-12-15 |
+| s. 13 | [s-013.md](s-013.md) | 1 | 2009-12-15 |
+| s. 14 | [s-014.md](s-014.md) | 1 | 2009-12-15 |
+| s. 15 | [s-015.md](s-015.md) | 1 | 2009-12-15 |
+| s. 16 | [s-016.md](s-016.md) | 1 | 2009-12-15 |
+| s. 17 | [s-017.md](s-017.md) | 1 | 2009-12-15 |
+| s. 18 | [s-018.md](s-018.md) | 1 | 2009-12-15 |
+| s. 19 | [s-019.md](s-019.md) | 1 | 2009-12-15 |
+| s. 22 | [s-022.md](s-022.md) | 1 | 2009-12-15 |
+| s. 23 | [s-023.md](s-023.md) | 1 | 2009-12-15 |
