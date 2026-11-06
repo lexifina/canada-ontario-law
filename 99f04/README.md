@@ -1,0 +1,39 @@
+# Fairness is a Two-Way Street Act (Construction Labour Mobility), 1999 (99f04)
+
+<https://www.ontario.ca/laws/statute/99f04>
+
+5 point-in-time versions on e-Laws, from 2003-01-01 (the latest from 2006-06-30). Changes counted without layout-only changes.
+
+Repealed from 2006-06-30: every file of the act was removed by that commit. The e-Laws note: "Note: This Act was repealed on June 30, 2006. See: 1999, c. 4, s. 27."
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Title | [intro.md](intro.md) | 1 | 2006-06-30 |
+| s. 1 | [s-001.md](s-001.md) | 1 | 2006-06-30 |
+| s. 2 | [s-002.md](s-002.md) | 2 | 2006-06-30 |
+| s. 3 | [s-003.md](s-003.md) | 1 | 2006-06-30 |
+| s. 4 | [s-004.md](s-004.md) | 1 | 2006-06-30 |
+| s. 5 | [s-005.md](s-005.md) | 1 | 2006-06-30 |
+| s. 6 | [s-006.md](s-006.md) | 1 | 2006-06-30 |
+| s. 7 | [s-007.md](s-007.md) | 1 | 2006-06-30 |
+| s. 8 | [s-008.md](s-008.md) | 1 | 2006-06-30 |
+| s. 9 | [s-009.md](s-009.md) | 1 | 2006-06-30 |
+| s. 10 | [s-010.md](s-010.md) | 2 | 2006-06-30 |
+| s. 12 | [s-012.md](s-012.md) | 1 | 2006-06-30 |
+| s. 13 | [s-013.md](s-013.md) | 1 | 2006-06-30 |
+| s. 14 | [s-014.md](s-014.md) | 1 | 2006-06-30 |
+| s. 15 | [s-015.md](s-015.md) | 1 | 2006-06-30 |
+| s. 16 | [s-016.md](s-016.md) | 1 | 2006-06-30 |
+| s. 17 | [s-017.md](s-017.md) | 1 | 2006-06-30 |
+| s. 18 | [s-018.md](s-018.md) | 1 | 2006-06-30 |
+| s. 19 | [s-019.md](s-019.md) | 1 | 2006-06-30 |
+| s. 20 | [s-020.md](s-020.md) | 1 | 2006-06-30 |
+| s. 21 | [s-021.md](s-021.md) | 1 | 2006-06-30 |
+| s. 22 | [s-022.md](s-022.md) | 1 | 2006-06-30 |
+| s. 23 | [s-023.md](s-023.md) | 1 | 2006-06-30 |
+| s. 24 | [s-024.md](s-024.md) | 1 | 2006-06-30 |
+| s. 25 | [s-025.md](s-025.md) | 1 | 2006-06-30 |
+| s. 26 | [s-026.md](s-026.md) | 1 | 2006-06-30 |
+| s. 27 | [s-027.md](s-027.md) | 1 | 2006-06-30 |
+| s. 28 | [s-028.md](s-028.md) | 1 | 2006-06-30 |
+| s. 29 | [s-029.md](s-029.md) | 1 | 2006-06-30 |

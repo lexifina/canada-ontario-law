@@ -129651,6 +129651,160 @@
      "note": "Note: This Act was repealed on June 4, 2007. See: 2007, c. 10, Sched. J, ss. 5, 6 (1)."
     }
    ]
+  },
+  {
+   "id": "98s18",
+   "title": "Statute and Regulation Revision Act, 1998",
+   "short": "Statute and Regulation Revision Act, 1998",
+   "state": "rrs",
+   "enacted_by": "",
+   "versions": [
+    {
+     "n": 1,
+     "from": "1998-12-18",
+     "to": "2006-10-18",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/98s18/v1",
+     "api": "en/doc-search/statute/98s18/v1",
+     "sha256": "4fd17fae90764c62aaa3368481154e686647f61bf867250856fb8d3a46507949"
+    },
+    {
+     "n": 2,
+     "from": "2006-10-19",
+     "to": "2007-07-24",
+     "state": "historical",
+     "laws": [
+      "S.O. 1998, c. 18"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/98s18/v2",
+     "api": "en/doc-search/statute/98s18/v2",
+     "sha256": "d3d7f5491a018ad76b3c6995d35ccb6aa091890e0f9f3857f67fafd685c06d29"
+    },
+    {
+     "n": 0,
+     "from": "2007-07-25",
+     "to": null,
+     "state": "rrs",
+     "laws": [
+      "S.O. 2006, c. 21"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/98s18",
+     "api": "en/doc-search/statute/98s18",
+     "sha256": "30cff37b88159e61edc6f909203d80351bf95d8dec107cf662c619f17d20675c",
+     "note": "Note: This Act was repealed on July 25, 2007. See: 2006, c. 21, Sched. F, ss. 134, 143 (2)."
+    }
+   ]
+  },
+  {
+   "id": "99b07",
+   "title": "Balanced Budget Act, 1999",
+   "short": "Balanced Budget Act, 1999",
+   "state": "rrs",
+   "enacted_by": "",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2001-04-01",
+     "to": "2004-11-03",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/99b07/v1",
+     "api": "en/doc-search/statute/99b07/v1",
+     "sha256": "9963c3295722c4953e4a72450882bab3a80839f5df906e686105972a21819614"
+    },
+    {
+     "n": 2,
+     "from": "2004-11-04",
+     "to": "2004-12-15",
+     "state": "historical",
+     "laws": [
+      "S.O. 2004, c. 16"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/99b07/v2",
+     "api": "en/doc-search/statute/99b07/v2",
+     "sha256": "d3fcdafaefbb7855d98641edc34e83399a4dae61cd6ac8a13c647b088dd73614"
+    },
+    {
+     "n": 0,
+     "from": "2004-12-16",
+     "to": null,
+     "state": "rrs",
+     "laws": [
+      "S.O. 2004, c. 27"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/99b07",
+     "api": "en/doc-search/statute/99b07",
+     "sha256": "9cb59f2cf04b16b8791927359a7bc40eb0b3805abb4c6e6ad4352a68fb1b88ad",
+     "note": "Note: This Act was repealed on December 16, 2004. This repeal is deemed to have come into force on May 18, 2004. See: 2004, c. 27, ss. 16, 17 (4)."
+    }
+   ]
+  },
+  {
+   "id": "99f04",
+   "title": "Fairness is a Two-Way Street Act (Construction Labour Mobility), 1999",
+   "short": "Fairness is a Two-Way Street Act (Construction Labour Mobility), 1999",
+   "state": "rrs",
+   "enacted_by": "",
+   "versions": [
+    {
+     "n": 1,
+     "from": "2003-01-01",
+     "to": "2004-06-16",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/99f04/v1",
+     "api": "en/doc-search/statute/99f04/v1",
+     "sha256": "9a35d0bd85fad0c9c217e6966b0eb2f14b278cf0657b55c2ce4e6661b036cafd"
+    },
+    {
+     "n": 2,
+     "from": "2004-06-17",
+     "to": "2005-10-31",
+     "state": "historical",
+     "laws": [],
+     "page": "https://www.ontario.ca/laws/statute/99f04/v2",
+     "api": "en/doc-search/statute/99f04/v2",
+     "sha256": "5885eb2e63fd01043866bfe55d747f2ac4a88bcae0898355d28c151651638d06"
+    },
+    {
+     "n": 3,
+     "from": "2005-11-01",
+     "to": "2005-12-31",
+     "state": "historical",
+     "laws": [
+      "S.O. 2004, c. 8"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/99f04/v3",
+     "api": "en/doc-search/statute/99f04/v3",
+     "sha256": "ac9d568a40572469c994284724cfef9504d4d18970bac245b587daa708d9715d"
+    },
+    {
+     "n": 4,
+     "from": "2006-01-01",
+     "to": "2006-06-29",
+     "state": "historical",
+     "laws": [
+      "S.O. 2002, c. 18"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/99f04/v4",
+     "api": "en/doc-search/statute/99f04/v4",
+     "sha256": "a2bce42624885bc360fde45e594ab65740ac9beb2a251c75eccab76027f8364b"
+    },
+    {
+     "n": 0,
+     "from": "2006-06-30",
+     "to": null,
+     "state": "rrs",
+     "laws": [
+      "S.O. 1999, c. 4"
+     ],
+     "page": "https://www.ontario.ca/laws/statute/99f04",
+     "api": "en/doc-search/statute/99f04",
+     "sha256": "03f7bafa3a349e37d98ead641bb0a2b348d113ea8e830e34a43b4e4697a70269",
+     "note": "Note: This Act was repealed on June 30, 2006. See: 1999, c. 4, s. 27."
+    }
+   ]
   }
  ],
  "laws": [
@@ -131434,6 +131588,13 @@
   },
   {
    "key": "S.O. 1999, c. 3",
+   "title": "",
+   "assented": "",
+   "url": "",
+   "kind": "Act of the Legislative Assembly of Ontario"
+  },
+  {
+   "key": "S.O. 1999, c. 4",
    "title": "",
    "assented": "",
    "url": "",
@@ -137572,6 +137733,13 @@
    "reason": "repealed before its first point-in-time version",
    "repealed_on": "2002-01-01",
    "note": "Note: This Act was repealed on January 1, 2002. See: 2001, c. 23, ss. 122, 123."
+  },
+  {
+   "id": "99s17",
+   "title": "Supply Act, 1999, S.O. 1999, c. 17",
+   "reason": "repealed before its first point-in-time version",
+   "repealed_on": "2001-06-29",
+   "note": "Note: This Act was repealed on June 29, 2001. See: 2001, c. 9, Sched. H, ss. 1, 2."
   }
  ],
  "updated": "2026-11-06"
