@@ -443,7 +443,8 @@ Made by `tools/append/ontario_append.py` (with the parser, evidence rules and me
 | 12 | 2026-11-06 | 59 | 227 | 261 | 0 | none |
 | 13 | 2026-11-06 | 34 | 192 | 206 | 0 | none |
 | 14 | 2026-11-06 | 31 | 197 | 223 | 0 | none |
+| 15 | 2026-11-06 | 41 | 263 | 271 | 0 | none |
 
-Version-list repairs in batch 14 (build.version_list's rules):
+Version-list repairs in batch 15 (build.version_list's rules):
 
-- 90o21 v11 (2018-01-01): v10 is listed for the same days (2018-01-01 to 2020-07-20); this one, the later number, is taken
+- 94t10 v15 (2015-08-31): text not served (404) for v12 from 2010-07-01, v13 from 2014-12-04, v14 from 2015-05-28; the version before stays in force until this one
