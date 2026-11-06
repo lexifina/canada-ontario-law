@@ -442,3 +442,8 @@ Made by `tools/append/ontario_append.py` (with the parser, evidence rules and me
 | 11 | 2026-11-06 | 79 | 367 | 370 | 0 | none |
 | 12 | 2026-11-06 | 59 | 227 | 261 | 0 | none |
 | 13 | 2026-11-06 | 34 | 192 | 206 | 0 | none |
+| 14 | 2026-11-06 | 31 | 197 | 223 | 0 | none |
+
+Version-list repairs in batch 14 (build.version_list's rules):
+
+- 90o21 v11 (2018-01-01): v10 is listed for the same days (2018-01-01 to 2020-07-20); this one, the later number, is taken
